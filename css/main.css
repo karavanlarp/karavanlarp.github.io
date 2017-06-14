@@ -6,6 +6,8 @@ body {
 }
 
 #header {
+	position: fixed;
+    top: 0;
 	background: #BDA790;
 	height: 60px;
 }
@@ -17,7 +19,7 @@ body {
 	color: #663300;
 }
 
-main {
+#main {
 	float: left;
 	width: 100%;
 }
@@ -27,11 +29,13 @@ main {
 	width: 230px;
 	margin-left: -100%;
 	background-color: #ffffe6;
+	font-size: 1.2em;
 	font-family: 'Shadows Into Light';
 }
 
 #footer {
-	clear: left;
+	position: fixed;
+    bottom: 0;
 	width: 100%;
 	background: #BDA790;
 	text-align: center;
@@ -44,6 +48,7 @@ main {
 
 #content {
 	margin-left: 230px; /* Same as 'nav' width */
+	background-color: #fffffa;
 }
 
 .innertube {
@@ -55,13 +60,18 @@ p {
 	color: #555;
 }
 	
-nav ul {
+#nav ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
 
-nav ul a {
-	color: darkgreen;
+#nav ul a {
+	color: #663300;
 	text-decoration: none;
+	padding: 5px;
+}
+
+a {
+	color:#663300;
 }

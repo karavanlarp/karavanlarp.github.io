@@ -17,21 +17,19 @@
 		</header>
 		
 		<div id="wrapper">
-		
-			<main>
+			<div id="nav">
+				<div class="innertube">
+					{% include nav.html %}
+				</div>
+			</div>
+			
+			<div id="main">
 				<div id="content">
 					<div class="innertube">
 						{{ content }}
 					</div>
 				</div>
-			</main>
-			
-			<nav id="nav">
-				<div class="innertube">
-					{% include nav.html %}
-				</div>
-			</nav>
-		
+			</div>
 		</div>
 		
 		<footer id="footer">
