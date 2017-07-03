@@ -22,12 +22,12 @@ The town of Türi nearby is easily reached from Tallinn by public transport (eit
 
 What we offer:
 
-	* A great adventure in the forest
-	* Many colorful characters to interact with
-	* Monsters to fight or run away from
-	* Treasures and interesting places to discover
+* A great adventure in the forest
+* Many colorful characters to interact with
+* Monsters to fight or run away from
+* Treasures and interesting places to discover
 
 What we do not offer:
 
-	* Complex world spanning intrigues
-	* A lot of fighting
+* Complex world spanning intrigues
+* A lot of fighting

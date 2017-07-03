@@ -1,18 +1,46 @@
 <!DOCTYPE html>
-<!-- Template by quackit.com -->
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>{{ page.title }}</title>
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
+		
+		<script>
+			function drop() {
+				document.getElementById("myDropdown").classList.toggle("show");
+			}
+
+			window.onclick = function(event) {
+			  if (!event.target.matches('.dropbtn')) {
+
+				var dropdowns = document.getElementsByClassName("dropdown-content");
+				var i;
+				for (i = 0; i < dropdowns.length; i++) {
+				  var openDropdown = dropdowns[i];
+				  if (openDropdown.classList.contains('show')) {
+					openDropdown.classList.remove('show');
+				  }
+				}
+			  }
+			}
+		</script>
 	</head>
 	
 	<body>		
 
 		<header id="header">
 			<div class="innertube">
-				<h1><a href="index.html">Karavan LARP</a></h1>
+				<h1><a href="/index.html">Karavan LARP</a></h1>
+				<div class="dropdown">
+					<button onclick="drop()" class="dropbtn">Practical</button>
+					<div id="myDropdown" class="dropdown-content">
+						<a href="practical.html">Practical</a>
+						<a href="world.html">World</a>
+						<a href="registration.html">Registration</a>
+						<a href="creds.html">Credits</a>
+					</div>
+				</div>
 			</div>
 		</header>
 		
@@ -22,12 +50,6 @@
 					<div class="innertube">
 						{{ content }}
 					</div>
-				</div>
-			</div>
-			
-			<div id="nav">
-				<div class="innertube">
-					{% include nav.html %}
 				</div>
 			</div>
 		</div>
