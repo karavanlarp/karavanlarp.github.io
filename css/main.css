@@ -18,12 +18,12 @@ body {
 	margin: 0;
 	padding-top: 15px;
 	display: inline-block;
-	font-family: 'Courgette', cursive;
+	font-family: 'Kurale', serif;
 	color: #663300;
 }
 
 h3 {
-	font-family: 'Courgette', cursive;
+	font-family: 'Kurale', serif;
 	color: #663300;
 }
 
@@ -32,15 +32,6 @@ h3 {
 	width: 100%;
 }
 
-#footer {
-	position: fixed;
-    bottom: 0;
-	width: 100%;
-	background: #BDA790;
-	text-align: center;
-	padding: 4px 0;
-}
-	
 #wrapper {
 	overflow: hidden;
 }
@@ -58,11 +49,11 @@ h3 {
 }
 
 .dropbtn {
-    font-family: 'Courgette', cursive;
+    font-family: 'Kurale', serif;
 	font-size: 1.2em;
 	background: #BDA790;
 	color: #663300;
-    padding: 16px;
+    padding: 12px;
     border: none;
     cursor: pointer;
 }
@@ -81,7 +72,7 @@ h3 {
 .dropdown-content {
     display: none;
     position: absolute;
-	font-family: 'Courgette', cursive;
+	font-family: 'Kurale', serif;
     background-color: #f9f9f9;
     min-width: 160px;
     overflow: auto;
@@ -108,4 +99,5 @@ p {
 a {
 	color:#663300;
 	text-decoration: none;
+	font-weight: bold;
 }

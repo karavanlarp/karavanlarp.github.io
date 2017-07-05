@@ -4,7 +4,7 @@ title: Karavan LARP
 ---
 ### Practical
 
-The first event of the Caravan larp series “The Beginning” will take place on June 10th near Türi, Estonia. The event will last all of Saturday, so you may arrive on Friday evening as well.
+The first event of the Caravan larp series “The Beginning” will take place on August 26th near Türi, Estonia. The event will last all of Saturday, so you may arrive on Friday evening as well.
 
 It is an adventure larp. Everyone is welcome, beginners as well. Those over 14 are welcome to attend with their parents’ permission. Younger players are welcome with an adult companion. The larp is meant for about 20-30 players.
 
