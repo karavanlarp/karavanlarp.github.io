@@ -2,7 +2,6 @@
 layout: default
 title: Leonte Impeerium
 ---
-
 ###Üldinfo: 
 
 Pealinn: Rhaentium
