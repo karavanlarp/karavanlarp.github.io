@@ -76,19 +76,19 @@ Impeerium on jaotatud kümneks piirkondliku pealinnaga maakonnaks. Impeeriumi pe
 
 **Maakonnad:**
 
-**Rhaente** (pealinn Rhaentium) - väike maakondadest eraldi seisev eriõigustega territoorium, mis hõlmab endas Algeri jõe suuet ja Rhaentiumi ennast. Rhaentium on tuntud kui kõige ilusam linn terves ilmas. Seal on esindatud impeeriumi mitmekesisus, seal asuvad gildide peakorterid ja riiklike asutuste kõrgeimad organid. Seal elavad ka alaliselt keiser ja tema kaaskond. 
-**Katam** (pealinn Ironet) - *Üks piirimaakondadest.* Elas aastaid tagasi üle katku, mis hävitas rohkem kui poole elanikkonnast, aga on nüüdseks sellest taastunud. Siiski on maakonnas veel alasid, kuhu edikti järgi on keelatud siseneda. 
-**Renek** (pealinn Theoleia) - *Üks piirimaakondadest.* Oli hiljuti mõnda aega vabamaalaste poolt okupeeritud, aga on nüüdseks vabastatud. Tuntud oma käsitöö poolest. 
-**Durras** (pealinn Marene) - *Üks piirimaakondadest.* Seal asub õhutheumiitide allikas Dethan. 
-**Qhorelth** (pealinn Numaia) - Suure maastikuvariatsiooniga maakond, seal kasvatatakse ohtralt tubakat. 
-**Talmekar** (pealinn Raskami) - Ajalooliselt kõige apeironimaadlaterikkam maakond. Ent viimaste sajandite jooksul on Talmekari kaevanduste saak kokku kuivanud ja maakond on pidanud keskenduma muudele tuluallikatele. 
-**Estendar** (pealinn Urut) - Estendaris asub Athise metsandik, kust pärineb Impeeriumi kõige vastupidavam ja hinnalisem puit. 
-**Vaserra** (pealinn Shoran) - Maakond, kus kasvatakse enamik Impeeriumi värvililledest. 
-**Perein** (pealinn Azat) - Toodab pea kolmandiku kogu Impeeriumi viljast. 
-**Kalath** (pealinn Lomor) - Kalathi marmor on tuntud kui kõige eksklusiivsem ja kallim ehitusmaterjal. Sellest on ehitatud keisripalee ja enamus suurtemplitest.
-**Melmir** (pealinn Aethil) - Tuntud kaunite loodusvaadete poolest; kõige külastatum maakond ja selle tõttu üsnagi rikas. Matk mööda Isera jõge on kuulduste järgi üks kaunimaid kogemusi terves Impeeriumis. 
+* **Rhaente** (pealinn Rhaentium) - väike maakondadest eraldi seisev eriõigustega territoorium, mis hõlmab endas Algeri jõe suuet ja Rhaentiumi ennast. Rhaentium on tuntud kui kõige ilusam linn terves ilmas. Seal on esindatud impeeriumi mitmekesisus, seal asuvad gildide peakorterid ja riiklike asutuste kõrgeimad organid. Seal elavad ka alaliselt keiser ja tema kaaskond. 
+* **Katam** (pealinn Ironet) - *Üks piirimaakondadest.* Elas aastaid tagasi üle katku, mis hävitas rohkem kui poole elanikkonnast, aga on nüüdseks sellest taastunud. Siiski on maakonnas veel alasid, kuhu edikti järgi on keelatud siseneda. 
+* **Renek** (pealinn Theoleia) - *Üks piirimaakondadest.* Oli hiljuti mõnda aega vabamaalaste poolt okupeeritud, aga on nüüdseks vabastatud. Tuntud oma käsitöö poolest. 
+* **Durras** (pealinn Marene) - *Üks piirimaakondadest.* Seal asub õhutheumiitide allikas Dethan. 
+* **Qhorelth** (pealinn Numaia) - Suure maastikuvariatsiooniga maakond, seal kasvatatakse ohtralt tubakat. 
+* **Talmekar** (pealinn Raskami) - Ajalooliselt kõige apeironimaadlaterikkam maakond. Ent viimaste sajandite jooksul on Talmekari kaevanduste saak kokku kuivanud ja maakond on pidanud keskenduma muudele tuluallikatele. 
+* **Estendar** (pealinn Urut) - Estendaris asub Athise metsandik, kust pärineb Impeeriumi kõige vastupidavam ja hinnalisem puit. 
+* **Vaserra** (pealinn Shoran) - Maakond, kus kasvatakse enamik Impeeriumi värvililledest. 
+* **Perein** (pealinn Azat) - Toodab pea kolmandiku kogu Impeeriumi viljast. 
+* **Kalath** (pealinn Lomor) - Kalathi marmor on tuntud kui kõige eksklusiivsem ja kallim ehitusmaterjal. Sellest on ehitatud keisripalee ja enamus suurtemplitest.
+* **Melmir** (pealinn Aethil) - Tuntud kaunite loodusvaadete poolest; kõige külastatum maakond ja selle tõttu üsnagi rikas. Matk mööda Isera jõge on kuulduste järgi üks kaunimaid kogemusi terves Impeeriumis. 
 
-Muud punktid: 
+Muud punktid:
 
 * Alger - Impeeriumi pikim jõgi, selle sisemere poolses otsas asub Rhaentium.
 * Allikad - Asuvad üle kogu Impeeriumi. Tuli - Razen, Warul - vesi, Õhk - Dethan, Maa - Karis, Valgus - Saqad, Vari - Amite 
@@ -113,6 +113,9 @@ Athise metsandik - Estendaris asuv üks Impeeriumi suurimaid metsandikke.
 * Troisini vulkaan - Talmekaris asuv vulkaan, mille sügavikus asub tuletheumiitide allikas Ureth. Tuntud ka kui vaatamisväärsus hulljulgetele, sest vulkaan ei ole täielikult uinunud. 
 * Waruli järv - Leonte suurim järv, mille põhjas asub veetheumiitide allikas Warul. 
 * Zeane - Elishi jõe lisajõgi. 
+
+![Leonte looduskaart](https://karavanlarp.github.io/img/map/Leonte_nature.jpg)
+
 
 ### Keeled: 
 
@@ -553,7 +556,7 @@ Kuigi serviilid on loodud alentide hingedest, muudab loomisprotsess neid sedavõ
 
 Vanaverelise sündimist peetakse üldiselt heaks endeks, eriti kui sünd toimub peres, kus kumbki vanematest pole ise vanavereline. Seda juhtub siiski harva. Vanavereline alenti võib kogeda liigset hellitamist ja positiivset tähelepanu, kuna ka vanaverelise tundmist peetakse nii öelda õnneasjaks. Selle tõttu kogevad mitmed vanaverelised, et neid eelistatakse suunata pigem õppima ametit, mis on ohutum. Sellele vaatamata leidub sõjaväes teenivaid vanaverelisi. 
 
-**Seadused ja karistused **
+**Seadused ja karistused**
 
 Seaduse ees on kõik võrdsed, hoolimata ametist, rikkusest või sidemetest. Seadustik loodi Impeeriumi algusaegadel ja see on seisnud enamvähem samana kuni rahu sõlmimiseni. Seadusi määravad vastavad eksamid läbinud kohtunikud, kes on saanud kõrgeimalt kohuselt tegutsemisloa. 
 
