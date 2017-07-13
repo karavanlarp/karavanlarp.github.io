@@ -4,10 +4,10 @@ title: Leonte Impeerium
 ---
 ### Üldinfo: 
 
-Pealinn: Rhaentium
-Pindala: u 2 925 200 ruutkilomeetrit 
-Rahvaarv: 21 566 000 miljonit
-Rhaentiumi rahvaarv: 1 092 000 miljonit
+* Pealinn: Rhaentium
+* Pindala: u 2 925 200 ruutkilomeetrit 
+* Rahvaarv: 21 566 000 miljonit
+* Rhaentiumi rahvaarv: 1 092 000 miljonit
 
 ### Ajalugu
 
