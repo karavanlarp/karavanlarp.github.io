@@ -22,7 +22,7 @@ body {
 	color: #663300;
 }
 
-#header h1 {
+#header h1 a {
 	font-weight: normal;
 }
 
