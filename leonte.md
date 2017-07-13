@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Leonte Impeerium
 ---
@@ -17,58 +17,58 @@ Theumal alentide ja theumiitide vahel peetud sõja kohta on rohkem ülestähendu
 
 Sündmusi: 
 
-1 - Andrelos I, Rhaentiumis kroonitakse Leonte esimene keiser.
-27 - Keisri juurde saabuvad esimesed theumiitidest nõuandjad.
-192 - Asutatakse Rhaentiumi Ülikool.
-376 - Impeeriumi ja Vabade Maade läbirääkimised piiride teemal nurjuvad, algab sõda.
-434 - Paljastakse vandenõu keisri vastu, hukatakse kaksteist senati liiget ja kaks ülemkohtunikku. 
-512 - Asutatakse Rhaentiumi Maagide Akadeemia. 
-709 - Luuakse esimene serviil. 
-1011 - Tekivad kuuldused loomadeks muutuvatest alentidest. Uurimisel selgub, et Vabade Maade jumal Nal-Mat on valla päästnud needuse. Algab jaht nende olendite väljajuurimiseks. 
-1056 - Keiser Lahin III ediktiga lõpetatakse jaht vulveritele. Senat töötab välja vulverite õigusi ja kohustusi hõlmavad seadused. 
-1116 - Trükipresse hakatakse massiliselt tootma, kiirelt kasvab trükitavate raamatute arv, algab kirjastusrevolutsioon, asutatakse esimene ajaleht. 
-1298 - Impeeriumi väed vallutavad Kangemaa. 
-1315 - Vabade Maade väed vallutavad Kangemaa tagasi ja hukkavad kuninga käsul kõik vangi langenud vastased.
-1392 - Levivad kuuldused esimetest surnuna kõndivatest alentidest. 
-1397 - Surnuna kõndivad nimetatakse moroiadeks, neile laiendatakse vulvereid käsitlevad seadused. 
-1401 - Luuakse Darithi Leegion. 
-1433 - Katamis puhkeb katk, enamik elanikkonnast hukkub. Maakond suletakse katku leviku peatumiseni.
-1598 - Vabamaalased seilavad ühendatud laevastikuga Rhaentiumi alla, end suur torm sunnib selle taganema.
-1617 - Vabamaalased ründavad Udukuru kindlust, seal asuv Adura Leegion peab vastu kolm kuud kindlust käest laskmata. 
-1629 - Nähakse esimesi verd imevaid olendeid. Nad nimetatakse lagaarideks, nende loomine keelustatakase ning nad kohustatakse ennast riiklikult registreerima. 
-1790 - Moroiaks muutunud maag Lechia Miseret kogub endale sõduritest järgijad ja alustab sõjakäiku Kaljumaa pealinna vastu. Impeeriumi väed peatavad ta enne kohale jõudmist. Erandlikult hukatakse kõik mässus osalenud sõdurid. 
-1931 - Durrase lõunaosas plahvatab tõenäoliselt apeironi rafineerimistehas. Kahtlustatakse Vabade Maade poolset sabotaaži. Hukkunute arv on teadmata. Ala on siiamaani suletud. 
-2076 - Pärast mitmeid võite Vabade Maade vastu Kaljumaa põhjaosas kaob terve Fareisi Leegion jäljetult. Leegioni pole siiamaani leitud.
-2143 - Äärmiselt viljakas aasta, saaki on nii palju, et osa sellest läheb raisku. 
-2495 - Talmekari apeironikaevandused on peaaegu tühjad, kehtestatakse tariifid ja piirangud apeironi kasutamisele. 
-2599 - Keiser Andrelos IX nurjab tema vastu kavandatud atentaadi ja laseb asjaosalised hukata. 
-2614 - Üle kogu Impeeriumi mässavad kuudepikkused seletamatud tormid. Tuhanded kodanikud jäävad koduta, sajad hukkuvad. 
-2785 - Paljastatakse theumiitide vandenõu keisri vastu. Väljaspool allikaid elavad theumiidid kogevad ebameeldivat tähelepanu, kuni selgub, et ründaja tegutses üksi. 
-2839 - Pärast paariaastast vaikust ägenevad vabamaalaste rünnakud, neil õnnestub vallutada peaaegu pool Renekist. 
-2841 - Impeeriumi väed vabasyavad Reneki okupeeritud osa, operatsiooni juhtinud Valara Leegioni komandör Peleias Lardon edutatakse strategoseks. 
+* 1 - Andrelos I, Rhaentiumis kroonitakse Leonte esimene keiser.
+* 27 - Keisri juurde saabuvad esimesed theumiitidest nõuandjad.
+* 192 - Asutatakse Rhaentiumi Ülikool.
+* 376 - Impeeriumi ja Vabade Maade läbirääkimised piiride teemal nurjuvad, algab sõda.
+* 434 - Paljastakse vandenõu keisri vastu, hukatakse kaksteist senati liiget ja kaks ülemkohtunikku. 
+* 512 - Asutatakse Rhaentiumi Maagide Akadeemia. 
+* 709 - Luuakse esimene serviil. 
+* 1011 - Tekivad kuuldused loomadeks muutuvatest alentidest. Uurimisel selgub, et Vabade Maade jumal Nal-Mat on valla päästnud needuse. Algab jaht nende olendite väljajuurimiseks. 
+* 1056 - Keiser Lahin III ediktiga lõpetatakse jaht vulveritele. Senat töötab välja vulverite õigusi ja kohustusi hõlmavad seadused. 
+* 1116 - Trükipresse hakatakse massiliselt tootma, kiirelt kasvab trükitavate raamatute arv, algab kirjastusrevolutsioon, asutatakse esimene ajaleht. 
+* 1298 - Impeeriumi väed vallutavad Kangemaa. 
+* 1315 - Vabade Maade väed vallutavad Kangemaa tagasi ja hukkavad kuninga käsul kõik vangi langenud vastased.
+* 1392 - Levivad kuuldused esimetest surnuna kõndivatest alentidest. 
+* 1397 - Surnuna kõndivad nimetatakse moroiadeks, neile laiendatakse vulvereid käsitlevad seadused. 
+* 1401 - Luuakse Darithi Leegion. 
+* 1433 - Katamis puhkeb katk, enamik elanikkonnast hukkub. Maakond suletakse katku leviku peatumiseni.
+* 1598 - Vabamaalased seilavad ühendatud laevastikuga Rhaentiumi alla, end suur torm sunnib selle taganema.
+* 1617 - Vabamaalased ründavad Udukuru kindlust, seal asuv Adura Leegion peab vastu kolm kuud kindlust käest laskmata. 
+* 1629 - Nähakse esimesi verd imevaid olendeid. Nad nimetatakse lagaarideks, nende loomine keelustatakase ning nad kohustatakse ennast riiklikult registreerima. 
+* 1790 - Moroiaks muutunud maag Lechia Miseret kogub endale sõduritest järgijad ja alustab sõjakäiku Kaljumaa pealinna vastu. Impeeriumi väed peatavad ta enne kohale jõudmist. Erandlikult hukatakse kõik mässus osalenud sõdurid. 
+* 1931 - Durrase lõunaosas plahvatab tõenäoliselt apeironi rafineerimistehas. Kahtlustatakse Vabade Maade poolset sabotaaži. Hukkunute arv on teadmata. Ala on siiamaani suletud. 
+* 2076 - Pärast mitmeid võite Vabade Maade vastu Kaljumaa põhjaosas kaob terve Fareisi Leegion jäljetult. Leegioni pole siiamaani leitud.
+* 2143 - Äärmiselt viljakas aasta, saaki on nii palju, et osa sellest läheb raisku. 
+* 2495 - Talmekari apeironikaevandused on peaaegu tühjad, kehtestatakse tariifid ja piirangud apeironi kasutamisele. 
+* 2599 - Keiser Andrelos IX nurjab tema vastu kavandatud atentaadi ja laseb asjaosalised hukata. 
+* 2614 - Üle kogu Impeeriumi mässavad kuudepikkused seletamatud tormid. Tuhanded kodanikud jäävad koduta, sajad hukkuvad. 
+* 2785 - Paljastatakse theumiitide vandenõu keisri vastu. Väljaspool allikaid elavad theumiidid kogevad ebameeldivat tähelepanu, kuni selgub, et ründaja tegutses üksi. 
+* 2839 - Pärast paariaastast vaikust ägenevad vabamaalaste rünnakud, neil õnnestub vallutada peaaegu pool Renekist. 
+* 2841 - Impeeriumi väed vabasyavad Reneki okupeeritud osa, operatsiooni juhtinud Valara Leegioni komandör Peleias Lardon edutatakse strategoseks. 
 
 Lähiminevik: 
 
-2845 - Sõlmitakse rahuleping, Impeeriumi ja Vabade Maade sõja ametlik lõpp. Läbirääkimiste alusel luuakse piiritsoon ja sellele kehtivad seaduslikud erandid, muuhulgas ka maksusoodustused.
-2846 - Piiritsooni hakkavad asustama mõlema poole elanikud, tekib mitmeid uusi asulaid. Hakkavad liikuma esimesed karavanid. 
-2847 - Sinodi ja Nemeria preestrite läbirääkimised usulistes küsimustes jõuavad ediktini, mille alusel on lubatud mõlemas riigis kõikide jumalate teenimine. 
-2848 - Teliti linnas toimub suurem kokkupõrge leontiidide ja vabamaalaste vahel. Olukorra rahustamiseks sisenevad linna piirivalvurid. Järgneb paar kuud pingeid, kokkupõrkes osalenuid trahvitakse. 
-2849 - Keiser loob paleevalvurite sekka uue, ainult vabamaalastest koosneva üksuse.
-2850 - Rhaentiumi ülikooli arheoloogid leiavad piiritsoonis kaeveid tehes erinevaid theumiitide artefakte. Toimuvad diplomaatilised vaidlused nende kuuluvuse üle. 
-2851 - Praegune aasta. 
+* 2845 - Sõlmitakse rahuleping, Impeeriumi ja Vabade Maade sõja ametlik lõpp. Läbirääkimiste alusel luuakse piiritsoon ja sellele kehtivad seaduslikud erandid, muuhulgas ka maksusoodustused.
+* 2846 - Piiritsooni hakkavad asustama mõlema poole elanikud, tekib mitmeid uusi asulaid. Hakkavad liikuma esimesed karavanid. 
+* 2847 - Sinodi ja Nemeria preestrite läbirääkimised usulistes küsimustes jõuavad ediktini, mille alusel on lubatud mõlemas riigis kõikide jumalate teenimine. 
+* 2848 - Teliti linnas toimub suurem kokkupõrge leontiidide ja vabamaalaste vahel. Olukorra rahustamiseks sisenevad linna piirivalvurid. Järgneb paar kuud pingeid, kokkupõrkes osalenuid trahvitakse. 
+* 2849 - Keiser loob paleevalvurite sekka uue, ainult vabamaalastest koosneva üksuse.
+* 2850 - Rhaentiumi ülikooli arheoloogid leiavad piiritsoonis kaeveid tehes erinevaid theumiitide artefakte. Toimuvad diplomaatilised vaidlused nende kuuluvuse üle. 
+* 2851 - Praegune aasta. 
 
 Viimased keisrid: 
 
-2549 - 2585: Zalagos VII, suur reformaator, muuhulgas ühtlustas mõõdu-ja kaalustandardeid kaubavahetuste lihtsustamiseks Impeeriumi maakondade vahel. Suri vanadusse. 
-2585 - 2614: Andrelos IX, piiras oluliselt apeironi kasutamist 
-2614 - 2647: Matrin III, püüdis tulutult Vabade Maadega rahu sõlmida.
-2647 - 2691: Jarail I, märgiliselt ei sündinud Valituna, aga läbis siiski katsed mõned aastad pärast Valituks saamist. 
-2691 - 2723: Lahin V, suri kahtlastel asjaoludel. 
-2723 - 2761: Katrel II, suur kunstide patroon. 
-2761 - 2794: Xerean IV, sügavalt usklik. Kirjutas luuletusi. 
-2794 - 2822: Zalagos VIII, väga aldis sõda pidama. 
-2822 - 2839: Iraam I, oli oma valitsusajal pidevas konfliktis senatiga. Suri kahtlastel asjaoludel. 
-2839 - praeguseni: Relagin II, suurimaks saavutuseks peetakse vaherahu sõlmimist.
+* 2549 - 2585: Zalagos VII, suur reformaator, muuhulgas ühtlustas mõõdu-ja kaalustandardeid kaubavahetuste lihtsustamiseks Impeeriumi maakondade vahel. Suri vanadusse. 
+* 2585 - 2614: Andrelos IX, piiras oluliselt apeironi kasutamist 
+* 2614 - 2647: Matrin III, püüdis tulutult Vabade Maadega rahu sõlmida.
+* 2647 - 2691: Jarail I, märgiliselt ei sündinud Valituna, aga läbis siiski katsed mõned aastad pärast Valituks saamist. 
+* 2691 - 2723: Lahin V, suri kahtlastel asjaoludel. 
+* 2723 - 2761: Katrel II, suur kunstide patroon. 
+* 2761 - 2794: Xerean IV, sügavalt usklik. Kirjutas luuletusi. 
+* 2794 - 2822: Zalagos VIII, väga aldis sõda pidama. 
+* 2822 - 2839: Iraam I, oli oma valitsusajal pidevas konfliktis senatiga. Suri kahtlastel asjaoludel. 
+* 2839 - praeguseni: Relagin II, suurimaks saavutuseks peetakse vaherahu sõlmimist.
 
 ### Geograafia: 
 
@@ -77,9 +77,9 @@ Impeerium on jaotatud kümneks piirkondliku pealinnaga maakonnaks. Impeeriumi pe
 **Maakonnad:**
 
 **Rhaente** (pealinn Rhaentium) - väike maakondadest eraldi seisev eriõigustega territoorium, mis hõlmab endas Algeri jõe suuet ja Rhaentiumi ennast. Rhaentium on tuntud kui kõige ilusam linn terves ilmas. Seal on esindatud impeeriumi mitmekesisus, seal asuvad gildide peakorterid ja riiklike asutuste kõrgeimad organid. Seal elavad ka alaliselt keiser ja tema kaaskond. 
-**Katam** (pealinn Ironet) - Üks piirimaakondadest. Elas aastaid tagasi üle katku, mis hävitas rohkem kui poole elanikkonnast, aga on nüüdseks sellest taastunud. Siiski on maakonnas veel alasid, kuhu edikti järgi on keelatud siseneda. 
-**Renek** (pealinn Theoleia) - Üks piirimaakondadest. Oli hiljuti mõnda aega vabamaalaste poolt okupeeritud, aga on nüüdseks vabastatud. Tuntud oma käsitöö poolest. 
-**Durras** (pealinn Marene) - Üks piirimaakondadest. Seal asub õhutheumiitide allikas Dethan. 
+**Katam** (pealinn Ironet) - *Üks piirimaakondadest.* Elas aastaid tagasi üle katku, mis hävitas rohkem kui poole elanikkonnast, aga on nüüdseks sellest taastunud. Siiski on maakonnas veel alasid, kuhu edikti järgi on keelatud siseneda. 
+**Renek** (pealinn Theoleia) - *Üks piirimaakondadest.* Oli hiljuti mõnda aega vabamaalaste poolt okupeeritud, aga on nüüdseks vabastatud. Tuntud oma käsitöö poolest. 
+**Durras** (pealinn Marene) - *Üks piirimaakondadest.* Seal asub õhutheumiitide allikas Dethan. 
 **Qhorelth** (pealinn Numaia) - Suure maastikuvariatsiooniga maakond, seal kasvatatakse ohtralt tubakat. 
 **Talmekar** (pealinn Raskami) - Ajalooliselt kõige apeironimaadlaterikkam maakond. Ent viimaste sajandite jooksul on Talmekari kaevanduste saak kokku kuivanud ja maakond on pidanud keskenduma muudele tuluallikatele. 
 **Estendar** (pealinn Urut) - Estendaris asub Athise metsandik, kust pärineb Impeeriumi kõige vastupidavam ja hinnalisem puit. 
@@ -90,29 +90,29 @@ Impeerium on jaotatud kümneks piirkondliku pealinnaga maakonnaks. Impeeriumi pe
 
 Muud punktid: 
 
-Alger - Impeeriumi pikim jõgi, selle sisemere poolses otsas asub Rhaentium.
-Allikad - Asuvad üle kogu Impeeriumi. Tuli - Razen, Warul - vesi, Õhk - Dethan, Maa - Karis, Valgus - Saqad, Vari - Amite 
+* Alger - Impeeriumi pikim jõgi, selle sisemere poolses otsas asub Rhaentium.
+* Allikad - Asuvad üle kogu Impeeriumi. Tuli - Razen, Warul - vesi, Õhk - Dethan, Maa - Karis, Valgus - Saqad, Vari - Amite 
 Athise metsandik - Estendaris asuv üks Impeeriumi suurimaid metsandikke. 
-Aren - Maapiiri lõunapunkti tekkinud küla, kus toimub elav kaubavahetus. Sealt lahkuvad ja saabuvad nii karavanid kui ka laevad. 
-Aora - Elishi jõe lisajõgi. 
-Berasi kuru - Kethari mäestiku keskel asuv kuru, mis on ainuke läbipääsukoht Talmekari poolsaarele. 
-Elish - Impeeriumi veerikkaim jõgi. 
-Iante saar - Mägine saar Talmekari poolsaare lähedal. Seal asub nimetu kindlus, mis on aegade jooksul mitmete kuulujuttude ja legendide inspiratsiooniks olnud.
-Isera - Enamvähem mööda Melmiri ja Pereini piiri jooksev jõgi. 
-Juezi metsandik - Üle terve Durrase laiuv metsandik.
-Jumalamägi - Mandri kõige kõrgem mägi, mille tipus elavad Impeeriumi jumalad. Ükski selle tippu jõuda proovinud alentides pole naasenud. Mõõtmiste järgi on mägi vähemalt 6000 meetri kõrgune, kuid tõenäoliselt on see veel kõrgemgi.
-Kauza saarestik - Estendarist läänes asuv saarestik, kus on kõige sagedamini näha meremadusid. Kohalikud tegelevadki peamiselt nende ja muude mereolendite püüdmisega. Meremadude liha on mandrirahva jaoks eksootiline toit, lisaks on meremadude luudest ning nahast valmistatud käsitööesemed kõrgelt hinnas. 
-Kethari mäestik - Talmekari kaheks jaotav kõrge mäestik. Mäestikku lõhestab läbikäidav Berasi kuru. 
-Lotuni mäestik - Katami rannikul asuv mäestik. Kuskil selle keskel asub maatheumiitide allikas Karis. 
-Nemeria - Impeeriumi ametlik termin Vabade Maade kohta. Vabade Maade rahvaid nimetatakse nemeerideks. Tähendab “mässulised”. Viimasel ajal püütakse seda terminit vältida, sest see pole enam poliitiliselt korrektne. 
-Nohan - Talmekari pealinna Raskamit läbiv lai jõgi. 
-Orili metsandik - Kunagi kaunis ja igihaljas, kuid pärast Katamit tabanud katku pole metsandik enam see, mis enne.
-Piir - Tsoon, mis ulatub mõnedkümned kilomeetrid ametlikest piirimärkidest impeeriumi sisemaa poole. Sarnaselt Rhaentele mõningate seadusandluslike eranditega piirkond. 
-Selagi meri - Theuma keskel asuv sisemeri. 
-Telit - Maapiiri põhjapunkti tekkinud küla, kus sarnaselt Arenile toimub kaubavahetus. 
-Troisini vulkaan - Talmekaris asuv vulkaan, mille sügavikus asub tuletheumiitide allikas Ureth. Tuntud ka kui vaatamisväärsus hulljulgetele, sest vulkaan ei ole täielikult uinunud. 
-Waruli järv - Leonte suurim järv, mille põhjas asub veetheumiitide allikas Warul. 
-Zeane - Elishi jõe lisajõgi. 
+* Aren - Maapiiri lõunapunkti tekkinud küla, kus toimub elav kaubavahetus. Sealt lahkuvad ja saabuvad nii karavanid kui ka laevad. 
+* Aora - Elishi jõe lisajõgi. 
+* Berasi kuru - Kethari mäestiku keskel asuv kuru, mis on ainuke läbipääsukoht Talmekari poolsaarele. 
+* Elish - Impeeriumi veerikkaim jõgi. 
+* Iante saar - Mägine saar Talmekari poolsaare lähedal. Seal asub nimetu kindlus, mis on aegade jooksul mitmete kuulujuttude ja legendide inspiratsiooniks olnud.
+* Isera - Enamvähem mööda Melmiri ja Pereini piiri jooksev jõgi. 
+* Juezi metsandik - Üle terve Durrase laiuv metsandik.
+* Jumalamägi - Mandri kõige kõrgem mägi, mille tipus elavad Impeeriumi jumalad. Ükski selle tippu jõuda proovinud alentides pole naasenud. Mõõtmiste järgi on mägi vähemalt 6000 meetri kõrgune, kuid tõenäoliselt on see veel kõrgemgi.
+* Kauza saarestik - Estendarist läänes asuv saarestik, kus on kõige sagedamini näha meremadusid. Kohalikud tegelevadki peamiselt nende ja muude mereolendite püüdmisega. Meremadude liha on mandrirahva jaoks eksootiline toit, lisaks on meremadude luudest ning nahast valmistatud käsitööesemed kõrgelt hinnas. 
+* Kethari mäestik - Talmekari kaheks jaotav kõrge mäestik. Mäestikku lõhestab läbikäidav Berasi kuru. 
+* Lotuni mäestik - Katami rannikul asuv mäestik. Kuskil selle keskel asub maatheumiitide allikas Karis. 
+* Nemeria - Impeeriumi ametlik termin Vabade Maade kohta. Vabade Maade rahvaid nimetatakse nemeerideks. Tähendab “mässulised”. Viimasel ajal püütakse seda terminit vältida, sest see pole enam poliitiliselt korrektne. 
+* Nohan - Talmekari pealinna Raskamit läbiv lai jõgi. 
+* Orili metsandik - Kunagi kaunis ja igihaljas, kuid pärast Katamit tabanud katku pole metsandik enam see, mis enne.
+* Piir - Tsoon, mis ulatub mõnedkümned kilomeetrid ametlikest piirimärkidest impeeriumi sisemaa poole. Sarnaselt Rhaentele mõningate seadusandluslike eranditega piirkond. 
+* Selagi meri - Theuma keskel asuv sisemeri. 
+* Telit - Maapiiri põhjapunkti tekkinud küla, kus sarnaselt Arenile toimub kaubavahetus. 
+* Troisini vulkaan - Talmekaris asuv vulkaan, mille sügavikus asub tuletheumiitide allikas Ureth. Tuntud ka kui vaatamisväärsus hulljulgetele, sest vulkaan ei ole täielikult uinunud. 
+* Waruli järv - Leonte suurim järv, mille põhjas asub veetheumiitide allikas Warul. 
+* Zeane - Elishi jõe lisajõgi. 
 
 ### Keeled: 
 
@@ -142,15 +142,15 @@ Enamasti on mõlemad vanemad vähemalt nädala lapsega kodus; selle perioodi vä
 
 Väikeste alentide lapsepõlv möödub üldiselt erinevates asutustes, kus nende eest hoolitsetakse ja neid õpetatakse. Impeeriumil on arenenud lastehooldus- ja koolitusüsteem, kust alentid väljuvad üldiselt 16-aastastena. Igale alentile õpetatakse lugemist, kirjutamist, matemaatikat, ajalugu, seadusi, maateadust ja mitmeid muid asju. 
 
-**Täiskasvanuks saamine **
+**Täiskasvanuks saamine**
 
 Täiskasvanuks saavad alentid 16-aastaselt. Selleks ajaks on nad lõpetanud kooli ja eeldatakse, et nad on valinud omale ameti. Seda päeva pühitsetakse pere ja sugulaste keskis ning noorele täiskasvanule tuuakse praktilisi kinkisid. 
 
-**Sõprus ja romantiline armastus **
+**Sõprus ja romantiline armastus**
 
 Alentide jaoks pole romantiline armastus üldiselt sõprusest olulisem. Neid eristab see, et enamasti soovitakse armastatuga abielluda ja lapsi saada, aga sõbraga mitte. Esineb aga ka omajagu neid, kes kunagi paarilist ei otsi ega abiellu. See on ühiskondlikult aktsepteeritav. 
 
-**Abielu ja perekond **
+**Abielu ja perekond**
 
 Abielluda võivad kõik täiskasvanud alentid. Üldiselt leitakse tulevane paariline ise, aga on ka juhuseid, kus pere leiab sobiva isiku. Armastus pole alati abiellumise eelduseks, esineb omajagu ka suhteid, kus kaks isikut soovivad luua kodu ja pere teistsugustel põhjustel. 
 
@@ -174,19 +174,19 @@ Impeeriumis tähistatakse aasta lõppu ja algust, valitseva keisri sünnipäeva,
 
 Tähistatakse ka pereliikmete sünnipäevi, tavaks on õnnitleda ja soovida head järgnevaks aastaks. 
 
-**Tervitamine ja tutvumine **
+**Tervitamine ja tutvumine**
 
 Tervitatakse ruumi sisenemisel või kuhugi saabumisel. Esimesena tervitatakse võõrustajat või esimest vastutulijat. Viisakas on tervitusele vastata. Valituid tervitatakse esimesena, ent Valitu võib otsustada, kas ta sellele vastab. 
 
 Tutvumisel esitletakse ennast nimepidi ja surutakse kätt (välja arvatud Valituga). Tavaks on ka öelda, et miks ollakse vastaval kohtumisel või teatud paigas. Pakutud käe mitte vastu võtmine või esitluse eiramine on üsna tugev solvang. 
 
-**Füüsiline kontakt **
+**Füüsiline kontakt**
 
 Füüsilist lähedust esineb tavaliselt vaid pereringis või sõprade vahel. Teise isiku, eriti võõra tema loata puutumine on ebaviisakas. Äärmiselt lubamatu on Valitu puudutamine, kui tema pole esimesena kätt ulatanud. Loata teise puudutamise reeglit võib eirata ohuolukordades või kui on vaja kellelegi abi anda. 
 
 Romantilisest kontaktist on avalikult lubatud üldiselt vaid käte hoidmine. Rohkemat peetakse ebakõlbeliseks. 
 
-**Relvadest **
+**Relvadest**
 
 Kuna Impeeriumis siseelu on üpriski rahulik, pole relvad tavalised. Tavakodanikud üldiselt relva ei kanna. Relva kannavad valvurid, politseinikud ja hetkel ametis olevad sõjaväelased. Relva toomist külla või avalikku asutusse peetakse solvavaks, kuna see näitab, et ei usaldata külastatava koha turvalisust. Erand kehtib piirialadel, kus relva vööl kandmine on lubatud.
 
@@ -214,35 +214,35 @@ Impeeriumi majandust reguleerib tõhusalt suur ametkond, kes saab oma käsud Rha
 
 Kui alentid Alentumilt lahkusid, võtsid nad endaga kaasa tomatid, kartulid, kakao, tubaka, kohvi ja värvililled. Neid kõiki kasvatatakse istandustes ja neid tarbitakse ohtralt. Pärast rahulepingu sõlmimist on neist saanud suured ekspordiartiklid Vabadele Maadele. Samuti aretati jumalate õnnistusest saadud viljasorte. 
 
-**Raha ja hinnad: **
+**Raha ja hinnad:**
 
 Impeeriumis kasutatakse paberraha. Valuutaks on Impeeriumi staurus. Seda on käibel 1, 5, 10, 25, 100, 500 vääringus. 
 
 Hinnad kõrtsides
-Klaas odavat veini    2 St
-Klaas head veini    6-15 St
-Pits viina        3 St
-Klaas õlut/mõdu    2 St
-Päts leiba        1 St
-Lihtne eine        2 St
-Korralik eine        4 St
-Luksuslik eine        8 St
-1 öö kõrtsis        3 St
-1 öö heas toas    5 St
+* Klaas odavat veini    2 St
+* Klaas head veini    6-15 St
+* Pits viina        3 St
+* Klaas õlut/mõdu    2 St
+* Päts leiba        1 St
+* Lihtne eine        2 St
+* Korralik eine        4 St
+* Luksuslik eine        8 St
+* 1 öö kõrtsis        3 St
+* 1 öö heas toas    5 St
 
 Varustus
-1 päeva toidumoon        2-3 St
-Odav relv (nt nuga)        5-10 St
-Tavaline relv            25 St – 50 St
-Kvaliteetne relv        250-500 St
-Meistri tehtud relv        1000-3000 St
+* 1 päeva toidumoon        2-3 St
+* Odav relv (nt nuga)        5-10 St
+* Tavaline relv            25 St – 50 St
+* Kvaliteetne relv        250-500 St
+* Meistri tehtud relv        1000-3000 St
 
 Teenused ja palgad
-Tavainimese kuupalk        50 St
-Jõuka alenti kuu sissetulek    250-500 St
-Valitu kuu sissetulek           500-1500 St
-Palgasõduri päevatöö        ~ 10 St
-Leonte sõduri kuupalk        100 St
+* Tavainimese kuupalk        50 St
+* Jõuka alenti kuu sissetulek    250-500 St
+* Valitu kuu sissetulek           500-1500 St
+* Palgasõduri päevatöö        ~ 10 St
+* Leonte sõduri kuupalk        100 St
 
 ### Poliitika:
 
@@ -262,7 +262,7 @@ Praegune keiser on Relagin II Leonteides. Rahvasuus nimetatakse teda “Rahu Too
 
 **Senat**
 
-Keisrist järgmine võimuinstants on senat. Sinna kuulub 88 Valitut, kaheksa iga maakonna koht, ja seda juhib keisri poolt ametisse nimetatud spiiker, kes vannutatakse ametisse uue keisri troonile tulemisel või eelmise spiikri surma korral. Tema tööks on juhtida senati istungeid ja kinnitada hääletustulemused ning langetada otsus, kui hääled on tasavägised. 
+Keisrist järgmine võimuinstants on senat. Sinna kuulub 88 Valitut, kaheksa iga maakonna kohta, ja seda juhib keisri poolt ametisse nimetatud spiiker, kes vannutatakse ametisse uue keisri troonile tulemisel või eelmise spiikri surma korral. Tema tööks on juhtida senati istungeid ja kinnitada hääletustulemused ning langetada otsus, kui hääled on tasavägised. 
 
 Senat loob ja parandab seadusi, vaatab üle ja kinnitab vastavate ametnike esitatud Impeeriumi aastase eelarve ning tegeleb Impeeriumi valitsemise igapäevadetailidega. Senati liikmed valivad hääleõiguslikud kodanikud iga kaheksa aasta tagant. Kuna tavaliselt hääletatakse nende poolt, kelle tegevust on näha olnud oma kodupiirkonnas, on üldlevinud tõdemus, et mingis maakonnas teenimine tee senatisse. Igas maakonnas ja Rhaentes valitakse kaheksa esindajat. 
 
@@ -292,40 +292,40 @@ Impeeriumi rikkalik pärimusvara sai oma alguse vanast Alentumist. Tänaseni on 
 
 Impeerium: 2 ,566 000 miljonit 
 
-Alentid: 19 647 000 miljonit 
-Moroiad: 300 000 
-Vulverid: 160 000 
-Lagaarid: 40 000 
-Vanaverelised: 250 000
-Serviilid: 653 000 (arvestatakse alentidest eraldi)
-Theumiidid: 1,2 miljonit 
+* Alentid: 19 647 000 miljonit 
+* Moroiad: 300 000 
+* Vulverid: 160 000 
+* Lagaarid: 40 000 
+* Vanaverelised: 250 000
+* Serviilid: 653 000 (arvestatakse alentidest eraldi)
+* Theumiidid: 1,2 miljonit 
 
-Linnades elab: u 5 miljonit 
-Maal elab: u 16 miljonit 
+* Linnades elab: u 5 miljonit 
+* Maal elab: u 16 miljonit 
 
-Valitud: u 10 000
-Sõjavägi: u 1,5 miljonit 
-Preesterkond: u miljon
-Käsitöölised: u 3 miljonit 
-Ametnikud: u 500 000 
-Kaupmehed: u 1 miljonit 
-Politsei/linnavalve: u 1 miljon  
-Maaharijad: u 14 miljonit 
-Muud (kõik ülejäänud): u 3 miljonit
+* Valitud: u 10 000
+* Sõjavägi: u 1,5 miljonit 
+* Preesterkond: u miljon
+* Käsitöölised: u 3 miljonit 
+* Ametnikud: u 500 000 
+* Kaupmehed: u 1 miljonit 
+* Politsei/linnavalve: u 1 miljon  
+* Maaharijad: u 14 miljonit 
+* Muud (kõik ülejäänud): u 3 miljonit
 
 Maakonnad ja pealinnad: 
 
-Rhaente: 1 206 000, Rhaentiumis 1 092 000
-Katam: 2 034 000, Ironetis 564 000
-Renek: 1 483 000, Theoleias 382 000
-Durras: 3 099 000, Marenes 211 000 
-Qhorelth: 3 698 000, Numaias 289 000
-Talmekar: 3 853 000, Raskamis 408 000 
-Estendar: 3 495 000, Urutis 271 000
-Vaserra: 2 119 000, Shoranis 65 000
-Perein: 1 786 000, Azatis 101 000
-Kalath: 1 652 000, Lomoris 86 000
-Melmir: 994 000, Aethilis 96 000
+* Rhaente: 1 206 000, Rhaentiumis 1 092 000
+* Katam: 2 034 000, Ironetis 564 000
+* Renek: 1 483 000, Theoleias 382 000
+* Durras: 3 099 000, Marenes 211 000 
+* Qhorelth: 3 698 000, Numaias 289 000
+* Talmekar: 3 853 000, Raskamis 408 000 
+* Estendar: 3 495 000, Urutis 271 000
+* Vaserra: 2 119 000, Shoranis 65 000
+* Perein: 1 786 000, Azatis 101 000
+* Kalath: 1 652 000, Lomoris 86 000
+* Melmir: 994 000, Aethilis 96 000
 
 ### Religioon: 
 
@@ -340,9 +340,13 @@ Impeeriumi jumalad on:
 **Malakhim**
 
 Tiitlid: Tasakaalu Hoidja 
+
 Sümbolid: kaalud, kirjutussuled, pitserid, sauad, baldahhiinid, valguskiired
+
 Valitsusala: kord, seadused, tasakaal, lepingud, poliitika, aadlikud 
+
 Vastand: Ban-Mawr
+
 Voorus: austus
 
 Ametnike, kohtunike ja juhtide jumal. Tema preestrid jälgivad, et seadused oleksid omavahel kooskõlas. Malakhimi õnnistus on lepingute siduvus ja Impeeriumi teenrite vastutus ametimärkide näol. 
@@ -350,9 +354,13 @@ Ametnike, kohtunike ja juhtide jumal. Tema preestrid jälgivad, et seadused olek
 **Keteos**
 
 Tiitlid: Lõppude Vardja
+
 Sümbolid: tähed, noad, uksed, luud 
+
 Valitsusala: surm, öö/varjud, lõpp, moroiad, lagaarid 
+
 Vastand: Lir-Neth
+
 Voorus: minna laskmine
 
 Surnute jumal. Tema preestrid valvavad surijate ja surnute järele ning jälgivad öiseid tähti. Keteose õnnistus on hingede minek pärast surma Jumalamäele. 
@@ -360,9 +368,13 @@ Surnute jumal. Tema preestrid valvavad surijate ja surnute järele ning jälgiva
 **Atrepe**
 
 Tiitlid: Teadjate Valvur 
+
 Sümbolid: raamatud, rullid, mõõteriistad, silmad (tavaliselt rohkem kui üks), korrapärased kujundid
+
 Valitsusala: teadmised, informatsioon, tarkus, mõõdud, pühakud
+
 Vastand: Vael-Ser
+
 Voorus: mäletamine 
 
 Akadeemikute, ajaloolaste ja teadjate jumal. Tema preestrid säilitavad vanimaid ürikuid ja rulle. Atrepe õnnistus on teadmiste leidmine. 
@@ -370,9 +382,13 @@ Akadeemikute, ajaloolaste ja teadjate jumal. Tema preestrid säilitavad vanimaid
 **Parendi**
 
 Tiitlid: Teenäitaja
+
 Sümbolid: liivakellad, veetilgad, paadid, rattad, lehvikud, linnusuled, lambid 
+
 Valitsusala: rändajad, jõed, linnud, aeg, muutused/tsüklid, geograafia  
+
 Vastand: Arim-Wol
+
 Voorus: paindlikkus
 
 Rändajate, kaupmeeste, kullerite ja postitoojate jumal. Tema preestrid jälgivad ilma. Parendi õnnistus on asjade liigutamine ja mõnikord ka ilma mõjutamine. 
@@ -380,9 +396,13 @@ Rändajate, kaupmeeste, kullerite ja postitoojate jumal. Tema preestrid jälgiva
 **Terhent**
 
 Tiitlid: Päikeseratsanik, Mägede Vanim 
+
 Sümbolid: igasugused relvad, kettad, kiired, mäed, lipud
+
 Valitsusala: sõda, päike/valgus, jõud, relvad, mäestikud  
+
 Vastand: Nal-Mat
+
 Voorus: vaprus
 
 Sõdurite kaitsejumal. Tema preestrid õnnistavad sõdureid ja innustavad neid lahinguväljadel. Samuti kannavad nad edasi vanu võitluskunste ja muid teadmisi. Terhenti õnnistus on vaprus lahingus ja jõud võitlemiseks. 
@@ -390,9 +410,13 @@ Sõdurite kaitsejumal. Tema preestrid õnnistavad sõdureid ja innustavad neid l
 **Sulenis**
 
 Tiitlid: Esimene Looja
+
 Sümbolid: igasugused tööriistad, kivimid ja juveelid
+
 Valitsusala: tööstus, looming, maavarad, värvid 
+
 Vastand: Zer-Nim
+
 Voorus: töökus
 
 Kõigi käsitööliste kaitsejumal. Tema preestrid valvavad iidseid käsitöökunste ja artefakte. Sulenise õnnistus on Impeeriumi maavarad. 
@@ -400,9 +424,13 @@ Kõigi käsitööliste kaitsejumal. Tema preestrid valvavad iidseid käsitööku
 **Baruna**
 
 Tiitlid: Linnade Hing
+
 Sümbolid: katused, sambad, mündid, erinevad muusikariistad, kett/sõlmmustrid, peekrid
+
 Valitsusala: linnad, kultuur, suhted, tuli, alkohol, raha, muusika
+
 Vastand: Rhen-Apa
+
 Voorus: sidemed
 
 Kõikide meelelahutajate ja rahakäsitlejate kaitsejumal. Tema preestrid hoiavad muusika, luule ja muu kultuuri saladusi. Sellele lisaks sõlmivad nemad abielusid (kuigi lisaks on otseloomulikult vaja abielu registreerida ka Impeeriumi Perekonnaseisuametis). Baruna õnnistus on Impeeriumi rahasüsteem. 
@@ -410,9 +438,13 @@ Kõikide meelelahutajate ja rahakäsitlejate kaitsejumal. Tema preestrid hoiavad
 **Darsilis**
 
 Tiitlid: Elavate Kaitsja
+
 Sümbolid: seemned, puud, viljad, konnad, veised 
+
 Valitsusala: kõik elavad, muld, ilm, ravi, algus 
+
 Vastand: Eil-Gann
+
 Voorus: abistamine 
 
 Kõikide elavate, eriti laste ja maaharijate kaitsejumal. Tema preestrid ravivad raskelt haigeid ning haavatuid ja õnnistavad maad. Darsilise õnnistus on maa viljakus. 
@@ -425,15 +457,15 @@ Pühakudi on palju, viimase lugemise ajal üle 500, ning igaüks neist valvab ja
 
 Pühakuid: 
 
-Püha Ceriel - Merel uppunute kaitsepühak. 
-Püha Cilines - Süüta surnute kaitsepühak. 
-Püha Fillan - Õpetajate kaitsepühak. 
-Püha Ilsippus - Sõjaveteranide kaitsepühak. 
-Püha Kuthar - Piirivalvurite kaitsepühak. 
-Püha Phaleia - Arstide kaitsepühak. 
-Püha Raun - Rhaentiumi kaitsepühak. Eluajal oli üks Rhaentiumi ehitajatest. 
-Püha Velesin - Lapsekandjate kaitsepühak. 
-Püha Yriel - Katku surnute kaitsepühak. Eluajal oli ta Darsilise preester, kes hoolitses Katami katkuhaigete eest kuni ise suri. 
+* Püha Ceriel - Merel uppunute kaitsepühak. 
+* Püha Cilines - Süüta surnute kaitsepühak. 
+* Püha Fillan - Õpetajate kaitsepühak. 
+* Püha Ilsippus - Sõjaveteranide kaitsepühak. 
+* Püha Kuthar - Piirivalvurite kaitsepühak. 
+* Püha Phaleia - Arstide kaitsepühak. 
+* Püha Raun - Rhaentiumi kaitsepühak. Eluajal oli üks Rhaentiumi ehitajatest. 
+* Püha Velesin - Lapsekandjate kaitsepühak. 
+* Püha Yriel - Katku surnute kaitsepühak. Eluajal oli ta Darsilise preester, kes hoolitses Katami katkuhaigete eest kuni ise suri. 
 
 (OG: Soovi korral võivad mängijaid neid tegelase jaoks ise juurde mõelda.)
 
@@ -485,10 +517,10 @@ Suurem osa sõjaväe ja sõdimise printsiipidest on pärandatud edasi Alentumi a
 
 **Mõned tuntumad leegionid**
 
-Adula Leegion - Hoidis 1617. aastal Udukuru kindlust 100 päeva neist mitu korda suurema vabamaalaste väe vastu. 
-Darithi Leegion (darith - ‘hukatus’ kõrgalenti keeles) - Erinevalt teistest leegionitest, on selle juhiks Keteose preester. Suurem osa leegionist koosneb moroiadest, desertööridest ja kurjategijatest. Ajalooliselt on neid kasutatud nii öelda kahurilihana Vabade Maade vastu ja suur hulk leegionisse kuuluvatest moroiadest ongi enne surma olnud vabamaalaste võitlejad. Selle leegioni kohta liigub palju erinevaid hirmujutte ja legende. 
-Orophi Leegion - Impeeriumi vanimaid leegione, Orophi sõdurite vapruse kohta räägitakse legende ja kirjutatakse raamatuid. 
-Valara Leegion (valara - ‘kindlameelne’ kõrgalenti keeles) - Praeguse strategose Peleias Lardoni endine leegion. 
+* Adula Leegion - Hoidis 1617. aastal Udukuru kindlust 100 päeva neist mitu korda suurema vabamaalaste väe vastu. 
+* Darithi Leegion (darith - ‘hukatus’ kõrgalenti keeles) - Erinevalt teistest leegionitest, on selle juhiks Keteose preester. Suurem osa leegionist koosneb moroiadest, desertööridest ja kurjategijatest. Ajalooliselt on neid kasutatud nii öelda kahurilihana Vabade Maade vastu ja suur hulk leegionisse kuuluvatest moroiadest ongi enne surma olnud vabamaalaste võitlejad. Selle leegioni kohta liigub palju erinevaid hirmujutte ja legende. 
+* Orophi Leegion - Impeeriumi vanimaid leegione, Orophi sõdurite vapruse kohta räägitakse legende ja kirjutatakse raamatuid. 
+* Valara Leegion (valara - ‘kindlameelne’ kõrgalenti keeles) - Praeguse strategose Peleias Lardoni endine leegion. 
 
 **Piirivalve**
 
@@ -504,14 +536,14 @@ Rahvas jaguneb põhimõtteliselt kaheks. Tugeva enamuse moodustab tavaklass, kuh
 
 Impeeriumis on olulised järgmised kaheksa voorust: 
 
-Austus - Austada tuleb Impeeriumit, keisrit, Valituid, jumalaid, kaaskodanikke, oma pere, oma vanemaid, oma abikaasat. 
-Minna laskmine - Surm ja kadumine on loomulik osa elust. Lein on samuti loomulik, aga mitte lõputult. 
-Paindlikkus - Elu on ettearvamatu ja mööduv, sellega kaasa minemine on kõige lihtsam. 
-Mäletamine - Teadmisteta ei saa areneda ja mineviku tarkusi ei tohi unustada. 
-Vaprus - Vaprate päralt on tulevik. 
-Töökus - Tööd tegemata ei saa siin elus midagi ning kõigil tuleb panustada Impeeriumi arengusse. 
-Sidemed - Kõik on omavahel seotud. 
-Abistamine - Tuleb arvesse võtta kõiki, eriti kõige nõrgemaid. 
+* Austus - Austada tuleb Impeeriumit, keisrit, Valituid, jumalaid, kaaskodanikke, oma pere, oma vanemaid, oma abikaasat. 
+* Minna laskmine - Surm ja kadumine on loomulik osa elust. Lein on samuti loomulik, aga mitte lõputult. 
+* Paindlikkus - Elu on ettearvamatu ja mööduv, sellega kaasa minemine on kõige lihtsam. 
+* Mäletamine - Teadmisteta ei saa areneda ja mineviku tarkusi ei tohi unustada. 
+* Vaprus - Vaprate päralt on tulevik. 
+* Töökus - Tööd tegemata ei saa siin elus midagi ning kõigil tuleb panustada Impeeriumi arengusse. 
+* Sidemed - Kõik on omavahel seotud. 
+* Abistamine - Tuleb arvesse võtta kõiki, eriti kõige nõrgemaid. 
 
 **Erinevad ja nende kohtlemine**
 
