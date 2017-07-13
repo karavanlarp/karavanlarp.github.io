@@ -102,3 +102,7 @@ a {
 	text-decoration: none;
 	font-weight: bold;
 }
+
+img {
+	max-width: 100%
+}
