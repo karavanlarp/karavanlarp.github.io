@@ -20,6 +20,9 @@ body {
 	display: inline-block;
 	font-family: 'Kurale', serif;
 	color: #663300;
+}
+
+#header h1 {
 	font-weight: normal;
 }
 
