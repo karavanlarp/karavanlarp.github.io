@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-eng
 title: Karavan LARP
 ---
 ### Who We Are

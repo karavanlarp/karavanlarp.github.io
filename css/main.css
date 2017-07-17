@@ -34,6 +34,7 @@ h3 {
 #main {
 	float: left;
 	width: 100%;
+	background-image: url("ricepaper_v5.png");
 }
 
 #wrapper {

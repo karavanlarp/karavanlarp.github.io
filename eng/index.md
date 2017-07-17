@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-eng
 title: Karavan LARP
 ---
 It is the year 2851, the sixth year of peace.

@@ -3,12 +3,12 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>{{ page.title }}</title>
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<link rel="stylesheet" type="text/css" href="../css/main.css">
 		<link href="https://fonts.googleapis.com/css?family=Kurale" rel="stylesheet"> 
 		
 		<script>
-			function drop() {
-				document.getElementById("myDropdown").classList.toggle("show");
+			function drop(id) {
+				document.getElementById(id).classList.toggle("show");
 			}
 
 			window.onclick = function(event) {
@@ -31,16 +31,7 @@
 
 		<header id="header">
 			<div class="innertube">
-				<h1><a href="/index.html">Karavan LARP</a></h1>
-				<div class="dropdown">
-					<button onclick="drop()" class="dropbtn">Practical</button>
-					<div id="myDropdown" class="dropdown-content">
-						<a href="practical.html">Practical</a>
-						<a href="world.html">World</a>
-						<a href="registration.html">Registration</a>
-						<a href="creds.html">Credits</a>
-					</div>
-				</div>
+				{% include nav-est.html %}
 			</div>
 		</header>
 		

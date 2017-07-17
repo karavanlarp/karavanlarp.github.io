@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" type="text/css" href="../css/main.css">
+		<link href="https://fonts.googleapis.com/css?family=Kurale" rel="stylesheet"> 
+		
+		<script>
+			function drop(id) {
+				document.getElementById(id).classList.toggle("show");
+			}
+
+			window.onclick = function(event) {
+			  if (!event.target.matches('.dropbtn')) {
+
+				var dropdowns = document.getElementsByClassName("dropdown-content");
+				var i;
+				for (i = 0; i < dropdowns.length; i++) {
+				  var openDropdown = dropdowns[i];
+				  if (openDropdown.classList.contains('show')) {
+					openDropdown.classList.remove('show');
+				  }
+				}
+			  }
+			}
+		</script>
+	</head>
+	
+	<body>		
+
+		<header id="header">
+			<div class="innertube">
+				{% include nav-eng.html %}
+			</div>
+		</header>
+		
+		<div id="wrapper">	
+			<div id="main">
+				<div id="content">
+					<div class="innertube">
+						{{ content }}
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	</body>
+</html>

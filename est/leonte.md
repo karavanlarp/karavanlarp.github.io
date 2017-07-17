@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-est
 title: Leonte Impeerium
 ---
 ### Üldinfo: 
