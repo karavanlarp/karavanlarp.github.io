@@ -1,9 +1,9 @@
----
+ï»¿---
 layout: default-est
 title: Karavan LARP
 ---
 ### Registreerimine
 
-Registreerimise avame aprilli esimeses pooles. Kui soovid täpsemat teadannet, võid liituda Karavani fb-rühmaga: [siin](https://www.facebook.com/groups/1885296201754289/). Rühm on eesti- ja inglisekeelne.
+Registreerimise avame aprilli esimeses pooles. Kui soovid tÃ¤psemat teadannet, vÃµid liituda Karavani fb-rÃ¼hmaga: [siin](https://www.facebook.com/groups/1885296201754289/). RÃ¼hm on eesti- ja inglisekeelne.
 
-Mängijad loovad endale tegelased pärast mängumaksu tasumist saadetud ankeedi abil. Mäng sobib väga hästi ka algajatele.
+MÃ¤ngijad loovad endale tegelased pÃ¤rast mÃ¤ngumaksu tasumist saadetud ankeedi abil. MÃ¤ng sobib vÃ¤ga hÃ¤sti ka algajatele.
