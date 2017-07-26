@@ -107,3 +107,27 @@ img {
 li {
 	color: #331a00;
 }
+
+@media (max-width: 600px) {/*responsiveness*/ 
+	#content {
+		width: 90%;
+	}
+	
+	#header h1 {
+		display: none;
+	}
+	
+	.innertube {
+		margin: 0;
+	}
+	
+	.dropdown-content {
+		min-width: initial;
+	}
+	
+	.dropdown-content a {
+		display: inline-block;
+		min-width: 100%;
+		padding: 6px 0px;
+	}
+}
