@@ -8,11 +8,21 @@
 		
 		<script>
 			function dropWorld() {
+				hideDropdownContents();
 				document.getElementById("woldDropdown").classList.toggle("show");
 			}
 			
 			function dropPractical() {
+				hideDropdownContents();
 				document.getElementById("practicalDropdown").classList.toggle("show");
+			}
+			
+			function hideDropdownContents() {
+				var drops = document.getElementsByClassName("dropdown-content");
+				var idx;
+				for (idx = 0; idx < drops.length; idx++) {
+					drops[idx].classList.remove('show');
+				}
 			}
 
 			window.onclick = function(event) {
@@ -39,14 +49,8 @@
 			</div>
 		</header>
 		
-		<div id="wrapper">	
-			<div id="main">
-				<div id="content">
-					<div class="innertube">
-						{{ content }}
-					</div>
-				</div>
-			</div>
+		<div id="content">
+			{{ content }}
 		</div>
 		
 	</body>
