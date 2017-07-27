@@ -3,151 +3,151 @@ layout: default-est
 title: Theumiidid
 ---
 ![Theumiitide logo](https://karavanlarp.github.io/img/theumiitide-logo.png)
-### Üldinfo: 
+### Ãœldinfo: 
 
 Theumiidid on Theumat algselt valitsenud elemendivaimude rass. 
 
 **Ajalugu:**
 
-Enamus theumiitide ajaloost enne Impeeriumi loomist on hävitatud, hukkunud koos nende linnadega. Teada on, et enne alentide tulekut oli theumiitidel üle kümne tuhande aasta rahu. Pärast polnud otseloomulikult midagi enam endine.
+Enamus theumiitide ajaloost enne Impeeriumi loomist on hÃ¤vitatud, hukkunud koos nende linnadega. Teada on, et enne alentide tulekut oli theumiitidel Ã¼le kÃ¼mne tuhande aasta rahu. PÃ¤rast polnud otseloomulikult midagi enam endine.
 
-Ülestähendusi ja kroonikaid lähiajaloost pärast alentide saabumist on ohtralt, aga need on teadurite ja kroonikute hoolsa valve all ja tavaisik neile hea põhjuseta ligi ei pääse. 
+ÃœlestÃ¤hendusi ja kroonikaid lÃ¤hiajaloost pÃ¤rast alentide saabumist on ohtralt, aga need on teadurite ja kroonikute hoolsa valve all ja tavaisik neile hea pÃµhjuseta ligi ei pÃ¤Ã¤se. 
 
 **Allikad e. geograafia:**
 
-Allikad on elemendiväest koosnevad linnad, kus theumiidid elavad. Need on sellele lisaks nende sünnikohad. Nimelt sünnivad theumiidid allikate keskel asuvatest puhta elemendi voogudest.  Allikaid oli kunagi palju, isegi rohkem kui sada. Nüüdseks on neid järele jäänud kaksteist. Alentid käivad allikates harva, sest need on üpriski raskesti ligipääsetavad kõigile peale vastava elemendi theumiitidele. 
+Allikad on elemendivÃ¤est koosnevad linnad, kus theumiidid elavad. Need on sellele lisaks nende sÃ¼nnikohad. Nimelt sÃ¼nnivad theumiidid allikate keskel asuvatest puhta elemendi voogudest.  Allikaid oli kunagi palju, isegi rohkem kui sada. NÃ¼Ã¼dseks on neid jÃ¤rele jÃ¤Ã¤nud kaksteist. Alentid kÃ¤ivad allikates harva, sest need on Ã¼priski raskesti ligipÃ¤Ã¤setavad kÃµigile peale vastava elemendi theumiitidele. 
 
 Impeerium:
 
 * **Razen - Tule Allikas** - asub Talmekaris Troisini vulkaani sees. 
-* **Warul - Vee Allikas** - asub Talmekaris Waruli järve põhjas. 
-* **Dethan - Õhu Allikas** - asub Durrase tasandikul. 
-* **Karis - Maa Allikas** - asub Katamis Lotuni mäestikus. 
+* **Warul - Vee Allikas** - asub Talmekaris Waruli jÃ¤rve pÃµhjas. 
+* **Dethan - Ã•hu Allikas** - asub Durrase tasandikul. 
+* **Karis - Maa Allikas** - asub Katamis Lotuni mÃ¤estikus. 
 * **Saqad - Valguse Allikas** - asub Kalathis Sulaini saarestiku suurimal saarel. 
 * **Amite - Varju Allikas** - asub Estendaris. 
 
 Vabad Maad: 
 
-* **Ureth - Tule Allikas** - asub Ääremaal. 
-* **Lenal - Vee Allikas** - asub Punamaa lahe ehk Punalahe põhjas. 
-* **Shiale - Õhu Allikas** - asub Koidumaal ühel Idavahtide saartest. 
-* **Lilir - Maa Allikas** - asub Kaljumaal, Tihelaane lääneääres. 
+* **Ureth - Tule Allikas** - asub Ã„Ã¤remaal. 
+* **Lenal - Vee Allikas** - asub Punamaa lahe ehk Punalahe pÃµhjas. 
+* **Shiale - Ã•hu Allikas** - asub Koidumaal Ã¼hel Idavahtide saartest. 
+* **Lilir - Maa Allikas** - asub Kaljumaal, Tihelaane lÃ¤Ã¤neÃ¤Ã¤res. 
 * **Droat - Valguse Allikas** - asub Tuultemaal. 
 * **Primin - Varju Allikas** - asub Orumaal. 
 
 **Keeled:**
 
-Theumiitidel on mitu keelt. Kuna elemendid on väga erinevad, on iga elemendi theumiitidel oma keel, mida nad õpivad esimesena. Selles keeles on kirja pandud selle elemendi tarkused. Järgmiseks õpivad nad ära theumiitide ühise keele et suhelda teiste theumiitidega, ja siis laia maailma minna soovides ühe või mitu alenti dialekti. 
+Theumiitidel on mitu keelt. Kuna elemendid on vÃ¤ga erinevad, on iga elemendi theumiitidel oma keel, mida nad Ãµpivad esimesena. Selles keeles on kirja pandud selle elemendi tarkused. JÃ¤rgmiseks Ãµpivad nad Ã¤ra theumiitide Ã¼hise keele et suhelda teiste theumiitidega, ja siis laia maailma minna soovides Ã¼he vÃµi mitu alenti dialekti. 
 
-Nime valib iga theumiit endale ise, üldiselt täiskasvanuks saades. Enne seda kutsuvad Kasvatajad neid erinevate hellitus- või lapsenimedega. Üldiselt on see komplekt kahest nimisõnast, aga esineb ka teistsuguseid nimesid. Elukutse valimisel lisandub selle nime ette vastava elukutse tiitel. Näiteks: sepp, teadur, võitleja, maag, jne. 
+Nime valib iga theumiit endale ise, Ã¼ldiselt tÃ¤iskasvanuks saades. Enne seda kutsuvad Kasvatajad neid erinevate hellitus- vÃµi lapsenimedega. Ãœldiselt on see komplekt kahest nimisÃµnast, aga esineb ka teistsuguseid nimesid. Elukutse valimisel lisandub selle nime ette vastava elukutse tiitel. NÃ¤iteks: sepp, teadur, vÃµitleja, maag, jne. 
 
-Theumiitide keeltele on omane see, et on mitu sõna erinevate asjade kohta. Näiteks sõnale ‘jää’ võib leida kümme (ja tõenäoliselt isegi rohkem) erinevat vastet. Need erinevused pole väljaspoolsetele mõistetavad, aga theumiitide jaoks küll. 
+Theumiitide keeltele on omane see, et on mitu sÃµna erinevate asjade kohta. NÃ¤iteks sÃµnale â€˜jÃ¤Ã¤â€™ vÃµib leida kÃ¼mme (ja tÃµenÃ¤oliselt isegi rohkem) erinevat vastet. Need erinevused pole vÃ¤ljaspoolsetele mÃµistetavad, aga theumiitide jaoks kÃ¼ll. 
 
-(OG: Ehk siis nimed võivad olla tüüpilises fantasystiilis, ja sellele võib siis mõelda tähenduse.)
+(OG: Ehk siis nimed vÃµivad olla tÃ¼Ã¼pilises fantasystiilis, ja sellele vÃµib siis mÃµelda tÃ¤henduse.)
 
 ### Kombestik: 
 
-**Sünd**
+**SÃ¼nd**
 
-Theumiidid sünnivad allikate keskel asuvatest puhtaima elemendi kogumikest. Sünniajad erinevad ja neid arvestatakse elementide faaside ja ajalooliste kalendrite järgi. Kogumiku juures on alati valves vähemalt kaks Kasvatajat ja kui sünniprotsess algab, kutsuvad nad teised appi. Sünd ise kestab mõned tunnid, ja kujutab endast seda et kera meenutav theumiit lahkneb elemendist nõnda et teda liigutada saab. 
+Theumiidid sÃ¼nnivad allikate keskel asuvatest puhtaima elemendi kogumikest. SÃ¼nniajad erinevad ja neid arvestatakse elementide faaside ja ajalooliste kalendrite jÃ¤rgi. Kogumiku juures on alati valves vÃ¤hemalt kaks Kasvatajat ja kui sÃ¼nniprotsess algab, kutsuvad nad teised appi. SÃ¼nd ise kestab mÃµned tunnid, ja kujutab endast seda et kera meenutav theumiit lahkneb elemendist nÃµnda et teda liigutada saab. 
 
-Kasvatajad hoolitsevad äsjasündinute eest, annavad neile oma väge kui seda vaja on ja annavad neile Kasvajanime, millega neid kutsutakse täiskasvanuks saamiseni. 
+Kasvatajad hoolitsevad Ã¤sjasÃ¼ndinute eest, annavad neile oma vÃ¤ge kui seda vaja on ja annavad neile Kasvajanime, millega neid kutsutakse tÃ¤iskasvanuks saamiseni. 
 
-**Lapsepõlv**
+**LapsepÃµlv**
 
-Theumiidi lapsepõlv on üldiselt täis arengut ja maailma õppimist. Koos samal ajal sündinutega õpib väike theumiit kasutama oma väge ja mõistma maailma. Samuti püütakse sellel ajal välja selgitada erinevate katsete abil, et milline elukutse võiks theumiidile sobida ja milline tema vägi on. Humanoidse kuju saavutab theumiit üldiselt paari aasta möödudes, ja kasvab suuremaks koos oma väega. Noorukieas leitakse talle üldiselt Õpetaja, kes talle tema ametit õpetama hakkab. 
+Theumiidi lapsepÃµlv on Ã¼ldiselt tÃ¤is arengut ja maailma Ãµppimist. Koos samal ajal sÃ¼ndinutega Ãµpib vÃ¤ike theumiit kasutama oma vÃ¤ge ja mÃµistma maailma. Samuti pÃ¼Ã¼takse sellel ajal vÃ¤lja selgitada erinevate katsete abil, et milline elukutse vÃµiks theumiidile sobida ja milline tema vÃ¤gi on. Humanoidse kuju saavutab theumiit Ã¼ldiselt paari aasta mÃ¶Ã¶dudes, ja kasvab suuremaks koos oma vÃ¤ega. Noorukieas leitakse talle Ã¼ldiselt Ã•petaja, kes talle tema ametit Ãµpetama hakkab. 
 
-**Täiskasvanuks saamine**
+**TÃ¤iskasvanuks saamine**
 
-Täiskasvanuks loetakse theumiit siis, kui ta on saavutanud oma väe täiuse. Seda otsustavad tavaliselt tema peamine Kasvataja ja tema Õpetaja. Enda täiskasvanuks kinnitamisest saab theumiit teada mõned nädalad enne, ja selle ajal jooksul mõtleb ta endale nime. 
+TÃ¤iskasvanuks loetakse theumiit siis, kui ta on saavutanud oma vÃ¤e tÃ¤iuse. Seda otsustavad tavaliselt tema peamine Kasvataja ja tema Ã•petaja. Enda tÃ¤iskasvanuks kinnitamisest saab theumiit teada mÃµned nÃ¤dalad enne, ja selle ajal jooksul mÃµtleb ta endale nime. 
 
-Kinnitamine on formaalne, selle käigus annavad Kasvataja ja Õpetaja theumiidi vabaks, ja ta esitleb ennast allika Austatavatele oma valitud nimega. 
+Kinnitamine on formaalne, selle kÃ¤igus annavad Kasvataja ja Ã•petaja theumiidi vabaks, ja ta esitleb ennast allika Austatavatele oma valitud nimega. 
 
 **Vanadus ja surm**
 
-Vanadus algab siis kui theumiidi vägi hakkab vähenema. Kui theumiidil on käsil mõni suur teadustöö või eksperiment, hakkab ta seda järgnevate aastate jooksul lõpetama ja kroonikute abiga üles tähendama. 
+Vanadus algab siis kui theumiidi vÃ¤gi hakkab vÃ¤henema. Kui theumiidil on kÃ¤sil mÃµni suur teadustÃ¶Ã¶ vÃµi eksperiment, hakkab ta seda jÃ¤rgnevate aastate jooksul lÃµpetama ja kroonikute abiga Ã¼les tÃ¤hendama. 
 
-Surmahetkel theumiidi keha laguneb ja tema vägi naaseb elementi. Tavaliselt on selleks allika kese, kuid kaugel allikast surevate theumiitide vägi võib lahtuda ka mujal. Üldiselt jääb sellest märk elemendi energiasse, mida teised theumiidid tunnetada võivad. Kombeks on anda teada et isik on surnud, ja tema nime korratakse üle terve allika kuni kõik seda teavad ning see tähendatakse kroonikute poolt üles. 
+Surmahetkel theumiidi keha laguneb ja tema vÃ¤gi naaseb elementi. Tavaliselt on selleks allika kese, kuid kaugel allikast surevate theumiitide vÃ¤gi vÃµib lahtuda ka mujal. Ãœldiselt jÃ¤Ã¤b sellest mÃ¤rk elemendi energiasse, mida teised theumiidid tunnetada vÃµivad. Kombeks on anda teada et isik on surnud, ja tema nime korratakse Ã¼le terve allika kuni kÃµik seda teavad ning see tÃ¤hendatakse kroonikute poolt Ã¼les. 
 
-**Pühad**
+**PÃ¼had**
 
-Allikates tähistatakse erinevaid pühi. On pühasid ajalooliste sündmuste jaoks, on pühasid erinevate elementides toimuvate protsesside jaoks. 
+Allikates tÃ¤histatakse erinevaid pÃ¼hi. On pÃ¼hasid ajalooliste sÃ¼ndmuste jaoks, on pÃ¼hasid erinevate elementides toimuvate protsesside jaoks. 
 
-Sünnipäevi theumiidid ei tähista. 
+SÃ¼nnipÃ¤evi theumiidid ei tÃ¤hista. 
 
 **Tervitamine ja tutvumine**
 
-Viisakas on tervitada kuhugi saabumisel. Kui isikuga on mingisugune side, siis üldiselt kasutatakse selle sideme nimetust või vastavat hüüdnime. Kui teise nime ei teata, siis kasutatakse üldiselt tema ametinimetust kuna isiku amet on tema rõivastest ja välimusest üldiselt selge. 
+Viisakas on tervitada kuhugi saabumisel. Kui isikuga on mingisugune side, siis Ã¼ldiselt kasutatakse selle sideme nimetust vÃµi vastavat hÃ¼Ã¼dnime. Kui teise nime ei teata, siis kasutatakse Ã¼ldiselt tema ametinimetust kuna isiku amet on tema rÃµivastest ja vÃ¤limusest Ã¼ldiselt selge. 
 
-Tutvumisel esitletakse ennast, oma päritolu ehk allikas kust sünniti ja oma amet. Füüsilist kontakti ei ole. 
+Tutvumisel esitletakse ennast, oma pÃ¤ritolu ehk allikas kust sÃ¼nniti ja oma amet. FÃ¼Ã¼silist kontakti ei ole. 
 
-**Füüsiline kontakt**
+**FÃ¼Ã¼siline kontakt**
 
-Theumiidid tavaliselt üksteist ei puuduta. Nende jaoks on alentide viis lähedust jagada äärmiselt kummaline. Theumiidid kogevad lähedust üldiselt ainult lapsepõlves, millal Kasvatajad neid enese lähedal hoiavad ja neid õpetavad. 
+Theumiidid tavaliselt Ã¼ksteist ei puuduta. Nende jaoks on alentide viis lÃ¤hedust jagada Ã¤Ã¤rmiselt kummaline. Theumiidid kogevad lÃ¤hedust Ã¼ldiselt ainult lapsepÃµlves, millal Kasvatajad neid enese lÃ¤hedal hoiavad ja neid Ãµpetavad. 
 
-Samuti pole tavaks ka kätelda, nagu alentid seda teevad. Kuigi üldiselt allikast välja viibides on theumiidil kest ümber ja tema puudutus ei ole alentidele ohtlik, on nad õppinud seda pigem vältima. 
+Samuti pole tavaks ka kÃ¤telda, nagu alentid seda teevad. Kuigi Ã¼ldiselt allikast vÃ¤lja viibides on theumiidil kest Ã¼mber ja tema puudutus ei ole alentidele ohtlik, on nad Ãµppinud seda pigem vÃ¤ltima. 
 
 **Relvad**
 
-Relvi kantakse väljaspool allikat selleks et vajaduse korral võidelda, allikas viibides hoitakse neid kas oma elamises või relvalaos. Allikas relvaga ringi käimist peetakse tobedaks ja imelikuks. 
+Relvi kantakse vÃ¤ljaspool allikat selleks et vajaduse korral vÃµidelda, allikas viibides hoitakse neid kas oma elamises vÃµi relvalaos. Allikas relvaga ringi kÃ¤imist peetakse tobedaks ja imelikuks. 
 
 ### Kultuur: 
 
 Theumiidid veedavad oma vaba aega erinevalt. 
 
-Populaarsed on erinevad jõukatsumised ja oma oskuste näitamised. Eriti populaarsed on väitlemine ja keeruliste reeglitega strateegiamängud. Võisteldakse nii parima välja selgitamiseks kui ka teente nimel. 
+Populaarsed on erinevad jÃµukatsumised ja oma oskuste nÃ¤itamised. Eriti populaarsed on vÃ¤itlemine ja keeruliste reeglitega strateegiamÃ¤ngud. VÃµisteldakse nii parima vÃ¤lja selgitamiseks kui ka teente nimel. 
 
-Üldiselt peetakse oluliseks, et ka vabal aja veetmisel on mingisugune mõte. 
+Ãœldiselt peetakse oluliseks, et ka vabal aja veetmisel on mingisugune mÃµte. 
 
 ### Majandus: 
 
-Theumiitide endi hulgas kehtib ühismajandus. Iga täiskasvanud theumiit on oodatud panustama osa oma tööst ühiskonna huviks. Üksikisikute puhul kehtib teenusevahetus, mis kinnitatakse maagilise lepinguga. 
+Theumiitide endi hulgas kehtib Ã¼hismajandus. Iga tÃ¤iskasvanud theumiit on oodatud panustama osa oma tÃ¶Ã¶st Ã¼hiskonna huviks. Ãœksikisikute puhul kehtib teenusevahetus, mis kinnitatakse maagilise lepinguga. 
 
-Impeeriumilt ja Vabadelt Maadelt ostavad theumiidid sisse apeironit. Selle eest osutavad theumiidid erinevaid maagilisi teeneid, kuna nende maagia on alentide omast erinev. Samuti valmistavad nad ehteid ja muid väiksemaid esemeid, mida alentid kasutada võivad. 
+Impeeriumilt ja Vabadelt Maadelt ostavad theumiidid sisse apeironit. Selle eest osutavad theumiidid erinevaid maagilisi teeneid, kuna nende maagia on alentide omast erinev. Samuti valmistavad nad ehteid ja muid vÃ¤iksemaid esemeid, mida alentid kasutada vÃµivad. 
 
-Allikast lahkudes saab theumiit kaasa paberi, mille alusel võib ta enesele hankida valuutat, millega teenuste eest tasuda. Samuti võib endale raha teenida erinevaid teeneid tehes. Üldiselt lahendavad nad maagilisi probleeme ja teevad muid oma pädevuses olevaid tegevusi. 
+Allikast lahkudes saab theumiit kaasa paberi, mille alusel vÃµib ta enesele hankida valuutat, millega teenuste eest tasuda. Samuti vÃµib endale raha teenida erinevaid teeneid tehes. Ãœldiselt lahendavad nad maagilisi probleeme ja teevad muid oma pÃ¤devuses olevaid tegevusi. 
 
 ### Poliitika: 
 
-Iga Leonte keisri juures on nõuandjatena (või mõnede meelest pantvangidena) tegutsemas kuus theumiiti, üks igast elemendist. Nemad esitavad keisrile theumiitide palveid ja seisavad hea theumiitide koha eest Impeeriumis. 
+Iga Leonte keisri juures on nÃµuandjatena (vÃµi mÃµnede meelest pantvangidena) tegutsemas kuus theumiiti, Ã¼ks igast elemendist. Nemad esitavad keisrile theumiitide palveid ja seisavad hea theumiitide koha eest Impeeriumis. 
 
-Keiser Relagin II valitsusajal on need theumiidid järgmised: 
+Keiser Relagin II valitsusajal on need theumiidid jÃ¤rgmised: 
 
 * Tuli - Kalzaran 
 * Vesi - Ilimenil
-* Õhk - Formanet
+* Ã•hk - Formanet
 * Maa - Malenim
 * Valgus - Hesiar 
 * Varjud - Orilik 
 
-Samamoodi elab kuus theumiiti, üks igast elemendist, alaliselt Cairlinn Toris Vabadel Maadel. Nemad annavad nõu Vabade Maade kuningale ja esitavad talle kohalike theumiitide soove. 
+Samamoodi elab kuus theumiiti, Ã¼ks igast elemendist, alaliselt Cairlinn Toris Vabadel Maadel. Nemad annavad nÃµu Vabade Maade kuningale ja esitavad talle kohalike theumiitide soove. 
 
-Kuningas Alixi valitsusajal on need theumiidid järgmised: 
+Kuningas Alixi valitsusajal on need theumiidid jÃ¤rgmised: 
 
 * Tuli - Desaur 
 * Vesi - Vishalla
-* Õhk - Rhaiken 
+* Ã•hk - Rhaiken 
 * Maa - Ualeth 
 * Valgus - Xaghol
 * Varjud - Almith
 
-Theumiitidel ei ole otsest valitsejat nagu on Impeeriumi keiser või Vabade Maade kuningas. Suuri kõiki theumiite puudutavaid otsuseid võib teha ainult Juhtide Kogu, mis on 72st theumiidist koosnev nõukogu. Seda kutsutakse kokku väga harva (ehk korra või kaks saja aasta jooksul), ja istungid toimuvad väravaid kasutades. Juhtide Kogu istub koos nii kaua kuni nad jõuavad mingisuguse konsensuseni ja nende istungeid ei tohi segada kui ei ole toimumas just midagi väga suurt. 
+Theumiitidel ei ole otsest valitsejat nagu on Impeeriumi keiser vÃµi Vabade Maade kuningas. Suuri kÃµiki theumiite puudutavaid otsuseid vÃµib teha ainult Juhtide Kogu, mis on 72st theumiidist koosnev nÃµukogu. Seda kutsutakse kokku vÃ¤ga harva (ehk korra vÃµi kaks saja aasta jooksul), ja istungid toimuvad vÃ¤ravaid kasutades. Juhtide Kogu istub koos nii kaua kuni nad jÃµuavad mingisuguse konsensuseni ja nende istungeid ei tohi segada kui ei ole toimumas just midagi vÃ¤ga suurt. 
 
-Üldiselt allikate haldamisega tegelebki igas allikas kuus theumiiti. Neid kutsutatakse Austatuteks. Nemad arutavad probleemide üle mis tekkida võivad, ning valivad oma allika esindaja kas siis Impeeriumi keisri või Vabade Maade kuninga juurde. Samuti tegelevad nad distsiplineerimisega, kui on toime pandud nende tähelepanu nõudev rikkumine. Nemad valitakse selle allika täiskasvanute poolt üldiselt siis kui mõni koht vabaneb (kas selle koha hoidja sureb või läheb mingil põhjusel erru). Juhiks saamine nõuab eeskujulikkust igas valdkonnas ja kindlat meelt. 
+Ãœldiselt allikate haldamisega tegelebki igas allikas kuus theumiiti. Neid kutsutatakse Austatuteks. Nemad arutavad probleemide Ã¼le mis tekkida vÃµivad, ning valivad oma allika esindaja kas siis Impeeriumi keisri vÃµi Vabade Maade kuninga juurde. Samuti tegelevad nad distsiplineerimisega, kui on toime pandud nende tÃ¤helepanu nÃµudev rikkumine. Nemad valitakse selle allika tÃ¤iskasvanute poolt Ã¼ldiselt siis kui mÃµni koht vabaneb (kas selle koha hoidja sureb vÃµi lÃ¤heb mingil pÃµhjusel erru). Juhiks saamine nÃµuab eeskujulikkust igas valdkonnas ja kindlat meelt. 
 
-### Pärimus: 
+### PÃ¤rimus: 
 
-Igal allikal on oma kogud ja ülestähendused. Teada on, et väga suur osa pärimusest ja informatsioonist sai sõja käigus hukka ja jäi igaveseks kadunuks. Selle tõttu ollakse kõikide ürikute ja raamatute käsitlemisel väga ranged ja ettevaatlikud. Uutest teostest tehakse tavaliselt mitu koopiat ja neid saadetakse ka teistesse allikatesse. 
+Igal allikal on oma kogud ja Ã¼lestÃ¤hendused. Teada on, et vÃ¤ga suur osa pÃ¤rimusest ja informatsioonist sai sÃµja kÃ¤igus hukka ja jÃ¤i igaveseks kadunuks. Selle tÃµttu ollakse kÃµikide Ã¼rikute ja raamatute kÃ¤sitlemisel vÃ¤ga ranged ja ettevaatlikud. Uutest teostest tehakse tavaliselt mitu koopiat ja neid saadetakse ka teistesse allikatesse. 
 
-Theumiidid kirjutavad tavaliselt üles fakte ja tõestisündinud juhtumeid, aga viimasel ajal on tekkinud ka suund katalogiseerida alentide pärimust, kuigi see alati nende jaoks tõele ei vasta. 
+Theumiidid kirjutavad tavaliselt Ã¼les fakte ja tÃµestisÃ¼ndinud juhtumeid, aga viimasel ajal on tekkinud ka suund katalogiseerida alentide pÃ¤rimust, kuigi see alati nende jaoks tÃµele ei vasta. 
 
-Suure osa nüüdisaegsest pärimuskogust moodustavad biograafiad, kus kirjeldatakse allika elanike elusaavutusi ja ameteid. See oli kombeks ka enne sõda aga nüüd peetakse seda eriti oluliseks. 
+Suure osa nÃ¼Ã¼disaegsest pÃ¤rimuskogust moodustavad biograafiad, kus kirjeldatakse allika elanike elusaavutusi ja ameteid. See oli kombeks ka enne sÃµda aga nÃ¼Ã¼d peetakse seda eriti oluliseks. 
 
-Teine suur osa on kõik maagiaga seonduv. Seal on ülestähendusi ka alentide jumalate ja erinevate maagiliste nähtuste kohta ning theumiitide endi maagilised avastused. 
+Teine suur osa on kÃµik maagiaga seonduv. Seal on Ã¼lestÃ¤hendusi ka alentide jumalate ja erinevate maagiliste nÃ¤htuste kohta ning theumiitide endi maagilised avastused. 
 
 ### Religioon: 
 
-Erinevalt alentidest ei teeni theumiidid jumalaid. Nende jaoks on olulised 12 legendaarset figuuri, kaks igast elemendist. Legendide järgi olid nad theumiitide juhid ajal, millal alentid esimest korda Theumale randusid. Sõja ajal nad peideti ja nad uinusid, mõnede arvates siiamaani. 
+Erinevalt alentidest ei teeni theumiidid jumalaid. Nende jaoks on olulised 12 legendaarset figuuri, kaks igast elemendist. Legendide jÃ¤rgi olid nad theumiitide juhid ajal, millal alentid esimest korda Theumale randusid. SÃµja ajal nad peideti ja nad uinusid, mÃµnede arvates siiamaani. 
 
 Need kaksteist olid: 
 
@@ -155,8 +155,8 @@ Need kaksteist olid:
 * Menethos - tuli 
 * Ahumat - vesi
 * Zoalthin - vesi
-* Carresca - õhk
-* Mizaona - õhk
+* Carresca - Ãµhk
+* Mizaona - Ãµhk
 * Emreit - maa
 * Kafalam - maa 
 * Veshena - varjud
@@ -164,11 +164,11 @@ Need kaksteist olid:
 * Dimzarien - valgus 
 * Raqial - valgus 
 
-Theumiidid peavad alentide religiooni ja jumalaid pentsikuks või isegi äärmiselt veidraks. Neile piisab sellest, et nad tulevad allikast ja lähevad surres sinna tagasi. Mõned neist on samas jumalate ja jumalmaagia suhtes väga uudishimulikud ja teevad oma parima, et seda teemat võimalikult palju uurida. 
+Theumiidid peavad alentide religiooni ja jumalaid pentsikuks vÃµi isegi Ã¤Ã¤rmiselt veidraks. Neile piisab sellest, et nad tulevad allikast ja lÃ¤hevad surres sinna tagasi. MÃµned neist on samas jumalate ja jumalmaagia suhtes vÃ¤ga uudishimulikud ja teevad oma parima, et seda teemat vÃµimalikult palju uurida. 
 
 ### Rahvastik: 
 
-Theumiite on hetkel teadaolevalt umbes 2 miljonit. See ei ole täpne arv, kuna Vabadel Maadel ei tegeleta väga pingsalt rahvaloendusega. Theumiitide jagunemine elementide järgi on üpriski võrdne, kaldeid esineb paarisaja indiviidi kaupa. 
+Theumiite on hetkel teadaolevalt umbes 2 miljonit. See ei ole tÃ¤pne arv, kuna Vabadel Maadel ei tegeleta vÃ¤ga pingsalt rahvaloendusega. Theumiitide jagunemine elementide jÃ¤rgi on Ã¼priski vÃµrdne, kaldeid esineb paarisaja indiviidi kaupa. 
 
 Impeeriumis elab teadaolevalt 1,2 miljonit theumiiti, ehk suurem osa mandril elavatest theumiitidest. 
 
@@ -179,62 +179,62 @@ Vabadel Maadel elab arvatavasti 800 000 theumiiti.
 * Austatud (e. juhid) 
 * Kasvatajad 
 * Kroonikud ja teadurid 
-* Käsitöölised 
+* KÃ¤sitÃ¶Ã¶lised 
 * Ravitsejad 
 * Sepad 
 * Sortsid 
 
-Kolmveerand theumiitidest elavad allikates ja enamus neist ei lähe neist sealt elu jooksul välja. Samas on ka neid, kes avastavad väljaspool olevat maailma huviga ja leiavad endale paiga, kus elada. 
+Kolmveerand theumiitidest elavad allikates ja enamus neist ei lÃ¤he neist sealt elu jooksul vÃ¤lja. Samas on ka neid, kes avastavad vÃ¤ljaspool olevat maailma huviga ja leiavad endale paiga, kus elada. 
 
-### Sõjandus: 
+### SÃµjandus: 
 
-Üldiselt õpetatakse kõiki theumiite ennast kaitsma, aga sõjandust õpivad vähesed. Kuna theumiite on vähe ja nende kestade taastamine võtab aega, ei soovita ühegi elu sõjas hukka lasta. Selle tõttu ei ole theumiitidel ka ametlikku sõjaväge ja kui nad tegutsevad kas Impeeriumi või Vabade Maade huviks, teevad nad seda mittesõjaväelisi teenuseid osutades. 
+Ãœldiselt Ãµpetatakse kÃµiki theumiite ennast kaitsma, aga sÃµjandust Ãµpivad vÃ¤hesed. Kuna theumiite on vÃ¤he ja nende kestade taastamine vÃµtab aega, ei soovita Ã¼hegi elu sÃµjas hukka lasta. Selle tÃµttu ei ole theumiitidel ka ametlikku sÃµjavÃ¤ge ja kui nad tegutsevad kas Impeeriumi vÃµi Vabade Maade huviks, teevad nad seda mittesÃµjavÃ¤elisi teenuseid osutades. 
 
-Relvi kannavad üldiselt ainult allikast välja minevad theumiidid, ja seda selleks et mitte oma väge võitlemiseks kulutada. Allikas viibides ei ole relva kandmine kombeks. 
+Relvi kannavad Ã¼ldiselt ainult allikast vÃ¤lja minevad theumiidid, ja seda selleks et mitte oma vÃ¤ge vÃµitlemiseks kulutada. Allikas viibides ei ole relva kandmine kombeks. 
 
-### Ühiskond: 
+### Ãœhiskond: 
 
-Hoolimata sellest, et theumiidid elavad üle terve mandri kaheteistkümnes eri paigas ja enamus neist nendest paikadest ei lahku, on theumiitide ühiskond üsna läbipõimunud. Kuna allikates on väravad, läbi mille saab saata erinevaid esemeid ja teateid ning teiste allikate elanikega kõneleda, toimivad allikad üldiselt ühte plaani järgi.
+Hoolimata sellest, et theumiidid elavad Ã¼le terve mandri kaheteistkÃ¼mnes eri paigas ja enamus neist nendest paikadest ei lahku, on theumiitide Ã¼hiskond Ã¼sna lÃ¤bipÃµimunud. Kuna allikates on vÃ¤ravad, lÃ¤bi mille saab saata erinevaid esemeid ja teateid ning teiste allikate elanikega kÃµneleda, toimivad allikad Ã¼ldiselt Ã¼hte plaani jÃ¤rgi.
 
-Üldiselt on theumiidid üsna omaettehoidvad ja alentidega tehakse tegemist täpselt nii palju kui vaja. Samas on ka erandeid, ning üsna mitmed lähevad täiskasvanuks saades maailma avastama. Mõned neist tulevad kohe tagasi, leides et theumiitide ühiskond sobib neile siiski kõige paremini. Teised aga naasevad harva, vaid selleks et oma kesta ja varustust uuendada ning siis edasi minna. 
+Ãœldiselt on theumiidid Ã¼sna omaettehoidvad ja alentidega tehakse tegemist tÃ¤pselt nii palju kui vaja. Samas on ka erandeid, ning Ã¼sna mitmed lÃ¤hevad tÃ¤iskasvanuks saades maailma avastama. MÃµned neist tulevad kohe tagasi, leides et theumiitide Ã¼hiskond sobib neile siiski kÃµige paremini. Teised aga naasevad harva, vaid selleks et oma kesta ja varustust uuendada ning siis edasi minna. 
 
-Peale omaette hoidmise on theumiitide ühiskond ka üsnagi konservatiivne ja range. Suuri muutusi toimub harva ja eelistatakse asjaolude säilitamist nii nagu need on. Ehk tuleb see sellest et theumiitide jaoks on muutused üldiselt tähendanud halba - alentide tulek hävitas peaaegu kogu nende tsivilisatsiooni. 
+Peale omaette hoidmise on theumiitide Ã¼hiskond ka Ã¼snagi konservatiivne ja range. Suuri muutusi toimub harva ja eelistatakse asjaolude sÃ¤ilitamist nii nagu need on. Ehk tuleb see sellest et theumiitide jaoks on muutused Ã¼ldiselt tÃ¤hendanud halba - alentide tulek hÃ¤vitas peaaegu kogu nende tsivilisatsiooni. 
 
 **Sidemed**
 
-Erinevalt alentidest ei harrasta theumiidid abielu ega paariti kooselu. Igal theumiidil on talle täiskasvanuks saamisel määratud elamine, nooremana elavad nad Kasvumajades. Seal hoolitsevad väikeste theumiitide eest Kasvatajad, kes on tavaliselt kõige empaatilisemad ja kannatlikumad oma rahva seas.
+Erinevalt alentidest ei harrasta theumiidid abielu ega paariti kooselu. Igal theumiidil on talle tÃ¤iskasvanuks saamisel mÃ¤Ã¤ratud elamine, nooremana elavad nad Kasvumajades. Seal hoolitsevad vÃ¤ikeste theumiitide eest Kasvatajad, kes on tavaliselt kÃµige empaatilisemad ja kannatlikumad oma rahva seas.
 
-Romantiliste ja sõprussuhete asemel on theumiitidel sidemed. Side on kahe theumiidi vaheline läbisaamine, mis üldiselt rajaneb vastastikustel tunnetel. Need tunded võivad olla nii positiivsed kui negatiivsed, oluline on et need oleksid mõlema puhul samasugused. Theumiidid peavad oluliseks ka negatiivseid sidemeid, sest kõik ei võigi kõigile meeldida, ja tihti inspireerib tugev rivaliteet uusi avastusi ja saavutusi. Sidemeid on mitmesuguseid.
+Romantiliste ja sÃµprussuhete asemel on theumiitidel sidemed. Side on kahe theumiidi vaheline lÃ¤bisaamine, mis Ã¼ldiselt rajaneb vastastikustel tunnetel. Need tunded vÃµivad olla nii positiivsed kui negatiivsed, oluline on et need oleksid mÃµlema puhul samasugused. Theumiidid peavad oluliseks ka negatiivseid sidemeid, sest kÃµik ei vÃµigi kÃµigile meeldida, ja tihti inspireerib tugev rivaliteet uusi avastusi ja saavutusi. Sidemeid on mitmesuguseid.
 
 Need on: 
 
-* **Kasvataja - Kasvaja/Kasvanu:** Vanema ja lapse suhet meenutav side. Kasvataja on see kes Kasvaja eest hoolitseb ja õpetab teda ühiskonnas elama ning oma võimeid kasutama. Kasvatajad on ka need, kes otsustavad millal noorest on saanud täiskasvanu ja millal ta on valmis ametit õppima. 
-* **Õpetaja - Õpilane:** Õpetaja on see kes õpetab õpilasele ametit. Õpe algab tavaliselt noores eas, enne täiskasvanuks saamist. Õpetajaga koos õpib õpilane kõike, mida ta oma ametist teadma peab. 
-* **Rivaal - Rivaal:** Üldiselt on rivaalid sama vanad, neid ühendab soov teineteisest parem olla. Rivaalid võivad kannustada teineteist arenema ja paremini õppima. Rivaliteet võib kesta terve elu. Mõnikord võivad rivaalidest saada ka sõbrad, aga seda peetakse õnnetuks kui ainult üks osapooltest oma arvamust muudab. 
-* **Sõber - Sõber:**
-* **Austatav - Austaja:** Kombeks on et allikat juhtivad tunnevad mingil määral neid, keda nad juhivad. Austatavad teevad oma parima, et allika elu sujuks ja otsused saavad tehtud, austajate osa on neid järgida.  
-* **Kuuluja - Mittekuuluv:** Sidemetest kõige varieeruvam. Seppade töötuppa sisenenu on mittekuuluv, kuna ta on seppade ruumis. Vee allikale tulnud teist elementi theumiit on mittekuuluv, kuna ta ei ole vee elementi. Kõik allikatest väljas pool elavad on mittekuuluvad neile, kes allikates elavad. 
+* **Kasvataja - Kasvaja/Kasvanu:** Vanema ja lapse suhet meenutav side. Kasvataja on see kes Kasvaja eest hoolitseb ja Ãµpetab teda Ã¼hiskonnas elama ning oma vÃµimeid kasutama. Kasvatajad on ka need, kes otsustavad millal noorest on saanud tÃ¤iskasvanu ja millal ta on valmis ametit Ãµppima. 
+* **Ã•petaja - Ã•pilane:** Ã•petaja on see kes Ãµpetab Ãµpilasele ametit. Ã•pe algab tavaliselt noores eas, enne tÃ¤iskasvanuks saamist. Ã•petajaga koos Ãµpib Ãµpilane kÃµike, mida ta oma ametist teadma peab. 
+* **Rivaal - Rivaal:** Ãœldiselt on rivaalid sama vanad, neid Ã¼hendab soov teineteisest parem olla. Rivaalid vÃµivad kannustada teineteist arenema ja paremini Ãµppima. Rivaliteet vÃµib kesta terve elu. MÃµnikord vÃµivad rivaalidest saada ka sÃµbrad, aga seda peetakse Ãµnnetuks kui ainult Ã¼ks osapooltest oma arvamust muudab. 
+* **SÃµber - SÃµber:**
+* **Austatav - Austaja:** Kombeks on et allikat juhtivad tunnevad mingil mÃ¤Ã¤ral neid, keda nad juhivad. Austatavad teevad oma parima, et allika elu sujuks ja otsused saavad tehtud, austajate osa on neid jÃ¤rgida.  
+* **Kuuluja - Mittekuuluv:** Sidemetest kÃµige varieeruvam. Seppade tÃ¶Ã¶tuppa sisenenu on mittekuuluv, kuna ta on seppade ruumis. Vee allikale tulnud teist elementi theumiit on mittekuuluv, kuna ta ei ole vee elementi. KÃµik allikatest vÃ¤ljas pool elavad on mittekuuluvad neile, kes allikates elavad. 
 
-Üldiselt toimivad sidemed theumiitide vahel. Ent on ka jutte selles, et laia maailma läinud theumiidid neid teiste suhtes rakendavad. Traditsionaalsema suhtumisega theumiidid peavad sellist teguviisi üldiselt kahtlaseks, aga liberaalsemad väidavad et välismaailma tundmata ei ole võimalik midagi saavutada.   
+Ãœldiselt toimivad sidemed theumiitide vahel. Ent on ka jutte selles, et laia maailma lÃ¤inud theumiidid neid teiste suhtes rakendavad. Traditsionaalsema suhtumisega theumiidid peavad sellist teguviisi Ã¼ldiselt kahtlaseks, aga liberaalsemad vÃ¤idavad et vÃ¤lismaailma tundmata ei ole vÃµimalik midagi saavutada.   
 
-Sidemed on tavaliselt theumiidi isiklik asi, aga on sobiv ja kohane nende kohta küsida kui on mingisugune segadus. Üldiselt on enamus sidemetest üsna selged, need moodustuvad kahe isiku kohtumisel. Ent sõprade ja rivaalide kohal on kombekas teisele teada anda, et niiviisi tuntakse. 
+Sidemed on tavaliselt theumiidi isiklik asi, aga on sobiv ja kohane nende kohta kÃ¼sida kui on mingisugune segadus. Ãœldiselt on enamus sidemetest Ã¼sna selged, need moodustuvad kahe isiku kohtumisel. Ent sÃµprade ja rivaalide kohal on kombekas teisele teada anda, et niiviisi tuntakse. 
 
 Teguviis erineb mittekuulujate puhul, neile teatatakse nende staatusest ainult siis kui nad heade kommete vastu eksivad.
 
 **Elukutse**
 
-Sidemetest isegi olulisemaks peetakse elukutset. Ideaalis on igal theumiidil miski, mida nad oskavad ja tahavad hästi teha. Täiskasvanuks saades valivad nad, mis on nende tõeline elukutse. Selle valimata jätmise peale ei vaadata hästi ja nõnda ongi üldiselt nii et oma eluteed mitte veel täpselt otsustanud theumiidid valivad hoopiski laia maailma minna. 
+Sidemetest isegi olulisemaks peetakse elukutset. Ideaalis on igal theumiidil miski, mida nad oskavad ja tahavad hÃ¤sti teha. TÃ¤iskasvanuks saades valivad nad, mis on nende tÃµeline elukutse. Selle valimata jÃ¤tmise peale ei vaadata hÃ¤sti ja nÃµnda ongi Ã¼ldiselt nii et oma eluteed mitte veel tÃ¤pselt otsustanud theumiidid valivad hoopiski laia maailma minna. 
 
-**Elu väljaspool**
+**Elu vÃ¤ljaspool**
 
-Impeeriumis või Vabadel Maadel elavad theumiidid üldiselt nii nagu seda teevad alentid, võimaluste piires. Samuti teevad nad erinevaid töid, kuna allikast pannakse neile kaasa ainult varustus. Neisse suhtutakse erinevalt, on neid, kes võõrastavad nii erinevaid olendeid, ja samas on ka neid kes on väga huvitatud sellest, millised nad on. Kuna nii vähesed neist käivad allikatest väljas, on theumiit väljaspool üsnagi harv nähtus. 
+Impeeriumis vÃµi Vabadel Maadel elavad theumiidid Ã¼ldiselt nii nagu seda teevad alentid, vÃµimaluste piires. Samuti teevad nad erinevaid tÃ¶id, kuna allikast pannakse neile kaasa ainult varustus. Neisse suhtutakse erinevalt, on neid, kes vÃµÃµrastavad nii erinevaid olendeid, ja samas on ka neid kes on vÃ¤ga huvitatud sellest, millised nad on. Kuna nii vÃ¤hesed neist kÃ¤ivad allikatest vÃ¤ljas, on theumiit vÃ¤ljaspool Ã¼snagi harv nÃ¤htus. 
 
 **Seadused ja karistused**
 
-Theumiitidel on oma seadustik, mis on aja jooksul vähe muutunud. Seda hoiavad kroonikud, ja seda viivad täide Austatud. 
+Theumiitidel on oma seadustik, mis on aja jooksul vÃ¤he muutunud. Seda hoiavad kroonikud, ja seda viivad tÃ¤ide Austatud. 
 
-Noore theumiidi pisirikkumisi karistavad üldiselt kas Kasvatajad või Õpetajad. Karistuseks on üldiselt vaba aja heakorratöödega täitmine ja privileegide mõningaks ajaks ära võtmine.
+Noore theumiidi pisirikkumisi karistavad Ã¼ldiselt kas Kasvatajad vÃµi Ã•petajad. Karistuseks on Ã¼ldiselt vaba aja heakorratÃ¶Ã¶dega tÃ¤itmine ja privileegide mÃµningaks ajaks Ã¤ra vÃµtmine.
 
-Suuremate rikkumiste nagu teise ründamine, varastamine või valetamine karistamise üle otsustavad Austatud. Üldiselt määratakse ka siin pikalt heakorratöid. Samuti võetakse kahjutasuks ära enamus isiklikust varast. Esineb ka häbimärgistamist. 
+Suuremate rikkumiste nagu teise rÃ¼ndamine, varastamine vÃµi valetamine karistamise Ã¼le otsustavad Austatud. Ãœldiselt mÃ¤Ã¤ratakse ka siin pikalt heakorratÃ¶id. Samuti vÃµetakse kahjutasuks Ã¤ra enamus isiklikust varast. Esineb ka hÃ¤bimÃ¤rgistamist. 
 
-Suurimad kuritööd on mõrv ja reetmine. Siis kutsutakse kokku Juhtide Kogu, kes teeb oma otsuse. Tavaliselt on selleks surm, mis on määratud koheseks täideviimiseks. Ajalooliselt harrastati ka kurjategija võimete kammitsemist, aga selline karistus lõppes tihti karistatu hullumisega. Sellised juhtumid on harvad ja nendest ei taheta rääkida. 
+Suurimad kuritÃ¶Ã¶d on mÃµrv ja reetmine. Siis kutsutakse kokku Juhtide Kogu, kes teeb oma otsuse. Tavaliselt on selleks surm, mis on mÃ¤Ã¤ratud koheseks tÃ¤ideviimiseks. Ajalooliselt harrastati ka kurjategija vÃµimete kammitsemist, aga selline karistus lÃµppes tihti karistatu hullumisega. Sellised juhtumid on harvad ja nendest ei taheta rÃ¤Ã¤kida. 
