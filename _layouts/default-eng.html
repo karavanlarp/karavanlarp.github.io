@@ -9,12 +9,17 @@
 		<script>
 			function dropWorld() {
 				hideDropdownContents();
-				document.getElementById("woldDropdown").classList.toggle("show");
+				//document.getElementById("woldDropdown").classList.toggle("show");
 			}
 			
 			function dropPractical() {
 				hideDropdownContents();
-				document.getElementById("practicalDropdown").classList.toggle("show");
+				//document.getElementById("practicalDropdown").classList.toggle("show");
+			}
+			
+			function dropReg() {
+				hideDropdownContents();
+				//document.getElementById("regDropdown").classList.toggle("show");
 			}
 			
 			function hideDropdownContents() {
@@ -50,7 +55,7 @@
 		</header>
 
 		<div id="content">
-			{{ content }}
+			{{ page.title }}
 		</div>
 		
 	</body>
