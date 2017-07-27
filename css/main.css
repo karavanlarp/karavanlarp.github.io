@@ -123,6 +123,10 @@ li {
 		margin: 0;
 	}
 	
+	.dropbtn {
+		font-size: 0.8em;
+	}
+	
 	.dropdown-content {
 		min-width: initial;
 	}
