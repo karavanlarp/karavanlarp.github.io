@@ -55,8 +55,16 @@
 		</header>
 		
 		<div id="content">
+			<div style="float: right;">
+				{% for image in page.images %}
+				{% assign image_url = site.url | append: '/' | append: image %}
+				<a href="{{ image_url }}">
+					<img src="{{ image_url }}" style="max-width: 15em; margin: 1em"></img>
+				</a>
+				{% endfor %}
+			</div>
+
 			{{ content }}
 		</div>
-		
 	</body>
 </html>
