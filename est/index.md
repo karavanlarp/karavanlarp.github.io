@@ -1,5 +1,5 @@
 ---
-layout: default-est
+layout: default-fb-est
 title: Karavan LARP
 images:
 - img/gallery/Fyerellal_4_40.JPG

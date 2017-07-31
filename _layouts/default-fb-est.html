@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" type="text/css" href="../../css/main.css">
+		<link href="https://fonts.googleapis.com/css?family=Kurale" rel="stylesheet"> 
+		
+		<script>
+			function dropWorld() {
+				hideDropdownContents();
+				document.getElementById("woldDropdown").classList.toggle("show");
+			}
+			
+			function dropPractical() {
+				hideDropdownContents();
+				document.getElementById("practicalDropdown").classList.toggle("show");
+			}
+			
+			function dropReg() {
+				hideDropdownContents();
+				document.getElementById("regDropdown").classList.toggle("show");
+			}
+			
+			function hideDropdownContents() {
+				var drops = document.getElementsByClassName("dropdown-content");
+				var idx;
+				for (idx = 0; idx < drops.length; idx++) {
+					drops[idx].classList.remove('show');
+				}
+			}
+
+			window.onclick = function(event) {
+			  if (!event.target.matches('.dropbtn')) {
+
+				var dropdowns = document.getElementsByClassName("dropdown-content");
+				var i;
+				for (i = 0; i < dropdowns.length; i++) {
+				  var openDropdown = dropdowns[i];
+				  if (openDropdown.classList.contains('show')) {
+					openDropdown.classList.remove('show');
+				  }
+				}
+			  }
+			}
+		</script>
+	</head>
+	
+	<body>		
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/et_EE/sdk.js#xfbml=1&version=v2.10";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
+
+		<header id="header">
+			<div class="innertube">
+				{% include nav-est.html %}
+			</div>
+		</header>
+		
+		<div id="content">
+			<div style="float: right;">
+				{% for image in page.images %}
+				{% assign image_url = site.url | append: '/' | append: image %}
+				<a href="{{ image_url }}">
+					<img src="{{ image_url }}" style="max-width: 15em; margin: 1em"></img>
+				</a>
+				{% endfor %}
+			</div>
+
+			{{ content }}
+			
+			<div style="margin-top: 10px">
+				<div class="fb-page" data-href="https://www.facebook.com/karavanLARP" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/karavanLARP" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/karavanLARP">Karavan LARP</a></blockquote></div>
+			</div>
+		</div>
+	</body>
+</html>
