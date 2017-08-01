@@ -106,6 +106,10 @@ img {
 	margin: auto;
 }
 
+.img-inline {
+	display: inline;
+}
+
 li {
 	color: #331a00;
 }
