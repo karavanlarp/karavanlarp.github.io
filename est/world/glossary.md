@@ -20,7 +20,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Algelement (First element)** - Element ja materjal, millest on tulnud kõik teised elemendid. Impeeriumis: apeiron, Vabadel Maadel: galdar. 
 * **Alger** - Impeeriumi pikim jõgi, selle sisemere poolses otsas asub Rhaentium.
 * **Alguste Isand (Lord of Beginnings)** -  Üks Darsilise tiitlitest. 
-* **Alix** - Turahani hõimust. Vabade Maade praegune kuningas. 
+* **Alix** * - Turahani hõimust. Vabade Maade praegune kuningas. 
 * **Allikas (Source)** - Theumiitide sünni- ja elukoht. Mitmus ‘allikad’.
 * **Almith** - Varjutheumiitide esindaja Vabadel Maadel. 
 * **Altar** - Jumala pühapaik, tihti ise tekkinud. 
