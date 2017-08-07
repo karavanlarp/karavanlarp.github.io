@@ -293,7 +293,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Raskami** - Impeeriumi maakonna Talmekari pealinn. 
 * **Raun, Püha (Saint Raun)** - Rhaentiumi kaitsepühak Impeeriumis. 
 * **Razen** - Theumiitide tuleelemendi allikas Impeeriumis.
-* **Relagin II** - Impeeriumi praegune keiser. 
+* **Relagin II** * - Impeeriumi praegune keiser. 
 * **Renek** - Impeeriumi maakond. 
 * **Rhaente** - Impeeriumi territoorium. 
 * **Rhaentium** - Impeeriumi pealinn. 
