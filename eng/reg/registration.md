@@ -6,7 +6,7 @@ title: Karavan LARP
 
 [Here](https://docs.google.com/forms/d/1rWLcxs9qTWRxCqIBn1W24DC5QsLv7UEQy56FUxnnlco) you can pre-register for the game. 
 
-[Here](Karavan I: Alguse link) is more information about the upcoming event. 
+[Here](https://karavanlarp.github.io/eng/events/beginning.html) is more information about the upcoming event. 
 
 We will send you payment information and once you we have received your payment, you have registered for the event. Please keep in mind we will not be able to return your payment after the payment deadline. 
 
