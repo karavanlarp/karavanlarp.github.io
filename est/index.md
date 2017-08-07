@@ -17,4 +17,4 @@ Karavani sarja tegevus toimub Theuma mandril, kus paikneb Bütsantsist inspireer
 
 ### Mängust
 
-Usume, et parim mängukogemus valmib mängijate ja mängujuhtide ühise koostööna. Seepärast soovime teada Sinu ootusi ja soove mängu osas. Karavan loob keskkonna, kus on võimalik nautida mõnusat olustikku, osaleda põnevatel seiklustel või hoopis avastada maailma saladusi. Oma osa mängivad ka Karavaniga reisivate tegelaste suhted.  NB! Karavan ei ole LARP, mille temaatikaks on sügavad intriigid, väga tugevad emotsioonid või muu äärmuslik.
+Usume, et parim mängukogemus valmib mängijate ja mängujuhtide ühise koostööna. Seepärast soovime teada Sinu ootusi ja soove mängu osas. Karavan loob keskkonna, kus on võimalik nautida mõnusat olustikku, osaleda põnevatel seiklustel või hoopis avastada maailma saladusi. Oma osa mängivad ka Karavaniga reisivate tegelaste suhted.  
