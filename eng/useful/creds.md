@@ -17,6 +17,7 @@ _Website fairy_
 Maarja has created two larp series and many small experimental larps. In the Caravan team she is the main wrangler of the website. In real life she writes code and pokes computers. Her hobbies include books, board games and writing. 
 
 **Siim**
+
 _Larp engineer_
 
 Siim has also organised larps before (a fantasy series and a few sci-fi themed larps). Siim is responsible for turning Caravan into a game: he works on rules and designing game mechanics. In real life Siim studies mathematical statistics and gene technology in university. His hobbies are martial arts, hiking and board games. 
@@ -34,23 +35,3 @@ Siim has also organised larps before (a fantasy series and a few sci-fi themed l
 **Other helpers:**
 * Ghost
 * Raigo
-
-
-
-
-### Who We Are
-
-If you have any questions, please contact us at the address: karavanlarp@gmail.com
-
-The game masters:
-* Maarja Lutsar
-* Mona Hakomaa
-* Siim Kurvits
-
-Assistants:
-* Birgit Teemäe
-* Dani
-* Iti
-* Martin Kirotar
-* Miina Liias
-* Raigo Aljand
