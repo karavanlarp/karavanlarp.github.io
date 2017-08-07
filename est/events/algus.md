@@ -34,7 +34,7 @@ Karavani larpi-seeria esimene mäng: Algus.
 
 **Millal?** 
 
-23-24 september. Mäng ise toimub laupäeva lõunast laupäeva hilisõhtuni. 
+23-24 september 2017. Mäng ise toimub laupäeva lõunast laupäeva hilisõhtuni. 
 
 **Kus?** 
 
