@@ -14,6 +14,6 @@ Vastuseks saadame tegelasankeedi ja infoankeedi. Esimene on tegelase loomiseks j
 
 Maailmainfos on olemas kõik vajalik informatsioon tegelase loomiseks, aga kui aega napib on võimalik tutvuda pelgalt lühitutvustusega ja valida eel-loodud tegelane.
  
-Kui oleme saanud täidetud tegelasankeedi, koostame teile tegelase lehe, kus on kirjas tema informatsioon, oskused ja igasugune lisainfo mida tal võib mängus vaja minna. Sellele lehele võite ka ise muudatusi teha, kui on vaja. 
+Kui oleme saanud täidetud tegelasankeedi, koostame teile tegelase lehe, kus on kirjas tema informatsioon, oskused ja igasugune lisainfo, mida tal võib mängus vaja minna. Sellele lehele võite ka ise muudatusi teha, kui on vaja. 
 
 NPCde puhul on protsess veidi teistsugune, pärast maksmist saadame teile informatsiooni võimalike NPCde rollide kohta ja muud teavet.
