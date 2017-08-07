@@ -18,6 +18,12 @@
 		</header>
 
 		<div id="content">
+			<div class="right-content">
+				{% if page.right_content != nil %}
+				{{ page.right_content | markdownify }}
+				{% endif %}
+			</div>
+
 			{{ content }}
 		</div>
 		

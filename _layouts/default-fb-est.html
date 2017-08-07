@@ -27,17 +27,14 @@
 		</header>
 		
 		<div id="content">
-			<div style="float: right;">
-				{% for image in page.images %}
-				{% assign image_url = site.url | append: '/' | append: image %}
-				<a href="{{ image_url }}">
-					<img src="{{ image_url }}" style="max-width: 15em; margin: 1em"></img>
-				</a>
-				{% endfor %}
+			<div class="right-content">
+				{% if page.right_content != nil %}
+				{{ page.right_content | markdownify }}
+				{% endif %}
 			</div>
 
 			{{ content }}
-			
+
 			<div style="margin-top: 10px">
 				<div class="fb-page" data-href="https://www.facebook.com/karavanLARP" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/karavanLARP" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/karavanLARP">Karavan LARP</a></blockquote></div>
 			</div>
