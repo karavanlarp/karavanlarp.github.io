@@ -110,7 +110,7 @@ Nad moodustavad suure enamuse ehk 95% Theuma rahvastikust. Nende alaliigid (ehk 
 
 **Omadused:**
 
-Alentid ei ole sündides maagilised nagu theumiidid. Nad saavad aga kasutada jumalate maagiat ja valemimaagiat. Nad on füüsiliselt ja vaimselt vastupidavad. Elu jooksul võivad nad muutuda vulveriks või pärast surma moroiaks või lagaariks. Samuti saab alenti hinge kasutada serviili loomiseks. (Sellest pikemalt muude olendite artiklis). 
+Alentid ei ole sündides maagilised nagu theumiidid. Nad saavad aga kasutada jumalate maagiat, apeiromantiat ja ruunikunsti. Nad on füüsiliselt ja vaimselt vastupidavad. Elu jooksul võivad nad muutuda vulveriks või pärast surma moroiaks või lagaariks. Samuti saab alenti hinge kasutada serviili loomiseks. (Sellest pikemalt muude olendite artiklis). 
 
 Mõned alentid on sünnist saadik vanaverelised. See annab neile veidi teistsuguse välimuse, kiirema taastumisvõime ja mõnikord ka muid omadusi. Samuti on neil võrreldes teiste muutunutega erinev ühiskondlik positsioon (sellest pikemalt Impeeriumi ja Vabade Maade artiklites).  
 
@@ -180,7 +180,7 @@ Theumal elab peale alentide ja theumiitide veel igasuguseid erinevaid olendeid. 
 
 **Serviilid (e. konstruktid):** (serviles/constructs) *(ei ole mängitav rass)*
 
-Serviil on valemimaagia abil loodud olend, mille valmistamisel ankurdatakse kas looma või alenti hing apeironit kasutades metallist või kivist kesta. Väike kogus apeironit on kui serviili süda ning see teeb kesta kasutamise võimalikuks. Hinge kesta asetamise täpseid protsesse teavad vähesed. 
+Serviil on apeiromantia abil loodud olend, mille valmistamisel ankurdatakse kas looma või alenti hing apeironit kasutades metallist või kivist kesta. Väike kogus apeironit on kui serviili süda ning see teeb kesta kasutamise võimalikuks. Hinge kesta asetamise täpseid protsesse teavad vähesed. 
 
 Kuigi nad on apeironi abil loodud, ei oska serviilid ise maagiat kasutada. Nende iseloom ja vaimne võimekus sõltub serviili sisse asetatud hingest. 
 
@@ -279,10 +279,10 @@ Vabade Maade panteon:
 
 * **Ban-Mawr** - kaos, veri, lubadused. Mõjualas antud lubadused seovad lubajaid.
 * **Lir-Neth** - surm, nägemused. Mõjualas olijad võivad saada nägemusi ja/või jääda pimedaks, surijad surevad silmapilkselt.
-* **Nal-Mat** - jaht, raev. Mõjualas olevad vulverid võivad raevuda ja/või loomkuju võtta. 
 * **Vael-Ser** - öö, trikid. Mõjualas muutuvad tõenäosusseadused.
-* **Rhen-Apa** - mets, esivanemad. Mõjualas tärkavad kõigist puitesemetest võrsed, võib kuulda esivanemate hääli.
 * **Arim-Wol** - stabiilsus, küllus. Mõjualas võivad asjad mitmekordistuda ja pillid ise mängima hakata.
+* **Nal-Mat** - jaht, raev. Mõjualas olevad vulverid võivad raevuda ja/või loomkuju võtta. 
+* **Rhen-Apa** - mets, esivanemad. Mõjualas tärkavad kõigist puitesemetest võrsed, võib kuulda esivanemate hääli.
 * **Zer-Nim** - lagunemine, häving. Mõjualas võib lagunemisprotsess kiireneda, toit rikneb kergelt, haavad hakkavad uuesti veritsema, kaitseloitsud purunevad, moroiad hakkavad nähtavalt lagunema. 
 * **Eil-Gann** - liikumine, valgus. Mõjualas puhuvad tuuled, ükski tuli ei kustu.
 
