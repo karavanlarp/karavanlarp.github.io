@@ -2,8 +2,7 @@
 layout: default-eng
 title: Karavan LARP
 ---
-
-## Caravan I: Beginning
+### Caravan I: Beginning
 
 _The port town of Aren is always full of people. It is easy to get lost in here and even easier to lose your wallet._
 
