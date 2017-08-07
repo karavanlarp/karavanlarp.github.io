@@ -22,14 +22,14 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Alguste Isand (Lord of Beginnings)** -  Üks Darsilise tiitlitest. 
 * **Alix** * - Turahani hõimust. Vabade Maade praegune kuningas. 
 * **Allikas (Source)** - Theumiitide sünni- ja elukoht. Mitmus ‘allikad’.
-* **Almith** - Varjutheumiitide esindaja Vabadel Maadel. 
+* **Almith** * - Varjutheumiitide esindaja Vabadel Maadel. 
 * **Altar** - Jumala pühapaik, tihti ise tekkinud. 
 * **Ametnik** - Impeeriumi asjaajaja, bürokraatia esindaja. 
 * **Amite** - Theumiitide varjuelemendi allikas Impeeriumis.
 * **Andrelos I** - Impeeriumi esimene keiser. 
 * **Andrelos IX** - Impeeriumi keiser, kehtestas piirangud apeironi kasutamisele. 
 * **Areun** - Vabade Maade hõim.
-* **Argis Leidja** - Xeniti hõimu hetkeline pealik. 
+* **Argis Leidja** * - Xeniti hõimu hetkeline pealik. 
 * **Aora** - Lisajõgi Impeeriumis.
 * **Apeiromantia (Apeiromancy)** - Impeeriumi maagia, mis kasutab algelementi. 
 * **Apeiron** - Impeeriumi termin algelemendile. 
@@ -61,12 +61,12 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 
 ### D 
 
-* **Dager Jõehunt** - Turahani hõimu hetkeline pealik. 
+* **Dager Jõehunt** * - Turahani hõimu hetkeline pealik. 
 * **Darais** - Vabade Maade hõim.
 * **Darsilis** - Impeeriumi elujumal. 
 * **Darithi Leegion** - Sõjavangidest ja moroiadest koosnev Impeeriumi Leegion. 
 * **Dermen** - Isemaa pealinn. 
-* **Desaur** - Tuletheumiitide esindaja Vabadel Maadel. 
+* **Desaur** * - Tuletheumiitide esindaja Vabadel Maadel. 
 * **Dethan** - Theumiitide õhuelemendi allikas Impeeriumis.
 * **Dimzarien** - Legendaarne valgusetheumiit alenti-theumiidi sõja aegadelt. 
 * **Droat** - Theumiitide valguseelemendi allikas Vabadel Maadel. 
@@ -93,7 +93,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Faen** - Magari hõimust. Vabade Maade kuningas. 
 * **Fareisi Leegion** - Impeeriumi kuulus Leegion. 
 * **Fillan, Püha (Saint Fillan)** - Õpetajate kaitsepühak Impeeriumis. 
-* **Formanet** - Õhutheumiitide esindaja Impeeriumis. 
+* **Formanet** * - Õhutheumiitide esindaja Impeeriumis. 
 
 ### G
 
@@ -102,7 +102,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 ### H
 
 * **Helet** - Vabade Maade hõim.
-* **Hesiar** - Valgusetheumiitide esindaja Impeeriumis. 
+* **Hesiar** * - Valgusetheumiitide esindaja Impeeriumis. 
 * **Hetse** - Küllamaa pealinn. 
 * **Hõbe (Silver)** - Vabade Maade teiseks kalleim rahavääring.
 * **Hõim** - Vabade maade suurim ühiskonnaüksus. 
@@ -112,7 +112,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 
 * **Iante saar** - Mägine saar Talmekari poolsaare lähedal, Impeeriumis. 
 * **Idavahid** - Vabade Maade idapoolseim punkt.
-* **Ilimenil** - Veetheumiitide esindaja Impeeriumis. 
+* **Ilimenil** * - Veetheumiitide esindaja Impeeriumis. 
 * **Ilmasüvik (Deep of the World)** - Mandri kõige sügavam punkt, mille lõpus elavad Vabade Maade jumalad ja nende teenrid.
 * **Ilsippus, Püha (Saint Ilsippus)** - Sõjaveteranide kaitsepühak.
 * **Ilvoed** - Vabade Maade hõim.
@@ -124,7 +124,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Irvald** - Koodeksi loonud Vabade Maade kuningas. 
 * **Isemaa (Braveland)** - Üks Vabadest Maadest. 
 * **Isera** - Jõgi Impeeriumis. 
-* **Iser Teenäitaja** - Areuni hõimu hetkeline pealik. 
+* **Iser Teenäitaja** * - Areuni hõimu hetkeline pealik. 
 * **Ithen** - Sumemaa pealinn. 
 
 ### J
@@ -144,7 +144,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Kalath** - Impeeriumi maakond.
 * **Kalender** - Ühine kalender üle terve mandri. Aastas 12 kuud, nädalas 8 päeva. 
 * **Kaljumaa (Cliffland)** - Üks piirimaadest Vabadel Maadel. 
-* **Kalzaran** - Tuletheumiitide esindaja Impeeriumis. 
+* **Kalzaran** * - Tuletheumiitide esindaja Impeeriumis. 
 * **Kangemaa (Strongland)** - Üks piirimaadest Vabadel Maadel. 
 * **Kaotuse Tuul (Wind of Loss)** - Üks Lir-Nethi tiitlitest. 
 * **Karis** - Theumiitide maaelemendi allikas Impeeriumis.
@@ -215,8 +215,8 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Majandusnõukogu (Economy Council)** - Majandusega tegelev instants Impeeriumis. 
 * **Malakhim** - Impeeriumi korra ja seaduste jumal, panteoni juht. 
 * **Malenim** - Maatheumiitide esindaja Impeeriumis. 
-* **Mallend Väike** - Lofni hõimu hetkeline pealik. 
-* **Maras Vimmjalg** - Salessi hõimu hetkeline pealik. 
+* **Mallend Väike** * - Lofni hõimu hetkeline pealik. 
+* **Maras Vimmjalg** * - Salessi hõimu hetkeline pealik. 
 * **Marene** - Impeeriumi maakonna Durrase pealinn. 
 * **Matrin III** - Impeeriumi keiser, püüdis Vabade Maadega rahu sõlmida. 
 * **Melmir** - Impeeriumi maakond.
@@ -249,7 +249,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 
 * **Ommel** - Kaljumaa pealinn. 
 * **Ordu** - Mõne pühaku eeskuju järgiv grupeering Impeeriumis. 
-* **Orilik** - Varjutheumiitide esindaja Impeeriumis. 
+* **Orilik** * - Varjutheumiitide esindaja Impeeriumis. 
 * **Orophi Leegion** - Kuulus Impeeriumi Leegion. 
 * **Orumaa (Valleyland)** - Üks Vabadest Maadest. 
 
@@ -260,8 +260,8 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Pealik, hõimu (Chief, tribe)** - Hõimu juht. 
 * **Pealik, klanni (Chief, clan)** - Klanni juht. 
 * **Peidetud Teadmine (Hidden Knowledge)** - Üks Vael-Seri tiitlitest. 
-* **Peleias Lardon** - Hetkeline Impeeriumi strategos. 
-* **Peran Tuulevaht** - Skara hõimu hetkeline pealik. 
+* **Peleias Lardon** * - Hetkeline Impeeriumi strategos. 
+* **Peran Tuulevaht** * - Skara hõimu hetkeline pealik. 
 * **Perein** - Impeeriumi maakond.
 * **Phaleia, Püha (Saint Phaleia)** - Arstide kaitsepühak Impeeriumis. 
 * **Piirimaa (Borderland)** - Vabade Maade osa piirialast. 
@@ -298,7 +298,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Rhaente** - Impeeriumi territoorium. 
 * **Rhaentium** - Impeeriumi pealinn. 
 * **Rhaentiumi Ülikool** - Mandri vanim ülikool. 
-* **Rhaiken** - Õhutheumiitide esindaja Vabadel Maadel. 
+* **Rhaiken** * - Õhutheumiitide esindaja Vabadel Maadel. 
 * **Rhen-Apa** - Vabade Maade metsa ja esivanemate jumal. 
 * **Rigan** - Brigi hõimust. Vabade Maade kuningas. 
 * **Rivaal (Rival)** - Üks theumiitide sidemetest, kirjeldab kahe isiku vahelist konkureerivat suhet. 
@@ -355,7 +355,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Temmir** - Areuni hõimust. Vabade Maade kuningas. 
 * **Tempel** - Jumalale pühendatud ehitis. 
 * **Terhent** - Impeeriumi sõjajumal. 
-* **Teria Vilgasmeel** - Heleti hõimu hetkeline pealik. 
+* **Teria Vilgasmeel** * - Heleti hõimu hetkeline pealik. 
 * **Theoleia** - Impeeriumi maakonna Reneki pealinn. 
 * **Theuma** - Manner, kus toimub mängusarja tegevus. 
 * **Theumiidid (Theumites)** - Theuma algsed elanikud. Ainsus ‘theumiit’, omadussõna ‘theumiidi’.
@@ -370,7 +370,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 
 ### U
 
-* **Ualeth** - Maatheumiitide esindaja Vabadel Maadel. 
+* **Ualeth** * - Maatheumiitide esindaja Vabadel Maadel. 
 * **Udukuru (Mist Pass)** - Taevamäestiku ainuke läbipääsetav punkt. 
 * **Udumaa (Mistland)** - Üks Vabadest Maadest. 
 * **Ulgusaared** - Apeironirikkad saared Vabadel Maadel. 
@@ -411,7 +411,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Vigurdaja (The Trickster)** - Üks Vael-Seri tiitlitest. 
 * **Viimane Valvur (Last Guardian)** - Üks Rhen-Apa tiitlitest. 
 * **Vinte** - Tuultemaa pealinn. 
-* **Vishalla** - Veetheumiitide esindaja Vabadel Maadel. 
+* **Vishalla** * - Veetheumiitide esindaja Vabadel Maadel. 
 * **Vognar** - Xeniti hõimust. Vabade Maade kuningas. 
 * **Vulver (Wulver)** - Loomkuju võttev alenti. 
 * **Vägi/jõud (Force/power)** - Loodusseadusi eiravad maagilised energiavood. 
@@ -439,18 +439,18 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 
 * **Warul** - Theumiitide veeelemendi allikas Impeeriumis. 
 * **Waruli järv** - Suur järv Impeeriumis. 
-* **Wolan Ööjälitaja** - Brigi hõimu hetkeline pealik. 
+* **Wolan Ööjälitaja** * - Brigi hõimu hetkeline pealik. 
 
 ### X
 
-* **Xagha Sinilaup** - Ilvoedi hõimu hetkeline pealik. 
+* **Xagha Sinilaup** * - Ilvoedi hõimu hetkeline pealik. 
 * **Xaghol** - Valgusetheumiitide esindaja Vabadel Maadel. 
 * **Xenit** - Vabade Maade hõim.
 * **Xerean IV** - Impeeriumi keiser, usule pühendunud. 
 
 ### Y
 
-* **Yaner Osav** - Noraki hõimu hetkeline pealik. 
+* **Yaner Osav** * - Noraki hõimu hetkeline pealik. 
 * **Yriel, Püha (Saint Yriel)** - Katku surnute kaitsepühak Impeeriumis. 
 
 ### Z
