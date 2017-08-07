@@ -181,4 +181,4 @@ Siit leiab need mõtted, mis eraldi peatükki ei vääri.
 * Enne mängule tulekut mõtle välja, mida sinu tegelane mängu ajal saavutada soovib, mõtle, milleks ta sinna kohale tuleb, kas kaupa tegema, pidutsema, suhteid sõlmima või näiteks abi otsima. Mõnikord sõidab aga mängujuhtide väljamõeldu sinu tegevusest üle ja tuleb olla valmis olukorda ümber hindama.
 * Ära käi pimedas üksi kondamas. Igas hämaramas nurgas on üks pistodaga poisike või vaenulikult meelestatud röövel.
 
-* Kogu tekst on kasutatav litsentsi [Creative Commons Attribution-Share Alike 3.0](http://www.dragon.ee/lohewiki/Kasutustingimused) tingimustel
+Kogu tekst on kasutatav litsentsi [Creative Commons Attribution-Share Alike 3.0](http://www.dragon.ee/lohewiki/Kasutustingimused) tingimustel
