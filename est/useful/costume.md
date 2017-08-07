@@ -80,7 +80,7 @@ Vulveri loomakuju peab olema teistele mängijatele selgelt nähtav ja arusaadav.
 
 ### Theumiidid: 
 
-![Theumiidid](https://karavanlarp.github.io/img/theumitelineup2.png)
+![Theumiidid](https://karavanlarp.github.io/img/theumitelineup3.png)
 
 (valguse sepp, varjude ravitseja, tule sõdalane, vee maag, õhu varas, maa teadur)
 
