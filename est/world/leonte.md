@@ -42,7 +42,7 @@ Sündmusi:
 * 1931 - Durrase lõunaosas plahvatab tõenäoliselt apeironi rafineerimistehas. Kahtlustatakse Vabade Maade poolset sabotaaži. Hukkunute arv on teadmata. Ala on siiamaani suletud. 
 * 2076 - Pärast mitmeid võite Vabade Maade vastu Kaljumaa põhjaosas kaob terve Fareisi Leegion jäljetult. Leegioni pole siiamaani leitud.
 * 2143 - Äärmiselt viljakas aasta, saaki on nii palju, et osa sellest läheb raisku. 
-* 2495 - Talmekari apeironikaevandused on peaaegu tühjad, kehtestatakse tariifid ja piirangud apeironi kasutamisele. 
+* 2595 - Talmekari apeironikaevandused on peaaegu tühjad, kehtestatakse tariifid ja piirangud apeironi kasutamisele. 
 * 2599 - Keiser Andrelos IX nurjab tema vastu kavandatud atentaadi ja laseb asjaosalised hukata. 
 * 2614 - Üle kogu Impeeriumi mässavad kuudepikkused seletamatud tormid. Tuhanded kodanikud jäävad koduta, sajad hukkuvad. 
 * 2785 - Paljastatakse theumiitide vandenõu keisri vastu. Väljaspool allikaid elavad theumiidid kogevad ebameeldivat tähelepanu, kuni selgub, et ründaja tegutses üksi. 
@@ -61,8 +61,8 @@ Lähiminevik:
 
 Viimased keisrid: 
 
-* 2549 - 2585: Zalagos VII, suur reformaator, muuhulgas ühtlustas mõõdu-ja kaalustandardeid kaubavahetuste lihtsustamiseks Impeeriumi maakondade vahel. Suri vanadusse. 
-* 2585 - 2614: Andrelos IX, piiras oluliselt apeironi kasutamist 
+* 2549 - 2585: Zalagos VII, suur reformaator, muuhulgas ühtlustas mõõdu-ja kaalustandardeid kaubavahetuste lihtsustamiseks Impeeriumi maakondade vahel. 
+* 2585 - 2614: Andrelos IX, piiras oluliselt apeironi kasutamist. 
 * 2614 - 2647: Matrin III, püüdis tulutult Vabade Maadega rahu sõlmida.
 * 2647 - 2691: Jarail I, märgiliselt ei sündinud Valituna, aga läbis siiski katsed mõned aastad pärast Valituks saamist. 
 * 2691 - 2723: Lahin V, suri kahtlastel asjaoludel. 
@@ -78,7 +78,7 @@ Impeerium on jaotatud kümneks piirkondliku pealinnaga maakonnaks. Impeeriumi pe
 
 **Maakonnad:**
 
-* **Rhaente** (pealinn Rhaentium) - väike maakondadest eraldi seisev eriõigustega territoorium, mis hõlmab endas Algeri jõe suuet ja Rhaentiumi ennast. Rhaentium on tuntud kui kõige ilusam linn terves ilmas. Seal on esindatud impeeriumi mitmekesisus, seal asuvad gildide peakorterid ja riiklike asutuste kõrgeimad organid. Seal elavad ka alaliselt keiser ja tema kaaskond. 
+* **Rhaente** (pealinn Rhaentium) - Väike maakondadest eraldi seisev eriõigustega territoorium, mis hõlmab endas Algeri jõe suuet ja Rhaentiumi ennast. Rhaentium on tuntud kui kõige ilusam linn terves ilmas. Seal on esindatud impeeriumi mitmekesisus, seal asuvad gildide peakorterid ja riiklike asutuste kõrgeimad organid. Seal elavad ka alaliselt keiser ja tema kaaskond. 
 * **Katam** (pealinn Ironet) - *Üks piirimaakondadest.* Elas aastaid tagasi üle katku, mis hävitas rohkem kui poole elanikkonnast, aga on nüüdseks sellest taastunud. Siiski on maakonnas veel alasid, kuhu edikti järgi on keelatud siseneda. 
 * **Renek** (pealinn Theoleia) - *Üks piirimaakondadest.* Oli hiljuti mõnda aega vabamaalaste poolt okupeeritud, aga on nüüdseks vabastatud. Tuntud oma käsitöö poolest. 
 * **Durras** (pealinn Marene) - *Üks piirimaakondadest.* Seal asub õhutheumiitide allikas Dethan. 
@@ -90,14 +90,14 @@ Impeerium on jaotatud kümneks piirkondliku pealinnaga maakonnaks. Impeeriumi pe
 * **Kalath** (pealinn Lomor) - Kalathi marmor on tuntud kui kõige eksklusiivsem ja kallim ehitusmaterjal. Sellest on ehitatud keisripalee ja enamus suurtemplitest.
 * **Melmir** (pealinn Aethil) - Tuntud kaunite loodusvaadete poolest; kõige külastatum maakond ja selle tõttu üsnagi rikas. Matk mööda Isera jõge on kuulduste järgi üks kaunimaid kogemusi terves Impeeriumis. 
 
-Muud punktid:
+**Muud punktid**:
 
 * Alger - Impeeriumi pikim jõgi, selle sisemere poolses otsas asub Rhaentium.
-* Allikad - Asuvad üle kogu Impeeriumi. Tuli - Razen, Warul - vesi, Õhk - Dethan, Maa - Karis, Valgus - Saqad, Vari - Amite 
-Athise metsandik - Estendaris asuv üks Impeeriumi suurimaid metsandikke. 
-* Aren - Maapiiri lõunapunkti tekkinud küla, kus toimub elav kaubavahetus. Sealt lahkuvad ja saabuvad nii karavanid kui ka laevad. 
+* Allikad - Asuvad üle kogu Impeeriumi. Tuli - Razen, Vesi - Warul, Õhk - Dethan, Maa - Karis, Valgus - Saqad, Vari - Amite 
 * Aora - Elishi jõe lisajõgi. 
-* Berasi kuru - Kethari mäestiku keskel asuv kuru, mis on ainuke läbipääsukoht Talmekari poolsaarele. 
+* Aren - Maapiiri lõunapunkti tekkinud linn, kus toimub elav kaubavahetus. Sealt lahkuvad ja saabuvad nii karavanid kui ka laevad. 
+* Athise metsandik - Estendaris asuv üks Impeeriumi suurimaid metsandikke. 
+* Berazi kuru - Kethari mäestiku keskel asuv kuru, mis on ainuke läbipääsukoht Talmekari poolsaarele. 
 * Elish - Impeeriumi veerikkaim jõgi. 
 * Iante saar - Mägine saar Talmekari poolsaare lähedal. Seal asub nimetu kindlus, mis on aegade jooksul mitmete kuulujuttude ja legendide inspiratsiooniks olnud.
 * Isera - Enamvähem mööda Melmiri ja Pereini piiri jooksev jõgi. 
@@ -106,12 +106,12 @@ Athise metsandik - Estendaris asuv üks Impeeriumi suurimaid metsandikke.
 * Kauza saarestik - Estendarist läänes asuv saarestik, kus on kõige sagedamini näha meremadusid. Kohalikud tegelevadki peamiselt nende ja muude mereolendite püüdmisega. Meremadude liha on mandrirahva jaoks eksootiline toit, lisaks on meremadude luudest ning nahast valmistatud käsitööesemed kõrgelt hinnas. 
 * Kethari mäestik - Talmekari kaheks jaotav kõrge mäestik. Mäestikku lõhestab läbikäidav Berasi kuru. 
 * Lotuni mäestik - Katami rannikul asuv mäestik. Kuskil selle keskel asub maatheumiitide allikas Karis. 
-* Nemeria - Impeeriumi ametlik termin Vabade Maade kohta. Vabade Maade rahvaid nimetatakse nemeerideks. Tähendab “mässulised”. Viimasel ajal püütakse seda terminit vältida, sest see pole enam poliitiliselt korrektne. 
+* Nemeeria - Impeeriumi ametlik termin Vabade Maade kohta. Vabade Maade rahvaid nimetatakse nemeerideks. Tähendab “mässulised”. Viimasel ajal püütakse seda terminit vältida, sest see pole enam poliitiliselt korrektne. 
 * Nohan - Talmekari pealinna Raskamit läbiv lai jõgi. 
 * Orili metsandik - Kunagi kaunis ja igihaljas, kuid pärast Katamit tabanud katku pole metsandik enam see, mis enne.
 * Piir - Tsoon, mis ulatub mõnedkümned kilomeetrid ametlikest piirimärkidest impeeriumi sisemaa poole. Sarnaselt Rhaentele mõningate seadusandluslike eranditega piirkond. 
 * Selagi meri - Theuma keskel asuv sisemeri. 
-* Telit - Maapiiri põhjapunkti tekkinud küla, kus sarnaselt Arenile toimub kaubavahetus. 
+* Telit - Maapiiri põhjapunkti tekkinud linn, kus sarnaselt Arenile toimub kaubavahetus. 
 * Troisini vulkaan - Talmekaris asuv vulkaan, mille sügavikus asub tuletheumiitide allikas Ureth. Tuntud ka kui vaatamisväärsus hulljulgetele, sest vulkaan ei ole täielikult uinunud. 
 * Waruli järv - Leonte suurim järv, mille põhjas asub veetheumiitide allikas Warul. 
 * Zeane - Elishi jõe lisajõgi. 
@@ -269,7 +269,7 @@ Praegune keiser on Relagin II Leonteides. Rahvasuus nimetatakse teda “Rahu Too
 
 Keisrist järgmine võimuinstants on senat. Sinna kuulub 88 Valitut, kaheksa iga maakonna kohta, ja seda juhib keisri poolt ametisse nimetatud spiiker, kes vannutatakse ametisse uue keisri troonile tulemisel või eelmise spiikri surma korral. Tema tööks on juhtida senati istungeid ja kinnitada hääletustulemused ning langetada otsus, kui hääled on tasavägised. 
 
-Senat loob ja parandab seadusi, vaatab üle ja kinnitab vastavate ametnike esitatud Impeeriumi aastase eelarve ning tegeleb Impeeriumi valitsemise igapäevadetailidega. Senati liikmed valivad hääleõiguslikud kodanikud iga kaheksa aasta tagant. Kuna tavaliselt hääletatakse nende poolt, kelle tegevust on näha olnud oma kodupiirkonnas, on üldlevinud tõdemus, et mingis maakonnas teenimine tee senatisse. Igas maakonnas ja Rhaentes valitakse kaheksa esindajat. 
+Senat loob ja parandab seadusi, vaatab üle ja kinnitab vastavate ametnike esitatud Impeeriumi aastase eelarve ning tegeleb Impeeriumi valitsemise igapäevadetailidega. Senati liikmed valivad hääleõiguslikud kodanikud iga kaheksa aasta tagant. Kuna tavaliselt hääletatakse nende poolt, kelle tegevust on näha olnud oma kodupiirkonnas, on üldlevinud tõdemus, et mingis maakonnas teenimine on tee senatisse. Igas maakonnas ja Rhaentes valitakse kaheksa esindajat. 
 
 Hääleõiguslikud kodanikud on kõik täiskasvanueas ehk 16-aastased alentid, keda pole häbimärgistatud. Theumiitidel ja serviilidel hääleõigust ei ole.  
 
@@ -295,28 +295,28 @@ Impeeriumi rikkalik pärimusvara sai oma alguse vanast Alentumist. Tänaseni on 
 
 ### Rahvastik:
 
-Impeerium: 2 ,566 000 miljonit 
+Impeerium: 21 566 000 miljon 
 
-* Alentid: 19 647 000 miljonit 
+* Alentid: 19 647 000 miljon 
 * Moroiad: 300 000 
 * Vulverid: 160 000 
 * Lagaarid: 40 000 
 * Vanaverelised: 250 000
 * Serviilid: 653 000 (arvestatakse alentidest eraldi)
-* Theumiidid: 1,2 miljonit 
+* Theumiidid: 1,2 miljon 
 
-* Linnades elab: u 5 miljonit 
-* Maal elab: u 16 miljonit 
+* Linnades elab: u 5 miljon 
+* Maal elab: u 16 miljon 
 
 * Valitud: u 10 000
-* Sõjavägi: u 1,5 miljonit 
+* Sõjavägi: u 1,5 miljon 
 * Preesterkond: u miljon
-* Käsitöölised: u 3 miljonit 
+* Käsitöölised: u 3 miljon 
 * Ametnikud: u 500 000 
-* Kaupmehed: u 1 miljonit 
+* Kaupmehed: u 1 miljon 
 * Politsei/linnavalve: u 1 miljon  
-* Maaharijad: u 14 miljonit 
-* Muud (kõik ülejäänud): u 3 miljonit
+* Maaharijad: u 14 miljon 
+* Muud (kõik ülejäänud): u 3 miljon
 
 Maakonnad ja pealinnad: 
 
@@ -420,7 +420,7 @@ Sümbolid: igasugused tööriistad, kivimid ja juveelid
 
 Valitsusala: tööstus, looming, maavarad, värvid 
 
-Vastand: Zer-Nim
+Vastand: Rhen-Apa
 
 Voorus: töökus
 
@@ -434,7 +434,7 @@ Sümbolid: katused, sambad, mündid, erinevad muusikariistad, kett/sõlmmustrid,
 
 Valitsusala: linnad, kultuur, suhted, tuli, alkohol, raha, muusika
 
-Vastand: Rhen-Apa
+Vastand: Zer-Nim
 
 Voorus: sidemed
 
@@ -456,7 +456,7 @@ Kõikide elavate, eriti laste ja maaharijate kaitsejumal. Tema preestrid ravivad
 
 **Pühakutest**
 
-Peale jumalate austatakse ka pühakuid. Pühak on alenti, kes on teinud midagi väga olulist või näidanud eeskuju oma tegude ja lojaalsusega. Pühakuks nimetatakse alati postuumselt, otuse viib lägi ja kuulutab välja sinod koostöös Atrepe preestritega. Pühakute nimed kantakse Õnnistatute Raamatusse Atrepe peatemplis. 
+Peale jumalate austatakse ka pühakuid. Pühak on alenti, kes on teinud midagi väga olulist või näidanud eeskuju oma tegude ja lojaalsusega. Pühakuks nimetatakse alati postuumselt, otsuse viib läbi ja kuulutab välja sinod koostöös Atrepe preestritega. Pühakute nimed kantakse Õnnistatute Raamatusse Atrepe peatemplis. 
 
 Pühakudi on palju, viimase lugemise ajal üle 500, ning igaüks neist valvab ja kaitseb mõnda väikest aspekti Impeeriumi elust nii nagu nad tegid seda oma elu ajal. Neist mitmele on pühendatud oma ordu ehk grupeering, mille liikmed on pühendunud selle pühaku eeskuju jälgimisele. 
 
@@ -486,11 +486,13 @@ Nõudmised on järgmised:
 * Preesterkonna algtarkuste ja kommete mõistmine 
 * Füüsiline kasinus ja pühendumine vaimsele 
 
-Pärast seda peab noviits läbima katse, millest pole teada muud, kui et selle läbimiseks on tarvlik kasutada kõiki oma teadmisi ja oskusi. Katsest läbi kukkujad saadetakse templist minema ning neid ei võeta enam noviitsiks mitte ühegi teise jumala templisse. Testi läbinud ülendatakse lihtreestriks ning nad saavad salajase tseremoonia käigus oma jumala sümboli ja koos sellega võime kasutada talle lubatud maagiat. Rohkem kui 30 aastat teeninud vaimulik nimetatakse vanempreestriks. Teenistus kestab surmani.
+Pärast seda peab noviits läbima katse, millest pole teada muud, kui et selle läbimiseks on tarvilik kasutada kõiki oma teadmisi ja oskusi. Katsest läbi kukkunud saadetakse templist minema ning neid ei võeta enam noviitsiks mitte ühegi teise jumala templisse. Testi läbinud ülendatakse lihtreestriks ning nad saavad salajase tseremoonia käigus oma jumala sümboli ja koos sellega võime kasutada talle lubatud maagiat. Rohkem kui 30 aastat teeninud vaimulik nimetatakse vanempreestriks. Teenistus kestab surmani.
 
 Igal preesterkonnal on oma tiitlid, mida kasutatakse vaid omavahel. Tavakodanikud kasutavad preestri poole pöördumiseks tiitlit ‘õnnistatu’ + preestri nimi. 
 
 Iga jumala preesterkonnal on erinevad ülesanded, aga kõiki ühendab pühendumus jumalate teele ja ühiskonna heaolu. Ideaalne preester inspireerib tavakodanikke enda ümber ja hoiab kõrgelt au sees oma jumala voorust. Preester ise ei ole püha, kui välja arvata tema aigis, aga enamus pühakutest on olnud preestrid. 
+
+Preester peab järgima oma jumala eeskuju ja tõekspidamisi, või ta võib kaotada oma võimed kas mõneks ajaks või igaveseks. 
 
 **Sinod**
 
@@ -522,14 +524,14 @@ Suurem osa sõjaväe ja sõdimise printsiipidest on pärandatud edasi Alentumi a
 
 **Mõned tuntumad leegionid**
 
-* Adula Leegion - Hoidis 1617. aastal Udukuru kindlust 100 päeva neist mitu korda suurema vabamaalaste väe vastu. 
-* Darithi Leegion (darith - ‘hukatus’ kõrgalenti keeles) - Erinevalt teistest leegionitest, on selle juhiks Keteose preester. Suurem osa leegionist koosneb moroiadest, desertööridest ja kurjategijatest. Ajalooliselt on neid kasutatud nii öelda kahurilihana Vabade Maade vastu ja suur hulk leegionisse kuuluvatest moroiadest ongi enne surma olnud vabamaalaste võitlejad. Selle leegioni kohta liigub palju erinevaid hirmujutte ja legende. 
+* Adura Leegion - Hoidis 1617. aastal Udukuru kindlust 100 päeva neist mitu korda suurema vabamaalaste väe vastu. 
+* Darithi Leegion (darith - ‘hukatus’ kõrg-leonte keeles) - Erinevalt teistest leegionitest, on selle juhiks Keteose preester. Suurem osa leegionist koosneb moroiadest, desertööridest ja kurjategijatest. Ajalooliselt on neid kasutatud nii öelda kahurilihana Vabade Maade vastu ja suur hulk leegionisse kuuluvatest moroiadest ongi enne surma olnud vabamaalaste võitlejad. Selle leegioni kohta liigub palju erinevaid hirmujutte ja legende. 
 * Orophi Leegion - Impeeriumi vanimaid leegione, Orophi sõdurite vapruse kohta räägitakse legende ja kirjutatakse raamatuid. 
-* Valara Leegion (valara - ‘kindlameelne’ kõrgalenti keeles) - Praeguse strategose Peleias Lardoni endine leegion. 
+* Valara Leegion (valara - ‘kindlameelne’ kõrg-leonte keeles) - Praeguse strategose Peleias Lardoni endine leegion. 
 
 **Piirivalve**
 
-Piirivalvesse saab pürgida sõjaväega liitumisel, sinna valitakse parimad pärast aastast teenistusaega. Piirivalve on ainuke üksus, mis pole jaotatud leegioniteks. Enne sõja lõppu oli piirivalve peamine ülesanne takistada mõlemapoolset väiksemat läbirännet. Pärast sõja lõppu on piirivalve peamiseks ülesandeks saanud korra tagamine piirialadel ja seal liikuvate isikute liikumislubade kontrollimine. Piirivalvel on õigus menetleda piirialadel toimunud pisemaid rikkumisi ja arreteerida rängemalt korda rikkunud isikuid. Piirivalve teeb koostööd Vabade Maade esindajatega ning lisaks ainult leontiididest koosnevate gruppide on loodud ka segagruppe, mis tegutsevad peamiselt piirkondades, kus kahe riigi rahvas on kõrvuti, nagu näiteks Areni ja Teliti asulates. 
+Piirivalvesse saab pürgida sõjaväega liitumisel, sinna valitakse parimad pärast vähemalt aastast teenistusaega. Piirivalve on ainuke üksus, mis pole jaotatud leegioniteks. Enne sõja lõppu oli piirivalve peamine ülesanne takistada mõlemapoolset väiksemat läbirännet. Pärast sõja lõppu on piirivalve peamiseks ülesandeks saanud korra tagamine piirialadel ja seal liikuvate isikute liikumislubade kontrollimine. Piirivalvel on õigus menetleda piirialadel toimunud pisemaid rikkumisi ja arreteerida rängemalt korda rikkunud isikuid. Piirivalve teeb koostööd Vabade Maade esindajatega ning lisaks ainult leontiididest koosnevate gruppide on loodud ka segagruppe, mis tegutsevad peamiselt piirkondades, kus kahe riigi rahvas on kõrvuti, nagu näiteks Areni ja Teliti asulates. 
 
 ### Ühiskond:
 
@@ -543,8 +545,8 @@ Impeeriumis on olulised järgmised kaheksa voorust:
 
 * Austus - Austada tuleb Impeeriumit, keisrit, Valituid, jumalaid, kaaskodanikke, oma pere, oma vanemaid, oma abikaasat. 
 * Minna laskmine - Surm ja kadumine on loomulik osa elust. Lein on samuti loomulik, aga mitte lõputult. 
-* Paindlikkus - Elu on ettearvamatu ja mööduv, sellega kaasa minemine on kõige lihtsam. 
 * Mäletamine - Teadmisteta ei saa areneda ja mineviku tarkusi ei tohi unustada. 
+* Paindlikkus - Elu on ettearvamatu ja mööduv, sellega kaasa minemine on kõige lihtsam. 
 * Vaprus - Vaprate päralt on tulevik. 
 * Töökus - Tööd tegemata ei saa siin elus midagi ning kõigil tuleb panustada Impeeriumi arengusse. 
 * Sidemed - Kõik on omavahel seotud. 
@@ -568,7 +570,7 @@ Suuremate rikkumiste eest, nagu näiteks suuremad vargused ning korruptsioon, an
 
 Ränkade isikuvastaste kuritegude eest, nagu piinamine, tahtlik vigastamine või mõrv, määratakse rikkuja mitmeks aastaks sunnitööle ja ta häbimärgistatakse. Häbimärgistamine tähendab, et karistatu ei saa enam kunagi olla täielikult ühiskonna osa, kuna keegi ei usalda nõnda märgistatud isikut. 
 
-Suurim kuritegu on riigireetmine ja selle karistuseks on hukkamine. Surmanuthluse võib määrata ainult kõrgeim kohus. Riigireetmise alla kuuluvad plaanid haavata Impeeriumi, keisrit, Valituid, samuti kuulus selle alla enne rahu sõlmimist igasugune koostöö Vabade Maadega ja nende heaks spioneerimine. 
+Suurim kuritegu on riigireetmine ja selle karistuseks on hukkamine. Surmanuhtluse võib määrata ainult kõrgeim kohus. Riigireetmise alla kuuluvad plaanid haavata Impeeriumi, keisrit, Valituid, samuti kuulus selle alla enne rahu sõlmimist igasugune koostöö Vabade Maadega ja nende heaks spioneerimine. 
 
 **Valitud**
 
