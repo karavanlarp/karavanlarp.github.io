@@ -1,6 +1,6 @@
 ---
 layout: default-eng
-title: Karavan LARP
+title: Registration
 ---
 ### Registration
 
