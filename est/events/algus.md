@@ -102,4 +102,3 @@ Võib saabuda juba reede õhtul ja kohapeal ööbida. Ööbida kohapeal saab ka 
 Autoga tulijad võiksid saabuda kella 10.30ks ja vajadusel aidata bussi/rongijaamast mängijaid transportida. Üldine kogunemiskellaaeg on 11. Kui teil on vaja ennast pikemalt kostümeerida või meikida, palun saabuge kindlasti varem, püüame algbriifiga alustada võimalikult vara. 
 
 Palume hiljaks jäämisel kindlasti teada anda! Arvestage, et me ei saa paari hilineja pärast mängu algust edasi lükata, mis võib tähendada seda et osa teie mängu algusest muutub veidi. 
-
