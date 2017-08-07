@@ -1,6 +1,6 @@
 ---
 layout: default-eng
-title: Karavan LARP
+title: Caravan I: Beginning
 ---
 ### Caravan I: Beginning
 
@@ -50,10 +50,10 @@ Registration for PCs is open until August 28th, for NPCd until September 4th-
 
 **Ticket prices**
 
-PC - 20 euros.
-NPC - 10 euros. One (or more) character role for the game. 
-Monstering NPC - 8 eurot. You can run around in the forest and ambush the players. 
-Sponsor ticket - min 30 eurot (if playing for a PC spot). With this ticket you can supply a player with less means for a spot at the event.  
+* PC - 20 euros.
+* NPC - 10 euros. One (or more) character role for the game. 
+* Monstering NPC - 8 euros. You can run around in the forest and ambush the players. 
+* Sponsor ticket - min 30 euros. (if playing for a PC spot). With this ticket you can supply a player with less means for a spot at the event.  
 
 Payment deadline for PCs is August 28th, for NPCs August 4th. We will not be returning the payment after the passing of the deadlines. 
 
@@ -81,9 +81,9 @@ All game materials will be provided in Estonian and English. Depending on the am
 
 The location is 105 kilometers (about one and half hour’s drive) near Türi. When approaching from the north you will not have to enter the town and can drive straight to the location. 
 
-Bus times here: tpilet.ee (lingi inglise versioon)
+Bus times here: [tpilet.ee](https://www.tpilet.ee/en)
 
-Train times here: elron.ee (lingi inglise versioon)
+Train times here: [elron.ee](http://elron.ee/en/)
 
 The closest public transportation stop for the game is Türi, from there it is about 5 kilometers to the larp. 
 
