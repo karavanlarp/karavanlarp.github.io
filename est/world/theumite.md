@@ -6,7 +6,6 @@ title: Theumiidid
 ## Theumiidid
 
 ![Theumiitide logo](https://karavanlarp.github.io/img/theumiitide-logo.png)
-
 Theumiidid on Theumat algselt valitsenud elemendivaimude rass. 
 
 ### Ajalugu
