@@ -4,7 +4,7 @@ title: Tegelasreeglid
 ---
 ## Karavan LARP reeglid
 
-_Versioon: EELVAADE
+Versioon: EELVAADE
 
 (GM-tiim tegeleb veel reeglite koostamisega. Reeglite eelvaate eesmärk on anda lühike tutvustus, millised võiksid välja näha valminud reeglid. GM-tiim jätab endale õiguse muuta eelvaates olevaid oskusi. Täielikud reeglid tulevad üles augusti sees.)_
 
@@ -60,9 +60,9 @@ Ekspert võib olla Impeeriumi arst või Vabade Maade skald, kes teab palju lugus
 * Relvade kasutamine - Relva kasutamise algtõed on avatud kõigile. 
 * Sepakunst - Sepp võib parandada relvi, turviseid või ka isegi theumiitide kesti. 
 
-Kelm 
+#### Kelm 
 
-#### Kelm on mitte küll alati aga tihti seaduse varjupoolel tegutsev varjudes kõndija. Ta oskab liikuda vaikselt ja sisse pääseda kohtadesse võtmeteta. Samuti on ta osav leidma ja kahjutuks tegema lõkse. **Avatud nii alentidele kui theumiitidele.**
+Kelm on mitte küll alati aga tihti seaduse varjupoolel tegutsev varjudes kõndija. Ta oskab liikuda vaikselt ja sisse pääseda kohtadesse võtmeteta. Samuti on ta osav leidma ja kahjutuks tegema lõkse. **Avatud nii alentidele kui theumiitidele.**
 
 Impeeriumis võib kelm olla pearahakütt või varas, kes vabastab teatud isikuid nende varadest ja neid mustal turul müüb. Vabadel Maadel on ta ehk skaut või varjudes liikuja, kes täidab pealiku käsku. On olemas ka selliseid theumiite, kes eelistavad panna oma võimeid isikliku kasu heaks tööle. 
 
@@ -76,9 +76,9 @@ Impeeriumis on maag akadeemias õppinud, kas lihtne apeironi otsija või kõrgem
 
 Preester on vandunud oma elu ühele jumalale ja saanud sellele vastuseks killukese jumala jõust. Tema loitsude vägi tuleb otse jumalalt ja ta peab järgima oma jumala reegleid et seda sidet säilitada. Ta on eeskujuks teistele ja võitleb alati selle eest, mis temale oluline. Preestri tunneb ära tema püha märgi ja kaunistatud rüü järgi. Preester võib kas õnnistada või needa, olenevalt kas keegi on ära teeninud tema jumala tähelepanu. 
 
-Igal jumalal on erinev vägi, võimalik on valida nii Impeeriumi kui Vabade Maade poolel kaheksa erineva väe vahel. Iga jumal annab mingisuguse eelise teiste oskuste valikul. **Ainult alentidele (kes ei ole lagaarid, moroiad või vulverid. Preester ei saa ka kunagi muutuda üheks neist).**
+Igal jumalal on erinev vägi, võimalik on valida nii Impeeriumi kui Vabade Maade poolel kaheksa erineva väe vahel. Iga jumal annab mingisuguse eelise teiste oskuste valikul. **Ainult alentidele** (kes ei ole lagaarid, moroiad või vulverid. Preester ei saa ka kunagi muutuda üheks neist).
 
-Impeeriumis: 
+**Impeeriumis:** 
 
 * Malakhim - kord ja seadused 
 * Keteos - surm 
@@ -89,7 +89,7 @@ Impeeriumis:
 * Baruna - linnad ja muusika
 * Darsilis - elu
 
-Vabadel Maadel: 
+**Vabadel Maadel:** 
 
 * Ban-Mawr - kaos ja vanded 
 * Lir-Neth - surm ja nägemused
