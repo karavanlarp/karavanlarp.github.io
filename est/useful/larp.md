@@ -2,9 +2,9 @@
 layout: default-est
 title: Mis on LARP
 ---
-## Mis on larp? Kuidas osaleda? 
+## Mis on LARP? Kuidas osaleda? 
 
-_Tekst on algselt võetud lohewikist ja meie poolt mugandatud._
+_Tekst on algselt võetud [lohewikist](http://www.dragon.ee/lohewiki/Larp:_Kuidas%3F) ja meie poolt mugandatud._
 
 Järgnev artikkel üritab kokku võtta ühe larpija kogemused ja isikliku arvamuse sellest, kuidas omapoolse tegevuse kaasabil luua parem mäng nii enda kui ka kõikide teiste jaoks. Sihtgrupiks on eeskätt esmakordsed tulijad.
 
@@ -180,3 +180,5 @@ Siit leiab need mõtted, mis eraldi peatükki ei vääri.
 * Tänapäevased asjad oleks viisakas vastavalt võimalustele peitu pista.
 * Enne mängule tulekut mõtle välja, mida sinu tegelane mängu ajal saavutada soovib, mõtle, milleks ta sinna kohale tuleb, kas kaupa tegema, pidutsema, suhteid sõlmima või näiteks abi otsima. Mõnikord sõidab aga mängujuhtide väljamõeldu sinu tegevusest üle ja tuleb olla valmis olukorda ümber hindama.
 * Ära käi pimedas üksi kondamas. Igas hämaramas nurgas on üks pistodaga poisike või vaenulikult meelestatud röövel.
+
+* Kogu tekst on kasutatav litsentsi [Creative Commons Attribution-Share Alike 3.0](http://www.dragon.ee/lohewiki/Kasutustingimused) tingimustel
