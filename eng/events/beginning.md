@@ -1,6 +1,6 @@
 ---
 layout: default-eng
-title: Caravan I: Beginning
+title: Caravan I - Beginning
 ---
 ### Caravan I: Beginning
 
