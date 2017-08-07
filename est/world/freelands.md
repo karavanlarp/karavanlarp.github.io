@@ -2,8 +2,9 @@
 layout: default-est
 title: Vabad Maad
 ---
-![Vabade Maade logo](https://karavanlarp.github.io/img/vabad-maad-logo-suur.png)
-### Üldinfo: 
+## Vabad Maad 
+![Vabade Maade logo](https://karavanlarp.github.io/img/vabad-maad-logo-väike.png)
+### Üldinfo 
 
 * Rahvaarv: 13 miljonit 
 * Pindala: u. 1,462,600 ruutkilomeetrit 
@@ -13,11 +14,11 @@ Vabad Maad on üldnimetus Theumal elavale hõimude kogumikule, kes elab umbes ko
 
 Impeeriumis tuntud Nemeeria nime all. Elanikke kutsutakse nemeerideks. 
 
-### Ajalugu: 
+### Ajalugu 
 
 Vabad Maad said ajalooliselt alguse Theumal, neile panid aluse Impeeriumiga ühinemast keeldunud alentid, kes soovisid teistmoodi elada. Alentumilt lahkusid alentid koos, ent nende arvamused lahknesid pärast theumiitide vastu võidetud sõda. Kuigi ka vabamaalased peavad ajaloolist sõda vajalikuks, sest see oli ainuke viis tagada endale kodu, ei nõustu nad muus osas Impeeriumiga. 
 
-Sündmusi:
+**Sündmusi**
 
 * 1 - Sõlmitakse Hõimude Leping Cairlinn Tori ringis ja katsetega selgitatakse välja esimene kuningas, Ragath Lugeni hõimust. 
 * 68 - Luuakse ametlikud sidemed Vabadel Maadel elavate theumiitidega. 
@@ -42,7 +43,7 @@ Sündmusi:
 * 2839 - Hõimude ühendvägi vallutab poole Impeeriumi maakonnast Renekist. 
 * 2841 - Impeerium vallutab tagasi oma alad Reneki maakonnas. 
 
-Lähiminevik: 
+**Lähiminevik** 
 
 * 2845 - Sõlmitakse rahu Vabade Maade ja Impeeriumi vahel. Läbirääkimiste alusel luuakse piiritsoon ja sellele kehtivad seaduslikud erandid, muuhulgas ka maksusoodustused.
 * 2846 - Piiritsooni hakkavad asustama mõlema poole elanikud, tekib mitmeid uusi asulaid. Hakkavad liikuma esimesed karavanid. 
@@ -52,7 +53,7 @@ Lähiminevik:
 * 2850 - Impeeriumi väljakaevajad leiavad piiritsoonist theumiitide artefakte, mille täpne päritolu on küsitav ja viib mitmete nõupidamisteni. 
 * 2851 - Praegune aasta. 
 
-Viimased kuningad: 
+**Viimased kuningad** 
 
 * 2717 - 2729: Faen, Magari hõimust. Üks noorimaid kuningaid, oli katseid läbides ainult 25-aastane. 
 * 2729 - 2744: Mekel, Daraisi hõimust. 
@@ -65,13 +66,13 @@ Viimased kuningad:
 * 2830- 2841: Zelia, Katheni hõimust. Sai väga hästi läbi theumiitidega, tänu temale abistavad theumiidid apeironikaevajaid Ulgusaartel. 
 * 2842 - praeguseni: Alix, Turahani hõimust. Sõlmis rahu Impeeriumiga.  
 
-### Geograafia: 
-
-![Vabade Maade maakonnad](https://karavanlarp.github.io/img/map/Nemeria_counties.png)
+### Geograafia 
 
 Vabad Maad jagunevad neljateistkümneks maaks. Üldiselt ei kuulu ükski maa täielikult ühelegi hõimule, aga selle maa keskust enda käes hoidev hõim üldiselt hoiab autoriteeti selle maa üle. On ka kaks erandit: Valdjamaa ja Piirimaa. Piirimaa loodi pärast sõja lõppu, see sisaldab endas 10-25 kilomeetri laiust Impeeriumiga piirnevat maariba. 
 
-Maad: 
+**Maad** 
+
+![Vabade Maade maakonnad](https://karavanlarp.github.io/img/map/Nemeria_counties.png)
 
 * **Valdjamaa** (pealinn Cairlinn Tor) - Vabade Maade keskus, kuninga ja Hõimutute elamispaik.
 * **Piirimaa** - Vabade Maade osa piirialast. Koosneb maaribast, mis on kuninga käsu ja Maapäeva otsuse järgi võõrandatud Impeeriumiga külgnevatest maakondadest. Erinevalt teistest maadest ei ole Piirimaal oma pealinna ega valitsevat hõimu. Piirimaal kehtivad kahe poole vahel kokku lepitud seadused ja erandid. 
@@ -88,7 +89,9 @@ Maad:
 * **Koidumaa** (pealinn Arling) - Koidumaal elab mitmeid väiksemaid hõime, ja see on Vabadel Maadel tuntud kui hea paik, kus jahti pidada. Eriti tõmbavad huvilisi Kihvasaared. 
 * **Sumemaa** (pealinn Ithen) - Sumemaa on üks rikkamaid maid, kuna tal on äärmiselt hea asukoht, ja võimalused teiste maadega kaubavahetust pidada. Sumemaa hõimud on alati teiste hõimudega hästi läbi saanud, kuigi nad omavahel konkureerivad. Erandlikult on ka pealinn Ithen mitme hõimu mõju all. 
 
-Muud punktid: 
+**Muud punktid** 
+
+![Vabade Maade maakonnad](https://karavanlarp.github.io/img/map/Nemeria_nature.png)
 
 * Allikad - Asuvad erinevates kohtades. Tuli - Ureth, Vesi - Lenal, Õhk - Shiale, Maa - Lilir, Valgus - Droat, Vari - Primin.  
 * Aren - Maapiiri lõunapunkti tekkinud küla, kus toimub elav kaubavahetus. Sealt lahkuvad ja saabuvad nii karavanid kui ka laevad. 
@@ -110,19 +113,19 @@ Muud punktid:
 * Valgejõgi - Üks mandri pikimaid jõgesid, mis voolab läbi Küllamaa ja Orumaa ning suubub Punalahte. 
 * Vanalaas - Siin asuvad Vabade Maade vanimad metsad, kust saab kõige hinnalisemat puitu tervel mandril. 
 
-### Keeled: 
+### Keeled 
 
 Vabadel Maadel räägitakse alenti keele erinevaid dialekte, mida mõistavad ka Impeeriumi elanikud ja vastupidi. (Eesti ja inglise keel tähistavad mängus neist kahte). Haruldasemat püha keelt kasutavad preestrid ja Valdjamaa Hõimutud. Ruunikunsti valdajad kasutavad ka ruunikeelt. 
 
-### Nimedest: 
+**Nimedest** 
 
 Vabadel Maadel on isikul tavaliselt üks eesnimi. Perenimesid kui selliseid ei eksisteeri. Kuna sarnaste nimedega isikuid on palju, on mitmetel ka hüüdnimed, mis neid teineteisest eristavad. Hüüdnime võib saada oma välimuse või tegude põhjal. 
 
 (OG: inspiratsiooni võib võtta skandinaavia, keldi ja saksa nimedest, neid tasub muidugi veidi mugandada.)
 
-### Kombestik: 
+### Kombestik 
 
-#### Lapsekandmine ja sünd
+**Lapsekandmine ja sünd**
 
 Vabadel Maadel teeb last kandev alenti tööd tavaliselt nii kaua, kui jaksab. Nõdremaid lapseootajaid valvavad ravitsejad. Üldiselt sünnitatakse kodus, ja lähim tuttav ravitseja on valvel, kui tema järele peaks vajadus olema. Enamus sünnitustest mööduvad siiski rahulikult. 
 
@@ -130,33 +133,33 @@ Sündinud laps kuulutatakse kohe pärast ära pesemist vastava hõimu liikmeks. 
 
 Lähipere abistab ja toetab uusi lapsevanemaid nii hästi kui saab. Kombeks on et lapse kandnud vanem saab mõnda aega puhata. Oluliseks peetakse seda, et laps oleks hoitud ja turvalises kohas. Kui lapsevanematel ei ole muud peret, täidavad seda kohta klanni valitud isikud. 
 
-#### Liisuheit 
+**Liisuheit** 
 
 Orvuks jäänud alla aasta vanuste laste üle heidavad targad liisku. Valikuid on kaks - kas laps jääb ikkagi oma klanni kasvatada ja targad leiavad talle kasupere, või viiakse laps Cairlinn Tori Hõimutute kasvatada. Viimasel juhul loobub hõim lapsest ja Hõimutud võtavad ta enese hulka. Nõnda ära viidud lastest rohkem ei räägita. Nad ei ole enam hõimu liikmed. 
 
 See traditsioon sai alguse soovist siduda hõimude tähelepanu Valdjamaaga. 
 
-#### Lapsepõlv
+**Lapsepõlv**
 
 Kõige väiksemate eest hoolitsevad need, kes teevad tööd asulas. Tavaliselt on selleks mõni vanem sugulane. Vanemaid lapsi võetakse tööle kaasa ja neile hakatakse varakult midagi õpetama, et ka neist kasu oleks. Üldiselt kipuvad lapsed õppima seda, mida nende vanemad oskavad, aga kui mõni teine klanniliige näeb et laps oleks hoopiski tema ametis hea, võib ta vanemate nõusolekul lapse või nooruki endale õpilaseks võtta. 
 
-#### Täiskasvanuks saamine 
+**Täiskasvanuks saamine** 
 
 Täiskasvanuks loetakse vabamaalane tavaliselt 15-17 aastasena, kus ta saab endale hõimu täiskasvanumärgi. Enne noore täiskasvanuks kuulutamist on komme, et talle lähedased täiskasvanud ning mõned klanni tarkadest esitavad talle erinevaid katseid. Kui nad otsustavad ühiselt, et noor on hästi hakkama saanud, kuulutatakse ta täiskasvanuks. 
 
 Kuulutamise tseremooniat viib läbi pealik, ja seal on nii palju klanniliikmeid kui võimalik. Pärast seda toimub väike pidu pereringis. 
 
-#### Sõprus ja armastus 
+**Sõprus ja armastus** 
 
 Sidemed on olulised, kuigi ei ole väga vahet kas vabamaalase lähedaseim isik on tema kaasa või tema parim sõber. Tavaliselt leitakse tulevane kaasa ise. Üldiselt on koosolemine igaühe oma asi ja esineb erinevaid vorme, mis sõltuvad kõik pigem sellest kas asjaosalised ise rahul on. Päris paljud ei otsigi endale kunagi paarilist. 
 
-#### Abielu ja perekond
+**Abielu ja perekond**
 
 Abielluda võivad kõik täiskasvanud. Kosja tullakse kositavale ja tema perele, ning kombeks on tuua midagi millega näidatakse oma oskusi ja seda, mida tulevasele pakkuda soovitakse. Tavaliselt on kombeks mõnda aega koos elada enne abiellumist, ja abielluda soovijad saadetakse kombekohaselt tarkade poolt väikesele rännakule, mille ajal nad peavad täitma erinevaid ülesandeid. See rännak on mõeldud välja selgitamaks kas paar suudab koos olla ka raskustes ja kas tulev abielu on võimeline kestma. 
 
 Abielutseremoonia ise viiakse läbi paari valitud targa poolt, ning üldiselt on kombeks et paarilised võtavad endale märgi, mis nende abielu tähistab. Seda kõike saadab loomulikult suur pidu, kuhu on kutsutud kõik kohalikud. 
 
-#### Vanadus ja surm 
+**Vanadus ja surm** 
 
 Vanu austatakse, ja enamus neist võetakse klanni tarkade hulka. Nende tööks on peamiselt noorematele oma tarkuse edasi andmine, et nende teadmised kaotsi ei läheks. 
 
@@ -170,7 +173,7 @@ Sarnaselt maetakse ka klanni- ja hõimupealikud. Nende puhkepaikadele võivad tu
 
 Kuninga lahkumise puhul raiutakse tema nimi Cairlinn Tori keskel asuvasse kivisse. Seda, kuhu kuningas täpselt sängitatakse ja milliseid riitusi tema lahkumise järel peetakse, teavad ainult Hõimutud. 
 
-#### Märgid 
+**Märgid** 
 
 Vabamaalased märgivad oma hõimukuuluvust ja muid omadusi märkidega. Neid kantakse üldiselt kätel, kuigi on ka mitmeid, kes lasevad oma nägu märgistada. Tavaliselt tehakse märke erivärvi püsivate tintidega, aga karistusmärgid hoopiski põletatakse nahale. 
 
@@ -180,19 +183,19 @@ Märke on palju ja igasuguseid, siiski peetakse nende tähenduse küsimist avali
 
 Kui kellegist tehakse lindprii, märgistatakse ta vastavalt. Kui ta on määratud lindprii olema ainult mõnda aega, tehakse märk puhtale nahale. Kui ta on aga sooritanud nii suure kuritöö, et ta hõimust välja arvatatakse, tehakse märk tema hõimumärgi peale. 
 
-#### Pühad 
+**Pühad** 
 
 Pühasid on mitmesuguseid. Tähistatakse hõimule ja klannile olulisi päevi. Nende hulka kuuluvad tavaliselt oluliste isikute sünnipäevad, aastaaegade vahetumised ja igasugused muud tähtpäevad. 
 
 Sünnipäevi tähistatakse nii kuidas sünnipäevaline soovib, kuigi siiski on tavaks minna talle head õnne soovima isegi kui ta on otsustanud suurt peolauda mitte teha. 
 
-#### Tervitamine ja tutvumine 
+**Tervitamine ja tutvumine** 
 
 Saabumisel või seltskonnaga liitumisel on viisakas tervitada. Vastu tervitada on samuti sobilik, isiku ignoreerimine näitab et ta ei ole teretulnud. Paiga võõrustaja või kohtumise alustaja on see, kelle asi on saabuja vastu võtta. 
 
 Enda tutvustamisel öeldakse oma nimi, soovikorral ka hõim või selts, kuhu kuulutakse. Võõrustaja võib soovi korral ka täpsemalt küsida kust isik pärit on, aga liigselt uudishimutsemist peetakse samuti ebaviisakaks. Kui tutvuvad kaks isikut, on sobilik anda kätt ja selle mitte vastu võtmine näitab samuti eiravat suhtumist pakkuja suhtes. 
 
-#### Füüsiline kontakt 
+**Füüsiline kontakt** 
 
 Lähedust esineb üldiselt pere ja sõprade vahel. Tundmatute puudutamine, eriti nende loata, on üpriski ebaviisakas ja võib halval juhul hoopiski obaduse vastuseks tuua. 
 
@@ -200,15 +203,15 @@ Lindpriidel pole üldse lubatud kedagi teist puutuda.
 
 Romantiline kontakt on samuti kahe isiku omavaheline asi. Lühikesed kokkupuuted on tavaliselt lubatud, aga rohkemat peetakse ebaviisakaks.  
 
-#### Relvadest
+**Relvadest**
 
 Tavalist nuga kannab enamus rahvast. Korralikemaid relvi kannavad sõdalased või sõtta minejad. Üldiselt ei ole väga palju kohti, kuhu on kohatu relvaga saabuda, aga sellisel juhul peab see olema vööl või muul viisil seotud, et seda koheselt kasutada ei saaks. Niisama palja relvaga ringi vehkimist peetakse üldiselt võitluse otsimiseks ja taunitakse relvitute juuresolekul. Samuti on kohatu kuhugi sisse jalutada, relv käes. 
  
-#### Erinevad
+**Erinevad**
 
 Erinevatesse suhtutakse üsna vabalt. Pigem sõltub suhtumine sellest kas konkreetsel hõimul või klanni on olnud häid või halbu kokkupuuteid. Kui mõni vulver näiteks ühe klanni pühapaika rüvetab, ei ole vulverid selle klanni juures enam eriti teretulnud. 
 
-### Kultuur: 
+### Kultuur 
 
 Vabade Maade hõimudel on kõigil eri arusaamine kultuurist. 
 
@@ -216,7 +219,7 @@ Meelelahutusviise on palju, üldiselt sisaldavad need erinevaid võistlusi või 
 
 Pidusid peetakse igasugustel põhjustel, ja tavaks on teretulnuks pidada kasvõi samaks ööks külla saabunud rändajaid. Üldiselt käivad pidudega kaasas ka korralik kesvamärjuke ja hea toit. 
 
-### Majandus: 
+### Majandus 
 
 Vabamaalased kasutavad rahana eri metallide seibe. Neid on kolme tüüpi - vask, hõbe ja kuld.
 
@@ -234,17 +237,17 @@ Samuti on suureks sissetulekuallikaks Impeeriumile galdari ja selle kaevandamisl
 
 Makse Vabadel Maadel Impeeriumi kombel päris ei eksisteeri, aga iga hõim saadab Cairlinn Tori igal aastal kümnist, nii nagu Maapäeval kokku lepitud. Need kümnised on erinevad, saadetakse nii kaupu kui ka teenistujaid (määratud ajaks ja vabatahtlikult). 
 
-### Poliitika: 
+### Poliitika 
 
 Kõige kõrgem autoriteet Vabadel Maadel on kuningas. Tema elab alaliselt Cairlinn Toris abistatuna Hõimutute poolt. 
 
-#### Kuningas
+**Kuningas**
 
 Temal on autoriteet määrata pealikke surma, kutsuda kokku sõjavägi ja kuulutada rünnak Impeeriumile. Kuningaks saamise protsess on osaliselt salajane, nii palju on teada, et soovijatele on seatud katsed ja et need tuleb edukalt läbida. Katsed sisaldavad endas Cairlinn Tori Ringi alla koobastesse minekut. Juhul kui koobastest väljub edukalt rohkem kui üks kandidaat, teevad valiku Hõimutute vanimad. 
 
 Nõnda valitud kuningas peab igal aastal uuesti koobastikesse minema ja ta võib valitseda järgmise aasta, kui neist elusana väljub. Kui ta nädala jooksul ei ilmu, algab uue kuninga otsimine, mida juhivad Hõimutud. Otsimine tähendab seda, et saadetakse sõnum kõikides suundades kõikidele hõimudele ja kandidaatidele antakse kolm kuud, et kohale ilmuda.
 
-#### Hõimutud
+**Hõimutud**
 
 Valdjamaa ainsad alalised elanikud on Hõimutud. Nad põlvnevad sellest rahvast, kes otsustasid jääda valvama Cairlinn Tori ja selle eest hoolitsema, kui esimene kuningas kõikidele Vabadele Maadele sellise kutse esitas. 
 
@@ -252,19 +255,19 @@ Hõimutud ei lahku kunagi Valdjamaalt. Nende ülesanneteks ongi Cairlinn Tori ee
 
 Hõimutud hoiavad oma vere tugevana neile toodud orbude kasvatamisega. Samuti on esinenud ka juhuseid, kus Hõimutud võtavad enda hulka neid, kes on endeid nähes nende juurde tulla otsustanud. Mis alustel nad seda otsustavad, ei tea keegi peale nende. 
 
-#### Maapäev
+**Maapäev**
 
 Maapäev on kõikide hõimude pealikute kogu, mis kutsutakse iga viie aasta tagant kokku Cairlinn Tori. Sealt ei ole kohane puududa, kuna seal tehakse kõiki hõime puudutavaid otsuseid. Kuningas võib soovi korral kokku kutsuda maapäeva ka muul ajal, seda on siiski ajalooliselt tehtud harva. Igal pealikul on kaasas ka vähemalt üks hõimutark ning oma koht on ka Ban-Mawri vanempreestritel. 
 
 Maapäeval muudetakse seadusi ja tehakse suuri otsuseid. Samuti arutatakse seal üle hõimude kümnised Valdjamaale. Igal pealikul on hääleõigus hoolimata tema hõimu suurusest. Pealikud võivad ka esitada oma ettepanekuid kuningale või nõuda vereraha teise pealiku käest. Maapäeval toimuv sõltub suuresti sellest, milline on valitsev kuningas ja kas ta eelistab lasta pealikel ettepanekuid teha või soovib ise jõuliselt asju edasi liigutada. 
 
-#### Kohus 
+**Kohus** 
 
 Tavaliselt mõistetakse kohut hõimu või klanni keskis. On vähe nii tõsiseid asju, mida tuuakse kuninga jutule. Siiski on üks kuninga kohustustest Valdjamaal toime pandud kuritegude üle kohtumõistmine. 
 
 Samuti on kuninga asi kohut mõista, kui üks hõim on teise hõimu vastu liigselt kurja teinud, ehk tapnud kaitsetuid hõimuliikmeid, rüvetanud nende elualasid või röövinud nii palju nende vara et hõim on nälga jäänud. 
 
-#### Hõimu ja klanni valitsemine
+**Hõimu ja klanni valitsemine**
 
 Klanni valitsejaks on klannipealik. Pealik valitakse klanni täisealiste liikmete poolt ja valitseb kuni surmani, kuni keegi teine osutub valituks või kuni targad ühiselt otsustavad tema ebasobivuse kohta. Ideaalne pealik on osav kõneleja ja seisab oma klanni huvide eest. See amet ei ole kerge, ja ebaõnnestunud pealik vahetatakse kiiresti välja, kuna iga aasta alguses peetaval klannikogul võib iga täisealine liige esitada oma nõudmise pealikuks saamiseks. Selleks on vaja pidada kõne põhjendamaks miks tema oleks hea pealik, ja kui ta on veenvam kui praegune pealik, võib klann valida hoopiski tema. 
 
@@ -272,15 +275,15 @@ Pealikul on autoriteet mõista surma ja otsustada tarkade nõu vastu, välja arv
 
 Hõimu valitsejaks on hõimupealik. Tema valitakse hõimukogu poolt. Hõimukogu koosneb klannide tarkadest, ja tuleb kokku hõimu ajaloolisse keskusesse. Hõimukogu toimub kas iga kahe aasta tagant või hõimupealiku surma (või sobimatuks osutumise) korral. Hõimupealikuks võib kandideerida iga hõimu täisealine liige, aga üldiselt on kandidaatideks need, kes on juba oma klanni edukalt juhtinud. Kandidaatidele seatakse tarkade poolt erinevad katsed ja nende katsete edukalt läbimine on suur osa hõimupealikuks saamisest. 
 
-#### Theumiitide esindus
+**Theumiitide esindus**
 
 Lisaks on kuninga nõuandjate seas ka kuus theumiiti, kes on Vabadel Maadel asuvate allikate esindajad. Nende ülesandeks on suhelda kuningaga theumiitide nimel. Saadikute positsioon Cairlinn Toris oleneb tugevalt kuninga meelestatusest theumiitide suhtes ja on seetõttu ajalooliselt varieerunud.  
 
-#### Lõpetuseks
+**Lõpetuseks**
 
 Üldiselt toimib võim Vabadel Maadel teistmoodi kui Impeeriumis. Pealik võib oma hõimlasi või klanniliikmeid käskida ja karistada, aga kui tema käsud on isekad või rumalad ja karistused liiga julmad, siis on tõenäoline et neid ei järgita. See kehtib ka kuninga kohta. 
 
-### Pärimus: 
+### Pärimus 
 
 Vabadel Maadel on rikkalik pärimusvara, igal hõimul ja klannil on oma legendid, mida antakse põlvest põlve edasi. Üldiselt anti lugusid edasi suuliselt, seda kuni paarsada aastat tagasi kui Mäletajate seltsi eest vedamisel hakati neid üles kirjutama. Erinevalt Impeeriumist ei ole pärimuse hoidjad kunagi tundnud suurt huvi vana-Alentumi pärimuse alles hoidmise suhtes. Sellist huvi peetakse pigem imelikuks, kuigi viimastel aastasel on tekkinud Mäletajate seltsis väike liikumine, mis peab oluliseks kasutada võimalust Impeeriumi kohta võimalikult palju üles tähendada. 
 
@@ -288,7 +291,7 @@ Igaüks teab vähemalt mõnda lugu, on neid kuulates üles kasvanud, aga loo tea
 
 Paljud lood annavad endas edasi ka õpetusi, et kuidas läbi käia erinevate olenditega, keda rändaja kohata võib.
 
-###Rahvastik: 
+### Rahvastik 
 
 Vabad Maad: 13 miljonit (täpsem arv pole teada)
 
@@ -300,14 +303,14 @@ Vabad Maad: 13 miljonit (täpsem arv pole teada)
 * Theumiidid: 800 000 
 * Serviilid: teada olevalt ei eksisteeri
 
-* Sõjavägi: u. 1 miljon 
+* Sõjavägi: u. 1 miljonit 
 * Preesterkond: 200 000
 * Maaharijad: 7 miljonit 
 * Käsitöölised: 2 miljonit 
 * Politsei/asulavalve: 400 000 
 * Muud: u. 2.5 miljonit 
 
-Maad ja pealinnad: 
+**Maad ja pealinnad** 
 
 * Valdjamaa: 484 000, Cairlinn Toris 16 000 
 * Ääremaa: 910 000, Kasalis 102 000
@@ -329,7 +332,7 @@ Maad ja pealinnad:
 * Suuremad hõimud: u. 250 000 
 * Väikseimad hõimud: u. 1000
 
-### Religioon: 
+### Religioon 
 
 Vabadel Maadel on usk sama tõsine asi kui Impeeriumis. Jumalad ühendavad vabamaalasi, sest kuigi hõimud on erinevad, on usk ühine asi. 
 
@@ -353,7 +356,7 @@ Püha loom: karu
 
 Ban-Mawr on Vabade Maade jumalate juht. Kui antakse vandeid, siis neid antakse tema nimel, ja tema viha pöördub nende peale, kes oma vannetest taganevad. Tema preestrid on tihti kohtupidamiste juures ja annavad oma nõu. Enne kui ei olnud kirjapandud Koodeksit, oli selle meelespidamine nende peamine ülesanne. Ban-Mawri õnnistus on verevannete siduvus. 
 
-**Lir-Neth **
+**Lir-Neth**
 
 Tiitlid: Kaotuse Tuul, Nägemise Piir
 
@@ -465,7 +468,7 @@ Püha loom: jänes
 
 Rändajate, teatetoojate ja muude liikujate jumal. Tema preestrid rändavad tihti mööda maid ja toovad kuuldud uudiseid ning lugusid. Eil-Ganni õnnistus on tuuled õigest sunnast. 
 
-#### Kangelased ja esivanemad
+**Kangelased ja esivanemad**
 
 Igal hõimul on esivanemaid. Mõnikord on aga lahkunud esivanem nii austatud ja hinnatud, et hõim soovib tema tarkust ka edaspidi kuulda. Selleks on olemas komme, et Lir-Nethi preestrid võivad paluda esivanemat jääma kui hõim seda neilt palub. Kuna esivanema keha on siiski surema määratud, läheb tihti nii et esivanem jääb hääleks mõnda hõimu pühasse paika. Seal võivad siis käia pealikud ja targad temalt nõu palumas. Tihti on neid esivanemaid rohkem kui üks. Sellisena paigale jäänud esivanem ei ole siiski seal igavesti, vaid lahkub kui ta tunneb, et tal pole rohkem tarkust jagada.
 
@@ -473,7 +476,7 @@ Kuigi kõik teavad, et esivanemad on pühas paigas, pole neist siiski sobilik r�
 
 On ka kangelasi, kes on hõimu mällu jäänud mõne suure legendaarse teoga. Neid tuuakse eeskujuks hõimu noorematele liikmetele ja nende üle tuntakse uhkust. Mõned võivad ka valida seada oma eluteed täpselt nende tegude järgi ja ülal hoida nende põhimõtteid. Selline valik on siiski üsna isiklik ja seda märgitakse tavaliselt kandes mingit eset mis kandjale tema eeskuju meenutab. 
 
-#### Preestriks saamine
+**Preestriks saamine**
 
 Preestriks võib saada iga mitteabielus täiskasvanud alenti, kes pole moroia, lagaar või vulver. Selleks peab ta kõigepealt kõnelema valitud jumalat teenivate preestritega, kes viivad läbi talle seatud katsed. Kui ta läbib katsed edukalt, saab temast pühendatu. Pühendatu teenib vähemalt aasta, üldiselt aga kaks-kolm aastat, kuni ta on näidanud, et suudab täita temale esitatud nõudmised. 
 
@@ -493,7 +496,7 @@ Iga jumala preesterkonnal on erinevad ülesanded, aga kõiki ühendab pühendumu
 
 Preester peab järgima oma jumala eeskuju ja tõekspidamisi, või ta võib kaotada oma võimed kas mõneks ajaks või igaveseks. 
 
-#### Lõpetuseks
+**Lõpetuseks**
 
 Õnnistust soovides võib palvetada jumala poole, kelle valdkonnas õnnistust palutakse. Tõhusamaks peetakse aga templisse ohvri viimist ja seal palvetamist. Mõnikord võivad preestrid seada palujale aga ülesande, mille täitmine valmistab jumalale meelehead. Tihti sisaldab see pikemat palverännakut. Seda võivad nad seada ka siis, kui preester tunneb pihi vastuvõtmisel, et pihtija on jumala vooruse vastu eksinud ja väärib võimalust seda heastada. 
 
@@ -501,7 +504,7 @@ Peale kõige eelmainitu õnnistavad preestrid ka erinevaid esemeid, näiteks amu
 
 Pärast rahu tegemist on põhimõtteliselt lubatud ka Impeeriumi jumalate teenimine, aga üldiselt teevad seda ainult Vabadel Maadel elavad leontiidid. Hetkel neil ei ole ametlikke templeid. 
 
-### Sõjandus: 
+### Sõjandus 
 
 Vabadel Maadel ei ole alalist sõjaväge. Enamus rahvast oskab mingil määral võidelda, ja sõjavägi koguneb Impeeriumi ründamiseks ainult kuninga kutsel. Elukutselisteks sõjaväelasteks võib pidada klanni- ja hõimupealike isiklikke vägesid. 
 
@@ -509,7 +512,7 @@ Kogutud sõjavägi on organiseeritud hõimude ja klannide järgi salkadeks. Üld
 
 Igal hõimul on oma võitlemistaktikad ja relvad. Mõnede hõimude salgad toimuvad paremini skautidena, teised ründajatena oma sõjaratsudega. Üldiselt on vabamaalased üpriski leidlikud oma rünnakute sooritamisel ja kasutavad igasuguseid taktikaid, mida nad on hõimusõdu pidades välja arendanud. 
 
-#### Piirivalve
+**Piirivalve**
 
 Üldiselt on Vabade Maade piire valvanud need hõimud, kes piirialadel elavad. Pärast rahu sõlmimist Impeeriumiga, moodustas kuningas aga eraldi piirivalveüksused, mis koosnevad erinevate hõimude vabatahtlikest. 
 
@@ -517,13 +520,13 @@ Vabade Maade piirialal on üldiselt luba liikuda igaühel, keda pole lindpriista
 
 Piiriüksused teevad koostööd Impeeriumi piirivalvuritega ja on moodustatud ka segaüksuseid, mis tegutsevad peamiselt aladel kus elab mõlema poole rahvast, nagu Areni ja Teliti piiriasulad. 
 
-### Ühiskond: 
+### Ühiskond 
 
 Vabade Maade ühiskond on mitmete eri hõimude ja seltside kogum, kes kõik elavad üldiselt üksteisest eraldatult, aga koonduvad kokku kuninga kutsel. Vabadel Maadel on kõik võrdsed, ja igaüks võib pürgida täpselt sinna, kuhu ise soovib. 
 
 Erinevalt Impeeriumist ei ole Vabadel Maadel eraldi aadliklassi. 
 
-#### Hõimud ja klannid
+**Hõimud ja klannid**
 
 Suurimaks ja olulisimaks ühiskonnaüksuseks on hõim. Hõimud põlvnevad legendi järgi sajast salgast, kes tulid itta, et luua teistsugune ühiskond kui see mis Impeeriumis. Neid hõime on nüüdki ehk üle saja, aga ainult kümme on märkimisväärselt suured. Hõimud tegutsevad üldiselt omapäi aga koonduvad kokku siis kui neid kutsutakse. Hõimu juhib hõimupealik. 
 
@@ -533,7 +536,7 @@ Igal hõimul on omad legendid ja pühad kohad, oma traditsioonid ja alad, mille 
 
 Hõimud võivad ka omavahel sõdida, kuigi sellised kokkupõrked on pigem sõbralikud ja mõeldud vägede katsetamiseks. Siiski on hõime, kes omavahel üldse ei suhtle ja isegi Cairlinn Toris üksteisest mööda kõnnivad. Hõimusiseselt pole tõeline sõdimine aga lubatud, ja neid, kes seda keeldu eiravad, karistatakse karmilt. Need sõjad tuleb aga jätta, kui kuningas kutsub hoopiski Impeeriumi vastu sõtta minema. 
 
-**10 tähtsamat hõimu:**
+**10 tähtsamat hõimu**
 
 * Brig - Orumaa lõunapoolel kaua valitsenud Brigi hõim on alati olnud vaenus Turahani hõimuga, kellega nad võistlevad selle üle, et kes saab kontrollida Valgejõel liikuvat kaubandust. Hõimu hetkeline pealik on Wolan Ööjälitaja. 
 * Turahan - Ajalooliselt on Turahani hõim valitsenud Orumaal, põhja poolel Valgejõest. Praegune kuningas Alix on pärit sellest hõimust. Hõimu hetkeline pealik on Dager Jõehunt. 
@@ -548,9 +551,9 @@ Hõimud võivad ka omavahel sõdida, kuigi sellised kokkupõrked on pigem sõbra
 
 Veel hõime: Azen, Darais, Kathen, Kerr, Lugen, Magar 
 
-#### Seltsid
+**Seltsid**
 
-Selts on sarnaste huvide ja teadmistega isikute kogum. Nagu ka hõime, on seltse väga palju, siin on ära toodud need, kellel on kõige rohkem liikmeid. Seltsid on tekkinud aastate jooksul ja neil on oma asupaigad. Igal seltsil on omad saladused ja nad võivad neid küll kasutada kõikide Maade heaks, aga neid hoitakse kiivalt. 
+Selts on sarnaste huvide ja teadmistega isikute grupp. Nagu ka hõime, on seltse väga palju, siin on ära toodud need, kellel on kõige rohkem liikmeid. Seltsid on tekkinud aastate jooksul ja neil on oma asupaigad. Igal seltsil on omad saladused ja nad võivad neid küll kasutada kõikide Maade heaks, aga neid hoitakse kiivalt. 
 
 Seltsid on ka viis kuidas hõimudevahelisi suhtluskanaleid lahti hoida. Isegi kui kahe sama seltsi kuuluva isiku hõimud on omavahel sõjas, ei või nemad sellega liituda, vähemalt mitte oma seltsiliste vastu. Paljude jaoks ongi selts olulisem kui hõim. Seltsidel on ka oma hierarhiad ja tiitlid, mida kasutatakse üldiselt isekeskis. 
 
@@ -558,7 +561,7 @@ Seltsid on ka viis kuidas hõimudevahelisi suhtluskanaleid lahti hoida. Isegi ku
 
 Seltsist heidetakse välja teise seltsilise vastu käe tõstnud või seltsi reetnud isik. Tihti tähendab see ka seltsipoolset häbimärgistamist. Selleks on vaja seltsi juhi või nõukogu otsust. 
 
-Suuremaid seltse: 
+**Suuremaid seltse** 
 
 * Loitsijad - Siia on kogunenud enamus Vabade Maade ruunikunsti valdajatest. 
 * Rajaleidjad - Siin seltsis on paljud kütid, metsavahid ja skaudid. 
@@ -572,7 +575,7 @@ Suuremaid seltse:
 * Pruulijad - Vabade Maade parimad joogid on üldiselt Pruulijate seltsi tehtud. Siiski, nad on väga valivad oma liikmete suhtes ja võtavad vastu ainult neid kes suudavad üllatada. 
 * Toitjad - Siin seltsis on need, kes on pühendunud parima toidu valmistamisele. 
 
-#### Voorused
+**Voorused**
 
 * Jultumus - Ainult julged võidavad. 
 * Etteaimdus - Oma tegude peale tuleb mõelda ja nende tagajärgi ette näha. 
@@ -583,13 +586,13 @@ Suuremaid seltse:
 * Lõpetamine - Parem asjad lõpetada, kui lasta neil vireleda. 
 * Tegutsemine - Tegemata ei saa midagi. 
 
-#### Erinevad ja nende kohtlemine 
+**Erinevad ja nende kohtlemine** 
 
 Vabade Maade suhtumine moroiadesse, lagaaridesse ja vulveritesse erineb Impeeriumi suhtumisest. Ei ole mingisuguseid ametlikke registreerimisi ja üldiselt võivad vastavate konditsioonidega isikud rahulikult edasi elada. Paljud neist on ajalooliselt kasutanud oma võimeid Impeeriumi vastu võitlemiseks. 
 
 Vanaverelised ei naudi ehk samasugust positiivset suhtumist nagu Impeeriumis, aga ka neil lastakse üldiselt olla. 
 
-### Seadused ja karistused
+**Seadused ja karistused**
 
 Vabade Maade seadustik on aegu olnud ainult suuline. Alles paarsada aastat tagasi loodi kuningas Riheni eestvedamisel kirjalik Koodeks. Koodeks raiuti Cairlinn Toris kivisse ja see on püsinud enamvähem muutumatult kõik need aastad. Koodeksi ärakirjad on nii Ban-Mawri preestritel kui ka iga hõimu tarkadel. 
 
