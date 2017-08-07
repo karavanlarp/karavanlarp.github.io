@@ -22,16 +22,16 @@ _Larp engineer_
 
 Siim has also organised larps before (a fantasy series and a few sci-fi themed larps). Siim is responsible for turning Caravan into a game: he works on rules and designing game mechanics. In real life Siim studies mathematical statistics and gene technology in university. His hobbies are martial arts, hiking and board games. 
 
-### Credits:
+### Credits
 
-**Art department:**
+**Art department**
 * Dani
 * Birgit
 
-**Translations and editing:**
+**Translations and editing**
 * Martin
 * Iti
 
-**Other helpers:**
+**Other helpers**
 * Ghost
 * Raigo
