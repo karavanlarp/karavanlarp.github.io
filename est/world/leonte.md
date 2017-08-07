@@ -3,7 +3,7 @@ layout: default-est
 title: Leonte Impeerium
 ---
 ## Leonte Impeerium
-
+![Leonte logo](https://karavanlarp.github.io/img/impeeriumi logo suur.png)
 ### Üldinfo 
 
 * Pealinn: Rhaentium
