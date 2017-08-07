@@ -1,6 +1,6 @@
 ---
 layout: default-est
-title: Karavan I: Algus
+title: Karavan I - Algus
 ---
 ### Karavan I: Algus
 
