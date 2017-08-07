@@ -14,7 +14,7 @@ Tavalise alenti puhul on kõige iseloomulikum tema riietus. Impeeriumi ja Vabade
 
 Kui teil on mänguväliselt väga eredad neoonvärvi juuksed, piisab nende rätiga mingil määral katmisest. Soovi korral võib kanda ka parukat. 
 
-Grimmist: tavaline alenti ei vaja palju grimmi, kui tahate, võite endale joonistada/lisada nahavärvi soomuseid. 
+**Grimmist:** tavaline alenti ei vaja palju grimmi, kui tahate, võite endale joonistada/lisada nahavärvi soomuseid. 
 
 ### Impeerium 
 
@@ -28,15 +28,15 @@ Preestrid kannavad pikki rüüsid, mis on tihti kaunistatud nende jumala sümbol
 
 Seiklejad ja karavanide reisijad kannavad üldiselt praktilisi rõivaid, millega saab rahulikult metsas liikuda. Need, kes varjuda soovivad, eelistavad muidugi metsalähedasemaid toone. 
 
-Turvistest: Impeeriumis esineb pigem nahk- ja lamellturviseid, aga rõngassärgid pole samas enam haruldased. 
+**Turvistest:** Impeeriumis esineb pigem nahk- ja lamellturviseid, aga rõngassärgid pole samas enam haruldased. 
 
-Relvadest: Sobivad kõik bofferrelvad, mis on teistele ohutud. 
+**Relvadest:** Sobivad kõik bofferrelvad, mis on teistele ohutud. 
 
 Soengud on üldiselt lihtsad ja praktilised. Impeeriumis pole kommet ennast tätoveerida, nii et kui tegelasel on tätoveeringuid, on need tehtud piirialadel. 
 
 Pika sõja tõttu on Impeeriumis arenenud ka proteeside ja muu sellise valmistamine. Rikkamad võivad osta isegi maagide poolt valmistatud proteese, mida saab kasutada pea sama hästi kui päris jäset. Vaesemad peavad rahulduma puujäsemete ja muu sellisega. 
 
-Lisaks:
+**Lisaks:**
 
 Kokkuvõttes sobivad igasugused riided, jalatsid, mütsid ja ehted, mis ei ole liiga modernsed (ehk proovige vältida hilisemaid kui 19. sajandi riideid). Kangad on pigem looduslikud. Purpurlilla pärast ärge muretsege. ;) Üldiselt sobivad kõik värvid, isegi tugevad kollased, roosad, lillad, türkiisid, jne. Vältida tasub neoone ja selgelt tehislikke/väga sädelevaid kangaid. Kaunistustest sobivad kenasti ka igasugused pitsid, punutud nöörid ja helmed. 
 
@@ -46,9 +46,9 @@ Vabadel Maadel ei ole nii ohtralt värvililli, nii et nende rõivad on üldiselt
 
 Ka Vabade Maade preestrid kannavad oma jumala märki. See peab olema minimaalselt 15 x 15 cm suur ja kujutama selgelt vastava jumala sümbolit (sümbolitest pikemalt religiooni all). 
 
-Turvistest: Kasutatakse nahkturviseid ja rõngassärke. 
+**Turvistest:** Kasutatakse nahkturviseid ja rõngassärke. 
 
-Relvadest: Vt. ülal.
+**Relvadest:** Vt. ülal.
 
 Soenguid on igasuguseid. Mõni eelistab olla kiilaspäine, mõni juuksed pikaks kasvatada ja siis osa maha ajada. Väga armastatakse ka patsidega soenguid, millele lisatakse helmeid ja muud seesugust. 
 
@@ -56,7 +56,7 @@ Tätoveeringud on oluline osa ühiskonnast, nimelt on igal hõimul ja seltsil om
 
 Proteeside ja muu sellise jaoks kasutatakse üldiselt puitu. Rikkamatel on võimalus kasutada ka maagilist loitsitud puitu. 
 
-Lisaks: 
+**Lisaks:** 
 
 Viikingi- ja keskaja rõivastest saab endale ilusa kostüümi. Sama käib ehete ja aksessuaaride kohta. Olenevalt sellest, kui palju tegelane on rännanud, võib ta kanda ka ebatavalisemaid kangaid või ehteid. 
 
@@ -90,7 +90,7 @@ Näo ette võib panna loori või kasutada maski (või mõlemat). Jaksu ja viitsi
 
 Kostüüm peab olema sellist värvi, et peale vaadates on aru saada, mis elementi theumiit kuulub. Impeeriumi ja Vabade Maade theumiitidel väga palju vahet pole. Kantakse ka alentide valmistatud asju, aga üldiselt eelistatakse metalli, see pole allikas viibides nii aldis hävima kui näiteks luu- või puuehted. 
 
-Värvid: 
+**Värvid:** 
 
 * **Vesi** - sinine heledast tumedani, aktsentideks lilla ja rohekad sinised, metalldetailid pigem hõbeda/plaatinalaadsed 
 * **Õhk** - hall heledast tumedani, aktsendiks valge
@@ -105,7 +105,7 @@ Jalad võivad olla rüüga kaetud või mitte, vastavalt soovile.
 
 Mängus tähendab “kest” seda, et theumiidi rõivad/turvis moodustavad energiavälja, mis tema elemendikeha vaos hoiab. 
 
-Lisaks: 
+**Lisaks:** 
 
 Kõige olulisem on muidugi, et te kostüümis kuumarabandust ei saa. ;) Juua ja süüa võite nagu soovite, mängusiseselt see theumiiti otseselt ei toida, aga seda peetakse huvitavaks kogemuseks. Samas on olemas ka theumiitidele mõeldud maagiajooke ja väikeseid pakikesi (kommid), mis on eraldi tähistatud. Kui kostüüm selle aga võimatuks teeb (loori alt saab ehk veel süüa, aga maskiga oleks see üpris ebamugav), on kõige lihtsam ennast teiste poolt ära pöörata või OG alal lõunastada. 
 
