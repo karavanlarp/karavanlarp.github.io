@@ -102,5 +102,3 @@ You may arrive on Friday and sleep on location. You may also stay Saturday night
 Those coming with a car should be on location at 10.30 and help to transport people from the public stops if needed. The overall time is 11. If you need some time to prepare your outfit and makeup, please be there earlier, as we want to start as early with the briefings as possible. 
 
 Definitely let us know if you are going to be late. We will not be postponing the game’s start for a few people, which can mean that your game start will change a bit. 
-
-
