@@ -2,9 +2,11 @@
 layout: default-est
 title: Leonte Impeerium
 ---
+## Kostüümijuhend
+
 Näpunäited erinevate rasside kostüümide ja grimmi kohta. 
 
-### Alentid:
+### Alentid
 
 Tavalise alenti puhul on kõige iseloomulikum tema riietus. Impeeriumi ja Vabade Maade elanikud riietuvad üsna erinevalt. Piirialadel on näha nende stiilide segunemist. 
 
@@ -14,7 +16,7 @@ Kui teil on mänguväliselt väga eredad neoonvärvi juuksed, piisab nende räti
 
 Grimmist: tavaline alenti ei vaja palju grimmi, kui tahate, võite endale joonistada/lisada nahavärvi soomuseid. 
 
-### Impeerium: 
+### Impeerium 
 
 Impeeriumi kodanikud riietuvad väga värviliselt, kuna värvilised kangad on üsna odavad. Samuti on ohtralt müügil erinevate mustritega trükitud kangaid. Tikitud ja helmestega kangad on aga üldiselt rikaste ja Valitute pärusmaa. Kantakse mitmesuguseid ehteid ja amulette (pigem metallist ja kivist, luumaterjalist amuletid on ebatavalised). 
 
@@ -34,11 +36,11 @@ Soengud on üldiselt lihtsad ja praktilised. Impeeriumis pole kommet ennast tät
 
 Pika sõja tõttu on Impeeriumis arenenud ka proteeside ja muu sellise valmistamine. Rikkamad võivad osta isegi maagide poolt valmistatud proteese, mida saab kasutada pea sama hästi kui päris jäset. Vaesemad peavad rahulduma puujäsemete ja muu sellisega. 
 
-Lisaks: 
+Lisaks:
 
 Kokkuvõttes sobivad igasugused riided, jalatsid, mütsid ja ehted, mis ei ole liiga modernsed (ehk proovige vältida hilisemaid kui 19. sajandi riideid). Kangad on pigem looduslikud. Purpurlilla pärast ärge muretsege. ;) Üldiselt sobivad kõik värvid, isegi tugevad kollased, roosad, lillad, türkiisid, jne. Vältida tasub neoone ja selgelt tehislikke/väga sädelevaid kangaid. Kaunistustest sobivad kenasti ka igasugused pitsid, punutud nöörid ja helmed. 
 
-### Vabad Maad: 
+### Vabad Maad 
 
 Vabadel Maadel ei ole nii ohtralt värvililli, nii et nende rõivad on üldiselt naturaalsemat värvi. Samuti ei esine nii tihti mustreid. Olulisim on rõivaste praktilisus. Vabamaalased kannavad meeleldi loomanahku, loomakihvu ja luuehteid. 
 
@@ -46,7 +48,7 @@ Ka Vabade Maade preestrid kannavad oma jumala märki. See peab olema minimaalsel
 
 Turvistest: Kasutatakse nahkturviseid ja rõngassärke. 
 
-Relvadest: vt. ülal.
+Relvadest: Vt. ülal.
 
 Soenguid on igasuguseid. Mõni eelistab olla kiilaspäine, mõni juuksed pikaks kasvatada ja siis osa maha ajada. Väga armastatakse ka patsidega soenguid, millele lisatakse helmeid ja muud seesugust. 
 
