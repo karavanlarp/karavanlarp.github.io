@@ -1,6 +1,6 @@
 ---
 layout: default-est
-title: Karavan LARP
+title: Karavan I: Algus
 ---
 ### Karavan I: Algus
 
@@ -50,10 +50,10 @@ Mängule registreerimine on avatud PCdele **28. augustini**, NPCdele **4. septem
 
 **Mängumaksud**
 
-PC - 20 eurot. 
-NPC - 10 eurot. Üks (või mitu) rollimänguline roll.
-Monstering NPC - 8 eurot. Saad metsas ringi joosta ja mängijaid varitseda. 
-Sponsorpilet - min 30 eurot (juhul kui maksad PC koha eest). Selle piletiga saad pakkuda odavama mängumaksu mõnele väiksemate võimalustega mängijale. 
+* PC - 20 eurot. 
+* NPC - 10 eurot. Üks (või mitu) rollimänguline roll.
+* Monstering NPC - 8 eurot. Saad metsas ringi joosta ja mängijaid varitseda. 
+* Sponsorpilet - min 30 eurot (juhul kui maksad PC koha eest). Selle piletiga saad pakkuda odavama mängumaksu mõnele väiksemate võimalustega mängijale. 
 
 Mängumaksu tasumise tähtaeg on PCdele **28. august**, NPCdele **4. september**. Me ei tagasta mängumaksu pärast tähtaja möödumist. 
 
