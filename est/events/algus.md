@@ -79,9 +79,9 @@ Ootame mängule ka välismaiseid mängijaid, seetõttu on mängukeelteks eesti j
 
 **Kuidas kohale?** 
 
-Bussiaegu saab vaadata siit: tpilet.ee 
+Bussiaegu saab vaadata siit: [tpilet.ee](https://www.tpilet.ee/) 
 
-Rongiaegu saab vaadata siit: elron.ee 
+Rongiaegu saab vaadata siit: [elron.ee](http://elron.ee/) 
 
 Mängukohale lähim ühistranspordipeatus on Türi, sealt on umbes 5 kilomeetrit mängukohale. 
 
