@@ -114,6 +114,16 @@ li {
 	color: #331a00;
 }
 
+.right-content {
+	float: right;
+	text-align:center;
+}
+
+.right-content p {
+	max-width: 15em;
+	margin: 1em;
+}
+
 @media (max-width: 600px) {/*responsiveness*/ 
 	#content {
 		width: 90%;

@@ -1,11 +1,16 @@
 ---
 layout: default-fb-est
 title: Karavan LARP
-images:
-- img/gallery/Thanaria_6_34.JPG
-- img/gallery/Fyerellal_4_40.JPG
-- img/gallery/Fyerellal_6_30.JPG
-- img/gallery/Fyerellal_I_108.jpg
+right_content: |
+    ![Image](/img/gallery/Thanaria_6_34.JPG)
+    *fun caption*
+
+    ![Image](/img/gallery/Fyerellal_4_40.JPG)
+    *fun caption2*
+
+    ![Image](/img/gallery/Fyerellal_6_30.JPG)
+
+    ![Image](/img/gallery/Fyerellal_I_108.jpg)
 ---
 ### Mis?
 
