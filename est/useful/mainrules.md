@@ -14,11 +14,11 @@ Karavani mängujuhid on: Mona Hakomaa, Maarja Lutsar ja Siim Kurvits.
 
 ### IG ja OG 
 
-Rollimäng algab ja lõppeb mängujuhi välja kuulutamisel. Mängu võib peatada ohtliku olukorra tekkimisel, selleks on kasutusel STOPP-reegel. Mänguvälised esemed/kohad on tähistatud punavalgelindiga ja neid tuleb ignoreerida. Mängijad võivad mängust väljas olla hoides rusikas kätt pea peal. Mängust väljumine mängusiseste tagajärgede vältimiseks on ebasoovitatav. 
+Rollimäng algab ja lõppeb mängujuhi välja kuulutamisel. Mängu võib peatada ohtliku olukorra tekkimisel, selleks on kasutusel gamestop-reegel. Mänguvälised esemed/kohad on tähistatud punavalgelindiga ja neid tuleb ignoreerida. Mängijad võivad mängust väljas olla hoides rusikas kätt pea peal. Mängust väljumine mängusiseste tagajärgede vältimiseks on ebasoovitatav. 
 
-### STOPP-reegel
+### Gamestop-reegel
 
-Reegel mängu peatamiseks ohtlikus olukorras. Seda kuuldes tuleb mängijatel mängimine lõpetada ja jääda kohapeale seisma kuni olukord laheneb ja lubatakse jätkata. Täpne fraas on “STOPP”. 
+Reegel mängu peatamiseks ohtlikus olukorras. Seda kuuldes tuleb mängijatel mängimine lõpetada ja jääda kohapeale seisma kuni olukord laheneb ja lubatakse jätkata. Täpne fraas on “Gamestop”. 
 
 ### Pausi-reegel
 
@@ -46,7 +46,7 @@ Mängusisesed konfliktid peaksid jääma mängu. Kui on tekkinud mänguväline k
 
 Juhul kui mõni mängus toimuv olukord muutub liigseks või ebamugavaks, võib mängija selle katkestada, öeldes “turvasõna”. Seda kuuldes tuleks antud olukorra rollimängimine lõpetada ja mänguväliselt kokku leppida mida tehakse järgmisena. Turvasõna kasutamist ei pea teistele põhjendama. Kõigil on erinevad mugavustsoonid ja õigus valida palju nad nendest välja lähevad.
 
-Näide: Mängija A on kinni võtnud mängija B ja asub tema tegelast piinama. Kuigi B on alguses nõus, leiab ta mingi hetk et talle ei meeldi kui detailselt A tema piinamist kirjeldab. A ütleb “turvasõna” ja stseen lõppeb, lepitakse kokku mis edasi juhtus, kas A tegelane otsustas piinamise lõpetada või sai B tegelane hoopiski plehku. 
+Näide: Mängija A on kinni võtnud mängija B ja asub tema tegelast piinama. Kuigi B on alguses nõus, leiab ta mingi hetk et talle ei meeldi kui detailselt A tema piinamist kirjeldab. B ütleb “turvasõna” ja stseen lõppeb, lepitakse kokku mis edasi juhtus, kas A tegelane otsustas piinamise lõpetada või sai B tegelane hoopiski plehku. 
 
 ### Keeled
 
@@ -56,7 +56,7 @@ Näide: Mängija A on kinni võtnud mängija B ja asub tema tegelast piinama. Ku
 
 Mõõdukas füüsiline kontakt on mängu jooksul kõigile lubatud, välja arvatud võitlusolukordades. Viimast eestkätt ohutuse jaoks. Kui on soovi kontakti eskaleerida, näiteks vastasega füüsiliselt maadelda või ihaldatud tegelast sügavalt emmata, tuleb selle tegelase mängijalt üle küsida ja kokku leppida. Seda tuleb kindlasti teha enne konflikti algust, mitte selle ajal. Selliseid asju võib kokku leppida ka enne mängu algust, näiteks tasub seda teha oma seltskonna mängijatega. Neid on aga kohane ka uurida mängu jooksul kui on soovi teha mõni äge stseen. 
 
-Pigem soovitame olla ettevaatlikumad, eriti lahingolukordades teiste mängijate vigastamise vältimiseks. Kellegi üllatusründamine teda krabades või tõmmates on rangelt keelatud. 
+Pigem soovitame olla ettevaatlikumad, eriti lahingolukordades enda ja teiste mängijate vigastamise vältimiseks. Kellegi üllatusründamine teda krabades või tõmmates on rangelt keelatud. 
 
 ### Kostüüm ja mängijate rekvisiidid
 
