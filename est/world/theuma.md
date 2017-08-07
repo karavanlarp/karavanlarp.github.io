@@ -102,13 +102,13 @@ Valige oma suhtumine ise ja tegelasele meelepäraselt.
 
 Alenti - Alentumilt pärit 
 
-**Üldine info:**
+**Üldine info**
 
 Alentid on Alentumilt pärit humanoidne rass, kes põlvnevad Alentumil elanud sisalikest. Enne Alentumilt lahkumist meenutasid nad neid oluliselt rohkem, neil olid ihukarva soomused ja teistsugused silmad. Theumale elama jäädes hakkas aina rohkem lapsi sündima sellistena, nagu on alentid tänapäeval. Neid väheseid, kes veel meenutavad vanu alentisid, nimetatakse vanaverelisteks. 
 
 Nad moodustavad suure enamuse ehk 95% Theuma rahvastikust. Nende alaliigid (ehk moroiad, lagaarid, vulverid ja vanaverelised) moodustavad kõik kokku ehk 5%, kui sedagi. Täpsem statistika on ära toodud Theumat kirjeldavas artiklis. 
 
-**Omadused:**
+**Omadused**
 
 Alentid ei ole sündides maagilised nagu theumiidid. Nad saavad aga kasutada jumalate maagiat, apeiromantiat ja ruunikunsti. Nad on füüsiliselt ja vaimselt vastupidavad. Elu jooksul võivad nad muutuda vulveriks või pärast surma moroiaks või lagaariks. Samuti saab alenti hinge kasutada serviili loomiseks. (Sellest pikemalt muude olendite artiklis). 
 
@@ -118,7 +118,7 @@ Mõned alentid on sünnist saadik vanaverelised. See annab neile veidi teistsugu
 
 Tavaline alenti elab üldiselt 100-aastaseks. Alentid on elujõulised enamuse oma elust, nõrgenemine algab tavaliselt 80-ndate eluaastate jooksul. Nende elutsükli algus on inimesele üsna sarnane, aga nad muutuvad suguküpseks üldiselt alles 16-ndast eluaastast. On ka juhuseid, kus see võimekus saabub varem. 20-ndate eluaastate alguseks on alenti üldiselt füüsiliselt välja arenenud. Viljakus hakkab nõrgenema 60-ndate eluaastate jooksul, mis väljendub tavaliselt lihtsalt viljastamise ebaõnnestumises.
 
-**Paljunemine:**
+**Paljunemine**
 
 Paljunemises ei ole soolisi erinevusi. Kõigi alentide kõhuõõnes on reproduktiivmaterjali eritavad näärmed, kõik alentid on võimelised nii oma materjali teisele andma kui ka teise materjali vastu võtma ja sellest sündivat last kandma. Rasedus kestab tavaliselt 10 kuud. 
 
@@ -128,7 +128,7 @@ Vanemate omadused kanduvad lastele edasi. Kui kaks vanaverelist saavad lapse, si
 
 Lagaarid ja moroiad ei saa enam paljuneda, kuna nende reproduktiivnäärmed ei suuda enam geneetilist materjali toota. Samuti on teada, et kaua teeninud preestrid ei ole selleks enam võimelised ja see pole ka ühiskondlikult aktsepteeritav. 
 
-**Erinevused inimestest:**
+**Erinevused inimestest**
 
 Alentid on tugevamad ja neid on raskem tappa. Nende veri hüübib kiiremini ja šokk on aeglasem tulema, mis laseb neil kauem võidelda. Samuti paranevad nad kiiremini kui inimesed, väikesed kriimustused ja vigastused kaovad tundidega. Luud paranevad paari nädala jooksul. Siiski ei suuda nad tagasi kasvatada kaotatud jäsemeid. Samuti on nad võimelised paranema erinevatest ajutraumadest, mis inimese puhul oleksid pöördumatud. See võtab küll mitu aastat aega, aga on võimalik. 
 
@@ -138,7 +138,7 @@ Nad on oluliselt viljakamad kui inimesed, enamus rasestumiskatseid õnnestuvad j
 
 Psühholoogiliselt on alentid samuti vastupidavamad kui inimesed. Neil esineb oluliselt vähem vaimuhaigusi ja muid vaimseid probleeme. 
 
-**Välimus:**
+**Välimus**
 
 Tavaline alenti ei ole inimesest eristatav, kui välja arvata see, et mõnedel neist esineb nahavärvi sisalikusoomuseid. Vanaverelised on selgemalt eristatavad, kuna nende soomused on erinevat värvi ja nende silmad võivad samuti olla väga teistsugused. 
 
@@ -148,13 +148,13 @@ Tavaline alenti ei ole inimesest eristatav, kui välja arvata see, et mõnedel n
 
 Theumiit - Theumalt pärit 
 
-**Üldinfo:**
+**Üldinfo**
 
 Theumiidid on Theuma põliselanikud, kes moodustavad mandri kogurahvastikust umbes 5%. Nad sünnivad elemendiallikast ja koosnevad ise täielikult puhtast elemendist. Olemasolevaid elemente on kuus: tuli, vesi, õhk, maa, valgus ja varjud. 
 
 Theumiidid on sootud, aga mõningates dialektides kasutavad nad enda kohta kõneledes erinevaid asesõnu (OG: mängija valib enda tegelasele meelepärase asesõna ise). Kuigi kõik theumiidid oskavad mingil määral elemente kasutada, sõltuvad iga üksiku theumiidi oskused tema andekusest, huvidest ja vastavast treeningust. 
 
-**Omadused:**
+**Omadused**
 
 Theumiidid ei saa vanduda truudust jumalale ega kasutada valemi- või ruunimaagiat. Samuti ei saa neid muuta moroiaks, lagaariks või vulveriks ning vaatamata sellele, et neil on hing, ei ole neist võimalik teha serviile. 
 
@@ -162,15 +162,15 @@ Praegused theumiidid on oma esivanematest märgatavalt erinevad. Alentide saabum
 
 Seetõttu, et suurem osa Theumast pole enam elementidega kooskõlas, vajavad theumiidid allikast lahkudes kesta. Kest on turviseks, mis kaitseb theumiiti välisilma ja välisilma theumiidi eest. Lisaks aitab kest theumiitidel oma võimeid paremini kasutada ja suunata, kuna allikast väljaspool ei ole nende element nii tugevalt tajutav.
 
-**Elutsükkel:**
+**Elutsükkel**
 
 Theumiidid elavad üldiselt 150 aasta vanuseks. Kuigi theumiit saavutab humanoidse kuju paar aastat pärast ilmumist ja kasvab suureks üldiselt 15 aasta jooksul, jõuab ta oma tippikka alles umbes 30. aasta möödudes. Enamasti hakkab theumiit oma jõudu minetama 120. eluaasta paiku. Surmahetkel nende keha laguneb ja nad naasevad lähimasse allikasse. 
 
-**Paljunemine:**
+**Paljunemine**
 
 Theumiidid ei paljune omavahel, vaid sünnivad allikate südametest väikeste elemendikeradena. Tihtipeale sünnivad nad rühmade kaupa, kuni kümmekond theumiiti korraga. On teadmata, mis dikteerib theumiitide sünni ja rühma arvukuse.
 
-**Välimus:**
+**Välimus**
 
 Kestata theumiit on särav humanoidne energiaolevus. Tema energia mõjutab ümbritsevat maailma, üldiselt laastavate tagajärgedega. Seetõttu kannavad theumiidid tavaliselt keha täielikult katvat kesta, mis võib meenutada nii turvist kui rüüd või segu mõlemast. Ka kestas olles särab veidi theumiidi energiat läbi, enamasti silmade kaudu. 
 
@@ -178,7 +178,7 @@ Kestata theumiit on särav humanoidne energiaolevus. Tema energia mõjutab ümbr
 
 Theumal elab peale alentide ja theumiitide veel igasuguseid erinevaid olendeid. Mõned neist on alentide nii öelda alarassid, teised aga täiesti erinevad loodusjõudude poolt mõjutatud olendid. 
 
-**Serviilid (e. konstruktid):** (serviles/constructs) *(ei ole mängitav rass)*
+**Serviilid (e. konstruktid)** (serviles/constructs) *(ei ole mängitav rass)*
 
 Serviil on apeiromantia abil loodud olend, mille valmistamisel ankurdatakse kas looma või alenti hing apeironit kasutades metallist või kivist kesta. Väike kogus apeironit on kui serviili süda ning see teeb kesta kasutamise võimalikuks. Hinge kesta asetamise täpseid protsesse teavad vähesed. 
 
@@ -186,7 +186,7 @@ Kuigi nad on apeironi abil loodud, ei oska serviilid ise maagiat kasutada. Nende
 
 Üldiselt on serviil kellegi teenistuses, kuuludes tavaliselt mõnele asutusele või maagile. Mõned maagid rendivad elatise teenimiseks oma serviile teisele välja. Leidub ka serviile, kes on tööpostilt lahkunud ja maailma rändama läinud. 
 
-**Vulverid (e. libad):** (wulvers/weres)
+**Vulverid (e. libad)** (wulvers/weres)
 
 Vulver on alenti, kes suudab esile kutsuda mõne looma omadusi. Loomkujule minekuga ilmevad alentil paar selle looma välimusele iseloomulikku elementi. Tavaliselt saab ta muutuda tagasi alentiks, aga on ka neid, kes on alatiseks loomsesse vormi kinni jäänud. Huvitaval kombel saavad vulverid võtta igasuguste loomade kuju, ka selliste oma, keda muidu Theumal ei esine.
 
@@ -198,7 +198,7 @@ Alentivormis vulveril ei ole erilisi omadusi. Loomavormis vulver omandab aga loo
 
 Loomavormis on vulver teistele nakkusohtlik. On võimalik, et ärevas olukorras või lahinguhoos kaotab vulver kontrolli oma tegude üle. Mõnikord tähendab selline hoog seda, et vulver säilitabki alatiseks oma loomsed tunnused. 
 
-**Moroiad (e. ebasurnud):** (moroia/undead)
+**Moroiad (e. ebasurnud)** (moroia/undead)
 
 Moroia on alenti, kelle hing pole suremise hetkel kehast lahkunud. Nad ei sure vanadusse ega saadud haavadesse- isegi siis, kui moroial pea maha raiuda, piisab pea tagasipanekust, et too saaks edasi tegutseda. Nad pole võimeline saama lapsi, teenima ühtegi jumalat preestrina ega muutuma vulveriks. Samuti ei saa moroia hinge asendada serviilikesta sisse. 
 
@@ -208,11 +208,11 @@ Moroia keha on võimalik mingil määral taastada, selleks vajalikud oskused on 
 
 Vabamaalaste termin sellise olendi jaoks on ‘kooljas’ (draugr). 
 
-**Raikad (e. kummitused):** (raikas/ghosts) *(ei ole mängitav rass)*
+**Raikad (e. kummitused)** (raika/ghosts) *(ei ole mängitav rass)*
 
 Raikad on kehatud hinged, kes mingil põhjusel pole lahkunud. Üldiselt tekivad raikad ainult alentidest, peaasjalikult neist, kellel on elu jooksul midagi lahendamata jäänud. Raikad ei suuda elavat maailma väga palju mõjutada – nad on ehk võimelised liigutama pisemaid esemeid, kuid see on ka kõik – ning ka elavad ei saa neid mõjutada. Erandiks on surmajumala mõjuga paigad, kus piir selle maailma ja teispoolsuse vahel on õhem. Sellistes kohtades on võimalik, et raika suudab füüsilist maailma mõjutada, eriti tugevate tunnete mõju all olles. 
 
-**Lagaarid (e. vampiirid):** (lagars/vampires)
+**Lagaarid (e. vampiirid)** (lagars/vampires)
 
 Lagaar on alenti, kes on põhimõtteliselt surnud. Lagaarid joovad erinevate võimete kasutamiseks ja oma haavade ravitsemiseks verd. Sarnaselt moroiadele ei sure nad vanadusse, kuid neid on elementidega võimalik haavata. Lagaarid on viljatud, nad ei saa muutuda vulveriks ega teenida jumalaid preestrina. Neile ei meeldi eriti päike, kuid see ei põleta neid. 
 
@@ -220,7 +220,7 @@ Lagaar suudab teha teistest alentist samuti lagaari; see side annab loojale teat
 
 Sarnaselt vulveritele ja moroiadele on nad Impeeriumis kohustatud ennast registreerima ja elama piirangute all. 
 
-**Muud olendid:** *(ei ole mängitav rass)*
+**Muud olendid** *(ei ole mängitav rass)*
 
 Eriti Vabadel Maadel esineb olendeid, kes erinevad tavalistest loomadest, taimedest ja eelmainitud olenditest. Kas on neid mõjutanud mõni mööduv elemenditorm või üllatavas kohas ilmunud jumala altar, igatahes erinevad nad oluliselt teistest. Mõned neist on võimelised ka kõnelevate rahvastega suhtlema, kuigi nad ei pruugi alati rääkida mõistetavat keelt. Mõnikord juhtub ka seda, et loomad satuvad väikese apeironikogumi otsa ja sellega kohtumine muudab neid tuntavalt. 
 
@@ -236,13 +236,13 @@ Mõningaid näiteid:
 
 ### Maagia 
 
-**Üldinfo:**
+**Üldinfo**
 
 Theumal (ja ülejäänud maailmas) on nii öelda üleloomulike jõudude või väe olemasolu iseenesestmõistetav ja loomulik, see on osa maailmast. Terves maailmas ja kõikides olendites - isegi neis, kes seda instinktiivselt kasutada ei oska - on vähemalt tilluke kübe seda. 
 
 Üleloomulike jõudude abil on võimalik korda saata erinevaid vägevaid tegusid, sellega saab nii haavata kui ka tervendada, nii luua kui ka hävitada. Ent kõikidel tegudel on alati tagajärjed ja loodusjõud ei pruugi alati loitsijale kuuletuda. 
 
-**Apeiron:**
+**Apeiron**
 
 Apeironist ehk algelemendist tulenevad kõik teised elemendid. Maailm koosneb selle stabiilsematest vormidest ja see on ka kõikide protsesside aluseks. Apeironi kõige keerulisemat väljendusvormi nimetatakse intelligentseks teadvuseks või ka hingeks. Alentid on õppinud seda kasutama selleks, et mõjutada erinevaid loodusjõudusid enese ümber. 
 
@@ -254,7 +254,7 @@ Peale apeironi on ka muid erinevate toimetega kive ja metalle, aga neist ei ole 
 
 Vabade Maade termin apeironi jaoks on galdar. 
 
-**Jumalamaagia:**
+**Jumalamaagia**
 
 Jumalamaagia on üks kahest maagiatüübist, mida alentid kasutada võivad. 
 
@@ -275,7 +275,7 @@ Preestrid kasutavad jumalate maagiat neile antud märgi kaudu, mida kantakse tav
 * **Baruna** - linnad, tsivilisatsioon. Mõjualas muutuvad kõik joogid joovastavaks, mängib muusika, ükski tuli ei kustu.
 * **Darsilis** - elu, küllus. Mõjualas olev toit ja jook ei rikne kunagi, seal puhkajad tunnevad ennast kiiremini taastumas, seemned võivad kiiresti kasvama hakata. 
 
-Vabade Maade panteon: 
+**Vabade Maade panteon:** 
 
 * **Ban-Mawr** - kaos, veri, lubadused. Mõjualas antud lubadused seovad lubajaid.
 * **Lir-Neth** - surm, nägemused. Mõjualas olijad võivad saada nägemusi ja/või jääda pimedaks, surijad surevad silmapilkselt.
@@ -290,7 +290,7 @@ Jumalamaagia pärusmaa on ka õnnistused ja needused. Need on jumalate loitsud, 
 
 Alentid usuvad, et pärast surma läheb hing jumalate juurde. Millise jumala juurde minnakse, oleneb sellest, mis oli surnule kõige olulisem ja millisele jumalale ta kõige rohkem pühendus. Preestrite hinged lahkuvad selle jumala juurde, keda nad oma elus teenisid. 
 
-**Apeiromantia:**
+**Apeiromantia**
 
 Leonte Impeeriumi maagide poolt leiutatud kunst. Apeiromantia on peale jumalamaagia teine maagia vorm, mida alentid kasutada oskavad.
 
@@ -300,7 +300,7 @@ Apeiromantia paneb toimima apeiron ja selle efekte määravad erinevad valemid, 
 
 Apeiromantia kasutaja on maag. 
 
-**Ruunikunst:**
+**Ruunikunst**
 
 Vabadel Maadel kasutatakse ruunikunsti. See on nende alternatiiv Impeeriumi apeiromantiale. 
 
@@ -310,7 +310,7 @@ Ruunikunsti kasutaja on loitsija.
 
 Rändaval loitsijal on kaasas kergemad loitsud, mis on graveeritud kas puit- või saviketastele, ning apeironit. 
 
-**Theumiidid:**
+**Theumiidid**
 
 Erinevalt alentidest loitsivad theumiidid omaenda jõuga, sest nad koosnevad sellest. Neil pole vaja suunata kasutatavat jõudu millegi kaudu, aga oma suletud kujul saavad nad seda vähem kasutada kui allikates. Samas on nad ka haavatavad oma vastaselemendile. Oma jõudu saavad nad kasutada lihtsate loitsudena või pikemate riitustena. Viimaseid saab üldiselt teha ainult allikas, kus on piisavalt elementi, mida sellesse kaasata. Samuti on ainult allikates võimalik valmistada theumiitide artefakte. 
 
@@ -323,7 +323,7 @@ Theumiitidel on kuus elementi:
 * Valgus - Vastaselement vari. 
 * Vari - Vastaselement valgus. 
 
-**Üleloomulikud jõud igapäevaelus:**
+**Üleloomulikud jõud igapäevaelus**
 
 Kõige rohkem puutuvad üleloomulike jõududega kokku need, kes on pühendanud oma elu nende kasutamisele ja mõistmisele. 
 
