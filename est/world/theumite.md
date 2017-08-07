@@ -39,7 +39,7 @@ Vabad Maad:
 
 Theumiitidel on mitu keelt. Kuna elemendid on väga erinevad, on iga elemendi theumiitidel oma keel, mida nad õpivad esimesena. Selles keeles on kirja pandud selle elemendi tarkused. Järgmiseks õpivad nad ära theumiitide ühise keele et suhelda teiste theumiitidega, ja siis laia maailma minna soovides ühe või mitu alenti dialekti. 
 
-Nime valib iga theumiit endale ise, üldiselt täiskasvanuks saades. Enne seda kutsuvad Kasvatajad neid erinevate hellitus- või lapsenimedega. Üldiselt on see komplekt kahest nimisõnast, aga esineb ka teistsuguseid nimesid. Elukutse valimisel lisandub selle nime ette vastava elukutse tiitel. Näiteks: sepp, teadur, võitleja, maag, jne. 
+Nime valib iga theumiit endale ise, üldiselt täiskasvanuks saades. Enne seda kutsuvad Kasvatajad neid erinevate hellitus- või lapsenimedega. Üldiselt on see komplekt kahest nimisõnast, aga esineb ka teistsuguseid nimesid. Elukutse valimisel lisandub selle nime ette vastava elukutse tiitel. Näiteks: sepp, teadur, võitleja, sorts, jne. 
 
 Theumiitide keeltele on omane see, et on mitu sõna erinevate asjade kohta. Näiteks sõnale ‘jää’ võib leida kümme (ja tõenäoliselt isegi rohkem) erinevat vastet. Need erinevused pole väljaspoolsetele mõistetavad, aga theumiitide jaoks küll. 
 
@@ -95,7 +95,7 @@ Relvi kantakse väljaspool allikat selleks et vajaduse korral võidelda, allikas
 
 Theumiidid veedavad oma vaba aega erinevalt. 
 
-Populaarsed on erinevad jõukatsumised ja oma oskuste näitamised. Eriti populaarsed on väitlemine ja keeruliste reeglitega strateegiamängud. Võisteldakse nii parima välja selgitamiseks kui ka teente nimel. 
+Populaarsed on erinevad jõukatsumised ja oma oskuste näitamised. Eriti populaarsed on väitlemine ja keeruliste reeglitega strateegiamängud. Võisteldakse nii parima välja selgitamiseks kui ka teenete nimel. 
 
 Üldiselt peetakse oluliseks, et ka vabal aja veetmisel on mingisugune mõte. 
 
@@ -159,16 +159,16 @@ Need kaksteist olid:
 * Mizaona - õhk
 * Emreit - maa
 * Kafalam - maa 
-* Veshena - varjud
-* Semqalit - varjud
 * Dimzarien - valgus 
 * Raqial - valgus 
+* Veshena - varjud
+* Semqalit - varjud
 
 Theumiidid peavad alentide religiooni ja jumalaid pentsikuks või isegi äärmiselt veidraks. Neile piisab sellest, et nad tulevad allikast ja lähevad surres sinna tagasi. Mõned neist on samas jumalate ja jumalmaagia suhtes väga uudishimulikud ja teevad oma parima, et seda teemat võimalikult palju uurida. 
 
 ### Rahvastik: 
 
-Theumiite on hetkel teadaolevalt umbes 2 miljonit. See ei ole täpne arv, kuna Vabadel Maadel ei tegeleta väga pingsalt rahvaloendusega. Theumiitide jagunemine elementide järgi on üpriski võrdne, kaldeid esineb paarisaja indiviidi kaupa. 
+Theumiite on hetkel teadaolevalt umbes 2 miljonit. Theumiitide jagunemine elementide järgi on üpriski võrdne, kaldeid esineb paarisaja indiviidi kaupa. 
 
 Impeeriumis elab teadaolevalt 1,2 miljonit theumiiti, ehk suurem osa mandril elavatest theumiitidest. 
 
@@ -208,10 +208,10 @@ Romantiliste ja sõprussuhete asemel on theumiitidel sidemed. Side on kahe theum
 
 Need on: 
 
-* **Kasvataja - Kasvaja/Kasvanu:** Vanema ja lapse suhet meenutav side. Kasvataja on see kes Kasvaja eest hoolitseb ja õpetab teda ühiskonnas elama ning oma võimeid kasutama. Kasvatajad on ka need, kes otsustavad millal noorest on saanud täiskasvanu ja millal ta on valmis ametit õppima. 
+* **Kasvataja - Kasvaja/Kasvanu:** Vanema ja lapse suhet meenutav side. Kasvataja on see kes Kasvaja eest hoolitseb ja õpetab teda ühiskonnas elama ning oma võimeid kasutama. Kasvatajad on ka need, kes otsustavad, millal noor on valmis õppima ja koostöös noore Õpetajaga ka seda, et millal on aeg ta täiskasvanuks kuulutada. 
 * **Õpetaja - Õpilane:** Õpetaja on see kes õpetab õpilasele ametit. Õpe algab tavaliselt noores eas, enne täiskasvanuks saamist. Õpetajaga koos õpib õpilane kõike, mida ta oma ametist teadma peab. 
 * **Rivaal - Rivaal:** Üldiselt on rivaalid sama vanad, neid ühendab soov teineteisest parem olla. Rivaalid võivad kannustada teineteist arenema ja paremini õppima. Rivaliteet võib kesta terve elu. Mõnikord võivad rivaalidest saada ka sõbrad, aga seda peetakse õnnetuks kui ainult üks osapooltest oma arvamust muudab. 
-* **Sõber - Sõber:**
+* **Sõber - Sõber:** Sõbrad on tavaliselt samuti samavanused. Sõprus on rivaaliteedile sarnane, aga kahte theumiiti ühendavad positiivsed emotsioonid. Sõprus võib muutuda rivaaliteediks kui midagi kahe sõbra vahel juhtub. 
 * **Austatav - Austaja:** Kombeks on et allikat juhtivad tunnevad mingil määral neid, keda nad juhivad. Austatavad teevad oma parima, et allika elu sujuks ja otsused saavad tehtud, austajate osa on neid järgida.  
 * **Kuuluja - Mittekuuluv:** Sidemetest kõige varieeruvam. Seppade töötuppa sisenenu on mittekuuluv, kuna ta on seppade ruumis. Vee allikale tulnud teist elementi theumiit on mittekuuluv, kuna ta ei ole vee elementi. Kõik allikatest väljas pool elavad on mittekuuluvad neile, kes allikates elavad. 
 
@@ -227,7 +227,7 @@ Sidemetest isegi olulisemaks peetakse elukutset. Ideaalis on igal theumiidil mis
 
 **Elu väljaspool**
 
-Impeeriumis või Vabadel Maadel elavad theumiidid üldiselt nii nagu seda teevad alentid, võimaluste piires. Samuti teevad nad erinevaid töid, kuna allikast pannakse neile kaasa ainult varustus. Neisse suhtutakse erinevalt, on neid, kes võõrastavad nii erinevaid olendeid, ja samas on ka neid kes on väga huvitatud sellest, millised nad on. Kuna nii vähesed neist käivad allikatest väljas, on theumiit väljaspool üsnagi harv nähtus. 
+Impeeriumis või Vabadel Maadel elavad theumiidid üldiselt nii nagu seda teevad alentid, võimaluste piires. Samuti teevad nad erinevaid töid, kuna allikast pannakse neile kaasa ainult varustus ja veidi raha. Neisse suhtutakse erinevalt, on neid, kes võõrastavad nii erinevaid olendeid, ja samas on ka neid kes on väga huvitatud sellest, millised nad on. Kuna nii vähesed neist käivad allikatest väljas, on theumiit väljaspool üsnagi harv nähtus. 
 
 **Seadused ja karistused**
 
