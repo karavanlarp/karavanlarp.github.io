@@ -58,7 +58,7 @@ Mõõdukas füüsiline kontakt on mängu jooksul kõigile lubatud, välja arvatu
 
 Pigem soovitame olla ettevaatlikumad, eriti lahingolukordades enda ja teiste mängijate vigastamise vältimiseks. Kellegi üllatusründamine teda krabades või tõmmates on rangelt keelatud. 
 
-### Kostüüm ja mängijate rekvisiidid
+### Kostüümid ja mängijate rekvisiidid
 
 Mängija kostüüm ja selle osad ei ole ära võetavad. Mängija ei pea loovutama teistele oma esemeid, kui ta seda ei soovi. Mängijalt võib võtta mängujuhtide poolt antud rekvisiite või mängus leitud esemeid. Erandiks on relvad, ent oluline on et teise asju ei kaotataks või rikutaks. Mängujuhtide poolt antud ja mängus olevad esemed on vastavalt märgitud. 
 
