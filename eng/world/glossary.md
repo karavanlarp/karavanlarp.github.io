@@ -19,8 +19,8 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Alenti-Theumite War** - Conflict during which the alenti conquered Theuma and killed most of its theumite inhabitants 2800 years ago.
 * **Alentum** - The origin continent of the alenti. 
 * **Alger** - Longest river in the Empire, Rhaentium is situated on its inner sea end.
-* **Alix** - From Tribe Turahan. Current king of the Free Lands.
-* **Almith** - Shadow theumite emissary in the Free Lands.
+* **Alix** * - From Tribe Turahan. Current king of the Free Lands.
+* **Almith** * - Shadow theumite emissary in the Free Lands.
 * **Altar** - A place sacred to the gods, often appearing by itself. 
 * **Amite** - Shadow theumite Source in the Empire. 
 * **Andrelos I** - First Emperor of Leonte. 
@@ -80,7 +80,7 @@ _Here are short explanations for all the terms and names in the world informatio
 
 ### D
 
-* **Dager Riverwolf** - Current chief of Tribe Turahan. 
+* **Dager Riverwolf** * - Current chief of Tribe Turahan. 
 * **Darais** - A Free Lands tribe. 
 * **Darsilis** - The Empire god of life.
 * **Darith Legion** - Imperial Legion made of war prisoners and moroia. 
@@ -89,7 +89,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Deep of the World** - Deepest point on the continent, at the end of which live the Free Lands gods and their servants. 
 * **Deepwood** - Thick evergreen forest in the Free Lands. 
 * **Dermen** - Capital of Braveland.
-* **Desaur** - Fire theumite emissary in the Free Lands.
+* **Desaur** * - Fire theumite emissary in the Free Lands.
 * **Dethan** - Air theumite Source in the Empire. 
 * **Dimzarien** - Legendary light  theumite from the times of the Alenti-Theumite War.  
 * **Domain** - The area of influence of a god that their priests may affect.
@@ -140,7 +140,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Flame of Endings** - One of Zer-Nim’s titles. 
 * **Free Lands, The** - A tribal federation of alenti in the east part of Theuma. Singular/multiple ‘Freelander/Freelanders’, adjective ‘Freelander’.
 * **Force/Power** - Magical flows of energy that ignore the laws of nature. Usually called Force in the Free Lands and Power in the Empire. 
-* **Formanet** - Air theumite emissary in the Empire. 
+* **Formanet** * - Air theumite emissary in the Empire. 
 * **Formulaic language** - The language of the mages of the Empire. 
 * **Four Elders** - Four islands in the Free Lands. 
 * **Friend** - One of the theumite bonds, describes a friendly relationship between two people.
@@ -164,7 +164,7 @@ _Here are short explanations for all the terms and names in the world informatio
 
 * **Healers, Society of** - A group of healers and hedge witches in the Free Lands.
 * **Helet** - A Free Lands tribe. 
-* **Hesiar** - Light theumite emissary in the Empire. 
+* **Hesiar** * - Light theumite emissary in the Empire. 
 * **Hetse** - Capital of Plentyland. 
 * **Hidden Knowledge** - One of Vael-Ser’s titles.
 * **High Court** - Highest court in the Empire.
@@ -180,7 +180,7 @@ _Here are short explanations for all the terms and names in the world informatio
 ### I
 
 * **Iante Island** - A mountainous island close to Talmekar Peninsula in the Empire.
-* **Ilimenil** - Water theumite emissary in the Empire. 
+* **Ilimenil** * - Water theumite emissary in the Empire. 
 * **Ilsippus, Saint** - Patron saint of war veterans in the Empire. 
 * **Ilvoed** - A Free Lands tribe. 
 * **Initiate** - An apprentice in a temple in the Free Lands. 
@@ -189,7 +189,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Ironet** - Capital of the Empire county Katam. 
 * **Irvald** - The Free Lands king who created the Codex. 
 * **Isera** - A river in the Empire. 
-* **Iser Pathfinder** - Current chief of Tribe Areun. 
+* **Iser Pathfinder** * - Current chief of Tribe Areun. 
 * **Ithen** - Capital of Duskland.
 
 ### J
@@ -202,7 +202,7 @@ _Here are short explanations for all the terms and names in the world informatio
 
 * **Kafalam** - Legendary earth theumite from the times of the Alenti-Theumite War. 
 * **Kalath** - A county in the Empire. 
-* **Kalzaran** - Fire theumite emissary in the Empire. 
+* **Kalzaran** * - Fire theumite emissary in the Empire. 
 * **Karis** - Earth theumite Source in the Empire. 
 * **Kasal** - Capital of Edgeland. 
 * **Katam** - A county in the Empire. 
@@ -250,8 +250,8 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Makers, Society of** - A group of artisans in the Free Lands. 
 * **Malakhim** - The Empire god of order and law, leader of the gods. 
 * **Malenim** - Earth theumite emissary in the Empire. 
-* **Mallend Small** - Current chief of Tribe Lofn. 
-* **Maras Lamefoot** - Current chief of Tribe Saless. 
+* **Mallend Small** * - Current chief of Tribe Lofn. 
+* **Maras Lamefoot** * - Current chief of Tribe Saless. 
 * **Marene** - Capital of the Empire county Durras.
 * **Mark** - A tattoo signifying belonging somewhere in the Free Lands. 
 * **Matrin III** - Emperor, attempted to make peace with the Free Lands. 
@@ -285,16 +285,16 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Ommel** - Capital of Cliffland.
 * **Opposite element** - Each element has an opposite that affects it more strongly than other elements.
 * **Order** - A group following the example of a saint in the Empire. 
-* **Orilik** - Shadow theumite emissary in the Empire. 
+* **Orilik** * - Shadow theumite emissary in the Empire. 
 * **Oroph Legion** - Famous Imperial Legion. 
 * **Outlaw** - A criminal either temporarily or permanently exiled from their tribe. 
 
 ### P
 
 * **Parendi** - The Empire god of travelers and time. 
-* **Peace Bringer** - The main title of the current Emperor Relagin II amongst the citizens. 
-* **Peleias Lardon** - Current Imperial strategos.
-* **Peran Windwatcher** - Current chief of Tribe Skara. 
+* **Peace Bringer** * - The main title of the current Emperor Relagin II amongst the citizens. 
+* **Peleias Lardon** * - Current Imperial strategos.
+* **Peran Windwatcher** * - Current chief of Tribe Skara. 
 * **Perein** - A county in the Empire. 
 * **Phaleia, Saint** - Patron saint of doctors in the Empire.
 * **Pigment flowers** - Flowers with strong colors, an export article of the Empire. 
@@ -322,12 +322,12 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Raun, Saint** - Patron saint of Rhaentium in the Empire.
 * **Razen** - Fire theumite Source in the Empire. 
 * **Regular class** - Most of the Empire’s citizens, those who are not Chosen.  
-* **Relagin II** - Current Emperor of Leonte. 
+* **Relagin II** * - Current Emperor of Leonte. 
 * **Renek** - A county in the Empire. 
 * **Rhaente** - A territory of the Empire. 
 * **Rhaentium** - Capital of the Empire. 
 * **Rhaentium University** - Oldest university on the continent. 
-* **Rhaiken** - Air theumite emissary in the Free Lands.
+* **Rhaiken** * - Air theumite emissary in the Free Lands.
 * **Rhen-Apa** - The Free Lands of forests and ancestors. 
 * **Rigan** - From Tribe Brig. King of the Free Lands. 
 * **Rival** - One of theumite bonds, describes a rivalry between two people. 
@@ -379,7 +379,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Temmir** - From Tribe Areun. King of the Free Lands.
 * **Temple** - A building dedicated to a god. 
 * **Terhent** - The Empire god of war. 
-* **Teria Brightmind** - Current chief of Tribe Helet. 
+* **Teria Brightmind** * - Current chief of Tribe Helet. 
 * **Theoleia** - Capital of the Empire county Renek. 
 * **Theuma** - The continent where the larp series takes place in.  
 * **Theumiidid (Theumites)** - The natives of Theuma. Singular ‘theumite’, adjective ‘theumite’
@@ -393,7 +393,7 @@ _Here are short explanations for all the terms and names in the world informatio
 
 ### U
 
-* **Ualeth** - Earth theumite emissary in the Free Lands.
+* **Ualeth** * - Earth theumite emissary in the Free Lands.
 * **Undead** - A being whose soul is in their dead body. 
 * **Ureth** - Fire theumite Source in the Free Lands.
 * **Urut** - Capital of the Empire county Estendar. 
@@ -408,7 +408,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Velesin, Saint** - Patron saint of child bearers in the Empire.
 * **Veshena** - Legendary shadow theumite from the times of the Alenti-Theumite War. 
 * **Vinte** - Capital of Windland. 
-* **Vishalla** - Water theumite emissary in the Free Lands.
+* **Vishalla** * - Water theumite emissary in the Free Lands.
 * **Vognar** - From Tribe Xenit. King of the Free Lands.
 
 ### W
@@ -424,20 +424,20 @@ _Here are short explanations for all the terms and names in the world informatio
 * **White River** - A river in the Free Lands. 
 * **Windland** - One of the Free Lands.
 * **Wind of Loss** - One of Lir-Neth’s titles. 
-* **Wolan Nightstalker** - Current chief of Tribe Brig. 
+* **Wolan Nightstalker** * - Current chief of Tribe Brig. 
 * **Woodland** - One of the Free Lands. 
 * **Wulver** - Alenti who can take beast form. 
 
 ### X
 
-* **Xagha Bluehead** - Current chief of Tribe Ilvoed.
+* **Xagha Bluehead** * - Current chief of Tribe Ilvoed.
 * **Xaghol** - Light theumite emissary in the Free Lands. 
 * **Xenit** - A Free Lands tribe. 
 * **Xerean IV** - Emperor, dedicated to faith. 
 
 ### Y
 
-* **Yaner Capable** - Current chief of Tribe Norak. 
+* **Yaner Capable** * - Current chief of Tribe Norak. 
 * **Yriel, Saint** -  Patron saint of those who died from the plague in the Empire. 
 
 ### Z
