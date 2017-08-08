@@ -2,7 +2,7 @@
 layout: default-eng
 title: Caravan I - Beginning
 ---
-### Caravan I: Beginning
+## Caravan I: Beginning
 
 _The port town of Aren is always full of people. It is easy to get lost in here and even easier to lose your wallet._
 
@@ -28,19 +28,19 @@ Happy searching!
 
 ***
 
-**What?**
+### What?
 
 The first game of our larp series - Caravan I: Beginning.
 
-**When?**
+### When?
 
 23-24 september. The game itself will run from Saturday noon to late evening. 
 
-**Where?**
+### Where?
 
 In a summer cottage near Türi, Estonia. Coordinates [here](http://bit.ly/2wvrEK3).
 
-**Registration**
+### Registration
 
 You may pre-register with our registration form. You will be registered when you have paid for the event. There are 20-30 player spots.
 
@@ -48,7 +48,7 @@ Registration for PCs is open until **August 28th**, for NPCs until **September 4
 
 [Here](https://karavanlarp.github.io/eng/reg/registration.html) for a longer explanation for registering.
 
-**Ticket prices**
+### Ticket prices
 
 * PC - 20 euros.
 * NPC - 10 euros. One (or more) character role for the game. 
@@ -61,23 +61,23 @@ If you want to pay in installments or later, please contact the gamemasters abou
 
 We also offer two sponsored spots right now. 
 
-**What will I get for this?**
+### What will I get for this?
 
 A house to sleep in, 2-3 hot meals on the game day and other food and drinks during the game. In addition to that lovely NPCs and props. 
 
-**Accommodations**
+### Accommodations
 
 Bring your own sleeping bags and mats since there are very few mattresses. You may also sleep in a tent if you wish. There is washing available after the game and we have a very small sauna. 
 
-**Menu**
+### Menu
 
 We will have food available for the entire event, also for those who arrive on Friday and leave Sunday. There are three meals on Saturday - breakfast, lunch and dinner. Snacks and drinks will be available for the whole game. We will take your allergies and food restrictions into account. Pakume süüa terve ürituse jooksul, ka reedel tulijatele ja pühapäeval lahkujatele.
 
-**Languages**
+### Languages
 
 All game materials will be provided in Estonian and English. Depending on the amount of English-speaking participants, we will play the whole larp or parts of it in English. In the second case, a translator will be made available for you. 
 
-**How will I get there?**  
+### How will I get there?  
 
 The location is 105 kilometers (about one and half hour’s drive) near Türi. When approaching from the north you will not have to enter the town and can drive straight to the location. 
 
@@ -97,7 +97,7 @@ We will organise transport from the public stop to the game if needed.
 
 You may arrive on Friday and sleep on location. You may also stay Saturday night after the game ends. 
 
-**When do I need to be there?** 
+### When do I need to be there?
 
 Those coming with a car should be on location at 10.30 and help to transport people from the public stops if needed. The overall time is 11. If you need some time to prepare your outfit and makeup, please be there earlier, as we want to start as early with the briefings as possible. 
 
