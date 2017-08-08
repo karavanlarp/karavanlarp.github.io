@@ -2,9 +2,9 @@
 layout: default-eng
 title: Character rules
 ---
-## Caravan LARP-series character rules
+## Character rules
 
-Version: PRE-VIEW
+Version: Pre-view
 
 The GM-team is still designing the rules. The point of the pre-view is to give a short introduction to the full set of rules. The GM-team reserves the right to change details in the finished version. The finished version will be up during August.
 
