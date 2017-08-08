@@ -148,7 +148,7 @@ A normal alenti is indistinguishable from a human, except for skin-colour lizard
 
 Theumite – from Theuma
 
-**General information* 
+**General information** 
 
 Theumites are originally native to Theuma, and they make up about 5% of the continent's total population. They are born in the elemental sources and consist of pure elemental power. There are six theumite elements: fire, water, air, earth, light and shadow.  
 
