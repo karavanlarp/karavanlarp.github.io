@@ -17,3 +17,8 @@ Maailmainfos on olemas kõik vajalik informatsioon tegelase loomiseks, aga kui a
 Kui oleme saanud täidetud tegelasankeedi, koostame teile tegelase lehe, kus on kirjas tema informatsioon, oskused ja igasugune lisainfo, mida tal võib mängus vaja minna. Sellele lehele võite ka ise muudatusi teha, kui on vaja. 
 
 NPCde puhul on protsess veidi teistsugune, pärast maksmist saadame teile informatsiooni võimalike NPCde rollide kohta ja muud teavet.
+
+Kirjutage meile: 
+
+[karavanlarp@gmail.com](karavanlarp@gmail.com)
+[Facebooki leht](https://www.facebook.com/KaravanLARP/)
