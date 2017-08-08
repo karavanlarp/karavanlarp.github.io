@@ -6,15 +6,34 @@ title: Theumiidid
 ## Theumiidid
 
 ![Theumiitide logo](https://karavanlarp.github.io/img/theumiitide-logo.png)
+
+<div id="toc">
+	<h3>Sisukord</h3>
+	<ul>
+		<li><a href="#ajalugu">Ajalugu</a></li>
+		<li><a href="#geograafia">Allikad e. geograafia</a></li>
+		<li><a href="#keeled">Keeled</a></li>
+		<li><a href="#kombed">Kombed</a></li>
+		<li><a href="#kultuur">Kultuur</a></li>
+		<li><a href="#majandus">Majandus</a></li>
+		<li><a href="#poliitika">Poliitika</a></li>
+		<li><a href="#pärimus">Pärimus</a></li>
+		<li><a href="#rahvastik">Rahvastik</a></li>
+		<li><a href="#religioon">Religioon</a></li>
+		<li><a href="#sõjandus">Sõjandus</a></li>
+		<li><a href="#ühiskond">Ühiskond</a></li>
+	</ul>
+</div>
+
 Theumiidid on Theumat algselt valitsenud elemendivaimude rass. 
 
-### Ajalugu
+<h3 id="ajalugu">Ajalugu</h3>
 
 Enamus theumiitide ajaloost enne Impeeriumi loomist on hävitatud, hukkunud koos nende linnadega. Teada on, et enne alentide tulekut oli theumiitidel üle kümne tuhande aasta rahu. Pärast polnud otseloomulikult midagi enam endine.
 
 Ülestähendusi ja kroonikaid lähiajaloost pärast alentide saabumist on ohtralt, aga need on teadurite ja kroonikute hoolsa valve all ja tavaisik neile hea põhjuseta ligi ei pääse. 
 
-### Allikad e. geograafia
+<h3 id="geograafia">Allikad e. geograafia</h3>
 
 Allikad on elemendiväest koosnevad linnad, kus theumiidid elavad. Need on sellele lisaks nende sünnikohad. Nimelt sünnivad theumiidid allikate keskel asuvatest puhta elemendi voogudest.  Allikaid oli kunagi palju, isegi rohkem kui sada. Nüüdseks on neid järele jäänud kaksteist. Alentid käivad allikates harva, sest need on üpriski raskesti ligipääsetavad kõigile peale vastava elemendi theumiitidele. 
 
@@ -36,7 +55,7 @@ Vabad Maad:
 * **Droat - Valguse Allikas** - asub Tuultemaal. 
 * **Primin - Varju Allikas** - asub Orumaal. 
 
-### Keeled
+<h3 id="keeled">Keeled</h3>
 
 Theumiitidel on mitu keelt. Kuna elemendid on väga erinevad, on iga elemendi theumiitidel oma keel, mida nad õpivad esimesena. Selles keeles on kirja pandud selle elemendi tarkused. Järgmiseks õpivad nad ära theumiitide ühise keele et suhelda teiste theumiitidega, ja siis laia maailma minna soovides ühe või mitu alenti dialekti. 
 
@@ -46,7 +65,7 @@ Theumiitide keeltele on omane see, et on mitu sõna erinevate asjade kohta. Näi
 
 (OG: Ehk siis nimed võivad olla tüüpilises fantasystiilis, ja sellele võib siis mõelda tähenduse.)
 
-### Kombestik 
+<h3 id="kombed">Kombestik</h3>
 
 **Sünd**
 
@@ -92,7 +111,7 @@ Samuti pole tavaks ka kätelda, nagu alentid seda teevad. Kuigi üldiselt allika
 
 Relvi kantakse väljaspool allikat selleks et vajaduse korral võidelda, allikas viibides hoitakse neid kas oma elamises või relvalaos. Allikas relvaga ringi käimist peetakse tobedaks ja imelikuks. 
 
-### Kultuur 
+<h3 id="kultuur">Kultuur</h3>
 
 Theumiidid veedavad oma vaba aega erinevalt. 
 
@@ -100,7 +119,7 @@ Populaarsed on erinevad jõukatsumised ja oma oskuste näitamised. Eriti populaa
 
 Üldiselt peetakse oluliseks, et ka vabal aja veetmisel on mingisugune mõte. 
 
-### Majandus 
+<h3 id="majandus">Majandus</h3>
 
 Theumiitide endi hulgas kehtib ühismajandus. Iga täiskasvanud theumiit on oodatud panustama osa oma tööst ühiskonna huviks. Üksikisikute puhul kehtib teenusevahetus, mis kinnitatakse maagilise lepinguga. 
 
@@ -108,7 +127,7 @@ Impeeriumilt ja Vabadelt Maadelt ostavad theumiidid sisse apeironit. Selle eest 
 
 Allikast lahkudes saab theumiit kaasa paberi, mille alusel võib ta enesele hankida valuutat, millega teenuste eest tasuda. Samuti võib endale raha teenida erinevaid teeneid tehes. Üldiselt lahendavad nad maagilisi probleeme ja teevad muid oma pädevuses olevaid tegevusi. 
 
-### Poliitika 
+<h3 id="poliitika">Poliitika</h3>
 
 Iga Leonte keisri juures on nõuandjatena (või mõnede meelest pantvangidena) tegutsemas kuus theumiiti, üks igast elemendist. Nemad esitavad keisrile theumiitide palveid ja seisavad hea theumiitide koha eest Impeeriumis. 
 
@@ -136,7 +155,7 @@ Theumiitidel ei ole otsest valitsejat nagu on Impeeriumi keiser või Vabade Maad
 
 Üldiselt allikate haldamisega tegelebki igas allikas kuus theumiiti. Neid kutsutatakse Austatuteks. Nemad arutavad probleemide üle mis tekkida võivad, ning valivad oma allika esindaja kas siis Impeeriumi keisri või Vabade Maade kuninga juurde. Samuti tegelevad nad distsiplineerimisega, kui on toime pandud nende tähelepanu nõudev rikkumine. Nemad valitakse selle allika täiskasvanute poolt üldiselt siis kui mõni koht vabaneb (kas selle koha hoidja sureb või läheb mingil põhjusel erru). Juhiks saamine nõuab eeskujulikkust igas valdkonnas ja kindlat meelt. 
 
-### Pärimus 
+<h3 id="pärimus">Pärimus</h3>
 
 Igal allikal on oma kogud ja ülestähendused. Teada on, et väga suur osa pärimusest ja informatsioonist sai sõja käigus hukka ja jäi igaveseks kadunuks. Selle tõttu ollakse kõikide ürikute ja raamatute käsitlemisel väga ranged ja ettevaatlikud. Uutest teostest tehakse tavaliselt mitu koopiat ja neid saadetakse ka teistesse allikatesse. 
 
@@ -146,7 +165,7 @@ Suure osa nüüdisaegsest pärimuskogust moodustavad biograafiad, kus kirjeldata
 
 Teine suur osa on kõik maagiaga seonduv. Seal on ülestähendusi ka alentide jumalate ja erinevate maagiliste nähtuste kohta ning theumiitide endi maagilised avastused. 
 
-### Religioon 
+<h3 id="religioon">Religioon</h3>
 
 Erinevalt alentidest ei teeni theumiidid jumalaid. Nende jaoks on olulised 12 legendaarset figuuri, kaks igast elemendist. Legendide järgi olid nad theumiitide juhid ajal, millal alentid esimest korda Theumale randusid. Sõja ajal nad peideti ja nad uinusid, mõnede arvates siiamaani. 
 
@@ -167,7 +186,7 @@ Need kaksteist olid:
 
 Theumiidid peavad alentide religiooni ja jumalaid pentsikuks või isegi äärmiselt veidraks. Neile piisab sellest, et nad tulevad allikast ja lähevad surres sinna tagasi. Mõned neist on samas jumalate ja jumalmaagia suhtes väga uudishimulikud ja teevad oma parima, et seda teemat võimalikult palju uurida. 
 
-### Rahvastik 
+<h3 id="rahvastik">Rahvastik</h3>
 
 Theumiite on hetkel teadaolevalt umbes 2 miljonit. Theumiitide jagunemine elementide järgi on üpriski võrdne, kaldeid esineb paarisaja indiviidi kaupa. 
 
@@ -187,13 +206,13 @@ Vabadel Maadel elab arvatavasti 800 000 theumiiti.
 
 Kolmveerand theumiitidest elavad allikates ja enamus neist ei lähe neist sealt elu jooksul välja. Samas on ka neid, kes avastavad väljaspool olevat maailma huviga ja leiavad endale paiga, kus elada. 
 
-### Sõjandus 
+<h3 id="sõjandus">Sõjandus</h3>
 
 Üldiselt õpetatakse kõiki theumiite ennast kaitsma, aga sõjandust õpivad vähesed. Kuna theumiite on vähe ja nende kestade taastamine võtab aega, ei soovita ühegi elu sõjas hukka lasta. Selle tõttu ei ole theumiitidel ka ametlikku sõjaväge ja kui nad tegutsevad kas Impeeriumi või Vabade Maade huviks, teevad nad seda mittesõjaväelisi teenuseid osutades. 
 
 Relvi kannavad üldiselt ainult allikast välja minevad theumiidid, ja seda selleks et mitte oma väge võitlemiseks kulutada. Allikas viibides ei ole relva kandmine kombeks. 
 
-### Ühiskond 
+<h3 id="ühiskond">Ühiskond</h3>
 
 Hoolimata sellest, et theumiidid elavad üle terve mandri kaheteistkümnes eri paigas ja enamus neist nendest paikadest ei lahku, on theumiitide ühiskond üsna läbipõimunud. Kuna allikates on väravad, läbi mille saab saata erinevaid esemeid ja teateid ning teiste allikate elanikega kõneleda, toimivad allikad üldiselt ühte plaani järgi.
 

@@ -4,6 +4,25 @@ title: Leonte Impeerium
 ---
 ## Leonte Impeerium
 ![Leonte logo](https://karavanlarp.github.io/img/impeeriumi logo suur.png)
+
+<div id="toc">
+	<h3>Sisukord</h3>
+	<ul>
+		<li><a href="#ajalugu">Ajalugu</a></li>
+		<li><a href="#geograafia">Geograafia</a></li>
+		<li><a href="#keeled">Keeled</a></li>
+		<li><a href="#kombed">Kombed</a></li>
+		<li><a href="#kultuur">Kultuur</a></li>
+		<li><a href="#majandus">Majandus</a></li>
+		<li><a href="#poliitika">Poliitika</a></li>
+		<li><a href="#pärimus">Pärimus</a></li>
+		<li><a href="#rahvastik">Rahvastik</a></li>
+		<li><a href="#religioon">Religioon</a></li>
+		<li><a href="#sõjandus">Sõjandus</a></li>
+		<li><a href="#ühiskond">Ühiskond</a></li>
+	</ul>
+</div>
+
 ### Üldinfo 
 
 * Pealinn: Rhaentium
@@ -11,7 +30,7 @@ title: Leonte Impeerium
 * Rahvaarv: 21 566 000 miljonit
 * Rhaentiumi rahvaarv: 1 092 000 miljonit
 
-### Ajalugu
+<h3 id="ajalugu">Ajalugu</h3>
 
 Leonte Impeeriumi ajaloo alguseks peetakse Alentumi mandril olnud ajaloolist Alentumi Impeeriumit. Kuigi enamus teavet ja ülestähendusi sellest perioodist on hävinenud, teatakse tänu mõnele olemasolevale allikale, et Alentumilt lahkuti halvenevate loodusolude tõttu. 
 
@@ -72,7 +91,7 @@ Theumal alentide ja theumiitide vahel peetud sõja kohta on rohkem ülestähendu
 * 2822 - 2839: Iraam I, oli oma valitsusajal pidevas konfliktis senatiga. Suri kahtlastel asjaoludel. 
 * 2839 - praeguseni: Relagin II, suurimaks saavutuseks peetakse vaherahu sõlmimist.
 
-### Geograafia 
+<h3 id="geograafia">Geograafia</h3>
 
 Impeerium on jaotatud kümneks piirkondliku pealinnaga maakonnaks. Impeeriumi pealinn Rhaentium ja jõe osa, millel see asub, on üheteistkümnes territoorium. Erinevalt teistest linnadest ehitati Rhaentium endise theumiidi linna kohale. Pärast sõja lõppu kohaldati maakondade piire, et võimaldada 10-25 kilomeetri laiuse piiritsooni loomist.
 
@@ -120,7 +139,7 @@ Impeerium on jaotatud kümneks piirkondliku pealinnaga maakonnaks. Impeeriumi pe
 * Waruli järv - Leonte suurim järv, mille põhjas asub veetheumiitide allikas Warul. 
 * Zeane - Elishi jõe lisajõgi. 
 
-### Keeled 
+<h3 id="keeled">Keeled</h3> 
 
 Impeeriumis räägitakse mitmeid erinevaid alenti keele dialekte. (Eesti ja inglise keel tähistavad mängus neist kahte). Valitud, ametnikud ja preestrid kasutavad kõrg-alenti keelt; selles viiakse läbi ka tseremooniad ja muud tähtsad sündmused ning kasutatakse oluliste kohtade ja grupeeringute nimede andmisel. Maagid kasutavad oma toimingutes valemikeelt.
 
@@ -136,7 +155,7 @@ Alithi vanemad on Erais Vothoma ar’Kantha ja Tavial Kantha ar’Vothoma. Suure
 
 (OG: inspiratsiooni võib võtta kreeka, rooma, slaavi nimedest aga neid tasub siis natuke mudida.)
 
-### Kombed 
+<h3 id="kombed">Kombed</h3>
 
 **Lapsekandmine ja sünd**
 
@@ -200,7 +219,7 @@ Kuna Impeeriumis siseelu on üpriski rahulik, pole relvad tavalised. Tavakodanik
 
 Kuigi moroiadel, lagaaridel ja vulveritel on ühiskonnas mõnevõrra erinev positsioon, tuleb ka neid siiski viisakalt kohelda ja see peegeldub ka igapäevases suhtluses. Sama käib theumiitide kohta. 
 
-### Kultuur 
+<h3 id="kultuur">Kultuur</h3>
 
 Leontiidid on väga kultuurne rahvas. Impeerium rahastab iga aasta erinevaid kultuurivaldkondi ning samuti teevad seda ka maakonnad ja linnad. 
 
@@ -214,7 +233,7 @@ Tavapärased on ka igasugused festivalid. Neid korraldatakse hea meelega tähist
 
 Peod on üldiselt suured, neid korraldatakse rahvamajades või väljakutel. Nädalalõppudel käiakse ka erinevates tavernades tantsimas või niisama märjukest joomas. 
 
-### Majandus
+<h3 id="majandus">Majandus</h3>
 
 Impeeriumi majandust reguleerib tõhusalt suur ametkond, kes saab oma käsud Rhaentiumis asuvalt majandusnõukogult. Majandusnõukogu paneb paika vääringute standardid ja gildide toodangu parameetrid. Impeerium kogub üldiselt kõige pealt mingisuguseid makse; saadyd maksuraha kasutatakse armee ja muude riiklike instantside käigus hoidmiseks ning sellega rahastatakse muuhulgas teede ehitust ja parandust ning muid sujuvaks eluks Impeeriumis vajalikke projekte. Osa maksutulust on määratud erinevate kultuurivaldkondade toetamiseks.
 
@@ -250,7 +269,7 @@ Teenused ja palgad
 * Palgasõduri päevatöö        ~ 10 St
 * Leonte sõduri kuupalk        100 St
 
-### Poliitika
+<h3 id="poliitika">Poliitika</h3>
 
 Impeeriumit valitseb ainuisikuliselt keiser. Teda abistavad Valitud. 
 
@@ -290,11 +309,11 @@ Impeeriumi ametnikud on need, kes suurt organiseeritud masinavärki käimas hoia
 
 Esimesest tasemest piisab, et töötada oma kodukohas kellegi teise juhtimise all. Ent eksamite süsteem on keeruline ja lai, kõige kõrgemaid neist suudavad läbida ainult vähesed, kes saavad siis au töötada keisri ja Valitute heaks. 
 
-### Pärimus 
+<h3 id="pärimus">Pärimus</h3>
 
 Impeeriumi rikkalik pärimusvara sai oma alguse vanast Alentumist. Tänaseni on säilitatud ja ümbersõnastatud juba seal alentide ajalugu käsitlenud kirjalikke tekste. Üldiselt tähendatakse ja kirjutatakse kõik üles. Enamus tekste on ka lihtrahvale kättesaadavad. Tavalised on lood ajaloolistest isikutest ja nende tegudest, esineb ka oma jagu muinasjutte erinevatest Theumal kohatud olenditest ja nähtustest. 
 
-### Rahvastik
+<h3 id="rahvastik">Rahvastik</h3>
 
 Impeerium: 21 566 000 miljonit 
 
@@ -333,7 +352,7 @@ Maakonnad ja pealinnad:
 * Kalath: 1 652 000, Lomoris 86 000
 * Melmir: 994 000, Aethilis 96 000
 
-### Religioon 
+<h3 id="religioon">Religioon </h3>
 
 Religioon on Impeeriumis tähtsal kohal; tänu jumalatele on Impeeriumi olemasolu võimalik, nende õnnistused aitavad sellel õitseda ja needused on kuni hiljutise ajani aidanud vastu seista Vabade Maade rahvaste vastu.
 
@@ -511,7 +530,7 @@ Peale kõige eelmainitu õnnistavad preestrid ka erinevaid esemeid, näiteks amu
 
 Pärast rahu tegemist on põhimõtteliselt lubatud ka Vabade Maade jumalate teenimine, aga üldiselt teevad seda ainult Impeeriumis elavad vabamaalased. Hetkel neil ei ole ametlikke templeid. 
 
-### Sõjandus 
+<h3 id="sõjandus">Sõjandus </h3>
 
 Impeeriumil on elukutseline sõjavägi, mille liikmete arv koos piirivalvega on umbes pooleteise miljoni ringis, kuid täpne arv on salastatud. Sõjaväega liitumine on vabatahtlik ja on paljudele võimalus lahkuda lihtsama elu juurest. Liitumisel nõustub isik teenima 30 aastat või kuni surmani. Oma varustuse saab ta sõjaväelt. Pärast 30 aastat on võimalus minna erru ja asuda elama vabalt valitud kohta Impeeriumis, kuhu talle määratakse maatükk. Mitmed aga eelistavad teenimist jätkata.  
 
@@ -534,7 +553,7 @@ Suurem osa sõjaväe ja sõdimise printsiipidest on pärandatud edasi Alentumi a
 
 Piirivalvesse saab pürgida sõjaväega liitumisel, sinna valitakse parimad pärast vähemalt aastast teenistusaega. Piirivalve on ainuke üksus, mis pole jaotatud leegioniteks. Enne sõja lõppu oli piirivalve peamine ülesanne takistada mõlemapoolset väiksemat läbirännet. Pärast sõja lõppu on piirivalve peamiseks ülesandeks saanud korra tagamine piirialadel ja seal liikuvate isikute liikumislubade kontrollimine. Piirivalvel on õigus menetleda piirialadel toimunud pisemaid rikkumisi ja arreteerida rängemalt korda rikkunud isikuid. Piirivalve teeb koostööd Vabade Maade esindajatega ning lisaks ainult leontiididest koosnevate gruppide on loodud ka segagruppe, mis tegutsevad peamiselt piirkondades, kus kahe riigi rahvas on kõrvuti, nagu näiteks Areni ja Teliti asulates. 
 
-### Ühiskond
+<h3 id="ühiskond">Ühiskond</h3>
 
 Impeeriumi ühiskond meenutab üldiselt hästi toimivat masinat, kus igaühel on oma koht ja ülesanne. Olulisim on see, kuidas üksikisik saab Impeeriumile kasulik olla ja kui hästi ta teenib keisrit. 
 

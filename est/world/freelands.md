@@ -4,6 +4,25 @@ title: Vabad Maad
 ---
 ## Vabad Maad 
 ![Vabade Maade logo](https://karavanlarp.github.io/img/vabad-maad-logo-väike.png)
+
+<div id="toc">
+	<h3>Sisukord</h3>
+	<ul>
+		<li><a href="#ajalugu">Ajalugu</a></li>
+		<li><a href="#geograafia">Geograafia</a></li>
+		<li><a href="#keeled">Keeled</a></li>
+		<li><a href="#kombed">Kombed</a></li>
+		<li><a href="#kultuur">Kultuur</a></li>
+		<li><a href="#majandus">Majandus</a></li>
+		<li><a href="#poliitika">Poliitika</a></li>
+		<li><a href="#pärimus">Pärimus</a></li>
+		<li><a href="#rahvastik">Rahvastik</a></li>
+		<li><a href="#religioon">Religioon</a></li>
+		<li><a href="#sõjandus">Sõjandus</a></li>
+		<li><a href="#ühiskond">Ühiskond</a></li>
+	</ul>
+</div>
+
 ### Üldinfo 
 
 * Rahvaarv: 13 miljonit 
@@ -14,7 +33,7 @@ Vabad Maad on üldnimetus Theumal elavale hõimude kogumikule, kes elab umbes ko
 
 Impeeriumis tuntud Nemeeria nime all. Elanikke kutsutakse nemeerideks. 
 
-### Ajalugu 
+<h3 id="ajalugu">Ajalugu </h3>
 
 Vabad Maad said ajalooliselt alguse Theumal, neile panid aluse Impeeriumiga ühinemast keeldunud alentid, kes soovisid teistmoodi elada. Alentumilt lahkusid alentid koos, ent nende arvamused lahknesid pärast theumiitide vastu võidetud sõda. Kuigi ka vabamaalased peavad ajaloolist sõda vajalikuks, sest see oli ainuke viis tagada endale kodu, ei nõustu nad muus osas Impeeriumiga. 
 
@@ -66,7 +85,7 @@ Vabad Maad said ajalooliselt alguse Theumal, neile panid aluse Impeeriumiga ühi
 * 2830- 2841: Zelia, Katheni hõimust. Sai väga hästi läbi theumiitidega, tänu temale abistavad theumiidid apeironikaevajaid Ulgusaartel. 
 * 2842 - praeguseni: Alix, Turahani hõimust. Sõlmis rahu Impeeriumiga.  
 
-### Geograafia 
+<h3 id="geograafia">Geograafia</h3>
 
 Vabad Maad jagunevad neljateistkümneks maaks. Üldiselt ei kuulu ükski maa täielikult ühelegi hõimule, aga selle maa keskust enda käes hoidev hõim üldiselt hoiab autoriteeti selle maa üle. On ka kaks erandit: Valdjamaa ja Piirimaa. Piirimaa loodi pärast sõja lõppu, see sisaldab endas 10-25 kilomeetri laiust Impeeriumiga piirnevat maariba. 
 
@@ -113,7 +132,7 @@ Vabad Maad jagunevad neljateistkümneks maaks. Üldiselt ei kuulu ükski maa tä
 * Valgejõgi - Üks mandri pikimaid jõgesid, mis voolab läbi Küllamaa ja Orumaa ning suubub Punalahte. 
 * Vanalaas - Siin asuvad Vabade Maade vanimad metsad, kust saab kõige hinnalisemat puitu tervel mandril. 
 
-### Keeled 
+<h3 id="keeled">Keeled </h3>
 
 Vabadel Maadel räägitakse alenti keele erinevaid dialekte, mida mõistavad ka Impeeriumi elanikud ja vastupidi. (Eesti ja inglise keel tähistavad mängus neist kahte). Haruldasemat püha keelt kasutavad preestrid ja Valdjamaa Hõimutud. Ruunikunsti valdajad kasutavad ka ruunikeelt. 
 
@@ -123,7 +142,7 @@ Vabadel Maadel on isikul tavaliselt üks eesnimi. Perenimesid kui selliseid ei e
 
 (OG: inspiratsiooni võib võtta skandinaavia, keldi ja saksa nimedest, neid tasub muidugi veidi mugandada.)
 
-### Kombestik 
+<h3 id="kombed">Kombed </h3>
 
 **Lapsekandmine ja sünd**
 
@@ -211,7 +230,7 @@ Tavalist nuga kannab enamus rahvast. Korralikemaid relvi kannavad sõdalased võ
 
 Erinevatesse suhtutakse üsna vabalt. Pigem sõltub suhtumine sellest kas konkreetsel hõimul või klanni on olnud häid või halbu kokkupuuteid. Kui mõni vulver näiteks ühe klanni pühapaika rüvetab, ei ole vulverid selle klanni juures enam eriti teretulnud. 
 
-### Kultuur 
+<h3 id="kultuur">Kultuur</h3>
 
 Vabade Maade hõimudel on kõigil eri arusaamine kultuurist. 
 
@@ -219,7 +238,7 @@ Meelelahutusviise on palju, üldiselt sisaldavad need erinevaid võistlusi või 
 
 Pidusid peetakse igasugustel põhjustel, ja tavaks on teretulnuks pidada kasvõi samaks ööks külla saabunud rändajaid. Üldiselt käivad pidudega kaasas ka korralik kesvamärjuke ja hea toit. 
 
-### Majandus 
+<h3 id="majandus">Majandus</h3>
 
 Vabamaalased kasutavad rahana eri metallide seibe. Neid on kolme tüüpi - vask, hõbe ja kuld.
 
@@ -237,7 +256,7 @@ Samuti on suureks sissetulekuallikaks Impeeriumile galdari ja selle kaevandamisl
 
 Makse Vabadel Maadel Impeeriumi kombel päris ei eksisteeri, aga iga hõim saadab Cairlinn Tori igal aastal kümnist, nii nagu Maapäeval kokku lepitud. Need kümnised on erinevad, saadetakse nii kaupu kui ka teenistujaid (määratud ajaks ja vabatahtlikult). 
 
-### Poliitika 
+<h3 id="poliitika">Poliitika</h3>
 
 Kõige kõrgem autoriteet Vabadel Maadel on kuningas. Tema elab alaliselt Cairlinn Toris abistatuna Hõimutute poolt. 
 
@@ -283,7 +302,7 @@ Lisaks on kuninga nõuandjate seas ka kuus theumiiti, kes on Vabadel Maadel asuv
 
 Üldiselt toimib võim Vabadel Maadel teistmoodi kui Impeeriumis. Pealik võib oma hõimlasi või klanniliikmeid käskida ja karistada, aga kui tema käsud on isekad või rumalad ja karistused liiga julmad, siis on tõenäoline et neid ei järgita. See kehtib ka kuninga kohta. 
 
-### Pärimus 
+<h3 id="pärimus">Pärimus</h3>
 
 Vabadel Maadel on rikkalik pärimusvara, igal hõimul ja klannil on oma legendid, mida antakse põlvest põlve edasi. Üldiselt anti lugusid edasi suuliselt, seda kuni paarsada aastat tagasi kui Mäletajate seltsi eest vedamisel hakati neid üles kirjutama. Erinevalt Impeeriumist ei ole pärimuse hoidjad kunagi tundnud suurt huvi vana-Alentumi pärimuse alles hoidmise suhtes. Sellist huvi peetakse pigem imelikuks, kuigi viimastel aastasel on tekkinud Mäletajate seltsis väike liikumine, mis peab oluliseks kasutada võimalust Impeeriumi kohta võimalikult palju üles tähendada. 
 
@@ -291,7 +310,7 @@ Igaüks teab vähemalt mõnda lugu, on neid kuulates üles kasvanud, aga loo tea
 
 Paljud lood annavad endas edasi ka õpetusi, et kuidas läbi käia erinevate olenditega, keda rändaja kohata võib.
 
-### Rahvastik 
+<h3 id="rahvastik">Rahvastik</h3>
 
 Vabad Maad: 13 miljonit (täpsem arv pole teada)
 
@@ -332,7 +351,7 @@ Vabad Maad: 13 miljonit (täpsem arv pole teada)
 * Suuremad hõimud: u. 250 000 
 * Väikseimad hõimud: u. 1000
 
-### Religioon 
+<h3 id="religioon">Religioon</h3>
 
 Vabadel Maadel on usk sama tõsine asi kui Impeeriumis. Jumalad ühendavad vabamaalasi, sest kuigi hõimud on erinevad, on usk ühine asi. 
 
@@ -504,7 +523,7 @@ Peale kõige eelmainitu õnnistavad preestrid ka erinevaid esemeid, näiteks amu
 
 Pärast rahu tegemist on põhimõtteliselt lubatud ka Impeeriumi jumalate teenimine, aga üldiselt teevad seda ainult Vabadel Maadel elavad leontiidid. Hetkel neil ei ole ametlikke templeid. 
 
-### Sõjandus 
+<h3 id="sõjandus">Sõjandus</h3>
 
 Vabadel Maadel ei ole alalist sõjaväge. Enamus rahvast oskab mingil määral võidelda, ja sõjavägi koguneb Impeeriumi ründamiseks ainult kuninga kutsel. Elukutselisteks sõjaväelasteks võib pidada klanni- ja hõimupealike isiklikke vägesid. 
 
@@ -520,7 +539,7 @@ Vabade Maade piirialal on üldiselt luba liikuda igaühel, keda pole lindpriista
 
 Piiriüksused teevad koostööd Impeeriumi piirivalvuritega ja on moodustatud ka segaüksuseid, mis tegutsevad peamiselt aladel kus elab mõlema poole rahvast, nagu Areni ja Teliti piiriasulad. 
 
-### Ühiskond 
+<h3 id="ühiskond">Ühiskond</h3>
 
 Vabade Maade ühiskond on mitmete eri hõimude ja seltside kogum, kes kõik elavad üldiselt üksteisest eraldatult, aga koonduvad kokku kuninga kutsel. Vabadel Maadel on kõik võrdsed, ja igaüks võib pürgida täpselt sinna, kuhu ise soovib. 
 

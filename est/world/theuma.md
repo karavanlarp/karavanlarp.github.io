@@ -7,12 +7,14 @@ title: Karavan LARP
 ![Theuma looduskaart](https://karavanlarp.github.io/img/map/yldkaart_nature.png)
 
 <div id="toc">
-	<h4>Sisukord</h4>
-	<a href="#mandrist">Mandrist</a>
-	<a href="#alentid">Alentid</a>
-	<a href="#theumiidid">Theumiidid</a>
-	<a href="#muud">Muud olendid</a>
-	<a href="#maagia">Maagia</a>
+	<h3>Sisukord</h3>
+	<ul>
+		<li><a href="#mandrist">Mandrist</a></li>
+		<li><a href="#alentid">Alentid</a></li>
+		<li><a href="#theumiidid">Theumiidid</a></li>
+		<li><a href="#muud">Muud olendid</a></li>
+		<li><a href="#maagia">Maagia</a></li>
+	</ul>
 </div>
 
 <span class="bold" id="mandrist">Mandrist</span>
