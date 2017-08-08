@@ -6,7 +6,11 @@ title: Sõnastik
 
 _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirjelduses. Konkreetse mõiste või nime otsimiseks on kõige lihtsam kasutada ‘Ctrl + F funktsiooni’. Olulisematele terminitele on antud ka nende inglisekeelsed vasted. Hetkel elus olevad isikud on märgitud tärniga._
 
-### A 
+<div style="margin: auto;">
+	<a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | <a href="#J">J</a> | <a href="#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | <a href="#Õ">Õ</a> | <a href="#Ä">Ä</a> | <a href="#Ü">Ü</a> | <a href="#W">W</a> | <a href="#X">X</a> | <a href="#Y">Y</a> | <a href="#Z">Z</a>
+</div>
+
+<h3 id="A">A</h3>
 
 * **Abarza** - Valgusetheumiidist nõunik Vabadel Maadel, suri kahtlastel asjaoludel. 
 * **Adura Leegion** - Kuulus Impeeriumi Leegion. 
@@ -44,7 +48,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Azat** - Impeeriumi maakonna Pereini pealinn. 
 * **Azen** - Vabade Maade hõim.
 
-### B 
+<h3 id="B">B</h3>
 
 * **Balden** - Kerri hõimust. Vabade Maade kuningas. 
 * **Ban-Mawr** - Vabade Maade kaose ja vannete jumal, panteoni juht. 
@@ -52,14 +56,14 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Berazi kuru** - Impeeriumis Kethari mäestiku keskel asuv kuru, mis on ainuke läbipääsukoht Talmekari poolsaarele. 
 * **Brig** - Vabade Maade hõim.
 
-### C 
+<h3 id="C">C</h3>
 
 * **Cairlinn Tor** - Vabade Maade pealinn ja kuninga elupaik. 
 * **Carresca** - Legendaarne õhutheumiit alenti-theumiidi sõja aegadelt. 
 * **Ceriel, Püha (Saint Ceriel)** - Merel uppunute kaitsepühak Impeeriumis. 
 * **Cilines, Püha (Saint Cilines)** -  Süüta surnute kaitsepühak Impeeriumis. 
 
-### D 
+<h3 id="D">D</h3>
 
 * **Dager Jõehunt** * - Turahani hõimu hetkeline pealik. 
 * **Darais** - Vabade Maade hõim.
@@ -72,7 +76,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Droat** - Theumiitide valguseelemendi allikas Vabadel Maadel. 
 * **Durras** - Impeeriumi maakond.
 
-### E
+<h3 id="E">E</h3>
 
 * **Ebasurnu (Undead)** - Olevus, kelle keha on surnud, aga hing pole lahkunud. 
 * **Eil-Gann** - Vabade Maade elu ja liikumise jumal. 
@@ -88,18 +92,18 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Esimene Surnu (First Dead)** -  Üks Keteose tiitlitest. 
 * **Estendar** - Impeeriumi maakond.
 
-### F
+<h3 id="F">F</h3>
 
 * **Faen** - Magari hõimust. Vabade Maade kuningas. 
 * **Fareisi Leegion** - Impeeriumi kuulus Leegion. 
 * **Fillan, Püha (Saint Fillan)** - Õpetajate kaitsepühak Impeeriumis. 
 * **Formanet** * - Õhutheumiitide esindaja Impeeriumis. 
 
-### G
+<h3 id="G">G</h3>
 
 * **Galdar** - Vabade Maade termin algelemendile. 
 
-### H
+<h3 id="H">H</h3>
 
 * **Helet** - Vabade Maade hõim.
 * **Hesiar** * - Valgusetheumiitide esindaja Impeeriumis. 
@@ -108,7 +112,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Hõim** - Vabade maade suurim ühiskonnaüksus. 
 * **Hõimutud** - Vabade Maade pealinnas elav nö hõimuta hõim. 
 
-### I 
+<h3 id="I">I</h3>
 
 * **Iante saar** - Mägine saar Talmekari poolsaare lähedal, Impeeriumis. 
 * **Idavahid** - Vabade Maade idapoolseim punkt.
@@ -127,7 +131,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Iser Teenäitaja** * - Areuni hõimu hetkeline pealik. 
 * **Ithen** - Sumemaa pealinn. 
 
-### J
+<h3 id="J">J</h3>
 
 * **Jahtide Isand (Lord of the Hunt)** - Üks Nal-Mati tiitlitest. 
 * **Jarail I** - Impeeriumi keiser. 
@@ -138,7 +142,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Jumalamägi (Mountain of the Gods)** - Mandri kõige kõrgem mägi, mille tipus elavad Impeeriumi jumalad ja nende teenrid. 
 * **Jumalmaagia (God magic)** - Jumalate maagia, mida kasutavad preestrid. 
 
-### K
+<h3 id="K">K</h3>
 
 * **Kafalam** - Legendaarne maatheumiit alenti-theumiidi sõja aegadelt. 
 * **Kalath** - Impeeriumi maakond.
@@ -179,7 +183,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Küllamaa (Plentyland)** - Üks Vabadest Maadest. 
 * **Küllatooja (Bringer of Plenty)** - Üks Arim-Woli tiitlitest. 
 
-### L
+<h3 id="L">L</h3>
 
 * **Laanesarvik (Horned Wood Dweller)** - Üks Rhen-Apa tiitlitest.
 * **Laantemaa (Woodland)** - Üks Vabadest Maadest. 
@@ -205,7 +209,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Lõppemise Leek (Flame of Endings)** - Üks Zer-Nimi tiitlitest. 
 * **Lõppude Vardja (Warden of Endings)** -  Üks Keteose tiitlitest. 
 
-### M
+<h3 id="M">M</h3>
 
 * **Maa (Earth)** - Theumiitide neljas element. Vastaselement õhk. 
 * **Maag (Mage)** - Apeiromantia kasutaja Impeeriumis. 
@@ -231,7 +235,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Mäletajate selts (Society of Rememberers)** - Kroonikute, skaldide ja jutuvestjate grupeering Vabadel Maadel. 
 * **Märk (Mark)** - Vabadel Maadel kuuluvust tähistav tätoveering. 
 
-### N 
+<h3 id="N">N</h3>
 
 * **Nal-Mat** - Vabade Maade jahi ja raevu jumal. 
 * **Namira** - Vabade Maade kuningas. 
@@ -245,7 +249,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Nägemise Piir (Edge of Seeing)** - Üks Lir-Nethi tiitlitest.
 * **Näljasaared** - Sellel saarestikul kannavad oma karistust kõik Vabade Maade suurimad kurjategijad. 
 
-### O 
+<h3 id="O">O</h3>
 
 * **Ommel** - Kaljumaa pealinn. 
 * **Ordu** - Mõne pühaku eeskuju järgiv grupeering Impeeriumis. 
@@ -253,7 +257,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Orophi Leegion** - Kuulus Impeeriumi Leegion. 
 * **Orumaa (Valleyland)** - Üks Vabadest Maadest. 
 
-### P 
+<h3 id="P">P</h3>
 
 * **Parandajate selts (Society of Healers)** - Ravitsejate ja taimetarkade grupeering Vabadel Maadel. 
 * **Parendi** - Impeeriumi rändajate ja aja jumal.
@@ -277,11 +281,11 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Pühak (Saint)** - Impeeriumis austatud surnu. 
 * **Pühendatu (Initiate)** - Templisse pürginud isik, kes soovib saada preestriks, Vabadel Maadel. 
 
-### Q
+<h3 id="Q">Q</h3>
 
 * **Qhorelth** - Impeeriumi maakond.
 
-### R
+<h3 id="R">R</h3>
 
 * **Raevujate selts (Society of Ragers)** - Lahinguraevujate ja vulverite grupeering Vabadel Maadel. 
 * **Ragald** - Laantemaa pealinn. 
@@ -306,7 +310,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Ruunikeel** - Vabade Maade loitsijate maagiline keel. 
 * **Ruunikunst (Runic arts)** - Vabade Maade maagia, mis kasutab algelementi. 
 
-### S
+<h3 id="S">S</h3>
 
 * **Saadik (Emissary)** - Jumalate legendaarsed teenrid, kes harva ilmuvad jumala tahte edastamiseks. 
 * **Sada püha nime** - Sada nime, mis on reserveeritud kasutamiseks ainult Impeeriumi keisritele. 
@@ -341,7 +345,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Sõjapealik (War chief)** - Klanni- või hõimupealiku määratud salga juht Vabadel Maadel. 
 * **Süvalaas** - Tihe igihaljas mets Vabadel Maadel. 
 
-### T 
+<h3 id="T">T </h3>
 
 * **Taevamäestik** - Impeeriumiga piirnev mäestik Vabadel Maadel. 
 * **Talmekar** - Impeeriumi maakond.
@@ -368,7 +372,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Turmakandja (Doombringer)** - Üks Zer-Nimi tiitlitest. 
 * **Tuultemaa (Windland)** - Üks Vabadest Maadest. 
 
-### U
+<h3 id="U">U</h3>
 
 * **Ualeth** * - Maatheumiitide esindaja Vabadel Maadel. 
 * **Udukuru (Mist Pass)** - Taevamäestiku ainuke läbipääsetav punkt. 
@@ -379,7 +383,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Usuvalvur (Faithguard)** - Impeeriumis sinodit juhtiv preester. 
 * **Uudiste Saatja (Sender of News)** - Üks Eil-Ganni tiitlitest. 
 
-### V 
+<h3 id="V">V </h3>
 
 * **Vabade Juht (Chief of the Free)** - Üks Ban-Mawri tiitlitest. 
 * **Vabad Maad (The Free Lands)** - Alentide hõimukogumik Theuma idaosas. Isik/isikud ‘vabamaalane/vabamaalased’. Omadussõna ‘vabamaa’.
@@ -417,7 +421,7 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Vägi/jõud (Force/power)** - Loodusseadusi eiravad maagilised energiavood. 
 * **Värvililled (Pigment flowers)** - Rikkalikult värviandvad lilled. Impeeriumi kaubaartikkel. 
 
-### Õ
+<h3 id="Õ">Õ</h3>
 
 * **Õhk (Air)** - Kolmas theumiitide elementidest. Vastaselement Maa. 
 * **Õnnistatute Raamat (Book of the Blessed)** - Impeeriumi pühakute nimesid sisaldav raamat. 
@@ -426,34 +430,34 @@ _Siin on kirjas seletused kõikidele mõistetele ja nimedele, mis on maailmakirj
 * **Õpetaja (theumiidi)** - Ameti õpetaja õpilasele. 
 * **Õpilane (theumiidi)** - Ameti õppija. 
 
-### Ä
+<h3 id="Ä">Ä</h3>
 
 * **Ääremaa (Edgeland)** - Üks piirimaadest Vabadel Maadel. 
 
-### Ü
+<h3 id="Ü">Ü</h3>
 
 * **Ülemkohtunik (High Judge)** - Impeeriumi ülemkohtu liige. 
 * **Ülemkohus (High Court)** - Impeeriumi kõrgeim kohus. 
 
-### W
+<h3 id="W">W</h3>
 
 * **Warul** - Theumiitide veeelemendi allikas Impeeriumis. 
 * **Waruli järv** - Suur järv Impeeriumis. 
 * **Wolan Ööjälitaja** * - Brigi hõimu hetkeline pealik. 
 
-### X
+<h3 id="X">X</h3>
 
 * **Xagha Sinilaup** * - Ilvoedi hõimu hetkeline pealik. 
 * **Xaghol** - Valgusetheumiitide esindaja Vabadel Maadel. 
 * **Xenit** - Vabade Maade hõim.
 * **Xerean IV** - Impeeriumi keiser, usule pühendunud. 
 
-### Y
+<h3 id="Y">Y</h3>
 
 * **Yaner Osav** * - Noraki hõimu hetkeline pealik. 
 * **Yriel, Püha (Saint Yriel)** - Katku surnute kaitsepühak Impeeriumis. 
 
-### Z
+<h3 id="Z">Z</h3>
 
 * **Zalagos VII** - Impeeriumi keiser, kauba- ja mõõdustandardite lihtsustaja. 
 * **Zalagos VIII** - Impeeriumi keiser, sõjapidaja. 
