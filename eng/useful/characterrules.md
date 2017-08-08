@@ -14,8 +14,8 @@ The character can be developed further between events with experience points rec
 
 ### Playable races 
 
-**Alenti** - Most numerous of the races, with no special abilities. Recover easily and have the widest class selection.
-**Theumite** - A rare magical race, all theumites can use spells. More robust, but do not recover so easily. Less classes to select. Need a more complicated costume. 
+* **Alenti** - Most numerous of the races, with no special abilities. Recover easily and have the widest class selection.
+* **Theumite** - A rare magical race, all theumites can use spells. More robust, but do not recover so easily. Less classes to select. Need a more complicated costume. 
 
 **Alenti subraces** 
 
@@ -23,10 +23,10 @@ All alenti subraces have their advantages and disadvantages. They usually have b
 
 An alenti character who is not a priest or Old Blood can turn into a lagar, a moroia or a wulver during the larp series as well. 
 
-Lagar - Harder to kill, different powers which need blood to use. Can create other lagars. Cannot select the priest class. 
-Moroia - Already dead. Hard to kill, hard to repair. Cannot select the priest class. 
-Old Blood - Recovers faster than usual alenti. Has a visibly different appearance. 
-Wulver - Can take the beast form and use different powers, but may lose control and retain the beastform for good. Cannot select the priest class.
+* Lagar - Harder to kill, different powers which need blood to use. Can create other lagars. Cannot select the priest class. 
+* Moroia - Already dead. Hard to kill, hard to repair. Cannot select the priest class. 
+* Old Blood - Recovers faster than usual alenti. Has a visibly different appearance. 
+* Wulver - Can take the beast form and use different powers, but may lose control and retain the beastform for good. Cannot select the priest class.
 
 **Empire and Free Lands** 
 
