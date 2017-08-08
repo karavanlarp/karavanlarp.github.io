@@ -1,6 +1,6 @@
 ---
 layout: default-eng
-title: Makers
+title: Makers - Credits
 ---
 ## Makers
 
