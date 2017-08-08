@@ -5,6 +5,8 @@ title: Theuma
 
 ## Theuma
 
+![Theuma looduskaart](https://karavanlarp.github.io/img/map/yldkaart_nature_eng.png)
+
 ### The Continent
 
 * Surface area: ca 4,387,900 square km
