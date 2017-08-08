@@ -98,7 +98,7 @@ The Free Lands consists of fourteen lands. None of the lands belong entirely to 
 * Claw Islands – Here live large fanged predators, who are hunted by more headstrong Freelanders. Capturing one of them is a great honor.
 * Deep of the World – the deepest point of the continent, at the end of which live the gods and their servants. Those who go there, never return. 
 * Deepwood – A thick evergreen forest Woodland has been named for. 
-* East Watch – The easternmost point of the Free Lands. The air theumite source Shiale is situated here in a hidden island. The locals of the East Watch are the best sailors and fishers in the Free Lands. 
+* Eastwatch – This archipelago is the easternmost point of the Free Lands. The air theumite source Shiale is situated here on a hidden island. The locals of the Eastwatch are the best sailors and fishers in the Free Lands. 
 * Fast River – A fast-flowing river that courses through three lands and two capitals: Storra in Mistland, Ommel in Cliffland and starts from Braveland.
 * Four Elders – These islands were a part of the continent a thousand years ago, but were divided from it by a large earthquake. 
 * Howl Islands – These cold and windy islands would be abandoned if they did not hold valuable apeiron deposits that are mined with the help of theumites.
