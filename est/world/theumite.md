@@ -37,7 +37,7 @@ Enamus theumiitide ajaloost enne Impeeriumi loomist on hävitatud, hukkunud koos
 
 Allikad on elemendiväest koosnevad linnad, kus theumiidid elavad. Need on sellele lisaks nende sünnikohad. Nimelt sünnivad theumiidid allikate keskel asuvatest puhta elemendi voogudest.  Allikaid oli kunagi palju, isegi rohkem kui sada. Nüüdseks on neid järele jäänud kaksteist. Alentid käivad allikates harva, sest need on üpriski raskesti ligipääsetavad kõigile peale vastava elemendi theumiitidele. 
 
-Impeerium:
+**Impeerium**
 
 * **Razen - Tule Allikas** - asub Talmekaris Troisini vulkaani sees. 
 * **Warul - Vee Allikas** - asub Talmekaris Waruli järve põhjas. 
@@ -46,7 +46,7 @@ Impeerium:
 * **Saqad - Valguse Allikas** - asub Kalathis Sulaini saarestiku suurimal saarel. 
 * **Amite - Varju Allikas** - asub Estendaris. 
 
-Vabad Maad: 
+**Vabad Maad** 
 
 * **Ureth - Tule Allikas** - asub Ääremaal. 
 * **Lenal - Vee Allikas** - asub Punamaa lahe ehk Punalahe põhjas. 
