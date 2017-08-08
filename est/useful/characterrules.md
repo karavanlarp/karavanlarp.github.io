@@ -2,9 +2,9 @@
 layout: default-est
 title: Tegelasreeglid
 ---
-## Karavan LARP reeglid
+## Tegelasreeglid 
 
-Versioon: EELVAADE
+Versioon: Eelvaade 
 
 (GM-tiim tegeleb veel reeglite koostamisega. Reeglite eelvaate eesmärk on anda lühike tutvustus, millised võiksid välja näha valminud reeglid. GM-tiim jätab endale õiguse muuta eelvaates olevaid oskusi. Täielikud reeglid tulevad üles augusti sees.)
 
