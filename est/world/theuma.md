@@ -6,7 +6,16 @@ title: Karavan LARP
 
 ![Theuma looduskaart](https://karavanlarp.github.io/img/map/yldkaart_nature.png)
 
-**Mandrist**
+<div id="toc">
+	<h4>Sisukord</h4>
+	<a href="#mandrist">Mandrist</a>
+	<a href="#alentid">Alentid</a>
+	<a href="#theumiidid">Theumiidid</a>
+	<a href="#muud">Muud olendid</a>
+	<a href="#maagia">Maagia</a>
+</div>
+
+<span class="bold" id="mandrist">Mandrist</span>
 
 * Pindala: u 4,387,900 ruutkilomeetrit 
 * Põhja-lõuna pikkus: u 1500 kilomeetrit 
@@ -98,7 +107,7 @@ Kuigi Impeeriumi ja Vabade Maade vahel on rahu, esineb elanike seas erinevaid su
 
 Valige oma suhtumine ise ja tegelasele meelepäraselt. 
 
-### Alentid 
+<h3 id="alentid">Alentid</h3>
 
 Alenti - Alentumilt pärit 
 
@@ -142,7 +151,7 @@ Psühholoogiliselt on alentid samuti vastupidavamad kui inimesed. Neil esineb ol
 
 Tavaline alenti ei ole inimesest eristatav, kui välja arvata see, et mõnedel neist esineb nahavärvi sisalikusoomuseid. Vanaverelised on selgemalt eristatavad, kuna nende soomused on erinevat värvi ja nende silmad võivad samuti olla väga teistsugused. 
 
-### Theumiidid
+<h3 id="theumiidid">Theumiidid</h3>
 
 ![Kuus theumiiti](https://karavanlarp.github.io/img/theumitelineup2.png)
 
@@ -174,7 +183,7 @@ Theumiidid ei paljune omavahel, vaid sünnivad allikate südametest väikeste el
 
 Kestata theumiit on särav humanoidne energiaolevus. Tema energia mõjutab ümbritsevat maailma, üldiselt laastavate tagajärgedega. Seetõttu kannavad theumiidid tavaliselt keha täielikult katvat kesta, mis võib meenutada nii turvist kui rüüd või segu mõlemast. Ka kestas olles särab veidi theumiidi energiat läbi, enamasti silmade kaudu. 
 
-### Muud olendid
+<h3 id="muud">Muud olendid</h3>
 
 Theumal elab peale alentide ja theumiitide veel igasuguseid erinevaid olendeid. Mõned neist on alentide nii öelda alarassid, teised aga täiesti erinevad loodusjõudude poolt mõjutatud olendid. 
 
@@ -234,7 +243,7 @@ Mõningaid näiteid:
 * Mägede elanikud - Mägedes käivad vähesed, aga esineb jutte elavatest mägedest, kes reisija eksitamiseks tema teadmata paigalt liiguvad. Kui mägedes mõjutatud loomi esineb, on pigem tegu lindudega, kes suudavad lennata kaugele ja kõrgemale kui tavalised linnud. 
 * Vete elanikud - Vees elavad kõige suuremad moondunud loomad. Esineb nii mehesuuruseid kalu, kui ka laevasuuruseid koletisi, kellest legende räägitakse. 
 
-### Maagia 
+<h3 id="maagia">Maagia</h3>
 
 **Üldinfo**
 

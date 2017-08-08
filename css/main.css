@@ -114,6 +114,10 @@ li {
 	color: #331a00;
 }
 
+.bold {
+	font-weight: bold;
+}
+
 .right-content {
 	float: right;
 	text-align:center;
