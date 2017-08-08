@@ -5,6 +5,24 @@ title: Empire of Leonte
 ## Empire of Leonte 
 ![Leonte logo](https://karavanlarp.github.io/img/impeeriumi logo suur.png)
 
+<div id="toc">
+	<h3>Table of Contents</h3>
+	<ul>
+		<li><a href="#history">History</a></li>
+		<li><a href="#geography">Geography</a></li>
+		<li><a href="#languages">Languages</a></li>
+		<li><a href="#customs">Customs</a></li>
+		<li><a href="#culture">Culture</a></li>
+		<li><a href="#economy">Economy</a></li>
+		<li><a href="#politics">Politics</a></li>
+		<li><a href="#folklore">Folklore</a></li>
+		<li><a href="#population">Population</a></li>
+		<li><a href="#religion">Religion</a></li>
+		<li><a href="#warfare">Warfare</a></li>
+		<li><a href="#society">Society</a></li>
+	</ul>
+</div>
+
 ### General information 
 
 * Capital: Rhaentium
@@ -12,7 +30,7 @@ title: Empire of Leonte
 * Population: 21 566 000 million
 * The population of Rhaentium: 1 092 000 million
 
-### History
+<h3 id="history">History</h3>
 
 The recorded history of the Empire of Leonte begins with the Alenti Empire on the continent of Alentum. Although most of the recordings from this period are destroyed, some surviving sources show that the people of the Empire left Alentum due to a worsening climate.
 
@@ -73,7 +91,7 @@ The war between the alenti and the theumites on Theuma is better documented. The
 * 2822 - 2839: Iraam I, perpetually in conflict with the Senate. Died in suspicious circumstances. 
 * 2839 - present day: Relagin II, the peace treaty is considered his greatest achievement.
 
-### Geography 
+<h3 id="geography">Geography </h3>
 
 The Empire is divided into ten counties all of which have their own capital. Rhaentium, the capital of the Empire and the river it is built on, is the eleventh territory. Rhaentium was built on the site of an ancient theumite city, unlike all others. After the end of the war the borders of the counties were changed to create a border zone of about 10-25 kilometres in width.
 
@@ -121,7 +139,7 @@ The Mountain of the Gods - The highest mountain on the continent, on top of whic
 * Troisin Volcano - A volcano situated in Talmekar. The fire theumite source Ureth is in the bottom of it. Known as a sight for daredevils as the volcano is not entirely dormant. 
 * Zeane - A tributary of River Elish. 
 
-### Languages 
+<h3 id="languages">Languages </h3>
 
 There are many dialects of the Alenti language spoken in the Empire. (Estonian and English mark two of these in the game). The Chosen, officials and priests use High Leonte; most ceremonies and other important events are conducted in it and it is used to name important places and groups. Mages use their own language with apeiromancy. 
 
@@ -137,7 +155,7 @@ Alith’s parents are named Erais Vothoma ar’Kantha and Tavial Kantha ar’Vot
 
 (OG: you may use Greek, Roman and Slavic names as inspiration but we recommend you modify them a little.)
 
-### Customs 
+<h3 id="customs">Customs </h3>
 
 **Childbearing and birth**
 
@@ -201,7 +219,7 @@ Since Imperial life is usually quite peaceful, weapons are uncommon. General cit
 
 While moroia, lagars and wulvers have a different positions in society, they must still be treated politely and that is reflected in everyday interaction. The same goes for theumites.
 
-### Culture 
+<h3 id="culture">Culture </h3>
 
 Leontites are a very cultured people. The Empire invests yearly in various areas of culture, as do the counties and cities.
 
@@ -215,7 +233,7 @@ Different festivals are also common. They are organised to celebrate important e
 
 Parties are usually large, organised on squares or village houses. The weekends are commonly spent either drinking or dancing in different tavernas. 
 
-### Economy
+<h3 id="economy">Economy</h3>
 
 The economy of the Empire is mostly efficiently regulated by a large amount of officials who receive their orders from the Economic Council in Rhaentium. The Economic Council decides the standards of currency and other values, along with the parameters of production for the guilds. The Empire collects taxes on most things. This money is used for the army and other governmental instances, to fund the construction and repairs of the road network, and other projects important for the Empire. Some of this revenue is also meant to support different cultural instances. 
 
@@ -257,7 +275,7 @@ Service and wages
 2 staurus = 1 Free Lands silver = 10 Free Lands coppers
 20 staurus = 1 Free Lands gold = 10 Free Lands silvers = 100 Free Lands coppers
 
-### Politics
+<h3 id="politics">Politics</h3>
 
 The Empire is singularly ruled by the Emperor. The Emperor is aided by the Chosen. 
 
@@ -343,7 +361,7 @@ Counties and capitals:
 * Aren: 54 000
 * Telit: 36 000
 
-### Religion 
+<h3 id="religion">Religion </h3>
 
 Religion is an important part of life in the Empire, for it is only for the gods that the Empire exists. Their blessings help it flourish and their curses have helped for the Empire to stand against their enemies. 
 
@@ -487,7 +505,7 @@ After all aforementioned things priests also bless various items to be given as 
 
 After the peace treaty worship of the Free Lands gods is also allowed in the Empire, but at this point only Freelanders living in the Empire do it. At this moment they have no official temples. 
 
-### Warfare
+<h3 id="warfare">Warfare</h3>
 
 The Empire has a professional military, consisting of about one and a half million soldiers including the border patrol. The exact numbers are confidential. Joining the military is voluntary and a chance for many to leave their usual lives. When signing up a person pledges 30 years of their life to the army. The army also provides their equipment. After 30 of serving one may retire to a freely chosen location in the Empire where they will provided with a small parcel of land. Many prefer to continue serving, however. 
 
@@ -512,7 +530,7 @@ One can apply to join the border patrol when signing up with the army. The best 
 
 The border patrol has the right to process smaller misdemeanors and to arrest those disrupting the order. The border patrol also works with their counterparts in the Free Lands and apart from Leontite-only groups there are mixed groups who operate in areas where people from both sides live together, like the villages of Aren and Telit. 
 
-### Society
+<h3 id="society">Society</h3>
 
 Imperial society is like a well-working machine where everyone has their place and responsibility. The most important thing is how the citizen can be useful to the Empire and how well they serve the Emperor. 
 

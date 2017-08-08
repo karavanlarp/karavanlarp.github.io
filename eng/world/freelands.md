@@ -4,6 +4,24 @@ title: The Free Lands
 ---
 ## The Free Lands 
 ![Vabade Maade logo](https://karavanlarp.github.io/img/vabad-maad-logo-väike.png)
+
+<div id="toc">
+	<h3>Table of Contents</h3>
+	<ul>
+		<li><a href="#history">History</a></li>
+		<li><a href="#geography">Geography</a></li>
+		<li><a href="#languages">Languages</a></li>
+		<li><a href="#customs">Customs</a></li>
+		<li><a href="#culture">Culture</a></li>
+		<li><a href="#economy">Economy</a></li>
+		<li><a href="#politics">Politics</a></li>
+		<li><a href="#folklore">Folklore</a></li>
+		<li><a href="#population">Population</a></li>
+		<li><a href="#religion">Religion</a></li>
+		<li><a href="#warfare">Warfare</a></li>
+		<li><a href="#society">Society</a></li>
+	</ul>
+</div>
  
 ### General information 
  
@@ -15,7 +33,7 @@ The Free Lands in the name for the collection of tribes who live on about one th
  
 In the Empire known as Nemeria. Inhabitants are called Nemerians. 
  
-### History 
+<h3 id="history">History </h3>
  
 The Free Lands historically began on Theuma, established by alenti who refused to live in the Empire and wanted a different life. The alenti left Alentum together, but their opinions pulled them apart after the war against theumites was won. Though the Freelanders also see the war was necessary, they do not agree with the Empire on anything else. 
  
@@ -67,7 +85,7 @@ The Free Lands historically began on Theuma, established by alenti who refused t
 * 2830- 2841: Zelia, of Tribe Kathen. Had a very good relationship with theumites and thanks to her theumites currently help the apeiron miners on Howl Islands. 
 * 2842 - praeguseni: Alix, of Tribe Turahan. Brought peace with the Empire. i
  
-### Geography 
+<h3 id="geography">Geography </h3>
  
 The Free Lands consists of fourteen lands. None of the lands belong entirely to one tribe, but the tribe holding the capital of the tribe usually has authority over the land. There are two exceptions: Kingland and Borderland. Borderland was created after the end of the war, it includes an area of 10-25 kilometers' width that is next to the Empire. 
 
@@ -114,7 +132,7 @@ The Free Lands consists of fourteen lands. None of the lands belong entirely to 
 * Thickwood – The largest leafy forest of the Free Lands. The earth theumite source Lilir is situated in the west part of it. 
 * White River – One of the longest rivers on the continent which flows through Plentyland and Valleyland and ends in the Red Bay. 
  
-### Languages
+<h3 id="languages">Languages</h3>
  
 There are many dialects of the Alenti language spoken in the Free Lands, which the inhabitants of the Empire understand as well and vice versa. (Estonian and English mark two of these in the game). The priests and the Tribeless of Kingland use the less common holy tongue. The users of the runic arts use the runes as well. 
  
@@ -124,7 +142,7 @@ In the Free Lands a person usually has just the one given name. Family names as 
  
 (OG: you may use Scandinavian, Celtic and Germanic names as inspiration but we recommend you modify them a little.) 
  
-### Customs 
+<h3 id="customs">Customs </h3>
  
 **Childbearing and birth** 
  
@@ -212,7 +230,7 @@ Most people wear a knife at the least. Better weapons are worn by warriors or th
  
 The others enjoy fairly relaxed treatment. It depends more on the attirude of the particular clan or tribe towards that particular type of other. If a wulver desecrates the holy place of a clan, then no wulver will be welcome at that clan's living place. 
  
-### Culture 
+<h3 id="culture">Culture </h3>
  
 The Free Lands tribes all have different opinions on what is culture. 
  
@@ -220,7 +238,7 @@ There are many options for entertainment, they usually include various competiti
  
 There are many reasons for a party and all present are welcome, even if they are travelers who arrived the same night. Usually parties are accompanied by good food and proper drinking. 
  
-### Economy 
+<h3 id="economy">Economy </h3>
  
 Freelanders use circles of different metals as currency. There are three types of them – copper, silver and gold. 
  
@@ -238,7 +256,7 @@ The sale of galdar and mining permits is also a great source of income.
  
 There are no taxes in the Free Lands like there are in the Empire, but each tribe sends yearly tribute to Cairlinn Tor as agreed at the Landsmeet. These tributes are different, both goods and volunteering servants (for a measured amount of time) are sent.
  
-### Politics 
+<h3 id="politics">Politics </h3>
  
 The highest authority in the Free Lands is the king. They live in Cairlinn Tor aided by the Tribeless. 
  
@@ -282,7 +300,7 @@ Six theumites are numbered amongst the king's advisors, representing the theumit
  
 Power works differently in the Free Lands compared to the Empire. A chief may order his tribe or clan members around or punish them, but if his orders are selfish and stupid and his punishments too severe, it is possible they will not be followed. This goes for the king as well.
  
-### Folklore 
+<h3 id="folklore">Folklore </h3>
  
 The Free Lands have a rich folklore as every clan and tribe has their own legends, passed along throughout generations. Historically stories were told orally, but that changed a few hundred years ago they began to be written down due to the initiative of the Society of Rememberers. Unlike in the Empire, old-Alentum folklore has not been held in high regard and therefore is mostly gone from memory. Interest towards it is seen as strange, but in recent years the Remembers have begun to record all they can about the Empire. 
  
@@ -290,7 +308,7 @@ Everyone knows at least a few stories as they have grown up hearing them, but in
  
 Many stories also give knowledge about various creatures a traveler might meet on the road. 
  
-### Population 
+<h3 id="population">Population </h3>
  
 * The Free Lands: 13 million (no more exact figure is known)
  
@@ -299,7 +317,7 @@ Many stories also give knowledge about various creatures a traveler might meet o
 * Wulvers: 310 000
 * Lagars: 71 000 
 * The Old Blood: 50 000 
-* Theumites: 800 000 
+* Theumites: 800 000
 * Serviles: none are known
  
 * Military: ca 1 million
@@ -329,9 +347,9 @@ Lands and capitals:
 * Telit: 36 000
  
 * Bigger tribes: ca 250 000 
-* Väikseimad hõimud: ca 1000
+* Smaller tribes: ca 1000
  
-### Religion 
+<h3 id="religion">Religion </h3>
  
 Faith in the Free Lands is as serious a thing as in the Empire. The gods unite the Freelanders since while the tribes may be different, faith is the same everywhere. 
  
@@ -459,7 +477,7 @@ One may pray to whichever god for their blessings. Bringing a small offering to 
 After all aforementioned things priests also bless various items to be given as gifts during celebrations or for favors. 
 After the peace treaty worship of the Imperial gods is also allowed in the Free Lands, but at this point only Leontites living in the Free Lands do it. At this moment they have no official temples. 
  
-### Warfare 
+<h3 id="warfare">Warfare </h3>
  
 The Free Lands does not have a permanent military. Most of the population knows how to fight to some degree and the army forms only at the king's call to attack the Empire. The only professional warriors are the personal troops of clan and tribe chiefs. 
  
@@ -477,7 +495,7 @@ Anyone not an outlaw has the right to move in the border zone. Despite that most
  
 The units work with the Imperial border patrol and there are mixed units that work in areas with mixed populations, like the border villages of Aren and Telit. 
  
-### Society 
+<h3 id="society">Society </h3>
  
 The society of the Free Lands is an amalgam of different tribes and societies that live apart, but join together at the king's call. In the Free Lands all are equal and everybody can aspire to what they want to be. 
  

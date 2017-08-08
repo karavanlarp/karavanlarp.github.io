@@ -6,18 +6,36 @@ title: Theumites
 ## Theumites 
 
 ![Theumiitide logo](https://karavanlarp.github.io/img/theumiitide-logo.png)
+
+<div id="toc">
+	<h3>Table of Contents</h3>
+	<ul>
+		<li><a href="#history">History</a></li>
+		<li><a href="#geography">Sources e. Geography</a></li>
+		<li><a href="#languages">Languages</a></li>
+		<li><a href="#customs">Customs</a></li>
+		<li><a href="#culture">Culture</a></li>
+		<li><a href="#economy">Economy</a></li>
+		<li><a href="#politics">Politics</a></li>
+		<li><a href="#folklore">Folklore</a></li>
+		<li><a href="#population">Population</a></li>
+		<li><a href="#religion">Religion</a></li>
+		<li><a href="#warfare">Warfare</a></li>
+		<li><a href="#society">Society</a></li>
+	</ul>
+</div>
  
 ### General 
  
 Theumites are a race of elemental spirits who used to rule Theuma.
  
-### History 
+<h3 id="history">History </h3>
  
 Most of theumite history before the creation of the Empire was destroyed along with their cities. It is known that before the alenti came, there was a peace of more than ten thousand years. After the arrival, nothing was the same. 
  
 There are many notes and chronicles of history after the arrival of the alenti, but these are guarded carefully by the wise and the chroniclers, and not free to peruse for the average person. 
  
-### Sources e. geography 
+<h3 id="geography">Sources e. geography</h3>
  
 Sources are cities constisting of elemental power, where theumites live. They are also their places of birth. Theumites are born from the pure elemental flows in the middle of the source. There used to be many sources, even more than a hundred. Now there are only twelve. The alenti come to the sources rarely because they are hard to access for anyone who is not the element of that particular source. 
  
@@ -39,7 +57,7 @@ Sources are cities constisting of elemental power, where theumites live. They ar
 * **Droat - The Source of Light** – Situated in Windland.  
 * **Primin - The Source of Shadow** – Situated in Valleyland. 
  
-### Languages
+<h3 id="languages">Languages</h3>
  
 Theumites have many languages. Since the elements are quite different, the theumites of every element have their own elemental language, which is the first language they learn to speak. The wisdom of that element in written in their language. The next language they learn is the general language of the theumites. If they want to go outside from the source, they will also learn either one or more of alenti dialects. 
  
@@ -49,7 +67,7 @@ It is common in theumite language that there are many words for similar things. 
  
 (OG: You may pick a fantasy-style name, and think of a translation for it.)
  
-### Customs 
+<h3 id="customs">Customs </h3>
  
 **Birth**
  
@@ -95,7 +113,7 @@ There is not a tradition of shaking hands like for the alenti. Even though outsi
  
 Weapons are worn outside the sources to fight if it is needed. When in the source, they are usually kept in one's quarters or the armory. Walking around with a weapon in the source is seen as ridiculous and bizarre. 
  
-### Culture 
+<h3 id="culture">Culture </h3>
  
 Theumites have different ways of spending their free time. 
  
@@ -103,7 +121,7 @@ Different tests and shows of one's skill are common. Debates and complex games o
  
 It is important that one spend their free time in useful ways and the activities generally reflect that. 
  
-### Economy 
+<h3 id="economy">Economy </h3>
  
 Theumites have a collective economy. Every adult theumite is expected to give some of their work for the benefit of all. Two theumites can also exchange work, this sort of exchange of work is usually fixed with a magical contract. 
  
@@ -111,7 +129,7 @@ Theumites buy apeiron from the Empire and the Free Lands. For this the theumites
  
 When a theumite leaves their source, they are given a document with which they can acquire currency to pay for things. It is also possible to earn money by performing various favors. Usually theumites solve magical problems and do other things they can do.  
  
-### Politics 
+<h3 id="politics">Politics </h3>
  
 Every Emperor of Leonte has six theumites (one of each element) working for them as advisors or glorified hostages. They present the wishes of the theumites to the Emperor and are responsible of the position of the theumites in the Empire.  
  
@@ -139,7 +157,7 @@ Theumites do not have a direct ruler like the Emperor of the Empire or the King 
  
 The governing of sources is the responsibility of six theumites in every source. They are called the Honored. They discuss problems that may occur and choose the representative of their source either to the Emperor or to the King. They are also responsible for sentencing if an incident requires their attention. They are chosen by the adults of the source when a seat is freed (upon the death or retirement of one of them). Becoming a leader needs a steady nature and exemplary behavior. 
  
-### Folklore 
+<h3 id="folklore">Folklore </h3>
  
 Every source has their own collections and notes. It is known that a lot of folklore and information was destroyed or lost during the war. For this reason all documents and books are carefully handled. New writings are usually copied several times and sent to other sources as well. 
  
@@ -149,7 +167,7 @@ Biographies make up a large part of the current collections, they are the descri
  
 Magical writings make up a large part of the rest. Theumites study and record all sorts of magical things, the magic of alenti gods and different phenomena, along with the magical discoveries of theumites themselves. 
  
-### Religion 
+<h3 id="religion">Religion </h3>
 
 Theumites do not worship gods like the alenti. For them there are twelve important legendary theumites, two from each element. The legends say they were the leaders of the theumites during the time of the arrival of the alenti. During the war they were hidden and some believe they may still be sleeping somewhere. 
  
@@ -170,7 +188,7 @@ These twelve were:
  
 Theumite think alenti religion and gods are quite bizarre. For them the knowledge of coming and returning to the source is enough. Some of them are however very interested in gods and divine magic and do their best to study the topic. 
  
-### Population 
+<h3 id="population">Population </h3>
  
 There are about 2 million theumites on the continent. The distribution in relation to elements is fairly equal, there are differences of only a few hundred individuals at the most. 
  
@@ -188,13 +206,13 @@ There are about 2 million theumites on the continent. The distribution in relati
  
 About three fourths of theumites live in the sources and most of them do not leave them during their lives. But there are those who explore the outside world with interest and find other places where to live. 
  
-### Warfare 
+<h3 id="warfare">Warfare </h3>
  
 All theumites are taught to protect themselves, but few study warfare. Since there are not a lot of theumites and repairing shells take a lot of time, every single life is too important to squander. Therefore theumites have no official army and if they work for the Empire or the Free Lands, they do so in a non-military capacity. 
  
 Weapons are worn by theumites leaving the source, to avoid using too much power for fighting. It is not tradition to wear a weapon inside the source. 
  
-### Society 
+<h3 id="society">Society </h3>
  
 Theumite society is quite interwoven despite the fact that theumites live in twelve different places on the continent and most of them never leave home. The gates in the sources are used to communicate and to send items and letters. This allows theumites to act in concert.
  

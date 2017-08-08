@@ -7,7 +7,18 @@ title: Theuma
 
 ![Theuma looduskaart](https://karavanlarp.github.io/img/map/yldkaart_nature_eng.png)
 
-### The Continent
+<div id="toc">
+	<h3>Table of Contents</h3>
+	<ul>
+		<li><a href="#continent">The Continent</a></li>
+		<li><a href="#alenti">Alenti</a></li>
+		<li><a href="#theumites">Theumites</a></li>
+		<li><a href="#others">Other beings</a></li>
+		<li><a href="#magic">Magic</a></li>
+	</ul>
+</div>
+
+<h3 id="continent">The Continent</h3>
 
 * Surface area: ca 4,387,900 square km
 * Length north to south: ca 1500 km
@@ -101,7 +112,7 @@ Choose your attitude as befits your character.
 
 
 
-### Alenti
+<h3 id="alenti">Alenti</h3>
 
 Alenti - from Alentum
 
@@ -146,7 +157,7 @@ The alenti also have higher psychological resistance than humans. Mental disorde
 A normal alenti is indistinguishable from a human, except for skin-colour lizard scales in some cases. The Old Blood are more unique: they have different-coloured scales and their eyes can be very different.
 
 
-### Theumites
+<h3 id="theumites">Theumites</h3>
 
 ![Theumiidipilt](https://karavanlarp.github.io/img/theumitelineup4.png)
 
@@ -180,7 +191,7 @@ Without their shell, a theumite is a bright humanoid being made of energy. Their
 
 
 
-#### Other beings
+<h3 id="others">Other beings</h3>
 
 **Serviles or Constructs** _(a non-playable race)_
 
@@ -240,7 +251,7 @@ Usually such creatures are dangerous to the lone traveler and harder to kill tha
 
 * Water beings: The largest affected beings live in the seas. There are fish as big as a man, and legendary creatures bigger than ships. 
 
-#### Magic
+<h3 id="magic">Magic</h3>
 
 **General information**
 
