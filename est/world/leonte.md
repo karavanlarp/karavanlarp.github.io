@@ -243,7 +243,7 @@ Kui alentid Alentumilt lahkusid, võtsid nad endaga kaasa tomatid, kartulid, kak
 
 Impeeriumis kasutatakse paberraha. Valuutaks on Impeeriumi staurus. Seda on käibel 1, 5, 10, 25, 100, 500 vääringus. 
 
-Hinnad kõrtsides
+Hinnad tavernades
 * Klaas odavat veini    2 St
 * Klaas head veini    6-15 St
 * Pits viina        3 St
@@ -252,7 +252,7 @@ Hinnad kõrtsides
 * Lihtne eine        2 St
 * Korralik eine        4 St
 * Luksuslik eine        8 St
-* 1 öö kõrtsis        3 St
+* 1 öö tavernas        3 St
 * 1 öö heas toas    5 St
 
 Varustus
