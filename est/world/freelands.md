@@ -106,7 +106,7 @@ Vabad Maad jagunevad neljateistkümneks maaks. Üldiselt ei kuulu ükski maa tä
 * **Punamaa** (pealinn Jugad) - Vabade Maade suurim maa. Punamaa saartel Idavahtidel asub õhutheumiitide allikas Shiale. Punalahes asub samuti veetheumiitide allikas Lenal. Punamaa on tuntud ka oma meresõitjate järgi. 
 * **Tuultemaa** (pealinn Vinte) - Tuultemaa on saanud oma nime sealse kaootilise ilma järgi. Seal asub valgusetheumiitide allikas Droat. 
 * **Koidumaa** (pealinn Arling) - Koidumaal elab mitmeid väiksemaid hõime, ja see on Vabadel Maadel tuntud kui hea paik, kus jahti pidada. Eriti tõmbavad huvilisi Kihvasaared. 
-* **Sumemaa** (pealinn Ithen) - Sumemaa on üks rikkamaid maid, kuna tal on äärmiselt hea asukoht, ja võimalused teiste maadega kaubavahetust pidada. Sumemaa hõimud on alati teiste hõimudega hästi läbi saanud, kuigi nad omavahel konkureerivad. Erandlikult on ka pealinn Ithen mitme hõimu mõju all. 
+* **Sumemaa** (pealinn Ithen) - Sumemaa on üks rikkamaid maid, kuna tal on äärmiselt hea asukoht, ja võimalused teiste maadega kaubavahetust pidada. Sumemaa hõimud on alati teiste hõimudega hästi läbi saanud, kuigi nad omavahel konkureerivad. Erandlikult on ka pealinn Ithen mitme hõimu mõju all.
 
 **Muud punktid** 
 
