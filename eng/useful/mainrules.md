@@ -2,7 +2,7 @@
 layout: default-eng
 title: General rules
 ---
-## Caravan LARP-series general rules
+## General rules
 
 _These are rules for the event, character and mechanics-specific rules are on a different page._ 
 
