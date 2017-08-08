@@ -12,12 +12,12 @@ Oleme reeglid disaininud sellised, et võiksite luua eri oskustega tegelasi, kel
 
 Tegelast saab arendada mängude vahel kogutud kogemuspunktidega, mida saab mängul osaledes ja aktiivselt tegutsedes. Samuti anname kogemuspunkte lahedatele rollimängijatele ja ägedatele kostüümidele. 
 
-### Mängitavad rassid: 
+### Mängitavad rassid
 
 * Alenti - Kõige levinum rass, ei ole erilisi lisaomadusi. Taastuvad kergelt ja saavad valida kõige rohkem klasse. 
 * Theumiit - Haruldane maagiline rass, kõikidel theumiitidel on loitsude kasutamise oskus. Vastupidavamad, aga raskem paraneda. On vähem valitavaid klasse. Samuti nõuavad keerulisemat kostüümi. 
 
-**Alenti alarassid:**
+**Alenti alarassid**
 
 Kõikidel alenti alarassidel on oma eelised ja miinused. Neil on tihti suurem vastupidavus teatud tüüpi nähtustele kui alentidel ja nad võivad kasutada erilisemaid oskusi aga nad vajavad nende oskuste kasutamiseks erinevaid ressursse või olukordi.
 
@@ -28,13 +28,13 @@ Lagaariks, moroiaks või vulveriks on võimalik muutuda ka mängusarja jooksul a
 * Vanavereline - Taastub kiiremini kui tavalised alentid. Nähtavalt erinev välimus. 
 * Vulver - Saab võtta loomkuju ja kasutada võimeid, ent võib kaotada kontrolli enese üle ja jääda igaveseks loomkujule. Ei saa valida preestri klassi. 
 
-### Impeerium ja Vabad Maad: 
+### Impeerium ja Vabad Maad 
 
 Mõlema riigi tegelastel on ligipääs erioskustele oma klassipuus. 
 
 Näiteks võivad Vabade Maade sõdalased valida endale Raevuja lisaoskuse, see annab lahingus erilisi võimeid aga kurnab tegelast omajagu. 
 
-### Klassid: 
+### Klassid
 
 Alentide ja theumiitide valitavad klassid on veidi erinevad. 
 
@@ -50,7 +50,7 @@ Oma ala hea tundja, ekspert on pühendanud oma elu mingile konkreetsele valdkonn
 
 Ekspert võib olla Impeeriumi arst või Vabade Maade skald, kes teab palju lugusid. Ta võib olla maailmanähtusi kirja panev theumiit või kestasid parandav sepp. 
 
-**Mõned oskused:**
+**Mõned oskused**
 
 * Erinevad teadmised - Kuigi mõned teadmised on tegelasel alguses olemas, saab siit endale osta teadmisi teiste kultuuride, Theuma olendite ja taimede ning muu põneva kohta. 
 * Jõukus - Võib-olla on tegelasel pärandus, võib-olla oskab ta lihtsalt leida kasulikke tööotsi, selle oskusega alustab ta mängu lisarahaga. 
@@ -78,7 +78,7 @@ Preester on vandunud oma elu ühele jumalale ja saanud sellele vastuseks killuke
 
 Igal jumalal on erinev vägi, võimalik on valida nii Impeeriumi kui Vabade Maade poolel kaheksa erineva väe vahel. Iga jumal annab mingisuguse eelise teiste oskuste valikul. **Ainult alentidele** (kes ei ole lagaarid, moroiad või vulverid. Preester ei saa ka kunagi muutuda üheks neist).
 
-**Impeeriumis:** 
+**Impeeriumis** 
 
 * Malakhim - kord ja seadused 
 * Keteos - surm 
@@ -89,7 +89,7 @@ Igal jumalal on erinev vägi, võimalik on valida nii Impeeriumi kui Vabade Maad
 * Baruna - linnad ja muusika
 * Darsilis - elu
 
-**Vabadel Maadel:** 
+**Vabadel Maadel** 
 
 * Ban-Mawr - kaos ja vanded 
 * Lir-Neth - surm ja nägemused
