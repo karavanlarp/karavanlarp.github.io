@@ -7,9 +7,9 @@ title: Theuma
 
 ### The Continent
 
-Surface area: ca 4,387,900 square km
-Length north to south: ca 1500 km
-Length west to east: ca 2000 km
+* Surface area: ca 4,387,900 square km
+* Length north to south: ca 1500 km
+* Length west to east: ca 2000 km
 
 The continent of Theuma is the stage for our game series.
 
