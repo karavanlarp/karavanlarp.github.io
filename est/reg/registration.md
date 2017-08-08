@@ -2,7 +2,7 @@
 layout: default-est
 title: Registreerumine
 ---
-### Registreerumine
+## Registreerumine
 
 [Siin](https://docs.google.com/forms/d/e/1FAIpQLSeAbgv7lwfXDTZg79ilzr9viXpaltvDXO7ehVIw7Fk1D1sCRA/viewform) saab registreeruda mängule. 
 
