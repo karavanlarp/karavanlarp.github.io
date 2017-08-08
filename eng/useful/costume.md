@@ -79,7 +79,7 @@ The wulver beast form must be clearly visible and recognizable for the other pla
 
 ### Theumites 
 
-![Theumiidipilt](karavanlarp.github.io/img/theumitelineup4.png)
+![Theumiidipilt](https://karavanlarp.github.io/img/theumitelineup4.png)
 
 _(a light smith, a shadow healer, a fire warrior, a water mage, an air thief, an earth scholar)_
 
