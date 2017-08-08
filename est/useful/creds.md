@@ -1,6 +1,6 @@
 ---
 layout: default-est
-title: Tegijad
+title: Tegijad - Tänud
 ---
 ## Tegijad
 
@@ -22,16 +22,16 @@ _Mängutehniline insener_
 
 Ka Siim on korraldanud enne larpe (Fyerellal ja mõned sci-fi mängud). Siimu peamine ülesanne on muuta Karavan mänguks: tema tegeleb reeglite ja mängumehhaanika disainiga. Sellele lisaks on ta terve mõistus kui sellest kipub puudu jääma. Päriselus õpib Siim ülikoolis matemaatilist statistikat ja geenitehnoloogiat. Tema hobideks on võitluskunstid, matkamine ja lauamängud. 
 
-### Täname:
+### Tänud
 
-**Kunsti osakond:**
+**Kunsti osakond**
 * Dani
 * Birgit
 
-**Tõlkimine ja toimetamine:**
+**Tõlkimine ja toimetamine**
 * Martin
 * Iti
 
-**Muud abilised:**
+**Muud abilised**
 * Ghost
 * Raigo
