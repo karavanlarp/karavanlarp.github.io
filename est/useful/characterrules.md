@@ -6,7 +6,7 @@ title: Tegelasreeglid
 
 Versioon: EELVAADE
 
-(GM-tiim tegeleb veel reeglite koostamisega. Reeglite eelvaate eesmärk on anda lühike tutvustus, millised võiksid välja näha valminud reeglid. GM-tiim jätab endale õiguse muuta eelvaates olevaid oskusi. Täielikud reeglid tulevad üles augusti sees.)_
+(GM-tiim tegeleb veel reeglite koostamisega. Reeglite eelvaate eesmärk on anda lühike tutvustus, millised võiksid välja näha valminud reeglid. GM-tiim jätab endale õiguse muuta eelvaates olevaid oskusi. Täielikud reeglid tulevad üles augusti sees.)
 
 Oleme reeglid disaininud sellised, et võiksite luua eri oskustega tegelasi, kellel kõigil on võimalus mängu mõjutada ja tegevust leida. Klassid on loodud sellisteks et nendega oleks juba esimesel mängul tore, aga oleks ka ruumi pikemaks arenguks. 
 
