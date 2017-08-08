@@ -2,7 +2,7 @@
 layout: default-eng
 title: Registration
 ---
-### Registration
+## Registration
 
 [Here](https://docs.google.com/forms/d/1rWLcxs9qTWRxCqIBn1W24DC5QsLv7UEQy56FUxnnlco) you can pre-register for the game. 
 
