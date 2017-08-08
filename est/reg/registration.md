@@ -21,4 +21,5 @@ NPCde puhul on protsess veidi teistsugune, pärast maksmist saadame teile inform
 Kirjutage meile: 
 
 [karavanlarp@gmail.com](karavanlarp@gmail.com)
+
 [Facebooki leht](https://www.facebook.com/KaravanLARP/)
