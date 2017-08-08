@@ -20,6 +20,6 @@ For NPCs the process is a bit different, after receiving your payment we will se
 
 Contact us: 
 
-[karavanlarp@gmail.com]
+karavanlarp@gmail.com
 
 [Facebook page](https://www.facebook.com/KaravanLARP/)
