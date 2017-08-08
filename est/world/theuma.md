@@ -1,6 +1,6 @@
 ---
 layout: default-est
-title: Karavan LARP
+title: Theuma
 ---
 ## Theuma
 
@@ -155,7 +155,7 @@ Tavaline alenti ei ole inimesest eristatav, kui välja arvata see, et mõnedel n
 
 <h3 id="theumiidid">Theumiidid</h3>
 
-![Kuus theumiiti](https://karavanlarp.github.io/img/theumitelineup2.png)
+![Theumiidipilt](https://karavanlarp.github.io/img/theumitelineup4.png)
 
 Theumiit - Theumalt pärit 
 
