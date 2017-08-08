@@ -17,7 +17,7 @@ title: Karavan LARP
 	</ul>
 </div>
 
-<span class="bold" id="mandrist">Mandrist</span>
+### Mandrist 
 
 * Pindala: u 4,387,900 ruutkilomeetrit 
 * Põhja-lõuna pikkus: u 1500 kilomeetrit 
@@ -199,7 +199,7 @@ Kuigi nad on apeironi abil loodud, ei oska serviilid ise maagiat kasutada. Nende
 
 **Vulverid (e. libad)** (wulvers/weres)
 
-Vulver on alenti, kes suudab esile kutsuda mõne looma omadusi. Loomkujule minekuga ilmevad alentil paar selle looma välimusele iseloomulikku elementi. Tavaliselt saab ta muutuda tagasi alentiks, aga on ka neid, kes on alatiseks loomsesse vormi kinni jäänud. Huvitaval kombel saavad vulverid võtta igasuguste loomade kuju, ka selliste oma, keda muidu Theumal ei esine.
+**Vulver** on alenti, kes suudab esile kutsuda mõne looma omadusi. Loomkujule minekuga ilmevad alentil paar selle looma välimusele iseloomulikku elementi. Tavaliselt saab ta muutuda tagasi alentiks, aga on ka neid, kes on alatiseks loomsesse vormi kinni jäänud. Huvitaval kombel saavad vulverid võtta igasuguste loomade kuju, ka selliste oma, keda muidu Theumal ei esine.
 
 Vulverid said pärimuse järgi alguse Vabade Maade jumala Nal-Mati needusest, mille too pani legendi järgi peale tema pühamut rüvetanud Impeeriumi sõdurite salgale. Needus hakkas nende kaudu levima ja seda ei õnnestunud enam peatada. Selle tõttu on vulverid Impeeriumis eriseaduse all, mis nõuab nende registreerimist ja seab nende tegutsemisele erinevaid piiranguid. 
 
@@ -209,7 +209,7 @@ Alentivormis vulveril ei ole erilisi omadusi. Loomavormis vulver omandab aga loo
 
 Loomavormis on vulver teistele nakkusohtlik. On võimalik, et ärevas olukorras või lahinguhoos kaotab vulver kontrolli oma tegude üle. Mõnikord tähendab selline hoog seda, et vulver säilitabki alatiseks oma loomsed tunnused. 
 
-**Moroiad (e. ebasurnud)** (moroia/undead)
+**Moroiad (e. kooljad)** (moroia/draugr)
 
 Moroia on alenti, kelle hing pole suremise hetkel kehast lahkunud. Nad ei sure vanadusse ega saadud haavadesse- isegi siis, kui moroial pea maha raiuda, piisab pea tagasipanekust, et too saaks edasi tegutseda. Nad pole võimeline saama lapsi, teenima ühtegi jumalat preestrina ega muutuma vulveriks. Samuti ei saa moroia hinge asendada serviilikesta sisse. 
 
@@ -223,7 +223,7 @@ Vabamaalaste termin sellise olendi jaoks on ‘kooljas’ (draugr).
 
 Raikad on kehatud hinged, kes mingil põhjusel pole lahkunud. Üldiselt tekivad raikad ainult alentidest, peaasjalikult neist, kellel on elu jooksul midagi lahendamata jäänud. Raikad ei suuda elavat maailma väga palju mõjutada – nad on ehk võimelised liigutama pisemaid esemeid, kuid see on ka kõik – ning ka elavad ei saa neid mõjutada. Erandiks on surmajumala mõjuga paigad, kus piir selle maailma ja teispoolsuse vahel on õhem. Sellistes kohtades on võimalik, et raika suudab füüsilist maailma mõjutada, eriti tugevate tunnete mõju all olles. 
 
-**Lagaarid (e. vampiirid)** (lagars/vampires)
+**Lagaarid (e. vereimejad)** (lagars/bloodsuckers)
 
 Lagaar on alenti, kes on põhimõtteliselt surnud. Lagaarid joovad erinevate võimete kasutamiseks ja oma haavade ravitsemiseks verd. Sarnaselt moroiadele ei sure nad vanadusse, kuid neid on elementidega võimalik haavata. Lagaarid on viljatud, nad ei saa muutuda vulveriks ega teenida jumalaid preestrina. Neile ei meeldi eriti päike, kuid see ei põleta neid. 
 
@@ -239,7 +239,7 @@ Impeeriumis on nende ametlik nimetus “mittetsiviliseeritud olendid”, rahvake
 
 Üldiselt on seesugused elukad üksikule reisijale ohtlikud, ja raskemini tapetavad kui tavaloomad. Esineb aga lugusid ka sellistest, kellega võib kõnelda ja kes võivad teatud tasu eest soovija jaoks mõne teo teha. 
 
-Mõningaid näiteid: 
+**Mõningaid näiteid** 
 
 * Metsa elanikud - Metsas esineb kõige rohkem moondunud loomi. Nad on tavalistest loomadest erinevad, üldiselt suuremad ja vägevamad, ning neil on üllatavaid võimeid. Mõnikord juhtub ka seda, et mõni puu või taim suudab iseenesest liikuda ja isegi kõnelda. 
 * Mägede elanikud - Mägedes käivad vähesed, aga esineb jutte elavatest mägedest, kes reisija eksitamiseks tema teadmata paigalt liiguvad. Kui mägedes mõjutatud loomi esineb, on pigem tegu lindudega, kes suudavad lennata kaugele ja kõrgemale kui tavalised linnud. 
@@ -255,7 +255,7 @@ Theumal (ja ülejäänud maailmas) on nii öelda üleloomulike jõudude või vä
 
 **Apeiron**
 
-Apeironist ehk algelemendist tulenevad kõik teised elemendid. Maailm koosneb selle stabiilsematest vormidest ja see on ka kõikide protsesside aluseks. Apeironi kõige keerulisemat väljendusvormi nimetatakse intelligentseks teadvuseks või ka hingeks. Alentid on õppinud seda kasutama selleks, et mõjutada erinevaid loodusjõudusid enese ümber. 
+**Apeironist** ehk algelemendist tulenevad kõik teised elemendid. Maailm koosneb selle stabiilsematest vormidest ja see on ka kõikide protsesside aluseks. Apeironi kõige keerulisemat väljendusvormi nimetatakse intelligentseks teadvuseks või ka hingeks. Alentid on õppinud seda kasutama selleks, et mõjutada erinevaid loodusjõudusid enese ümber. 
 
 Apeironit esineb igal mandril. Seal, kus algelementi on õhus rohkem või kus on surmajumalate mõju, saavad näiteks raikad mõjutada maailma oluliselt rohkem. Tihti kipub seda juhtuma ka lahinguväljadel, kus on surnud palju võitlejaid, või kohtades, kus on lühikese aja jooksul hukkunud palju isikuid, näiteks katkust rüüstatud aladel. 
 
@@ -263,7 +263,7 @@ Theumal esineb ohtralt füüsilise apeironi maardlaid. Üldiselt otsitakse neid 
 
 Peale apeironi on ka muid erinevate toimetega kive ja metalle, aga neist ei ole ükski tavalisel kujul nii ohtlik. Lisaks apeironile kaevandatakse kõige rohkem valguskive, mis suudavad koguda enda sisse valgust ja seda peegeldada. 
 
-Vabade Maade termin apeironi jaoks on galdar. 
+Vabade Maade termin apeironi jaoks on **galdar**.
 
 **Jumalamaagia**
 
@@ -275,7 +275,7 @@ Templid on jumalaile pühendatud paigad. Altarid on üldiselt iseenesest tekkinu
 
 Preestrid kasutavad jumalate maagiat neile antud märgi kaudu, mida kantakse tavaliselt rinnal. Impeeriumis on selle märgi nimi aigis, Vabadel Maadel lihtsalt märk. 
 
-**Impeeriumi panteon:**
+**Impeeriumi panteon**
 
 * **Malakhim** - kord, organiseeritus. Mõjualasse viidud segamini asjad hakkavad ennast korrastama.
 * **Keteos** - surm, lõpp. Surijad surevad silmapilkselt.
@@ -286,7 +286,7 @@ Preestrid kasutavad jumalate maagiat neile antud märgi kaudu, mida kantakse tav
 * **Baruna** - linnad, tsivilisatsioon. Mõjualas muutuvad kõik joogid joovastavaks, mängib muusika, ükski tuli ei kustu.
 * **Darsilis** - elu, küllus. Mõjualas olev toit ja jook ei rikne kunagi, seal puhkajad tunnevad ennast kiiremini taastumas, seemned võivad kiiresti kasvama hakata. 
 
-**Vabade Maade panteon:** 
+**Vabade Maade panteon** 
 
 * **Ban-Mawr** - kaos, veri, lubadused. Mõjualas antud lubadused seovad lubajaid.
 * **Lir-Neth** - surm, nägemused. Mõjualas olijad võivad saada nägemusi ja/või jääda pimedaks, surijad surevad silmapilkselt.
