@@ -30,7 +30,7 @@ The war between the alenti and the theumites on Theuma is better documented. The
 1011 - First rumors about alenti taking animal form. Investigation reveals a curse of the Free Lands god Nal-Mat. The Empire begins a hunt to root out these creatures.
 1056 - The edict of Emperor Lahin III ends the hunt for wulvers. The Senate approves laws regulating the rights and duties of wulvers.
 1116 - The mass production of printing presses begins, bringing a rapid rise in the number of printed books and a literary revolution; the first newspaper is founded.
-1298 - The armies of the Empire take Strongland.
+1298 - The armies of the Empire take Strongland. 
 1315 - The armies of the Free Lands retake Strongland; by order of the king, all imprisoned enemies are executed.
 1392 - First rumors about dead alenti walking.
 1397 - The walking dead are named moroia and included in the wulver laws.
