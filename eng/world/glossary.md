@@ -6,7 +6,11 @@ title: Glossary
 
 _Here are short explanations for all the terms and names in the world information. To find a specific term or name, use ‘Ctrl + F’. All characters currently alive are marked with an asterisk._
 
-### A
+<div style="margin: auto;">
+	<a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | <a href="#J">J</a> | <a href="#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | <a href="#W">W</a> | <a href="#X">X</a> | <a href="#Y">Y</a> | <a href="#Z">Z</a>
+</div>
+
+<h3 id="A">A</h3>
 
 * **Abarza** - Light theumite advisor in the Free Lands, died in suspicious circumstances.
 * **Academy, Mage** - The scheel were Imperial alenti learn to use magic. 
@@ -39,7 +43,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Azat** - Capital of the Empire county Perein. 
 * **Azen** - A Free Lands tribe. 
 
-### B
+<h3 id="B">B</h3>
 
 * **Balden** - From Tribe Kerr. King of the Free Lands.
 * **Ban-Mawr** - The Free Lands god of chaos and oaths, the leader of the gods. 
@@ -58,7 +62,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Brig** - A Free Lands tribe. 
 * **Bringer of Plenty** - One of Arim-Wol’s titles. 
 
-### C
+<h3 id="C">C</h3>
 
 * **Cairlinn Tor** - The capital of the Free Lands and the living place of the king. 
 * **Calendar** - Joint calendar used all over the continent. 12 months in a year, 8 days in a week.
@@ -78,7 +82,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Copper** - Cheapest currency in the Free Lands.
 * **Council of Leaders** - Highest governing authority of the theumites.
 
-### D
+<h3 id="D">D</h3>
 
 * **Dager Riverwolf** * - Current chief of Tribe Turahan. 
 * **Darais** - A Free Lands tribe. 
@@ -99,7 +103,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Durras** - A county in the Empire. 
 * **Duskland** - One of the Free Lands. 
 
-### E
+<h3 id="E">E</h3>
 
 * **Earth** - Fourth theumite element. Opposite element Air.
 * **East Watch** - Easternmost point of the Free Lands.
@@ -122,7 +126,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Erim** - From Tribe Lofn. King of the Free Lands. 
 * **Estendar** - A county in the Empire. 
 
-### F
+<h3 id="F">F</h3>
 
 * **Faen** - From Tribe Magar. King of the Free Lands. 
 * **Faithguard** - The priest who leads the Synod in the Empire. 
@@ -145,7 +149,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Four Elders** - Four islands in the Free Lands. 
 * **Friend** - One of the theumite bonds, describes a friendly relationship between two people.
 
-### G
+<h3 id="G">G</h3>
 
 * **Galdar** - Free Lands term for the first element. 
 * **Ghost** - Free Lands term for a soul with no body. 
@@ -160,7 +164,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Guardian of the Knowing** - One of Atrepe’s titles.
 * **Guard of the Waters** - One of Parendi’s titles. 
 
-### H
+<h3 id="H">H</h3>
 
 * **Healers, Society of** - A group of healers and hedge witches in the Free Lands.
 * **Helet** - A Free Lands tribe. 
@@ -177,7 +181,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Hundred holy names** - Hundred names reserved only for use by Emperors. 
 * **Hunger Islands** - The most dangerous criminals in the Free Lands are imprisoned on these islands.  
 
-### I
+<h3 id="I">I</h3>
 
 * **Iante Island** - A mountainous island close to Talmekar Peninsula in the Empire.
 * **Ilimenil** * - Water theumite emissary in the Empire. 
@@ -192,13 +196,13 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Iser Pathfinder** * - Current chief of Tribe Areun. 
 * **Ithen** - Capital of Duskland.
 
-### J
+<h3 id="J">J</h3>
 
 * **Jarail I** - Emperor. 
 * **Juez Forest** - A forest in the Empire.
 * **Jugad** - Capital of Redland. 
 
-### K
+<h3 id="K">K</h3>
 
 * **Kafalam** - Legendary earth theumite from the times of the Alenti-Theumite War. 
 * **Kalath** - A county in the Empire. 
@@ -217,7 +221,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Kingland** - Center of the Free Lands, the living place of the King and the Tribeless. 
 * **Kuthar, Püha** - Patron saint of border guards in the Empire. 
 
-### L
+<h3 id="L">L</h3>
 
 * **Lagar** - A dead being that drinks blood. Mostly an Empire term. 
 * **Lahin III** - Emperor, stopped the wulver hunts in the Empire. 
@@ -242,7 +246,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Lotun Mountains** - Mountains situated on the coast of Katam in the Empire.
 * **Lugen** - A Free Lands tribe. 
 
-### M
+<h3 id="M">M</h3>
 
 * **Magar** - A Free Lands tribe. 
 * **Mage** - An user of apeiromancy in the Empire. 
@@ -264,7 +268,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Moroia** - Empire term for an undead. 
 * **Mountain of the Gods** - The highest mountain on the continent, on top of which live the gods of the Empire.
 
-### N
+<h3 id="N">N</h3>
 
 * **Nal-Mat** - The Free Lands god of hunt and rage. 
 * **Namira** - King of the Free Lands.
@@ -277,7 +281,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Numaia** - Capital of the Empire county Qhorelth. 
 * **Nurturer** - A societal class of theumites who take care of young theumites.
 
-### O
+<h3 id="O">O</h3>
 
 * **Official** - An Imperial representative of the bureaucracy. 
 * **Old Blood** - An alenti with different appearance and traits. 
@@ -289,7 +293,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Oroph Legion** - Famous Imperial Legion. 
 * **Outlaw** - A criminal either temporarily or permanently exiled from their tribe. 
 
-### P
+<h3 id="P">P</h3>
 
 * **Parendi** - The Empire god of travelers and time. 
 * **Peace Bringer** * - The main title of the current Emperor Relagin II amongst the citizens. 
@@ -305,11 +309,11 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Primin** - Shadow theumite Source in the Free Lands. 
 * **Protector of the Living** - One of Darsilis’ titles. 
 
-### Q
+<h3 id="Q">Q</h3>
 
 * **Qhorelth** - A county in the Empire. 
 
-### R
+<h3 id="S">R</h3>
 
 * **Ragald** - Capital of Woodland. 
 * **Ragath** - From tribe Lugen, first King of the Free Lands.
@@ -336,7 +340,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Rune tongue** - The magical language of Free Lands casters. 
 * **Runic Arts** - Free Lands magic that uses apeiron. 
 
-### S
+<h3 id="S">S</h3>
 
 * **Saint** - One of the revered dead in the Empire. 
 * **Saless** - A Free Lands tribe. 
@@ -370,7 +374,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Sunrider** - One of Terhent’s titles. 
 * **Synod, The** - The highest Imperial council of faith.  
 
-### T
+<h3 id="T">T</h3>
 
 * **Talmekar** - A county in the Empire. 
 * **Taverna** - Imperial term for an inn. 
@@ -391,14 +395,14 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Troisin Volcano** - A volcano in Talmekar in the Empire. 
 * **Turahan** - A Free Lands tribe. 
 
-### U
+<h3 id="U">U</h3>
 
 * **Ualeth** * - Earth theumite emissary in the Free Lands.
 * **Undead** - A being whose soul is in their dead body. 
 * **Ureth** - Fire theumite Source in the Free Lands.
 * **Urut** - Capital of the Empire county Estendar. 
 
-### V
+<h3 id="V">V</h3>
 
 * **Vael-Ser** - The Free Lands god of tricks and secrets.
 * **Valara Legion** - Famous Imperial Legion.  
@@ -411,7 +415,7 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Vishalla** * - Water theumite emissary in the Free Lands.
 * **Vognar** - From Tribe Xenit. King of the Free Lands.
 
-### W
+<h3 id="W">W</h3>
 
 * **Wanderers, Society of** - The society of hunters, foresters and scouts in the Free Lands. 
 * **Warden of Endings** - One of Keteos’ titles. 
@@ -428,19 +432,19 @@ _Here are short explanations for all the terms and names in the world informatio
 * **Woodland** - One of the Free Lands. 
 * **Wulver** - Alenti who can take beast form. 
 
-### X
+<h3 id="X">X</h3>
 
 * **Xagha Bluehead** * - Current chief of Tribe Ilvoed.
 * **Xaghol** - Light theumite emissary in the Free Lands. 
 * **Xenit** - A Free Lands tribe. 
 * **Xerean IV** - Emperor, dedicated to faith. 
 
-### Y
+<h3 id="Y">Y</h3>
 
 * **Yaner Capable** * - Current chief of Tribe Norak. 
 * **Yriel, Saint** -  Patron saint of those who died from the plague in the Empire. 
 
-### Z
+<h3 id="Z">Z</h3>
 
 * **Zalagos VII** - Emperor, standardised trade and measurements.
 * **Zalagos VIII** - Emperor, warmonger. 
