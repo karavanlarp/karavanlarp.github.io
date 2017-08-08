@@ -20,58 +20,58 @@ The war between the alenti and the theumites on Theuma is better documented. The
 
 **Events** 
 
-1 - Andrelos I, the first emperor of Leonte is crowned in Rhaentium.
-27 - The Emperor receives the first theumite advisors.
-192 - Founding of the University of Rhaentium.
-376 - Border negotiations between the Empire and the Free Lands fail; the war begins.
-434 - A plot against the Emperor is revealed, culminating in the execution of twelve senators and two supreme judges.
-512 - The founding of the Mage Academy of Rhaentium. 
-709 - The creation of the first servile.
-1011 - First rumors about alenti taking animal form. Investigation reveals a curse of the Free Lands god Nal-Mat. The Empire begins a hunt to root out these creatures.
-1056 - The edict of Emperor Lahin III ends the hunt for wulvers. The Senate approves laws regulating the rights and duties of wulvers.
-1116 - The mass production of printing presses begins, bringing a rapid rise in the number of printed books and a literary revolution; the first newspaper is founded.
-1298 - The armies of the Empire take Strongland. 
-1315 - The armies of the Free Lands retake Strongland; by order of the king, all imprisoned enemies are executed.
-1392 - First rumors about dead alenti walking.
-1397 - The walking dead are named moroia and included in the wulver laws.
-1401 - Creation of the Darith Legion. 
-1433 - Plague outbreak in Katam kills most of the population. The region is quarantined until the plague passes.
-1598 - The united fleet of Freelanders makes it to Rhaentium, but a heavy storm forces them to retreat.
-1617 - Freelanders attack the fortress of Mist Pass. The defending Adura Legion lasts for three months without surrendering.
-1629 - First sightings of bloodsucking creatures. They are named lagars, their creation is forbidden and they are forced to register themselves officially.
-1790 - Lechia Miseret, a mage turned moroia, gathers a host of soldiers and begins a campaign to take the capital of Cliffland. The forces of the Empire stop Lechia on the way. As an exception, all revolting soldiers are executed.
-1931 - An explosion, probably in an apeiron refinery, rocks South Durras. Sabotage of the Free Lands is suspected. The number of deceased is unknown. The area remains closed today.
-2076 - After several victories against the Freelanders in the north of Cliffland, the whole Fareis Legion disappears without a trace. The Legion has never been found.
-2143 - An extremely fertile year. So large is the bounty that a part of it is wasted.
-2595 - The apeiron mines of Talmekar are nearly exhausted. Tariffs and limitations on the use of apeiron are introduced by Imperial decree.
-2599 - Emperor Andrelos IX foils his own assassination and has the culprits executed.
-2614 - The whole Empire is ravaged by inexplicable storms lasting many months. Thousands of citizens become homeless, hundreds are killed.
-2785 - A theumite plot against the Emperor is revealed. Theumites living outside sources fall under uncomfortable scrutiny until it is determined that the attacker acted alone.
-2839 - The Freelander attacks increase after a few silent years. They manage to conquer almost half of Renek.
-2841 - Empire forces liberate the occupied part of Renek. The campaign is led by Peleias Lardon, commander of the Valara Legion, who is promoted to strategos.
+* 1 - Andrelos I, the first emperor of Leonte is crowned in Rhaentium.
+* 27 - The Emperor receives the first theumite advisors.
+* 192 - Founding of the University of Rhaentium.
+* 376 - Border negotiations between the Empire and the Free Lands fail; the war begins.
+* 434 - A plot against the Emperor is revealed, culminating in the execution of twelve senators and two supreme judges.
+* 512 - The founding of the Mage Academy of Rhaentium. 
+* 709 - The creation of the first servile.
+* 1011 - First rumors about alenti taking animal form. Investigation reveals a curse of the Free Lands god Nal-Mat. The Empire begins a hunt to root out these creatures.
+* 1056 - The edict of Emperor Lahin III ends the hunt for wulvers. The Senate approves laws regulating the rights and duties of wulvers.
+* 1116 - The mass production of printing presses begins, bringing a rapid rise in the number of printed books and a literary revolution; the first newspaper is founded.
+* 1298 - The armies of the Empire take Strongland. 
+* 1315 - The armies of the Free Lands retake Strongland; by order of the king, all imprisoned enemies are executed.
+* 1392 - First rumors about dead alenti walking.
+* 1397 - The walking dead are named moroia and included in the wulver laws.
+* 1401 - Creation of the Darith Legion. 
+* 1433 - Plague outbreak in Katam kills most of the population. The region is quarantined until the plague passes.
+* 1598 - The united fleet of Freelanders makes it to Rhaentium, but a heavy storm forces them to retreat.
+* 1617 - Freelanders attack the fortress of Mist Pass. The defending Adura Legion lasts for three months without surrendering.
+* 1629 - First sightings of bloodsucking creatures. They are named lagars, their creation is forbidden and they are forced to register themselves officially.
+* 1790 - Lechia Miseret, a mage turned moroia, gathers a host of soldiers and begins a campaign to take the capital of Cliffland. The forces of the Empire stop Lechia on the way. As an exception, all revolting soldiers are executed.
+* 1931 - An explosion, probably in an apeiron refinery, rocks South Durras. Sabotage of the Free Lands is suspected. The number of deceased is unknown. The area remains closed today.
+* 2076 - After several victories against the Freelanders in the north of Cliffland, the whole Fareis Legion disappears without a trace. The Legion has never been found.
+* 2143 - An extremely fertile year. So large is the bounty that a part of it is wasted.
+* 2595 - The apeiron mines of Talmekar are nearly exhausted. Tariffs and limitations on the use of apeiron are introduced by Imperial decree.
+* 2599 - Emperor Andrelos IX foils his own assassination and has the culprits executed.
+* 2614 - The whole Empire is ravaged by inexplicable storms lasting many months. Thousands of citizens become homeless, hundreds are killed.
+* 2785 - A theumite plot against the Emperor is revealed. Theumites living outside sources fall under uncomfortable scrutiny until it is determined that the attacker acted alone.
+* 2839 - The Freelander attacks increase after a few silent years. They manage to conquer almost half of Renek.
+* 2841 - Empire forces liberate the occupied part of Renek. The campaign is led by Peleias Lardon, commander of the Valara Legion, who is promoted to strategos.
 
 **Recent past** 
 
-2845 - Signing of the peace treaty. War between the Empire and the Free Lands comes to an official close. Negotiations establish the border zone and its legal exceptions, including tax benefits.
-2846 - The inhabitants of both countries start to settle the border zone, creating many new settlements. The first caravans are established.
-2847 - Religious negotiations between the Synod and the Freelander priests culminate in an edict allowing the worship of all gods in both countries.
-2848 - A large conflict between Leontites and Freelanders in the border city of Telit. The border guard enter the city to resolve the situation. A couple of tense months follow and the participants are fined.
-2849 - The Emperor creates a new palace guard unit consisting exclusively of Freelanders.
-2850 - Archaeologists from the University of Rhaentium find various theumite artefacts at dig sites in the borderlands. Diplomatic negotiations for their ownership begin.
-2851 - Current year.
+* 2845 - Signing of the peace treaty. War between the Empire and the Free Lands comes to an official close. Negotiations establish the border zone and its legal exceptions, including tax benefits.
+* 2846 - The inhabitants of both countries start to settle the border zone, creating many new settlements. The first caravans are established.
+* 2847 - Religious negotiations between the Synod and the Freelander priests culminate in an edict allowing the worship of all gods in both countries.
+* 2848 - A large conflict between Leontites and Freelanders in the border city of Telit. The border guard enter the city to resolve the situation. A couple of tense months follow and the participants are fined.
+* 2849 - The Emperor creates a new palace guard unit consisting exclusively of Freelanders.
+* 2850 - Archaeologists from the University of Rhaentium find various theumite artefacts at dig sites in the borderlands. Diplomatic negotiations for their ownership begin.
+* 2851 - Current year.
 
 **The last Emperors**
 
-2549 - 2585: Zalagos VII, great reformer, established a common system for weights and measurements to facilitate trade between the Empire’s regions. 
-2585 - 2614: Andrelos IX, restricted the use of apeiron.
-2614 - 2647: Matrin III, tried unsuccessfully to make peace with the Free Lands.
-2647 - 2691: Jarail I, not born as a Chosen, but passed the tests a few years after becoming a Chosen.
-2691 - 2723: Lahin V, died in suspicious circumstances.
-2723 - 2761: Katrel II, great patron of the arts.
-2761 - 2794: Xerean IV, deeply religious. Wrote poems.
-2794 - 2822: Zalagos VIII, a fervent warmonger.
-2822 - 2839: Iraam I, perpetually in conflict with the Senate. Died in suspicious circumstances. 
-2839 - present day: Relagin II, the peace treaty is considered his greatest achievement.
+* 2549 - 2585: Zalagos VII, great reformer, established a common system for weights and measurements to facilitate trade between the Empire’s regions. 
+* 2585 - 2614: Andrelos IX, restricted the use of apeiron.
+* 2614 - 2647: Matrin III, tried unsuccessfully to make peace with the Free Lands.
+* 2647 - 2691: Jarail I, not born as a Chosen, but passed the tests a few years after becoming a Chosen.
+* 2691 - 2723: Lahin V, died in suspicious circumstances.
+* 2723 - 2761: Katrel II, great patron of the arts.
+* 2761 - 2794: Xerean IV, deeply religious. Wrote poems.
+* 2794 - 2822: Zalagos VIII, a fervent warmonger.
+* 2822 - 2839: Iraam I, perpetually in conflict with the Senate. Died in suspicious circumstances. 
+* 2839 - present day: Relagin II, the peace treaty is considered his greatest achievement.
 
 ### Geography 
 
@@ -97,29 +97,29 @@ The Empire is divided into ten counties all of which have their own capital. Rha
 
 ![County map](https://karavanlarp.github.io/img/map/Leonte_nature_eng.png)
 
-Alger - The longest river in the Empire. Rhaentium is situated on the inner sea end of it. 
-Aora - A tributary of River Elish. 
-Aren - A town on the southernmost point of the land border, with bustling trade. Both caravans and ships come there. 
-Athis Forest - One of the biggest forests in the Empire, situated in Estendar. 
-Beraz Pass - A pass in the middle of Kethar Mountains, the only point of access to the Talmekar Peninsula. 
-The Border - A zone that reaches twenty-something kilometers from the official border line to the inland of the Empire. A territory with some legal exceptions alike to Rhaente. 
-Elish - The largest river in the Empire. 
-Iante Island - A mountainous island close to Talmekar Peninsula. The location of a nameless fortress, featured in many rumors and legends throughout the years. 
-Isera - The river that nearly separates Melmir and Perein. 
-Juez Forest - A forest that covers most of Durras. 
-Kauza Islands - An archipelago west of Estendar, where sea serpents are sighted. The locals mostly occupy themselves with catching them and other sea creatures. Sea creature meat is a delicacy for the continentals, and items made of their skin or bones sell well. 
-Kethar Mountains - High mountains that separate Talmekar in two. It is separated in half by the Beraz Pass. 
-Lake Warul - The largest lake in the Empire. The water theumite source Warul is situated in the bottom of it.
-Lotun Mountains - Mountains situated on the coast of Katam. The earth theumite source Karis is somewhere in the mountains. 
+* Alger - The longest river in the Empire. Rhaentium is situated on the inner sea end of it. 
+* Aora - A tributary of River Elish. 
+* Aren - A town on the southernmost point of the land border, with bustling trade. Both caravans and ships come there. 
+* Athis Forest - One of the biggest forests in the Empire, situated in Estendar. 
+* Beraz Pass - A pass in the middle of Kethar Mountains, the only point of access to the Talmekar Peninsula. 
+* The Border - A zone that reaches twenty-something kilometers from the official border line to the inland of the Empire. A territory with some legal exceptions alike to Rhaente. 
+* Elish - The largest river in the Empire. 
+* Iante Island - A mountainous island close to Talmekar Peninsula. The location of a nameless fortress, featured in many rumors and legends throughout the years. 
+* Isera - The river that nearly separates Melmir and Perein. 
+* Juez Forest - A forest that covers most of Durras. 
+* Kauza Islands - An archipelago west of Estendar, where sea serpents are sighted. The locals mostly occupy themselves with catching them and other sea creatures. Sea creature meat is a delicacy for the continentals, and items made of their skin or bones sell well. 
+* Kethar Mountains - High mountains that separate Talmekar in two. It is separated in half by the Beraz Pass. 
+* Lake Warul - The largest lake in the Empire. The water theumite source Warul is situated in the bottom of it.
+* Lotun Mountains - Mountains situated on the coast of Katam. The earth theumite source Karis is somewhere in the mountains. 
 The Mountain of the Gods - The highest mountain on the continent, on top of which live the gods of the Empire. None who have tried to scale it have returned. Measuring indicates the mountain is at least 6000 meters high, but it is likely to be higher still. 
-Nemeria - Official Imperial term for the Free Lands. The people of the Free Lands are called Nemerians. Means “rebels”. No longer a correct term to use, after the peace treaty. 
-Nohan - A wide river that flows through Raskam, the capital of Talmekar.
-Sea of Selag - An inland sea situated in the middle of Theuma. 
-Sources - Situated all over the Empire. Fire - Razen, Water - Warul, Air - Dethan, Earth - Karis, Light - Saqad, Shadow - Amite. 
-Ruen Forest - Once beautiful and evergreen, but never the same after the plague that hit Katam.  
-Telit - A town on the northern end of the land border, a hub of trade alike to Aren. 
-Troisin Volcano - A volcano situated in Talmekar. The fire theumite source Ureth is in the bottom of it. Known as a sight for daredevils as the volcano is not entirely dormant. 
-Zeane - A tributary of River Elish. 
+* Nemeria - Official Imperial term for the Free Lands. The people of the Free Lands are called Nemerians. Means “rebels”. No longer a correct term to use, after the peace treaty. 
+* Nohan - A wide river that flows through Raskam, the capital of Talmekar.
+* Sea of Selag - An inland sea situated in the middle of Theuma. 
+* Sources - Situated all over the Empire. Fire - Razen, Water - Warul, Air - Dethan, Earth - Karis, Light - Saqad, Shadow - Amite. 
+* Ruen Forest - Once beautiful and evergreen, but never the same after the plague that hit Katam.  
+* Telit - A town on the northern end of the land border, a hub of trade alike to Aren. 
+* Troisin Volcano - A volcano situated in Talmekar. The fire theumite source Ureth is in the bottom of it. Known as a sight for daredevils as the volcano is not entirely dormant. 
+* Zeane - A tributary of River Elish. 
 
 ### Languages 
 
