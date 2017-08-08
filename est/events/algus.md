@@ -2,7 +2,7 @@
 layout: default-est
 title: Karavan I - Algus
 ---
-### Karavan I: Algus
+## Karavan I: Algus
 
 _Areni sadamalinn on rahvast täis igal hetkel. Siin on lihtne ära eksida ja veel lihtsam rahakotist ilma jääda._ 
 
@@ -28,27 +28,27 @@ Head otsimist!
  
 ***
 
-**Mis?** 
+### Mis? 
 
 Karavani larpi-seeria esimene mäng: Algus. 
 
-**Millal?** 
+### Millal?
 
 23-24 september 2017. Mäng ise toimub laupäeva lõunast laupäeva hilisõhtuni. 
 
-**Kus?** 
+### Kus?
 
 Türi lähedal suvilas. Koordinaadid [siin](http://bit.ly/2wvrEK3).
 
-**Registreerimine** 
+### Registreerumine
 
-Eelregistreerida võib vastava ankeedi abil. Registreerimise kinnitab täielikult mängumaksu tasumine. Mängijakohti on 20-30. 
+Eelregistreeruda võib vastava ankeedi abil. Registreerumise kinnitab täielikult mängumaksu tasumine. Mängijakohti on 20-30. 
 
-Mängule registreerimine on avatud PCdele **28. augustini**, NPCdele **4. septembrini**. 
+Mängule registreerumine on avatud PCdele **28. augustini**, NPCdele **4. septembrini**. 
 
 [Siin](https://karavanlarp.github.io/est/reg/registration.html) pikemalt registreerimise ja osalemise kohta. 
 
-**Mängumaksud**
+### Mängumaksud
 
 * PC - 20 eurot. 
 * NPC - 10 eurot. Üks (või mitu) rollimänguline roll.
@@ -61,23 +61,23 @@ Kui soovite maksta mitmes osas või hiljem, tuleb teil mängujuhtidega eraldi ü
 
 Samuti pakume kohe alguses kahte sponsoreeritud mängumaksu. 
 
-**Mida selle eest saab?**
+###  Mida selle eest saab?
 
 Mängumaksu eest saab majas ööbida, 2-3 sooja toidukorda mängupäeval ja muud toitu ning jooke mängu jooksul. Sellele lisaks toredaid NPCsid ja rekvisiite. 
 
-**Majutus**
+### Majutus
 
 Põrandamajutus, nii et omad matid ja magamiskotid kaasa. Soovijad võivad ka telkida. Pärast mängu on ka pesemisvõimalus ja kohapeal on väike saun. 
 
-**Menüü**
+### Menüü
 
 Pakume süüa terve ürituse jooksul, ka reedel tulijatele ja pühapäeval lahkujatele. Laupäeval on kolm toidukorda - hommikusöök, lõunasöök, õhtusöök. Muul ajal saab erinevaid snäkke ja jooke. Toidu pakkumisel võtame arvesse ka erinevaid toiduvalikuid ja allergiaid. 
 
-**Keeled**
+### Keeled
 
 Ootame mängule ka välismaiseid mängijaid, seetõttu on mängukeelteks eesti ja inglise keel. Juhul kui külalisi ei tule, mängime eesti keeles. 
 
-**Kuidas kohale?** 
+### Kuidas kohale?
 
 Bussiaegu saab vaadata siit: [tpilet.ee](https://www.tpilet.ee/) 
 
@@ -97,7 +97,7 @@ Bussi- või rongijaama saabujatele organiseerime transpordi mängukohale.
 
 Võib saabuda juba reede õhtul ja kohapeal ööbida. Ööbida kohapeal saab ka pärast mängu lõppu. 
 
-**Kogunemine**
+### Kogunemine
 
 Autoga tulijad võiksid saabuda kella 10.30ks ja vajadusel aidata bussi/rongijaamast mängijaid transportida. Üldine kogunemiskellaaeg on 11. Kui teil on vaja ennast pikemalt kostümeerida või meikida, palun saabuge kindlasti varem, püüame algbriifiga alustada võimalikult vara. 
 
