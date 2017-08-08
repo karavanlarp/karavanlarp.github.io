@@ -146,6 +146,8 @@ A normal alenti is indistinguishable from a human, except for skin-colour lizard
 
 ### Theumites
 
+![Theumiidipilt](https://karavanlarp.github.io/img/theumitelineup4.png)
+
 Theumite – from Theuma
 
 **General information** 
