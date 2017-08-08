@@ -1,8 +1,8 @@
 ---
 layout: default-est
-title: Karavan LARP
+title: Üldreeglid
 ---
-## Karavani LARP-seeria üldreeglid 
+## Üldreeglid 
 
 Need puudutavad ürituse üldist korda, tegelaste ja mehhaanikatega seotud reeglid on eraldi. 
 
