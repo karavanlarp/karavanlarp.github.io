@@ -1,6 +1,6 @@
 ---
 layout: default-est
-title: Mis on LARP
+title: Mis on LARP?
 ---
 ## Mis on LARP? Kuidas osaleda? 
 
