@@ -10,7 +10,7 @@ Some tips for the costumes and make-up of different races.
 
 A normal alenti’s most distinguishing feature is their clothing. The people of the Empire and the Free Lands have very different styles of dress. These fashions mix in the borderlands.
 
-The alenti generally prefer clothing that covers the body. There is no significant difference in male and female fashion. Marriage makes no impact on clothing style.
+The alenti generally prefer clothing that covers the body. There is no significant difference in male and female fashion. Marriage makes no impact on clothing style either. Clothing shows occupation and status rather than gender (which the alenti consider less important than the aforementioned traits). 
 
 Out-of-game bright neon hair can be partially covered with a scarf. Wigs can be worn if desired.
 
