@@ -1,6 +1,6 @@
 ---
 layout: default-est
-title: Maailma lühitutvustus
+title: Lühitutvustus
 ---
 ## Lühitutvustus
 
