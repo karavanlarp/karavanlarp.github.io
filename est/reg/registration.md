@@ -18,8 +18,3 @@ Kui oleme saanud täidetud tegelasankeedi, koostame teile tegelase lehe, kus on 
 
 NPCde puhul on protsess veidi teistsugune, pärast maksmist saadame teile informatsiooni võimalike NPCde rollide kohta ja muud teavet.
 
-Kirjutage meile: 
-
-karavanlarp@gmail.com
-
-[Facebooki leht](https://www.facebook.com/KaravanLARP/)

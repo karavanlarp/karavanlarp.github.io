@@ -16,10 +16,4 @@ The world category has all the information you need to create your character, bu
  
 When we have received the filled character form, we will create a character file for you which includes their basic information, skills and all other additional information you might need in the game. You can add to that file as well if you need to. 
 
-For NPCs the process is a bit different, after receiving your payment we will send you information about the NPC roles available. 
-
-Contact us: 
-
-karavanlarp@gmail.com
-
-[Facebook page](https://www.facebook.com/KaravanLARP/)
+For NPCs the process is a bit different, after receiving your payment we will send you information about the NPC roles available.
