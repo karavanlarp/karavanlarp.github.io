@@ -178,6 +178,8 @@ Abielluda võivad kõik täiskasvanud. Kosja tullakse kositavale ja tema perele,
 
 Abielutseremoonia ise viiakse läbi paari valitud targa poolt, ning üldiselt on kombeks et paarilised võtavad endale märgi, mis nende abielu tähistab. Seda kõike saadab loomulikult suur pidu, kuhu on kutsutud kõik kohalikud. 
 
+Üldiselt abiellutakse oma hõimu siseselt, aga on ka juhtumeid, kus kahest eri hõimust pärit isikud leiavad armastuse ja soovivad kokku minna. Kõigepealt peavad nad otsustama kumb neist oma hõimu juurest lahkub ja teise juurde läheb. Sellised abiellujad peavad läbima mõlema hõimu tarkade katsed. Kui katsed õnnestuvad ja paar abiellub, jälgivad targad nende abielu ja võivad teisest hõimust tulija hõimu võtta. 
+
 **Vanadus ja surm** 
 
 Vanu austatakse, ja enamus neist võetakse klanni tarkade hulka. Nende tööks on peamiselt noorematele oma tarkuse edasi andmine, et nende teadmised kaotsi ei läheks. 
