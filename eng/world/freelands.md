@@ -177,6 +177,8 @@ Relationships are important, but a Freelander's closest person can be either the
 Any adult may get married. The proposal is made to the person in question and their family, and there is a custom to bring something to show their skills and what they will offer to their intended. It is common to live together for a time before getting married, and those who wish to get married are traditionally sent on a trip by the elders during which they have to complete different tasks. This trip is meant for the couple to discover if they can be together in hardship and if their marriage is meant to be. 
  
 The marriage ceremony is conducted by an elder chosen by the couple, and it is common that the people getting married get a mark to symbolise their marriage. All of this is accompanied by a big party where all locals are welcome. 
+
+Usually people get married inside their own tribe, but there are rare cases of people from two different tribes finding love and wishing to marry. First they must decide which of them will leave their own tribe to go to the other. Such couples need to pass the tests of elders from both tribes. If the tests are successful and the couple gets married, the elders will keep an eye on them and may initiate the newcomer into the tribe itself. 
  
 **Old age, death and funerals**
  
