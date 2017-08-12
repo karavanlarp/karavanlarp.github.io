@@ -569,7 +569,7 @@ For severe crimes against a person like torture, assault or murder, the sentence
 
 The highest crime is high treason which carries the sentence of execution. Execution may only be sentenced by the High Court. High treason means plans to harm the Empire, the Emperor, the Chosen. Before the peace treaty, any sort of collusion with the Free Lands and spying for them also carried this sentence. 
 
-**The Chosen**
+**The Chosen** _(Not a playable class)_
 
 Joining the upper class is a rare thing. An alenti who has done something extraordinary enough to draw the attention of the Emperor, may be taken into the Chosen. Upon joining the Chosen they receive a new name and their old name is erased from all records. They also must give up their family ties, their children and their parents. The process of Choosing is done with a special item that gives the new Chosen a magical lizard-shaped sign on their body. When two Chosen have a child, the child will also carry this mark. 
 
