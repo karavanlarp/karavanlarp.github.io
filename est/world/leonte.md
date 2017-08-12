@@ -592,7 +592,7 @@ Ränkade isikuvastaste kuritegude eest, nagu piinamine, tahtlik vigastamine või
 
 Suurim kuritegu on riigireetmine ja selle karistuseks on hukkamine. Surmanuhtluse võib määrata ainult kõrgeim kohus. Riigireetmise alla kuuluvad plaanid haavata Impeeriumi, keisrit, Valituid, samuti kuulus selle alla enne rahu sõlmimist igasugune koostöö Vabade Maadega ja nende heaks spioneerimine. 
 
-**Valitud**
+**Valitud** _(ei ole mängitav tegelasklass)_
 
 Ülemklassiga liitumine on harv. Alenti, kes on teinud midagi väga erakordset, mis väärib keisri tähelepanu, võidakse arvata Valitute sekka. Selle korral saab ta uue nime ja tema vana nimi kustutatakse kõikidest dokumentidest. Samuti peab ta loobuma oma peresidemetest, oma lastest ja vanematest. Valitakse erilise esemega, mis loob uuele Valitule maagilise sisalikukujulise märgi. Kui kaks Valitut lapse saavad, on ka laps selle märgiga. 
 
