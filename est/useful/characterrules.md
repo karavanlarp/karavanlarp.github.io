@@ -46,7 +46,7 @@ Impeeriumis on alkeemik tihti Alkeemikute Gildi liige või aldis iseõppija, Vab
 
 #### Ekspert
 
-Oma ala hea tundja, ekspert on pühendanud oma elu mingile konkreetsele valdkonna ja pannud oma oskused enda heaks tööle. Tegu on klassiga, mida saab hõlpsalt võtta mõne teise klassi kõrvale seda toetamaks, kuna selle klassi alla on pandunud igasuguseid oskuseid. **Avatud nii alentidele kui theumiitidele.**
+Oma ala hea tundja, ekspert on pühendanud oma elu mingile konkreetsele valdkonna ja pannud oma oskused enda heaks tööle. Tegu on klassiga, mida saab hõlpsalt võtta mõne teise klassi kõrvale seda toetamaks, kuna selle klassi alla on pandud igasuguseid oskuseid. **Avatud nii alentidele kui theumiitidele.**
 
 Ekspert võib olla Impeeriumi arst või Vabade Maade skald, kes teab palju lugusid. Ta võib olla maailmanähtusi kirja panev theumiit või kestasid parandav sepp. 
 
