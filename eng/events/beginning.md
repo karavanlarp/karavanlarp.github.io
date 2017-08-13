@@ -59,7 +59,7 @@ Payment deadline for PCs is **August 28th**, for NPCs **September 4th**. We will
 
 If you want to pay in installments or later, please contact the gamemasters about it. 
 
-We also offer two sponsored spots right now. 
+We also offer two sponsored spots right now. Please register before **August 21st** if you want a sponsored spot. On August 21st we will raffle as many spots as are available between all the people who wish a spot. 
 
 ### What will I get for this?
 
