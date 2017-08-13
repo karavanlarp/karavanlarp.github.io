@@ -559,6 +559,31 @@ Impeeriumi ühiskond meenutab üldiselt hästi toimivat masinat, kus igaühel on
 
 Rahvas jaguneb põhimõtteliselt kaheks. Tugeva enamuse moodustab tavaklass, kuhu kuuluvad kõik mittemärgitud alentid. Vähemus on ülemklass ehk Valitud, kes on märgitud keisri suva järgi ja kellel on eriline elutee. 
 
+**Gildid**
+
+Gildid on nii öelda ametiühingud, mis ühendavad sama elukutsega isikuid. Gildid reguleerivad kutsestandardeid ja seisavad hea oma liikmete töötingimuste eest. Gildid on esindatud üle terve Impeeriumi ja neid on väga erisuguseid. Üldiselt juhib gildi tegevust gildi peakorteris resideeruv gildikogu, mis koosneb selle ala meistritest. 
+
+Gildiga liitumise lihtsus sõltub sellest, millise gildiga on tegemist. Mitmed peenemad gildid seavad ranged tingimused liitujatele ja kõigi soovijaid ei võetagi vastu. Seetõttu võib täheldada, et ühe konkreetse elukutse esindajatel võib olla valik mitme gildi vahel. 
+
+Tavaks on, et gildi liikmed maksavad igaaastast liikmemaksu. Seda raha kasutatakse gildi elu ja ruumide edendamiseks. Kokkutulekuruume või majasid on tavaliselt kõigis suuremates linnades. 
+
+Mõningaid gilde: 
+
+Kõiki nendest ühingutest ei kutsuta gildideks, esineb ka teistsuguseid nimetusi. Peale järelmainitute on Impeeriumis ametlikus kirjas üle kolmesaja gildi. 
+
+* **Paleemaagide Gild** - Siin gildis tegutsevad kõrgelt hinnatud maagid, kes pakuvad teenuseid keisrile, keisri õukonnale ja muudele Valitutele. Sellesse gildi kutsutakse liikmeid. 
+* **Rahvamaagide Gild** - Tuntud lihtsalt ka Maagide Gildina. Suurim maagide gild Impeeriumis, Rahvamaagide gild on see, kelle liikmed tegelevad Impeeriumis apeironi kaevandamise ja rafineerimisega. Kõik Impeeriumis seaduslikult müüdav apeiron tuleb Rahvamaagide gildi liikmetelt. Enamus Impeeriumi maagidest kuuluvad siia gildi. Samuti tegeleb Rahvamaagide gild maagide akadeemiate pidamisega. 
+* **Doktorite Kolleegium** - Selles grupis tegutsevad ülikoolis õppinud arstid. 
+* **Rahvaarstide Gild** - Selles gildis tegutsevad ja õpetavad arstimise kunsti iseõppinud või rahvakoolis käinud arstid. Siia kuuluvad ka mitmed erru läinud sõjaväemeedikud. 
+* **Alkeemikute Gild** - Alkeemikute peamine gild, on jaotatud mitmeks alagildiks olenevalt liikmete huvidest (arstalkeemikud, sõjaalkeemikud, uurivad alkeemikud). 
+* **Käsitööliste Liit** - Suurimaid gilde Impeeriumis, Liit on üle sadat erinevat käsitöötüüpi esindav grupeering. Siia kuuluvad igasugused sepad, õmblejad, trükkijad ja mitmed muud. Liitu pääsemine on käsitöögrupeeringule legitiimsuse silt, kuna Liit peab valitsusega läbirääkimisi nende eest ja saavutab paremaid tingimusi. 
+* **Kaupmeeste Gild** - Rikas gild, tegeleb ka pea ainukesena piirikaravanide rahastamise ja mehitamisega. 
+* **Esinejate Gild** - Siia kuuluvad kõiksugu esinejad näitlejatest laulikuteni.
+* **Turvajate Gild** - Siia kuuluvad tihti sõjaveteranid ja muud võidelda oskavad. Gild pakub igasuguseid teenuseid, mis on seotud kellegi või millegi valvamisega. Käib kuulujutte et gild pakub ka mitte nii sobivaid või seaduslikke teenuseid, aga seda pole kunagi ametlikult tõestatud. 
+
+* **Öö Gild** - Seaduslike gildide kõrval on ka ebaseaduslikke, selliseid, mille olemasolu Impeerium ei tunnista. Öö Gild on juttude järgi üks sellistest, sinna kuuluvad mustal turul tegutsejad, palgamõrtsukad, vargad ja muud hämara elukutsega isikud.  
+
+
 **Voorused**
 
 Impeeriumis on olulised järgmised kaheksa voorust: 
