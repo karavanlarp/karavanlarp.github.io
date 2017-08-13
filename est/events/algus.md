@@ -59,7 +59,9 @@ Mängumaksu tasumise tähtaeg on PCdele **28. august**, NPCdele **4. september**
 
 Kui soovite maksta mitmes osas või hiljem, tuleb teil mängujuhtidega eraldi ühendust võtta. 
 
-Samuti pakume kohe alguses kahte sponsoreeritud mängumaksu. 
+Meil on ka perepileti võimalus! Kui soovid tulla nooremate kui 14-aastaste lastega, kirjuta meile. 
+
+Samuti pakume kohe alguses kahte sponsoreeritud mängumaksu. Palun arvestage, et kui soovite osaleda sponsoreeritud mängumaksuga, tuleb teil registreerida **21. augustiks**. Siis loosime soovijate vahel välja nii mitu mängusoodustust kui meil selleks ajaks on. 
 
 ###  Mida selle eest saab?
 
