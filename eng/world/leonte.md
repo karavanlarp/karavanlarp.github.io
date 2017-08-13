@@ -536,6 +536,31 @@ Imperial society is like a well-working machine where everyone has their place a
 
 There are fundamentally two societal classes. The citizen class is made up of all unmarked alenti. The small minority is the upper class, known as the Chosen, who bear a mark from the Emperor and a special path in life. 
 
+**Guilds**
+
+Guilds are so called workers' unions, uniting people of the same occupation. Guilds regulate occupation standards and stand for the rights of their members. Guilds are present in the whole Empire and there are many different kinds of them. Usually a guild is led from their headquarters by the guild council, made up of the masters of that particular trade. 
+
+Joining a guild is either easy or hard depending on the guild. Some more sophisticated guild set severe standards for joining and not everyone is accepted. Therefore it is possible for someone of a certain trade to have the choice between more than one guild. 
+
+The custom is that guild members pay a membership fee every year. This money is used to fund guild life and guild rooms. Guilds have houses or meeting rooms in all bigger cities. 
+
+Some guilds: 
+
+Not all of these groups are called guilds, some of them have different titles. Besides the mentioned groups, there are more than three hundred guilds in the Imperial list. 
+
+* **Palace Mages Guild** - The guild of highly valued mages who render their services to the Emperor, the Emperor’s Court and other Chosen. This guild’s membership is invite-only. 
+* **Peoples’ Mages Guild** - Also simply known as the Mages’ Guild. Largest mages’ guild in the Empire. The People’s Mages Guild is the one responsible for mining and refining apeiron in the Empire. All legally sold apeiron in the Empire originates from the Mages’ Guild. Most of Imperial mages belong to this organisation. The Mages’ Guild also oversees the Mage Academies. 
+* **Collegium of Doctors** - The group of university-learned medical doctors. 
+* **Peoples’ Medics Guild** - The guild of self-taught or school-learned doctors. Many retired army medics are also members. 
+* **Alchemists’ Guild** - The main guild of alchemists, separated into many subguilds based on the interests of their members (medical alchemists, war alchemists, studying alchemists and others).
+* **Artisans Alliance** - One of the largest guilds in the Empire, the Alliance is a group representing over a hundred types of trade. All sorts of smiths, tailors, printers and many others belong here. Being admitted into the Alliance is a sign of legitimacy for an artisans’ guild, as the Alliance negotiates with the Empire for them and is often able to acquire better options. 
+* **Merchants’ Guild** - A rich guild, handles funding and manning the border caravan’s nearly singlehandedly. 
+* **Performers’ Guild** - All sorts of performers from actors to singers belong here. 
+* **Security Guild** - A guild with many war veterans and other skilled fighters as members. The guild offers various services in relation to guarding someone or something. There are rumors the guild also offers some not so savory or legal options, but it has never been officially proved. 
+
+* **Night Guild** - There are illegal guilds as well, unrecognised by the Empire. The Night Guild is one of such by rumor, having black market fences, assassins, thieves and others as members. 
+
+
 **Virtues**
 
 The following eight virtues are especially important in the Empire: 
