@@ -478,7 +478,7 @@ Kõikide elavate, eriti laste ja maaharijate kaitsejumal. Tema preestrid ravivad
 
 Peale jumalate austatakse ka pühakuid. Pühak on alenti, kes on teinud midagi väga olulist või näidanud eeskuju oma tegude ja lojaalsusega. Pühakuks nimetatakse alati postuumselt, otsuse viib läbi ja kuulutab välja sinod koostöös Atrepe preestritega. Pühakute nimed kantakse Õnnistatute Raamatusse Atrepe peatemplis. 
 
-Pühakudi on palju, viimase lugemise ajal üle 500, ning igaüks neist valvab ja kaitseb mõnda väikest aspekti Impeeriumi elust nii nagu nad tegid seda oma elu ajal. Neist mitmele on pühendatud oma ordu ehk grupeering, mille liikmed on pühendunud selle pühaku eeskuju jälgimisele. 
+Pühakuid on palju, viimase lugemise ajal üle 500, ning igaüks neist valvab ja kaitseb mõnda väikest aspekti Impeeriumi elust nii nagu nad tegid seda oma elu ajal. Neist mitmele on pühendatud oma ordu ehk grupeering, mille liikmed on pühendunud selle pühaku eeskuju jälgimisele. 
 
 Pühakuid: 
 
