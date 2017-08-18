@@ -3,21 +3,21 @@ layout: default-est
 title: Kostüümijuhend
 right_content: |
     ![Image](/img/costume/impeerium-kelm.png)
-    *Inpeeriumi kelm*
-	
-	![Image](/img/costume/impeerium-preester.png)
-    *Inpeeriumi preester*
-	
-	![Image](/img/costume/impeerium-sodalane.png)
-    *Inpeeriumi sõdalane*
-
+    *Impeeriumi kelm*
+    
+    ![Image](/img/costume/impeerium-preester.png)
+    *Impeeriumi preester*
+    
+    ![Image](/img/costume/impeerium-sodalane.png)
+    *Impeeriumi sõdalane*
+    
     ![Image](/img/costume/vana-maailm-kelm-1.png)
     *Vabade Maade kelm*
-	
-	![Image](/img/costume/vana-maailm-preester.png)
+    
+    ![Image](/img/costume/vana-maailm-preester.png)
     *Vabade Maade preester*
-	
-	![Image](/img/costume/vana-maailm-sodalane.png)
+    
+    ![Image](/img/costume/vana-maailm-sodalane.png)
     *Vabade Maade sõdalane*
 ---
 ## Kostüümijuhend
