@@ -67,7 +67,7 @@ h3 {
 .dropdown {
     float: right;
     position: relative;
-    display: inline-block;
+    /*display: inline-block;*/
 }
 
 .dropdown-content {
@@ -93,7 +93,7 @@ h3 {
 .dropdown a:hover {background-color: #f1f1f1}
 
 .show {display:block;}
-		
+	
 p {
 	color: #331a00;
 }
@@ -137,30 +137,49 @@ li {
 	clear: both;
 }
 
+#menutxt {
+    display: none;
+}
+
 @media (max-width: 600px) {/*responsiveness*/ 
 	#content {
 		width: 90%;
+	}
+	
+	#header {
+		height: auto;
 	}
 	
 	#header h1 {
 		display: none;
 	}
 	
+	#menutxt {
+		display: block;
+	}
+	
 	.innertube {
 		margin: 0;
+		display: none;
+	}
+	
+	#header .innertube .dropdown {
+		float: none;
+		display: block;
 	}
 	
 	.dropbtn {
-		font-size: 0.8em;
+		width: 100%;
 	}
 	
 	.dropdown-content {
-		min-width: initial;
+		width: 100%;
+		position: relative;
 	}
 	
 	.dropdown-content a {
 		display: inline-block;
-		min-width: 100%;
+		width: 100%;
 		padding: 6px 0px;
 	}
 }
