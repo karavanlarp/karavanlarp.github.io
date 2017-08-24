@@ -65,7 +65,7 @@ Samuti pakume kohe alguses kahte sponsoreeritud mängumaksu. Palun arvestage, et
 
 ###  Mida selle eest saab?
 
-Mängumaksu eest saab majas ööbida, 2-3 sooja toidukorda mängupäeval ja muud toitu ning jooke mängu jooksul. Sellele lisaks toredaid NPCsid ja rekvisiite. 
+Mängumaksu eest saab majas ööbida, 2-3 sooja toidukorda mängupäeval ja muud toitu ning jooke mängu jooksul. Sellele lisaks toredaid NPCsid ja rekvisiite. Pange tähele et kuigi sari kõneleb karavanist, sisaldab larp ise täpselt nii vähe või palju kõndimist, kui soovite. Karavan liigub larpide vahelisel ajal. 
 
 ### Majutus
 
