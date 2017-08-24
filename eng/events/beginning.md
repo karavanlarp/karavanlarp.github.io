@@ -63,7 +63,7 @@ We also offer two sponsored spots right now. Please register before **August 21s
 
 ### What will I get for this?
 
-A house to sleep in, 2-3 hot meals on the game day and other food and drinks during the game. In addition to that lovely NPCs and props. 
+A house to sleep in, 2-3 hot meals on the game day and other food and drinks during the game. In addition to that lovely NPCs and props. Note that while our larp series is about a caravan, the larp itself will contain as little or as much walking as you personally want. The caravan travels between the events.  
 
 ### Accommodations
 
