@@ -22,35 +22,35 @@ Essentside reaktsioonid
 
 | Komponendi nimetus | Sagedus  | Kus kasutatakse |
 | ------------------ | -------- | --------------- |
-|Soo raunürt         | Levinud  |                 |
-|Laanekartul         | Levinud  |                 |
-|Hullusrohi          | Levinud  |                 |
-|Mitmeõiene vägilane | Levinud  |                 |
-|Kirju leekhein      | Levinud  |                 |
-|Mesiõis             | Levinud  |                 |
-|Mõõk-lõngjalg       | Levinud  |                 |
-|Koduämbliku munad   | Levinud  |                 |
-|Hõbenõges           | Levinud  |                 |
-|Jõgirohi            | Levinud  |                 |
-|Kitsetatar          | Levinud  |                 |
-|Verileht            | Eriline  |                 |
-|Lagaari veri        | Eriline  |                 |
-|Moroia tuhk         | Eriline  |                 |
-|Raudlill            | Eriline  |                 |
-|Vulveri sülg        | Eriline  |                 |
-|Lõõmakene           | Eriline  |                 |
-|Pärastlõunasammal   | Eriline  |                 |
-|Tuulemõõk           | Eriline  |                 |
-|Liivatubakas        | Eriline  |                 |
-|Vooluvili           | Eriline  |                 |
-|Päiksemalts         | Eriline  |                 |
-|Harilik haavarohi   | Eriline  |                 |
-|Theumiidi kestatükk | Haruldane|                 |
-|Öö süda             | Haruldane|                 |
-|Viharohi            | Haruldane|                 |
-|Eluhingus           | Haruldane|                 |
-|Marutuul            | Haruldane|                 |
-|Vaimuvili           | Haruldane|                 |
+|Hullusrohi          |Levinud|
+|Hõbenõges           |Levinud|Haavaliim, Lihtne vastumürk, Peitepruulis
+|Jõgirohi            |Levinud|Unerohi, Apeironilahus
+|Kirju leekhein      |Levinud|Verepruul, Elav hape, Leonte tuli
+|Kitsetatar          |Levinud|Puhkus, Rahusti, Ravi, Taastav kaste, Elemendikilp, Ravijook
+|Koduämbliku munad   |Levinud|Elemendikilp, Kivistaja
+|Laanekartul         |Levinud|Kivistaja
+|Mesiõis             |Levinud|Haavaliim, Ravi, Theumiidi avitaja
+|Mitmeõiene vägilane |Levinud|Jõujook, Lahingõnn 
+|Mõõk-lõngjalg       |Levinud|Meelekindlus, Alkeemiline turvis
+|Soo raunürt         |Levinud|Rahusti, Unerohi, Elav hape, Kivistaja
+|Harilik haavarohi   |Eriline|Taastav kaste, Ravijook
+|Lagaari veri        |Eriline|Peitepruulis
+|Liivatubakas        |Eriline|Jõujook, Külm tuli, Apeironilahus, Muukiv möga, Peitepruulis
+|Lõõmakene           |Eriline|Leonte tuli
+|Moroia tuhk         |Eriline|
+|Päiksemalts         |Eriline|Külm tuli, Lihtne vastumürk, Alkeemiline turvis, Ravijook, Theumiidi avitaja
+|Pärastlõunasammal   |Eriline|
+|Raudlill            |Eriline|Lahingõnn, Mürk: pitsitaja, Alkeemiline turvis
+|Tuulemõõk           |Eriline|Muukiv möga, Theumiidi avitaja
+|Verileht            |Eriline|Meelekindlus, Mürk: pitsitaja, Verenälg
+|Vooluvili           |Eriline|Apeironilahus, Muukiv möga
+|Vulveri sülg        |Eriline|Elav hape
+|Eluhingus           |Haruldane|
+|Marutuul            |Haruldane|
+|Theumiidi kestatükk |Haruldane|Elemendikilp
+|Vaimuvili           |Haruldane|
+|Viharohi            |Haruldane|Alkeemiline turvis, Elemendikilp
+|Öö süda             |Haruldane|
 
 ### Retseptid
 
