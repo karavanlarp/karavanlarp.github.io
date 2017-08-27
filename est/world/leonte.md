@@ -374,6 +374,8 @@ Vastand: Ban-Mawr
 
 Voorus: austus
 
+Värvid: kollane, lilla, tumepunane 
+
 Ametnike, kohtunike ja juhtide jumal. Tema preestrid jälgivad, et seadused oleksid omavahel kooskõlas. Malakhimi õnnistus on lepingute siduvus ja Impeeriumi teenrite vastutus ametimärkide näol. 
 
 **Keteos**
@@ -387,6 +389,8 @@ Valitsusala: surm, öö/varjud, lõpp, moroiad, lagaarid
 Vastand: Lir-Neth
 
 Voorus: minna laskmine
+
+Värvid: must, kollane, valge 
 
 Surnute jumal. Tema preestrid valvavad surijate ja surnute järele ning jälgivad öiseid tähti. Keteose õnnistus on hingede minek pärast surma Jumalamäele. 
 
@@ -402,6 +406,8 @@ Vastand: Vael-Ser
 
 Voorus: mäletamine 
 
+Värvid: hall, oliivroheline, helesinine
+
 Akadeemikute, ajaloolaste ja teadjate jumal. Tema preestrid säilitavad vanimaid ürikuid ja rulle. Atrepe õnnistus on teadmiste leidmine. 
 
 **Parendi**
@@ -415,6 +421,8 @@ Valitsusala: rändajad, jõed, linnud, aeg, muutused/tsüklid, geograafia
 Vastand: Arim-Wol
 
 Voorus: paindlikkus
+
+Värvid: sinine, heleroheline, meresinine
 
 Rändajate, kaupmeeste, kullerite ja postitoojate jumal. Tema preestrid jälgivad ilma. Parendi õnnistus on asjade liigutamine ja mõnikord ka ilma mõjutamine. 
 
@@ -430,6 +438,8 @@ Vastand: Nal-Mat
 
 Voorus: vaprus
 
+Värvid: tumepunane, kollane, hall
+
 Sõdurite kaitsejumal. Tema preestrid õnnistavad sõdureid ja innustavad neid lahinguväljadel. Samuti kannavad nad edasi vanu võitluskunste ja muid teadmisi. Terhenti õnnistus on vaprus lahingus ja jõud võitlemiseks. 
 
 **Sulenis**
@@ -443,6 +453,8 @@ Valitsusala: tööstus, looming, maavarad, värvid
 Vastand: Rhen-Apa
 
 Voorus: töökus
+
+Värvid: pruun, tumehall, oranž
 
 Kõigi käsitööliste kaitsejumal. Tema preestrid valvavad iidseid käsitöökunste ja artefakte. Sulenise õnnistus on Impeeriumi maavarad. 
 
@@ -458,6 +470,8 @@ Vastand: Zer-Nim
 
 Voorus: sidemed
 
+Värvid: virsikoranž, lilla, hall
+
 Kõikide meelelahutajate ja rahakäsitlejate kaitsejumal. Tema preestrid hoiavad muusika, luule ja muu kultuuri saladusi. Sellele lisaks sõlmivad nemad abielusid (kuigi lisaks on otseloomulikult vaja abielu registreerida ka Impeeriumi Perekonnaseisuametis). Baruna õnnistus on Impeeriumi rahasüsteem. 
 
 **Darsilis**
@@ -471,6 +485,8 @@ Valitsusala: kõik elavad, muld, ilm, ravi, algus
 Vastand: Eil-Gann
 
 Voorus: abistamine 
+
+Värvid: roheline, pruun, hall 
 
 Kõikide elavate, eriti laste ja maaharijate kaitsejumal. Tema preestrid ravivad raskelt haigeid ning haavatuid ja õnnistavad maad. Darsilise õnnistus on maa viljakus. 
 
@@ -580,6 +596,12 @@ Kõiki nendest ühingutest ei kutsuta gildideks, esineb ka teistsuguseid nimetus
 * **Kaupmeeste Gild** - Rikas gild, tegeleb ka pea ainukesena piirikaravanide rahastamise ja mehitamisega. 
 * **Esinejate Gild** - Siia kuuluvad kõiksugu esinejad näitlejatest laulikuteni.
 * **Turvajate Gild** - Siia kuuluvad tihti sõjaveteranid ja muud võidelda oskavad. Gild pakub igasuguseid teenuseid, mis on seotud kellegi või millegi valvamisega. Käib kuulujutte et gild pakub ka mitte nii sobivaid või seaduslikke teenuseid, aga seda pole kunagi ametlikult tõestatud. 
+* **Küttide Salk** - Selle grupi liikmed on professionaalsed pearahakütid. 
+* **Veteranivalve** - Sõjaveteranide grupeering, tegeleb sõjaveteranidele töö andmise ja Impeeriumi ellu tagasi aitamisega. Loodi pärast vaherahu sõlmimist, kui rekordarv sõdureid erru läks. 
+* **Metsavalve**- Siia kuuluvad Impeeriumi metsi valvavad metsavahid ja muud metsades tegutsevad isikud. 
+* **Avastajate Gild** - Üpriski väike, viimasel ajal rohkem rikastunud gild, mille taga kahtlustatakse olevat erahuvi. Avastajate hulgas tegutseb kõiksugu isikuid ja nad uurivad uusi alasid, kaardistavad neid ja mitmete vabamaalaste arvates pea otseselt varastavad leitud artefakte ning muid väärtuslikke esemeid. Siiamaani pole midagi tõestatud ja gild on suutnud kõikidest poliitilise maiguga intsidentidest läbi laveerida. 
+* **Rändurite Kodu** - Ajalooliselt rännuteel olevaid aidanud gild, nüüdseks on paljud nende liikmetest liikunud piirialadele, kus nad aitavad ja õpetavad teelisi. Võrreldes Avastajate Gildiga pigem rahvaorganisatsioon. 
+
 
 * **Öö Gild** - Seaduslike gildide kõrval on ka ebaseaduslikke, selliseid, mille olemasolu Impeerium ei tunnista. Öö Gild on juttude järgi üks sellistest, sinna kuuluvad mustal turul tegutsejad, palgamõrtsukad, vargad ja muud hämara elukutsega isikud.  
 
