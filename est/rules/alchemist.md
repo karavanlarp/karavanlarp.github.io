@@ -2,7 +2,7 @@
 layout: default-est
 title: Reeglid lisa, Alkeemik
 ---
-## Komponentide essentsid
+### Komponentide essentsid
 
 Igal komponendil on essents - nii öelda omadussvärv. Komponendid reageerivad omavahel segatuna järgneva tabeli järgi.
 
@@ -18,7 +18,7 @@ Essentside reaktsioonid
 |Valge   |-     |+       |+         |0      |-       |
 |Punane  |+     |-       |+         |-      |0       |
 
-## Komponendid
+### Komponendid
 
 | Komponendi nimetus | Sagedus  | Kus kasutatakse |
 | ------------------ | -------- | --------------- |
@@ -52,7 +52,7 @@ Essentside reaktsioonid
 |Marutuul            | Haruldane|                 |
 |Vaimuvili           | Haruldane|                 |
 
-## Retseptid
+### Retseptid
 
 Tärnid tähistavad komponendi sagedust: 
 * levinud¤
