@@ -2,7 +2,8 @@
 layout: default-est
 title: Reeglid lisa 4, Sorts
 ---
-Loitsude tabel 
+Loitsude tabel
+
 |Loitsu nimi       |Tüüp|Maksumus|Kestus|Element|Tase|Kirjeldus|
 |------------------|---|---|---|----|---|---|
 |Elementaalkilp (P)|Eneseloits|2|???|Kõik|Lihtne|Sorts tekitab enda ümber elemendikilbi, mis annab talle ühe maagilise turvisepunkti.
