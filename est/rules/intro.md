@@ -70,6 +70,7 @@ NB! *Võitlus peab olema võimalikult ohutu!*
 * Kõik mängul olevad bofferrelvad peavad läbima enne mängu toimuva turvakontrolli. Turvakontroll teostatakse üldlevinud ohutusnõudeid silmas pidades. Erilist tähelepanu osutame vibudele ja nooltele. Kontrollimata relvade kasutamine lahingus on keelatud!
 
 **Turvis**
+
 Vastava oskusega tegelane võib omada turvisepunkte. Karavan LARP seerias annab GM iga mängu alguses mängijale vastavalt tema turvise välimusele ja tegelase oskustele turvisepunkte. Turvisepunktide andmisel on oluline turvise välimus. Turvis ei pea pakkuma reaalset kaitset, kuid rohkem punkte saab turvise eest, mis näeb võimalikult realistlik ja/või kena välja.
 
 Turvisepunktid kustuvad enne elupunkte. Kui turvise turvisepunktid on langenud nulli, on see katki, ning seda tuleb oskusega Sepakunst I parandada. Kui pärast lahingsituatsiooni on turvisel kustunud vaid osa turvisepunkte, siis järgmiseks lahinguks on kõik turvisepunktid taastunud. 
@@ -91,7 +92,7 @@ Laskerelvad e. nooled eiravad mittemaagilisi turvisepunkte. Need haavavad tegela
 
 Manakotid - manakotiga tabamus toob esile vastava efekti vallandumise. Loevad ka visked vastu kilpe ja turviseid. Manakotiga tehtud kahjustus eirab turvist.
 
-* Maagia markeerimine* 
+**Maagia markeerimine** 
 
 Mängus osalevad loitsijad saavad oma kasutusse vastava arvu valguspalle. Valguspalle kasutame loitsimise ja pikema toimega loitsude markeerimiseks. See sümboliseerib loitsija ja/või sihtmärgi ümber tekkinud nähtavat maagilist energiat. Valguspalle võib leida ka maastikult koos värviliste lintidega, mis puhul need märgistavad mõnda lähedal olevat maagilist nähtust. Valguspallid ise on mänguväline vahend ja need ei ole luuditavad. Juhul kui mängija saab enda kasutusse valguspalli, näiteks maagilise turvise markeerimiseks, tuleb tal see välja lülitada siis kui maagiline efekt lõppeb ja tagastada kas talle selle andnud mängijale või GMile. Kõik loitsud ei vaja markeerimist, see on eraldi ära toodud (P) tähisega. 
 
