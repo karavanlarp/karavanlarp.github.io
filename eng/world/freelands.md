@@ -367,6 +367,7 @@ Domain: chaos, promises, blood, freedom, chiefs, contracts and oaths
 Opposite: Malakhim
 Virtue: daring
 Sacred animal: bear
+Colors: green, crimson, yellow 
  
 Ban-Mawr is the leader of the Freelander gods. When one gives an oath, it is given in Babn-Mawr's name and the god's anger will turn on those who break their oaths. Ban-Mawr's priests are often present for judgements and give their advice. Before the Codex was created, it was the primary task of the priests to remember the laws. Ban-Mawr's blessing is the binding power of blood oaths. 
  
@@ -376,8 +377,9 @@ Titles: Wind of Loss, Edge of Seeing
 Symbols: skulls, winds, eye (usually one)
 Domain: death, visions, fate, memories
 Opposite: Keteos
-Virtue: foreseeing
+Virtue: foresight 
 Sacred animal: owl
+Colors: dark blue, dark grey, white 
  
 Lir-Neths priests guard the dying, the dead and the ancestors. They have also been given limited power to see into the future and to interpret it for others. They are those who call ancestors back on the request of the tribe. Lir-Neth's blessing is the passage of the dead to the Deep of the World. 
  
@@ -389,6 +391,7 @@ Domain: night, shadows, tricks, caves, luck
 Opposite: Atrepe
 Virtue: ingenuity
 Sacred animal: raven
+Colors: teal, purple, black
  
 Vael-Ser is a different god. All those who are alone and think of their luck pray to Vael-Ser. This god's priests keep all sorts of secrets and riddles. Vael-Ser's blessing is the endlessness of possibilities. 
  
@@ -400,6 +403,7 @@ Domain: stability, hope, fertility, songs/poetry
 Opposite: Parendi
 Virtue: voice
 Sacred animal: ram
+Colors: yellow, brown, light green
  
 Arim-Wol is the god of preservation. Arim-Wol's priests bring hope and perseverance despite tribes or societies or feuds and heal the world with their song. Arim-Wol's blessing is the fertility of the earth. 
  
@@ -411,6 +415,7 @@ Domain: hunt, fighting, wulvers, rage, storms
 Opposite: Terhent
 Virtue: rage
 Sacred animal: boar
+Colors: brown, light red, light blue 
  
 Nal-Mat is the god of the hunt and conflicts. Nal-Mat's priests bless those who are going to war. Nal-Mat's blessing is rage for the willing. 
  
@@ -422,6 +427,7 @@ Domain: forests, home, ancestors
 Opposite: Sulenis
 Virtue: submission
 Sacred animal: elk
+Colors: green, light red, black
  
 Rhen-Apa is the god of forests and other ancient places. The priests of this god take care of the earth's secrets and often guard the resting places of the ancestors. Rhen-Apa's blessing is the bounty of forests. 
  
@@ -433,6 +439,7 @@ Domain: decay, time, destruction, illnesses
 Opposite: Baruna
 Virtue: ending
 Sacred animal: rat
+Colors: black, peach, crimson
  
 Zer-Nim is a feared god. Zer-Nim's priests study diseases and other related phenomena. Zer-Nim's blessing is ending things so that new things may begin.  
  
@@ -444,6 +451,7 @@ Domain: day, passion, movement, winds
 Opposite: Darsilis
 Virtue: action
 Sacred animal: rabbit
+Colors: light green, grey, brown
  
 God of travelers, messengers and others who move around. Eil-Gann's priests often travel the lands and bring news and stories. Eil-Gann's blessing is winds from the right directions. 
  
