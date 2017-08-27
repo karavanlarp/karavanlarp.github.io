@@ -375,6 +375,8 @@ Voorus: jultumus
 
 Püha loom: karu 
 
+Värvid: roheline, tumepunane, kollane 
+
 Ban-Mawr on Vabade Maade jumalate juht. Kui antakse vandeid, siis neid antakse tema nimel, ja tema viha pöördub nende peale, kes oma vannetest taganevad. Tema preestrid on tihti kohtupidamiste juures ja annavad oma nõu. Enne kui ei olnud kirjapandud Koodeksit, oli selle meelespidamine nende peamine ülesanne. Ban-Mawri õnnistus on verevannete siduvus. 
 
 **Lir-Neth**
@@ -390,6 +392,8 @@ Vastand: Keteos
 Voorus: etteaimdus
 
 Püha loom: öökull
+
+Värvid:  tumesinine, tumehall, valge 
 
 Lir-Nethi preestrid on need kes valvavad surijaid, surnuid ja esivanemaid. Samuti on neile antud mingil määral võimalus kaeda tulevikku ja seda tõlgendada teiste jaoks. Nemad on need, kes kutsuvad hõimu palvel esivanemaid tagasi. Lir-Nethi õnnistus on surnute lahkumine Ilmasüvikusse. 
 
@@ -407,6 +411,8 @@ Voorus: leidlikkus
 
 Püha loom: kaaren
 
+Värvid: siniroheline, lilla, must 
+
 Vael-Ser on isemoodi jumal. Tema poole palvetavad kõik kes käivad oma teed üksi, ja kellel on õnn meelel. Tema preestrid hoiavad saladusi ja mõistatusi. Vael-Seri õnnistus on võimaluste lõputus. 
 
 **Arim-Wol**
@@ -422,6 +428,8 @@ Vastand: Parendi
 Voorus: hääl
 
 Püha loom: jäär
+
+Värvid: kollane, pruun, heleroheline 
 
 Arim-Wol on kindluse jumal. Tema preestrid toovad maailma lootust ja alalhoidmist hoolimata hõimudest või seltsidest või vaenudest ja ravivad seda oma lauluga. Arim-Woli õnnistus on maa viljakus. 
 
@@ -439,6 +447,8 @@ Voorus: raev
 
 Püha loom: kult
 
+Värvid: pruun, helepunane, helesinine 
+
 Nal-Mat on jahi ja konfliktide jumal. Tema preestrid on tavaliselt need, kes sõtta minejaid õnnistavad. Nal-Mati õnnistus on raev neile, kes seda kanda julgevad. 
 
 **Rhen-Apa**
@@ -454,6 +464,8 @@ Vastand: Sulenis
 Voorus: alistumine
 
 Püha loom: põder
+
+Värvid: roheline, helepunane, must 
 
 Rhen-Apa on metsade ja iidsete paikade jumal. Tema preestrid hoolitsevad maa saladuste eest, ning tihti ka valvavad esivanemate puhkepaiku. Rhen-Apa õnnistus on metsade rohkus. 
 
@@ -471,6 +483,8 @@ Voorus: lõpetamine
 
 Püha loom: rott 
 
+Värvid: must, virsikoranž, tumepunane
+
 Zer-Nim on jumal, keda peljatakse. Tema preestrid uurivad haigusi ja muid sarnaseid nähtusi. Zer-Nimi õnnistus on asjade lõpetamine, et uued asjad saaksid alata. 
 
 **Eil-Gann**
@@ -486,6 +500,8 @@ Vastand: Darsilis
 Voorus: tegutsemine 
 
 Püha loom: jänes
+
+Värvid: heleroheline, helehall, helepruun 
 
 Rändajate, teatetoojate ja muude liikujate jumal. Tema preestrid rändavad tihti mööda maid ja toovad kuuldud uudiseid ning lugusid. Eil-Ganni õnnistus on tuuled õigest sunnast. 
 
