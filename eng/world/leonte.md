@@ -378,6 +378,7 @@ Symbols: scales, quills, seals, rods, rays of light
 Domain: order, law, balance, contracts, politics, the Chosen, justice
 Opposite: Ban-Mawr
 Virtue: respect
+Colors: yellow, purple, crimson
 
 The leader of the Imperial pantheon. God of officials, judges and leaders. Malakhim’s priests guard the harmony of the laws. Malakhim’s blessings are the binding of contracts and the Imperial seals of office. 
 
@@ -388,6 +389,7 @@ Symbols: stars, knives, doors, bones, candles
 Domain: death, night/shadows, endings, moroia, lagars
 Opposite: Lir-Neth
 Virtue: letting go
+Colors: black, yellow, white 
 
 The god of the dead. Keteos’ priests guard the dying and the dead, and study the night skies. Keteos’ blessing is the travel of souls to the Mountain of the Gods after death. 
 
@@ -398,6 +400,7 @@ Symbols: books, scrolls, measuring tools, eyes (more than one), harmonious shape
 Domain: knowledge, information, wisdom, measurements, saints
 Opposite: Vael-Ser
 Virtue: remembrance
+Colors: grey, olive, light blue
 
 The god of academics, historians and knowers. Atrepe’s priests preserve the oldest of texts and scrolls. Atrepe’s blessing is the finding of knowledge. 
 
@@ -408,6 +411,7 @@ Symbols: hourglasses, waterdrops, boats, wheels, fans, feathers, lamps
 Domain: travelers, rivers, birds, time, changes/cycles, geography
 Opposite: Arim-Wol
 Virtue: flexibility
+Colors: blue, light green, seablue 
 
 God of travelers, merchants, couriers and mail carriers. Parendi’s priests study the weather. Parendi’s blessings are the moving of things and sometimes the changing of weather. 
 
@@ -418,6 +422,7 @@ Symbols: all sorts of weapons, disks, rays, mountains, banners
 Domain: war, burning flames, strength, weapons, mountains
 Opposite: Nal-Mat
 Virtue: bravery
+Colors: crimson, yellow, grey 
 
 Protector god of soldiers. Terhent’s priests bless soldiers and inspire them on the battlefield. They also preserve ancient martial arts and other such knowledge. Terhent’s blessing is bravery in battle and strength to fight. 
 
@@ -428,6 +433,7 @@ Symbols: all sorts of tools, stones and jewels
 Domain: industry, creation, minerals, colors
 Opposite: Rhen-Apa
 Virtue: hard work
+Colors: brown, dark grey, peach 
 
 Protector god of all artisans. Sulenis’ priests guard ancient arts and artifacts. Sulenis’ blessing is the richness of Imperial resources. 
 
@@ -438,6 +444,7 @@ Symbols: roofs, pillars, coins, different instruments, chain/knot patterns
 Domain: cities, culture, relationships, warmth, alcohol, money, music
 Opposite: Rhen-Apa
 Virtue: bonds
+Colors: peach, purple, light grey 
 
 Protector god of all entertainers and handlers of money. Baruna’s priests keep the secrets of music, poetry and other culture. They also bless marriages (despite that the marriage has to be registered at the Imperial Family Registry Office to be official). Baruna’s blessing is the monetary system of the Empire. 
 
@@ -448,6 +455,7 @@ Symbols: seeds, trees, fruit, grain, frogs, cattle, goblets
 Domain: all living, soil, weather, healing, beginnings
 Opposite: Eil-Gann
 Virtue: helping 
+Colors: green, brown, dark grey 
 
 Protector god of all the living, especially children and farmers. Darsilis’ priests heal the very sick and wounded, and bless the earth. Darsilis’ blessing is the richness of the earth. 
 
@@ -557,6 +565,11 @@ Not all of these groups are called guilds, some of them have different titles. B
 * **Merchants’ Guild** - A rich guild, handles funding and manning the border caravan’s nearly singlehandedly. 
 * **Performers’ Guild** - All sorts of performers from actors to singers belong here. 
 * **Security Guild** - A guild with many war veterans and other skilled fighters as members. The guild offers various services in relation to guarding someone or something. There are rumors the guild also offers some not so savory or legal options, but it has never been officially proved. 
+* **Hunters’ Band** - A group of professional bounty hunters. 
+* **Veteran Watch** - A group dedicated to emplying wat veterans and reintroducing them to society. Created after the peace treaty was signed, due to the large number of soldiers retired.
+* **Forest Watch** - The group of Imperial forest rangers.
+* **Explorers’ Guild** - A small, recently grown rich guild, suspected to have pricate backers. The guild has all sorts of members and they explore new areas, chart them and in the opinion of many freelanders openly steal found artifacts and other valuable items. Nothing has been proven so far and the guild has been able to survive all political incidents. 
+* **Travelers’ Refuge** - Historically a guild helping those on the road, many of their members have moved to the border areas to help and teach travelers. Compared ot the Explorers’ Guild, more of a peoples’ organisation. 
 
 * **Night Guild** - There are illegal guilds as well, unrecognised by the Empire. The Night Guild is one of such by rumor, having black market fences, assassins, thieves and others as members. 
 
