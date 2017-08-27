@@ -54,7 +54,7 @@ Essentside reaktsioonid
 
 ### Retseptid
 
-Tärnid tähistavad komponendi sagedust: 
+Kui komponentide tulbas on kaks korda nimetatud sama komponenti, tähendabki see, et joogi sisse läheb sama komponenti kaks korda. Tärnid tähistavad komponendi sagedust: 
 * levinud¤
 * eriline¤¤
 * haruldane¤¤¤
@@ -180,7 +180,7 @@ Tärnid tähistavad komponendi sagedust:
       <td>2</td>
       <td>1 mäng</td>
       <td><ul><li>Liivatubakas¤¤</li><li>Jõgirohi¤</li><li>Vooluvili¤¤</li></ul></td>
-      <td>Välispidine.</td>
+      <td>Välispidine. Lahusesse on võimalik lisada kuni 7 ühikut apeironit. Retsepti tundev alkeemik oskab lahusest apeironit välja võtta. Lahuses olev apeiron on mõjutamatu välismõjudest. Seda ei saa tunnetada ega muud moodi mõjutada. Alkeemik saab võtta lahusest välja vaid kogu apeironi korraga, misjärel pruulis hävineb.</td>
     </tr>
     <tr>
       <td>Elav hape</td>
