@@ -24,7 +24,7 @@ The only limitation in colour is purple. Only the Chosen may wear purple cloaks 
 
 On duty officials wear neutral clothing and a badge with the Imperial lizard, the symbol of their office and their employee number. This badge gives them official authority.
 
-Priests wear long robes decorated with the symbols of their god. The most important element is their holy sign, the aegis, which is always worn on the chest. The aegis must be at least 15 x 15 cm and bear a clearly recognisable symbol of the god (more on symbols in the religion categories of both factions).
+Priests wear long robes decorated with the symbols of their god. The most important element is their holy sign, the aegis, which is always worn on the chest. The aegis must be at least 15 x 15 cm and bear a clearly recognisable symbol of the god (more on symbols in the religion categories of both factions). The priest colors can also be found in the religion category. 
 
 Adventurers and members of caravans usually wear practical clothes suitable for trekking in a forest. Those wishing to stay in the shadows prefer more earthy tones.
 
@@ -43,7 +43,7 @@ All clothes, shoes, hats and jewelry that aren’t too modern will be suitable (
 
 The Free Lands don’t have as much pigment flowers, so their clothes tend to have more natural tones. Patterns are also less common. The most important quality is practicality. Freelanders like wearing animal skins, fangs and bone jewelry.
 
-Priests dress similarly to their counterparts in the Empire. They also carry a holy symbol on their chest that must be at least 15 x 15 cms in size. 
+Priests dress similarly to their counterparts in the Empire. They also carry a holy symbol on their chest that must be at least 15 x 15 cms in size (more on symbols in the religion categories of both factions). The priest colors can also be found in the religion category. 
 
 Armor: both leather and chainmail are widely used.
 
