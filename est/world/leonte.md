@@ -598,7 +598,7 @@ Kõiki nendest ühingutest ei kutsuta gildideks, esineb ka teistsuguseid nimetus
 * **Turvajate Gild** - Siia kuuluvad tihti sõjaveteranid ja muud võidelda oskavad. Gild pakub igasuguseid teenuseid, mis on seotud kellegi või millegi valvamisega. Käib kuulujutte et gild pakub ka mitte nii sobivaid või seaduslikke teenuseid, aga seda pole kunagi ametlikult tõestatud. 
 * **Küttide Salk** - Selle grupi liikmed on professionaalsed pearahakütid. 
 * **Veteranivalve** - Sõjaveteranide grupeering, tegeleb sõjaveteranidele töö andmise ja Impeeriumi ellu tagasi aitamisega. Loodi pärast vaherahu sõlmimist, kui rekordarv sõdureid erru läks. 
-* **Metsavalve**- Siia kuuluvad Impeeriumi metsi valvavad metsavahid ja muud metsades tegutsevad isikud. 
+* **Metsavalve** - Siia kuuluvad Impeeriumi metsi valvavad metsavahid ja muud metsades tegutsevad isikud. 
 * **Avastajate Gild** - Üpriski väike, viimasel ajal rohkem rikastunud gild, mille taga kahtlustatakse olevat erahuvi. Avastajate hulgas tegutseb kõiksugu isikuid ja nad uurivad uusi alasid, kaardistavad neid ja mitmete vabamaalaste arvates pea otseselt varastavad leitud artefakte ning muid väärtuslikke esemeid. Siiamaani pole midagi tõestatud ja gild on suutnud kõikidest poliitilise maiguga intsidentidest läbi laveerida. 
 * **Rändurite Kodu** - Ajalooliselt rännuteel olevaid aidanud gild, nüüdseks on paljud nende liikmetest liikunud piirialadele, kus nad aitavad ja õpetavad teelisi. Võrreldes Avastajate Gildiga pigem rahvaorganisatsioon. 
 
