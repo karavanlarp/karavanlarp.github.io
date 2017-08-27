@@ -42,7 +42,7 @@ Ainuke piirang värvide koha pealt on purpur, seda värvi kuldnarmaste ja tikand
 
 Tööpostil olevad ametnikud kannavad üldiselt neutraalset riietust ja töömärki, millel on Impeeriumi sisalik, vastava asutuse sümbol ja ametniku number. See annab neile ametile vastavad volitused. 
 
-Preestrid kannavad pikki rüüsid, mis on tihti kaunistatud nende jumala sümbolitega. Olulisim on nende püha märk aigis, mida kantakse alati rinnal. See peab olema minimaalselt 15 x 15 cm suur ja kujutama selgelt vastava jumala sümbolit (sümbolitest pikemalt religiooni all). Reisiv preester võib kanda praktilisemaid rõivaid.
+Preestrid kannavad pikki rüüsid, mis on tihti kaunistatud nende jumala sümbolitega. Olulisim on nende püha märk aigis, mida kantakse alati rinnal. See peab olema minimaalselt 15 x 15 cm suur ja kujutama selgelt vastava jumala sümbolit (sümbolitest pikemalt religiooni all). Reisiv preester võib kanda praktilisemaid rõivaid. Preestrite värvidest saab samuti pikemalt lugeda religiooni all. 
 
 Seiklejad ja karavanide reisijad kannavad üldiselt praktilisi rõivaid, millega saab rahulikult metsas liikuda. Need, kes varjuda soovivad, eelistavad muidugi metsalähedasemaid toone. 
 
@@ -62,7 +62,7 @@ Kokkuvõttes sobivad igasugused riided, jalatsid, mütsid ja ehted, mis ei ole l
 
 Vabadel Maadel ei ole nii ohtralt värvililli, nii et nende rõivad on üldiselt naturaalsemat värvi. Samuti ei esine nii tihti mustreid. Olulisim on rõivaste praktilisus. Vabamaalased kannavad meeleldi loomanahku, loomakihvu ja luuehteid. 
 
-Ka Vabade Maade preestrid kannavad oma jumala märki. See peab olema minimaalselt 15 x 15 cm suur ja kujutama selgelt vastava jumala sümbolit (sümbolitest pikemalt religiooni all). 
+Ka Vabade Maade preestrid kannavad oma jumala märki. See peab olema minimaalselt 15 x 15 cm suur ja kujutama selgelt vastava jumala sümbolit (sümbolitest pikemalt religiooni all). Preestrite värvidest saab samuti pikemalt lugeda religiooni all. 
 
 **Turvistest:** Kasutatakse nahkturviseid ja rõngassärke. 
 
