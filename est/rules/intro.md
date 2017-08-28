@@ -6,9 +6,9 @@ title: Tegelasreeglid; sissejuhatus
 
 ### Kuidas seda dokumenti kasutada? 
 
-Reeglid on esitatud kolmes osas. Esimene - üldiselt kirjeldav osa on kohustuslik lugeda kõigile, ja lahingreegleid, seisundeid ning muud olulist tutvustame ka algbriifil. Lühendite ja mõistete nimekiri seletab lahti kõik reeglites kasutatud spetsiifilised terminid. Teine osa hõlmab endast tegelase loomise reegleid ja klasside kirjeldust. Sellest on vajalik lugeda tegelase loomise osa. Kolmandaks on lisad - retsepte, loitse ja muud lisainfot sisaldav. Teie tegelasega seonduv - tema omadused, oskused ja lisad lähevad pärast tegelasankeedi täitmist loodavasse tegelaslehte. 
+Reeglid on esitatud kolmes osas. Esimene - üldiselt kirjeldav osa on kohustuslik lugeda kõigile, ja lahingreegleid, seisundeid ning muud olulist tutvustame ka algbriifil. Lühendite ja mõistete nimekiri seletab lahti kõik reeglites kasutatud spetsiifilised terminid. Teine osa hõlmab endast tegelase loomise reegleid ja klasside kirjeldust. Sellest on vajalik lugeda tegelase loomise osa ja klasside kohta, et oma valik teha. Kolmandaks on lisad - retsepte, loitse ja muud lisainfot sisaldav. Teie tegelasega seonduv - tema omadused, oskused ja lisad lähevad pärast tegelasankeedi täitmist loodavasse tegelaslehte. 
 
-Reegid on uued. Kui te leiate neist vastukäivusi või midagi segadust tekitavat, kirjutage meile. Mitu osa on eksperimentaalsed, aga alles mängimise käigus selgub, mis töötab ja mis mitte. Kui midagi muutma peame(mida me kindlasti seeria jooksul peame), teeme oma parima, et teha muutusi õiglaselt mängijate suhtes.
+Reeglid on uued. Kui te leiate neist vastukäivusi või midagi segadust tekitavat, kirjutage meile. Mitu osa on eksperimentaalsed, aga alles mängimise käigus selgub, mis töötab ja mis mitte. Kui midagi muutma peame(mida me kindlasti seeria jooksul peame), teeme oma parima et teha muutusi õiglaselt mängijate suhtes.
 
 Oleme siin esitanud esimese kolme tegelastaseme oskused, neljanda ja viienda taseme oskused selguvad enne järgmiseid mänge. Tuleval mängul on kõik tegelased esimesel tasemel, mistõttu ongi targem süveneda pigem esimese taseme oskustesse.
 
