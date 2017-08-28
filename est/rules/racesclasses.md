@@ -2,7 +2,23 @@
 layout: default-est
 title: Tegelasreeglid; rassid ning klassid
 ---
-## Tegelase loomine
+## Tegelasreeglid: Rassid ning klassid
+<div id="toc">
+	<h3>Sisukord</h3>
+	<ul>
+		<li><a href="#tegelane">Tegelase loomine</a></li>
+		<li><a href="#rassid">Rassid</a></li>
+		<li><a href="#alkeemik">Alkeemik</a></li>
+		<li><a href="#ekspert">Ekspert</a></li>
+		<li><a href="#kelm">Kelm</a></li>
+		<li><a href="#maag">Maag</a></li>
+		<li><a href="#preester">Preester</a></li>
+		<li><a href="#sorts">Sorts</a></li>
+		<li><a href="#sodalane">Sõdalane</a></li>
+	</ul>
+</div>
+
+<h3 id="tegelane">Tegelase loomine</h3>
 
 *Siin kirjeldame tegelase loomist ja mõningaid küsimusi seoses tegelaspunktidega. *
 
@@ -29,7 +45,7 @@ Samuti on meil limiit ühtse grupina tulevatele tegelastele. **Limiit on 5 inime
 
 Otse loomulikult on lubatud planeerida sõpradega enne mängu, et teie tegelased hakkavad mängul omavahel rohkem suhtlema ja koos tegutsema. 
 
-***
+<hr>
 
 Tegelase loomisel tuleb esmalt valida tegelase rass. Tavaline alenti on ainus tegelasrass, mille omandamine ei kuluta tegelaspunkte.
 
@@ -55,18 +71,18 @@ Tegelane alustab mängu 50 stauruse või sama väärtusega Vabade Maade valuutag
 
 Tegelaspunkte jagame PCdele ja NPCdele. On baasmäär, mille anname üritusel osalemise eest. Kostüümi, ettevalmistuse ja rollimängu eest on võimalik saada lisapunkte. NPCd saavad samuti osalemise eest tegelaspunkte, mida võivad hiljem kasutada sarja mõnel hilisemal mängul PC tegelase loomiseks. See tähendab küll seda, et on oluline, et NPCna saadud informatsiooni PC mängimiseks ei kasutataks. 
 
-## Rassid:
+<h3 id="rassid">Rassid:</h3>
 
 *Rasside, nende omaduste ja maksumuste kirjeldus.*
 
-### Alenti
+#### Alenti
 
 * Maksumus: 0 TP
 * Tervis: 2 elupunkti
 
 Klassipiirang - Tavaline alenti ei saa valida sortsi klassi.
 
-### Lagaar
+#### Lagaar
 
 * Maksumus: 2 TP
 * Tervis: 2 elupunkti
@@ -85,7 +101,7 @@ Klassipiirang - Tavaline alenti ei saa valida sortsi klassi.
 
 Klassipiirang - Lagaar ei saa valida preestri ega sortsi klassi.
  
-### Moroia
+#### Moroia
 
 * Maksumus: 2 TP
 * Tervis: 2 elupunkti
@@ -104,7 +120,7 @@ Klassipiirang - Moroia ei saa valida preestri ega sortsi klassi.
 
 Moroia alustab mängu ühe doosi haavaliimiga.
  
-### Vanavereline
+#### Vanavereline
 
 * Maksumus: 2 TP
 * Tervis: 2
@@ -121,7 +137,7 @@ Moroia alustab mängu ühe doosi haavaliimiga.
 
 Klassipiirang - Vanavereline ei saa valida sortsi klassi. 
 
-### Vulver
+#### Vulver
 
 * Maksumus: 2 TP 
 * Tervis: 2
@@ -144,7 +160,7 @@ Elaja kingitust saab osta kuni neli korda. Esimene kingitus on rassi valides, ü
 
 Klassipiirang - Vulver ei saa valida preestri ega sortsi klassi. 
 
-### Theumiit
+#### Theumiit
 
 * Maksumus: 2 TP
 * Tervis: 2 elupunkti 
@@ -173,26 +189,27 @@ Klassid koosnevad tasemetest. Igale tasemele jõudes omandab tegelane automaatse
 
 Tegelased saavad samuti enne mängu teadmisi, mis on seotud nende klassiga. 
 
-### Alkeemik
+<h3 id="alkeemik">Alkeemik</h3>
 
 *Alkeemik oskab kasutada looduses leiduvaid taimi ja muid komponente maagiliste pruuliste valmistamiseks. Pruuliste vägi ei tulene mitte alkeemikust, vaid tema teadmistest ja korrektsete komponentide kasutamisest. Erilised komponendid on saanud oma väe kas jumalate puudutuse läbi või hoopis arenenud apeironi mõjutustest.*
 
-**Alkeemilised terminid:**
+#### Alkeemilised terminid:
+
 * **Alkeemiku raamat** - Raamat, kus on kirjas alkeemilist infot ja alkeemikule teadaolevad retseptid. 
 * **Essents** - Komponendi alkeemiline tüüp, mis määrab kahe komponendi vahel toimuva reaktsiooni olemuse. 
 * **Komponent** - Ressurss, millest valmistatakse pruuliseid. Esineb nii taimseid kui loomseid komponente. 
 * **Pruulis** - Alkeemiku valmistatavad joogid, salvid ja muud segud. 
 * **Retsept** - Ühe pruulise komponentide ja valmistamisprotsessi kirjeldus. 
 
-_**Oskuste omandamine**_
+#### Oskuste omandamine
 
 * **Tase 1:** Kõik põhimooduli oskused
 * **Tase 2:** Põhimoodul + 2 vabamooduli oskust
 * **Tase 3:** Põhimoodul + 2 vabamooduli oskust
 
-_**Põhimooduli oskused**_
+#### Põhimooduli oskused
 
-_**Tase 1**_
+**Tase 1**
 
 **Teadmised: alkeemia I**
 
@@ -222,7 +239,7 @@ Tase 1 alkeemik alustab mängu oma valitud 5 levinud ja 2 erilise komponendiga.
 
 Alkeemik võib 2 komponenti kokku segades üritada määrata nende essentsid. Essentsi määramine hävitab komponendid. (OG: reaktsiooni kohta käiva info küsib mängija GM-ilt või vastavalt NPC-lt)
 
-_**Tase 2**_
+**Tase 2**
 
 **Teadmised: alkeemia II**
 
@@ -236,13 +253,13 @@ Tegelane võib asendada retseptis ühe komponendi sama essentsiga komponendi vas
 
 Alkeemik võib 2 komponenti kokku segades üritada määrata nende essentse. Essentsi määramine ei hävita komponente.
 
-_**Tase 3**_
+**Tase 3**
 
 **Teadmised: alkeemia III**
 
 Alkeemik oskab valmistada viit uut tase 2 alkeemilist pruulist. 
 
-_**Vabamooduli oskused**_
+#### Vabamooduli oskused
 
 Kõik vabamooduli oskused on igale alkeemikule valitavad. Eranditeks on Impeeriumi, Vabade Maade ja theumiitide erioskused.
 
@@ -291,11 +308,11 @@ Kui valmistatavate pruuliste kombineeritud tase ei ületa alkeemiku taset, võib
 
 Alkeemik võib valmistada pruuliseid väsinud seisundis olles, kuid ta ei saa kasutada siis oskust väle pruulija.
 
-### Ekspert
+<h3 id="ekspert">Ekspert</h3>
 
 *Eksperte on igasuguseid. Paljud eksperdi oskustest ei ole ehk lahingus kasutatavad, aga ekspert on hea tugi teistele klassidele ja kõige vabama arenguga tegelane. Samuti on eksperdi madalamate tasemete oskused kättesaadavad ka teistele klassidele.*
 
-Valides Eksperdi klassina, tuleb selle eest esimesel tasemel tasuda 4 TP, mille eest saab omandada 4 lihtsat oskust, 2 keerulist või 1 keerulise ja 2 lihtsat.. Muul juhul maksab üks Eksperdi tase 2 TPd, mille eest saab kas kaks lihtsat või ühe keerulise (tähistatud ¤¤) oskuse.
+Valides Eksperdi klassina, tuleb selle eest esimesel tasemel tasuda 4 TP, mille eest saab omandada 4 lihtsat oskust, 2 keerulist või 1 keerulise ja 2 lihtsat. Muul juhul maksab üks Eksperdi tase 2 TPd, mille eest saab kas kaks lihtsat või ühe keerulise (tähistatud ¤¤) oskuse.
 
 Eksperdi klassina valinu võib uusi tasemeid osta nii palju kui soovib (muidugi makstes iga taseme eest 2 TPd). Teised klassid saavad omandada ainult ühe taseme Eksperti, mitte rohkem. Nad võivad seda valida kas kohe tegelast luues või hiljem.
 
@@ -309,7 +326,7 @@ Eksperdi oskused on jagatud 4 mooduli vahel: teadmiste moodul, ametimoodul, kaub
 
 **Treenitud** - Tegelane on saanud lahingväljaõppe. Lahingsituatsioonis ei väsi tegelane elupunkti kaotuse tõttu. Kui ta oleks saanud väsinud seisundi lahingus, ilmneb see alles pärast lahingut.
 
-_**Teadmiste moodul:**_
+#### Teadmiste moodul:
 
 **Teadmised I**
 
@@ -335,7 +352,7 @@ Tegelane omab tutvusi või muid ressursse, mille kaudu mängude vahelisel ajal l
 
 Tegelane oskab tuvastada, kas dokumendid on ehtsad või võltsitud.
 
-_**Ametimoodul:**_
+#### Ametimoodul:
 
 **Meditsiin I**
 
@@ -401,7 +418,7 @@ Tegelane võib koguda loomseid komponente lahates surnud olendeid.
 
 Tegelane suudab määrata 1. taseme alkeemilisi pruuliseid.
 
-_**Kaubandusmoodul:**_
+#### Kaubandusmoodul:
 
 **Jõukus I**
 
@@ -427,7 +444,7 @@ Tegelane oskab hinnata erinevate kaupade väärtust üsnagi täpselt. Samuti osk
 
 Tegelane oskab hinnata luksuslike ja harvaesinevate esemete ja kaupade väärtust. Samuti oskab ta eristada kasutatud apeironit kasutamata apeironist. 
 
-_**Lahingmoodul:**_
+#### Lahingmoodul:
 
 **Relvakasutusoskus** - Ilma oskuseta tegelane võib lahingsituatsioonis ennast küll relvaga kaitsta, kuid ei tohi sooritada rünnakuid. Oskusega tegelane võib kasutada relvi lahingsituatsioonis ründamiseks. Väljaspool lahingut saab iga tegelane teist vardasse ajada.
 
@@ -470,19 +487,19 @@ Theumiidid: <br />
 
 Theumiit oskab ressursside ja varustuse omamisel sepistada erinevaid maagilisi esemeid. 
 
-### Kelm
+<h3 id="kelm">Kelm
 
 Kelm on pimeduses peituja ja kaval tegutseja. Ta võib kasutada oma oskusi ka seaduse poolel või töötada skaudina. 
 
-_**Oskuste omandamine
+#### Oskuste omandamine:
 
 * **Tase 1**: Põhimoodul + 2 vabamooduli oskust
 * **Tase 2**: Põhimoodul + 2 vabamooduli oskust
 * **Tase 3**: Põhimoodul + 4 vabamooduli oskust
 
-_**Põhimooduli oskused**_
+#### Põhimooduli oskused
 
-_**Tase 1**_
+**Tase 1**
 
 **Relvakasutusoskus: kelm**
 
@@ -492,7 +509,7 @@ Kelm oskab kasutada kõiki relvaliike peale kahekäelise relva (ühekäerelvad, 
 
 Kelm, kes tabab noalöögiga ohvrit selga, teeb talle oma taseme jagu lisakahju. (Tase 1 kelm 2 kahjustust, tase 3 kelm 4 kahjustust.) Kasutatav korra 5 sekundi jooksul. 
 
-_**Tase 2**_
+**Tase 2**
 
 **Uimastamine I (€)**
 
@@ -506,7 +523,7 @@ Tegelane võib varasta ühe eseme kinnitades sellele pesulõksu. Koti külge kin
 
 Tegelane on saanud lahingväljaõppe. Lahingsituatsioonis ei väsi tegelane elupunkti kaotuse tõttu. Kui ta oleks saanud väsinud seisundi lahingus ilmneb see alles pärast lahingut.
 
-_**Tase 3**_
+**Tase 3**
 
 **Tugev tervis**
 
@@ -520,7 +537,7 @@ Tegelane võib uimastada teise tegelase. Selleks ei vaja ta enam rasket eset, va
 
 Tegelaneb saab enne mängu või mängu ajal GM-ide käest informatsiooni, mis on tegelasele kasulik või hoiatab teda tulevase ohu eest.
 
-_**Vabamooduli oskused**_
+#### Vabamooduli oskused
 
 Kõik vabamooduli oskused on igale kelmile valitavad. Eranditeks on Impeeriumi, Vabade Maade ja theumiitide erioskused.
 
@@ -603,7 +620,7 @@ Tegelane oskab tuvastada, kas dokumendid on ehtsad või võltsitud.
 
 Tegelane oskab mingil määral võltsida ametlikke dokumente ja allkirju. Samuti oskab ta kopeerida käekirju. Peamiselt mängude vahel kasutatav oskus. 
 
-### Maag
+<h3 id="maag">Maag</h3>
 
 *Maag on see, kes oskab apeironi jõudu kasutades oma tahte järgi maailma mõjutada. Impeeriumis tuntaksegi teda maagina, Vabadel Maadel loitsijana.*
 
@@ -613,7 +630,7 @@ Selline loitsimine on aga väsitav, nii et kui maag ületab oma päevase piirmä
 
 Samuti on olemas teatud tüüpi esemeid ja masinad, millega saab sooritada erinevaid loitsulaadseid toiminguid. 
 
-**Maagilised terminid: **
+#### Maagilised terminid:
 
 * **Apeiron (rafineeritud)** - Töödeldud apeiron on apeiromantia/ruunikunsti kütus. See on suletud erilise pitsatiga pudelisse. Apeironit müüakse erinevates kogustes, aga kõige tavalisemad on hästi väikesed pudelid. Nende sees on piisavalt apeironit ühe lihtsa loitsu jaoks. Keerulisemate loitsude jaoks võib minna rohkem kui üks pudel apeironit. Loitsimisel läbib apeironi energia loitsija keha ja vormub sellest väljapoole loitsuks. 
 * **Loitsukettad** - Kettaid on kahte sorti, märgistatud ja puhtad. Märgistatud kettaid saab maag kasutada koheselt loitsimiseks. Puhaste ketaste abil saab maag luua uusi variatsioone oma loitsudest. 
@@ -623,16 +640,13 @@ Samuti on olemas teatud tüüpi esemeid ja masinad, millega saab sooritada erine
 
 #### Oskuste omandamine
 
-**Tase 1**
-Põhimooduli oskused
-**Tase 2**
-Põhimooduli oskused + 2 vabamooduli oskust
-**Tase 3**
-Põhimooduli oskused + 2 vabamooduli oskust
+* **Tase 1:** Põhimooduli oskused
+* **Tase 2:** Põhimooduli oskused + 2 vabamooduli oskust
+* **Tase 3:** Põhimooduli oskused + 2 vabamooduli oskust
 
 #### Põhimoodul
 
-_**Tase 1**_
+**Tase 1**
 
 **Apeiron**
 
@@ -650,13 +664,13 @@ Maag oskab valmistada loitse, mis on kirjas ta loitsuraamatus.
 
 Maag võib mängu jooksul kasutada kuni 8 ühikut apeironit. (Vaata Lisa 3)
 
-_**Tase 2**_
+**Tase 2**
 
 **Eriala I**
 
 Maag valib ühe eriala. Ta oskab kõiki erialaloitse. (Erialad on toodud lisas 3)
 
-_**Tase 3**_
+**Tase 3**
 
 **Kogemustega loitsija**
 
@@ -704,7 +718,7 @@ Maag oskab kahte metamaagilist efekti.
 
 Maag oskab kolme metamaagilist efekti.
 
-### Preester
+<h3 id="preester">Preester</h3>
 
 *Preester on jumala teener. Ta levitab maailmas oma jumala sõnumit ja seisab hea tema põhimõtete eest. Preester saab kasutada oma jumala antud väge, et teisi tema ümber kas õnnistada või karistada.*
 
@@ -734,7 +748,7 @@ Jumalad on esitatud oma kultuurilise vastandiga. Allakriipsutatud jumalatel on t
 
 #### Põhimoodul
 
-_**Tase 1**_
+**Tase 1**
 
 **Sümbol**
 
@@ -752,13 +766,13 @@ Preester võib valida endale 5 palvet lihtsate palvete nimekirjast, mida ta oska
 
 Preester saab teha päevas 4+ preestri tase jagu palveid.
 
-_**Tase 2**_
+**Tase 2**
 
 **Domeen: palve**
 
 Preester saab vastavalt oma jumalale erilise domeeni palve. Ta saab valida kahe palve hulgast. 
 
-_**Tase 3**_
+**Tase 3**
 
 **Kõrgem jumalik vägi**
 
@@ -814,8 +828,8 @@ Preester alustab mängu jumala poolt antud erilise ülesandega. Pärast ülesand
 
 Preester loob erilise puhkeala. Selleks peab ta heiskama oma jumala sümboli, ning kõik tegelased, kes saavad seal puhata, vabanevad väsinud seisundist 10 minuti puhkuse järel. Puhkealas võivad puhata preestri kodumaa elanikud, kas siis Impeeriumist või Vabadelt Maadelt. Puhkeala loomine kulutab ühe preestri palve, ning kaob kohe, kui preester liigutab jumala sümbolit või läheb sellest kaugemale kui 5 meetrit.
 
-### Sorts
-*Sortsid on theumiitide vägevaimad loitsijad. Nad on õppinud oma elementi kasutama ka väljaspool allikat ja võivad sellega isegi lahingus oma vastastesse hirmu külvata. *
+<h3 id="sorts">Sorts</h3>
+*Sortsid on theumiitide vägevaimad loitsijad. Nad on õppinud oma elementi kasutama ka väljaspool allikat ja võivad sellega isegi lahingus oma vastastesse hirmu külvata.*
 
 Elemente on kuus: 
 * Aktiivsed - Tuli, Õhk, Valgus 
@@ -827,13 +841,13 @@ Vastandid:
 * Valgus - Vari
 
 #### Oskuste omandamine: 
-* **Tase 1** Põhimoodul  
-* **Tase 2** Põhimoodul + 2 valikoskust 
-* **Tase 3** Põhimoodul + 2 valikoskust 
+* **Tase 1:** Põhimoodul  
+* **Tase 2:** Põhimoodul + 2 valikoskust 
+* **Tase 3:** Põhimoodul + 2 valikoskust 
 
 #### Põhimoodul
 
-_**Tase 1**_
+**Tase 1**
 
 Teadmised: maagia
 
@@ -841,11 +855,11 @@ Teadmised: maagia
 
 Sortsil on 7 manapunkti. Manapunktid taastuvad iga mängu alguses. 
 
-**Sortsikunst I (€) **
+**Sortsikunst I (€)**
 
 Sorts oskab loitsida kõiki lihtsaid loitse, ning ühte oma elemendi loitsu.
 
-_**Tase 2**_
+**Tase 2**
 
 **Sortsikunst II(€)**
 
@@ -855,7 +869,7 @@ Tegelane oskab 3 oma elemendi loitsu, ning võib valida ühe keerulise loitsu, m
 
 Sorts saab eriliselt tähistatud elemendisõlmedest taastada manapunkte. Taastuva mana hulk sõltub sõlme tugevusest ja sortsi tasemest.
 
-_**Tase 3**_
+**Tase 3**
 
 **Sortsikunst III (€)**
 
@@ -891,7 +905,7 @@ Nagu uus element I, aga sorts valib uue elemendi. Ta õpib 2 selle elemendi loit
 
 Võimsamad maagilised kohad ja esemed jätavad endast maha tugevaid maagilisi jälgi, mida sorts näeb. (OG: maagilised jäljed on tähistatud kollaste lipukestega). Erinevalt maagist ja preestrist on sortside puhul jäljeajamine kogu aeg aktiivne. 
 
-### Sõdalane
+<h3 id="sodalane">Sõdalane</h3>
 
 *Osav võitleja. Sõdalane mõistab relvade kunsti ja on tugevaim omade seas. Tema tegutseb lahinguväljal eesotsas ja peab kauem vastu kui teised.*
 
@@ -903,7 +917,7 @@ Võimsamad maagilised kohad ja esemed jätavad endast maha tugevaid maagilisi j�
 
 #### Põhimoodul
 
-_**Tase 1**_
+**Tase 1**
 
 **Relvakasutus: sõdalane**
 
@@ -919,13 +933,13 @@ Sõdalane ei saa kunagi väsinud seisundit elupunktide kaotuse tõttu. Samuti pe
 
 Samuti on sõdalane piisavalt tugev, et kanda üht tegelast seda reaalselt tegemata. Kandmisel peab sõdalane üht kätt kantava õlal hoidma ja mõlemad peavad liikuma rahulikus kõndimise tempos.
 
-_**Tase 2**_
+**Tase 2**
 
 **Tugev tervis I**
 
 Sõdalane saab juurde ühe elupunkti.
 
-_**Tase 3**_
+**Tase 3**
 
 **Tugev tervis II**
 

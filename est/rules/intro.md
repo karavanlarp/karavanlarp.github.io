@@ -2,7 +2,9 @@
 layout: default-est
 title: Tegelasreeglid; sissejuhatus
 ---
-## Kuidas seda dokumenti kasutada? 
+## Tegelasreeglid: Sissejuhatus
+
+### Kuidas seda dokumenti kasutada? 
 
 Reeglid on esitatud kolmes osas. Esimene - üldiselt kirjeldav osa on kohustuslik lugeda kõigile, ja lahingreegleid, seisundeid ning muud olulist tutvustame ka algbriifil. Lühendite ja mõistete nimekiri seletab lahti kõik reeglites kasutatud spetsiifilised terminid. Teine osa hõlmab endast tegelase loomise reegleid ja klasside kirjeldust. Sellest on vajalik lugeda tegelase loomise osa. Kolmandaks on lisad - retsepte, loitse ja muud lisainfot sisaldav. Teie tegelasega seonduv - tema omadused, oskused ja lisad lähevad pärast tegelasankeedi täitmist loodavasse tegelaslehte. 
 
@@ -10,7 +12,16 @@ Reegid on uued. Kui te leiate neist vastukäivusi või midagi segadust tekitavat
 
 Oleme siin esitanud esimese kolme tegelastaseme oskused, neljanda ja viienda taseme oskused selguvad enne järgmiseid mänge. Tuleval mängul on kõik tegelased esimesel tasemel, mistõttu ongi targem süveneda pigem esimese taseme oskustesse.
 
-### Lühendid ja olulised mõisted:
+<div id="toc">
+	<h3>Sisukord</h3>
+	<ul>
+		<li><a href="#lyhendid">Lühendid</a></li>
+		<li><a href="#yldreeglid">Üldised reeglid</a></li>
+		<li><a href="#seisundid">Seisundid</a></li>
+	</ul>
+</div>
+
+<h3 id="lyhendid">Lühendid ja olulised mõisted:</h3>
 
 *Üldisemad mõisted on ära toodud siin. Klassispetsiifilised mõisted on lahti seletatud klassi kirjelduses.*
 
@@ -26,7 +37,7 @@ Oleme siin esitanud esimese kolme tegelastaseme oskused, neljanda ja viienda tas
 * **Critical** - tegelase HP langeb nulli, eirab turvist
 * **{Oskus}** - Tähendab eeldusoskust või taset, mis peab tegelasel vastava oskuse omandamiseks eelnevalt olemas olema.
 
-### Üldised reeglid:
+<h3 id="yldreeglid">Üldised reeglid:</h3>
 Olulised mängu käigu kohta käivad reeglid. 
 
 **Deklareerimine**
@@ -159,7 +170,7 @@ Mõlemad võitlejad viskavad kivi-paber-käärid kuni üks neist on saanud võid
 
 Kolmanda isiku sekkumisel võitlus katkeb.
 
-### Seisundid
+<h3 id="seisundid">Seisundid</h3>
 
 Baasseisundeid on neli. Nad on skaalal, paremast halvemani: Terve, Väsinud, Kurnatud, Suremas.
 

@@ -1,10 +1,12 @@
 ---
 layout: default-est
-title: Reeglid lisa 4, Sorts
+title: Tegelasreeglid; Sorts
 ---
-Loitsude tabel
+## Tegelasreeglid: Sorts
 
-|Loitsu nimi       |Tüüp|Maksumus|Kestus|Element|Tase|Kirjeldus|
+### Loitsude tabel
+
+|Loitsu nimi       |Tüüp|Mana|Kestus|Element|Tase|Kirjeldus|
 |------------------|---|---|---|----|---|---|
 |Elementaalkilp (P)|Eneseloits|2|???|Kõik|Lihtne|Sorts tekitab enda ümber elemendikilbi, mis annab talle ühe maagilise turvisepunkti.
 |Elementaallöök| Puuteloits|1-3|Kohene|Kõik|Lihtne|Tekitab sihtmärgile kuni sortsikunsti taseme jagu kahjustust. Iga tekitatud kahjustus maksab 1 manapunkti.
