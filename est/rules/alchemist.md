@@ -1,8 +1,8 @@
 ---
 layout: default-est
-title: Tegelasreeglid; Alkeemik
+title: Lisa 1; Alkeemik
 ---
-## Tegelasreeglid: Alkeemik
+## Lisa 1: Alkeemik
 
 ### Komponentide essentsid
 
