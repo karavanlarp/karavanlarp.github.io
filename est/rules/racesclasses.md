@@ -487,7 +487,7 @@ Theumiidid: <br />
 
 Theumiit oskab ressursside ja varustuse omamisel sepistada erinevaid maagilisi esemeid. 
 
-<h3 id="kelm">Kelm
+<h3 id="kelm">Kelm</h3>
 
 Kelm on pimeduses peituja ja kaval tegutseja. Ta võib kasutada oma oskusi ka seaduse poolel või töötada skaudina. 
 
