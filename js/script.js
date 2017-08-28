@@ -16,6 +16,12 @@ function dropReg() {
 	toggleVisibility(dropdown);
 }
 
+function dropRule() {
+	hideDropdownContents("ruleDropdown");
+	dropdown = document.getElementById("ruleDropdown");
+	toggleVisibility(dropdown);
+}
+
 function dropEvent() {
 	hideDropdownContents("eventDropdown");
 	dropdown = document.getElementById("eventDropdown");
