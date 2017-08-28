@@ -1,8 +1,8 @@
 ---
 layout: default-est
-title: Tegelasreeglid; Sorts
+title: Lisa 4; Sorts
 ---
-## Tegelasreeglid: Sorts
+## Lisa 4: Sorts
 
 ### Loitsude tabel
 
