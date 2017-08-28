@@ -1,6 +1,6 @@
 ---
 layout: default-est
-title: Tegelasreeglid; Varustus
+title: Lisa 5; Varustus
 ---
 ## Lisa 5: Varustus 
 
