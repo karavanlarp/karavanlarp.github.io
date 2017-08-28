@@ -10,24 +10,31 @@ Maagi loitsud toimivad üksteisest sõltumatutel lainetel, mistõttu on maagilis
 Metamaagilised efektid:
 
 Alfa laine
+
 Maag lisab loitsule lainetüübi: alfa.
 
 Beeta laine
+
 Maag lisab loitsule lainetüübi: beeta.
 
 Gamma laine
+
 Maag lisab loitsule lainetüübi: gamma.
 
 Delta laine
+
 Maag lisab loitsule lainetüübi: delta.
 
 Epsilon laine
+
 Maag lisab loitsule lainetüübi: epsilon.
 
 Pikenda kestvust
+
 Maagi loitsu kestvus kahekordistub.
 
 Raskesti tühistatav {Maag tase 3}
+
 Maagi loitsu tühistamiseks tuleb kulutada 2 korda rohkem apeironit.
 
 ### Ülekasutus 
@@ -49,46 +56,76 @@ Kui maag ületab oma päevas lubatud apeironi kasutamise määra, tabavad teda �
 **Erialad**
 
 **Serviilid** (valitav ainult Impeeriumis) 
-* Tase 1
-* Serviili kutsumine 
-* 1 apeiron
-* Sihtmärk: osutatud serviil
-* Kestvus: kohene
-* Maag aktiveerib “magava” serviili. Võimalik on ka serviile, kes parajasti ametikohustusi ei kohale kutsuda, ning nendega vestelda või neile tööd pakkuda. Kõik läheduses viibivad serviilid tulevad maagi juurde.
 
-* Tase 2
-* Peleta serviil
-* 1 apeiron
-* Sihtmärk: osutatud serviil
-* Kestvus: 5 min
-* Võimusõna: 
-* Maag valib serviili, kes ei suuda maagile lähemale kui 10m tulla. Põgeneb lähedusest esimesel võimalusel. Kui põgenemisvõimalus puudub, siis serviil lihtsalt “lülitub välja”. 
+Tase 1
 
-* Tase 3
-* Paranda serviil 
-* 1-3 apeironit
-* Maag parandab serviilile tehtud füüsilised kahjustused. Kulutades 1 apeironi taastub serviilil 3 elupunkti.
+Serviili kutsumine 
+
+1 apeiron
+
+Sihtmärk: osutatud serviil
+
+Kestvus: kohene
+Maag aktiveerib “magava” serviili. Võimalik on ka serviile, kes parajasti ametikohustusi ei kohale kutsuda, ning nendega vestelda või neile tööd pakkuda. Kõik läheduses viibivad serviilid tulevad maagi juurde.
+
+
+Tase 2
+
+Peleta serviil
+
+1 apeiron
+
+Sihtmärk: osutatud serviil
+
+Kestvus: 5 min
+
+Võimusõna: 
+
+Maag valib serviili, kes ei suuda maagile lähemale kui 10m tulla. Põgeneb lähedusest esimesel võimalusel. Kui põgenemisvõimalus puudub, siis serviil lihtsalt “lülitub välja”. 
+
+
+Tase 3
+
+Paranda serviil 
+
+1-3 apeironit
+
+Maag parandab serviilile tehtud füüsilised kahjustused. Kulutades 1 apeironi taastub serviilil 3 elupunkti.
 
 **Leshyd** (valitav ainult Vabadel maadel)
 
 Tase 1
+
 Leshy kutsumine 
+
 1 apeiron
+
 Sihtmärk: osutatud leshy
+
 Kestvus: kohene
+
 Maag aktiveerib “magava” leshy. Võimalik on ka leshysid, kes parajasti ametikohustusi ei kohale kutsuda, ning nendega vestelda või neile tööd pakkuda. Kõik läheduses olevad Leshyd tulevad maagi juurde.
 
+
 Tase 2
+
 Peleta leshy
+
 1 apeiron
+
 Sihtmärk: osutatud leshy
+
 Kestvus: 5 min
-Võimusõna: 
+
 Maag valib leshy, kes ei suuda maagile lähemale kui 10m tulla. Põgeneb lähedusest esimesel võimalusel. Kui põgenemisvõimalus puudub, siis leshy lihstalt “lülitub välja”. 
 
+
 Tase 3
+
 Paranda leshy 
+
 1-3 apeironit
+
 Maag parandab leshyle tehtud füüsilised kahjustused. Kulutades 1 apeironi taastub leshyl 3 elupunkti.
 
 ### Apeiron
