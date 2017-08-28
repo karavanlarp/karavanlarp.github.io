@@ -8,7 +8,7 @@ Siin on kirjeldatud klasside algvarustus ja oskuste kasutamiseks vajalikud vahen
 
 Varustuse ja erinevate esemete sisse toomisel ei ole otseseid piiranguid, aga võime otsustada mingit varustust mängu mitte lubada. 
 
-**Alkeemik**
+### Alkeemik
 
 **Alkeemiku raamat** - (Kohustuslik) Raamatus on kirjas retseptid, essentside reaktsioonide tabel ja muud infot. 
 
@@ -20,7 +20,7 @@ Varustuse ja erinevate esemete sisse toomisel ei ole otseseid piiranguid, aga v�
 
 **Lisavarustus** - Komponentide hoidmiseks võib kasutada erinevaid topse ja karpe. Jookide valmistamiseks võib kasutada komponentide töötlemiseks näiteks uhmrit ja erinevaid segamisvahendeid. 
 
-**Ekspert**
+### Ekspert
 
 **Amet** - Tegelane võib võtta misiganes varustust ametitöö jaoks vaja on. 
 
@@ -36,7 +36,7 @@ Varustuse ja erinevate esemete sisse toomisel ei ole otseseid piiranguid, aga v�
 
 **Korjamine** - Vajalik on lõikamiseks sobilik tööriist, nuga või sirp.
 
-**Kelm**
+### Kelm
 
 **Muukimisvahendid** - (Kohustuslik: Lukumeister) Vahendid, millega saab lukke muukida. 
 
@@ -44,7 +44,7 @@ Varustuse ja erinevate esemete sisse toomisel ei ole otseseid piiranguid, aga v�
 
 **Piinamisriistad** - (Kohustuslik: Piinamine)  Vahendid, millega saab tegelast piinata. 
 
-**Maag** 
+### Maag 
 
 **Apeiron** - Antakse mängujuhtide poolt. 
 
@@ -52,7 +52,7 @@ Varustuse ja erinevate esemete sisse toomisel ei ole otseseid piiranguid, aga v�
 
 **Loitsukettad** - (Kohustuslik) Ketas peab olema minimaalselt 10 cm diameetriga. Valmis loitsukettal peab olema maagi märk ja loitsu märk. Puhtal loitsukettal peab olema maagi märk. Materjaliks sobib midagi sellist, millele saab mängu jooksul peale kirjutada, kui on vaja uusi loitse luua. Ideaalist võiks materjal olla midagi sellist, mida ei saa kokku murda. 
 
-**Preester** 
+### Preester 
 
 **Püha sümbol** - (Kohustuslik) Sümbol peab olema 15 x 15 cm ja kostüümi küljest eemaldatav. Võib olla riidest, aga tal võiks olla kas vähemalt papist tagune, et seda kokku murda ei saaks. Materjal on muidu vaba, oluline on, et sümbol oleks üks nendest, mis on jumalate materjalis kirjas. 
 
