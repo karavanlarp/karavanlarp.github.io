@@ -67,7 +67,7 @@ Relvatabamus kustutab tegelase elupunkti, turvise olemasolul esmalt turvisepunkt
 
 Vaikimisi on tabamus alati 1. Seda ka juhul kui tegelasel on võime sooritada suurema kahjustusega rünnakuid, aga ta seda lüües ei deklareeri. 
 
-Ilma relvakasutuse oskuseta tegelane võib lahingsituatsioonis ennast küll relvaga kaitsta, kuid ei tohi sooritada rünnakuid. Oskusega tegelane võib kasutada relvi lahingsituatsioonis ründamiseks. Väljaspool lahingut saab iga tegelane teist vardasse ajada.
+Ilma relvakasutuse oskuseta tegelane võib lahingsituatsioonis ennast küll relvaga kaitsta, kuid ei tohi sooritada rünnakuid (erandiks on noad, mille pikkus jääb alla 50cm). Oskusega tegelane võib kasutada relvi lahingsituatsioonis ründamiseks. 
 
 **Haavadest**
 Tegelane on haavatud täpselt nii, kuidas ta pihta saab. Kui teda lüüakse tömbi relvaga, on tulemuseks sisemine kahjustus või isegi luumurd. Kui teda lüüakse terava relvaga, on tulemuseks veritsev haav. Samuti tuleb Meditsiini oskuse kasutamisel tegeleda tegelase vigastustega ja neid rollimänguliselt tohterdada.
@@ -136,7 +136,7 @@ Kui loitsija on juba lausunud loitsu OG nime, läheb loits lahendamisele.
 
 * **Maag** - Maag keskendub valitud loitsule ja lausub selle vallandava võimusõna. Vajalik: konkreetse loitsu ketas ja piisavalt apeironit. Samuti peab maag olema võimeline kõnelema, kas või sosistades.
 * **Preester** - Preester kutsub nime või tiitliga oma jumalat ning esitab talle oma palve. Vajalik: kontakt püha sümboliga. Samuti peab preester olema võimeline kõnelema, kas või sosistades. 
-* **Sorts** - Sorts keskendub oma elemendile erinevate žestidega. 
+* **Sorts** - Sorts keskendub oma elemendile erinevate žestidega. Vajalik: vähemalt üks käsi vaba. 
 
 Valguspalle saab kasutada oma loitsimise markeerimiseks. Näiteks võib tulepalli tegev tulesorts punase tule sisse lülitada, kui oma elemendile keskendub. Loitsu lahendudes võib valguse jälle välja lülitada. Soovikorral võib mängija kasutada enda valgusallikat, täpsemalt saab selle kohta lugeda Varustuse lisas. 
 
@@ -178,7 +178,7 @@ Baasseisundeid on neli. Nad on skaalal, paremast halvemani: Terve, Väsinud, Kur
 
 **Väsinud/Tired** - Tegelane ei suuda kasutada keskendumist vajavaid oskusi. (Märgitud sümboliga “€” reeglites). Kui tegelane kaotab elupunkti, on ta väsinud. Väsinud seisund lõppeb pärast 30 minutit puhkust.
 
-**Kurnatud/Exhausted** - Tegelase füüsiline ja vaimne seisund on kehv. Ta ei suuda kasutada keskendumist vajavaid oskusi (€), võidelda, joosta ega tegeleda muu füüsiliselt koormava tegevusega. Kui tegelase elupunktid langevad nulli on ta kurnatud. Kui kurnatud tegelane saab relvatabamuse või muu elupunkte vähendava efekti mõjutus muutub tema seisund suremas seisundiks. Elupunkti(de) taastamine ei lõpeta kurnatud seisundit. Kurnatud seisundi lõpetab oskuse meditsiin kasutus, alkeemilised ja maagilised ravitsusvõtted, ning see ei lõpe iseenesest (va omadusega regeneratsioon).
+**Kurnatud/Exhausted** - Tegelase füüsiline ja vaimne seisund on kehv. Ta ei suuda kasutada keskendumist vajavaid oskusi (€), võidelda, joosta ega tegeleda muu füüsiliselt koormava tegevusega. Kui tegelase elupunktid langevad nulli, on ta kurnatud. Kui kurnatud tegelane saab relvatabamuse või muu elupunkte vähendava efekti mõjutus muutub tema seisund suremas seisundiks. Elupunkti(de) taastamine ei lõpeta kurnatud seisundit. Kurnatud seisundi lõpetab oskuse meditsiin kasutus, alkeemilised ja maagilised ravitsusvõtted, ning see ei lõpe iseenesest (va omadusega regeneratsioon).
 
 **Suremas/Dying** - Tegelase seisund on kriitiline. Ta ei või enam võidelda ega kasutada oma oskusi. Ta peab heitma pikali ja võib liikuda väga aeglaselt ja roomates. Lubatud ei ole ka aktiivselt rääkida vaid lausuda aeglaselt mõningaid sõnu. Tegelane, kes ei saa kohest arstiabi vähemalt veerand tunni jooksul lahkub elavate seast. Suremas seisundi lõpetab oskuse meditsiin kasutus, alkeemilised ja maagilised ravitsusvõtted. 
 
