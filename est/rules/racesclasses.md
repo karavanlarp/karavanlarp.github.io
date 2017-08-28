@@ -1,6 +1,6 @@
 ---
 layout: default-est
-title: Tegelasreeglid; rassid ning klassid
+title: Tegelasreeglid; Rassid ning klassid
 ---
 ## Tegelasreeglid: Rassid ning klassid
 <div id="toc">
@@ -231,7 +231,7 @@ Teise alkeemiku raamatut uurides on võimalik õppida uusi retsepte. Uue retsept
 
 **Pruuliste valmistamine (€)**
 
-Alkeemik oskab valmistada pruuliseid, millede retseptid on kirjas tema alkeemiku raamatus. Pruulise valmistamiseks peab alkeemik kulutama ära pruulise retseptis kirjas olevad komponendid. Mängul valmistatud pruulised kaotavad mängu lõppedes oma efekti. (Vt. lisa alkeemia). Pruuliste valmistamisaeg on: kas 10 minutit/15 minutit tase või 3 minutit/komponent. 
+Alkeemik oskab valmistada pruuliseid, millede retseptid on kirjas tema alkeemiku raamatus. Pruulise valmistamiseks peab alkeemik kulutama ära pruulise retseptis kirjas olevad komponendid. Mängul valmistatud pruulised kaotavad mängu lõppedes oma efekti. (Vt. lisa alkeemia). Pruuliste valmistamisaeg on: 3 minutit/komponent. 
 
 Tase 1 alkeemik alustab mängu oma valitud 5 levinud ja 2 erilise komponendiga.
 
@@ -474,19 +474,6 @@ Tegelane võidab käsivõitluses viigi korral.
 
 Tegelane võib uimastada teise tegelase. Selleks peab ta käes hoidma rasket eset, ning tegema ohvrile ootamatult seljatagant pai. Ohver on seejärel uimastatud seisundis.
 
-Järgnevad oskused ei lähe ühegi mooduli alla ja on valitavad ainult vastava kultuuri esindajatele. 
-
-Impeerium: 
-Something
-
-Vabad Maad: 
-Something
-
-Theumiidid: <br />
-**Maagiline sepistamine I {Ekspert tase 3}**
-
-Theumiit oskab ressursside ja varustuse omamisel sepistada erinevaid maagilisi esemeid. 
-
 <h3 id="kelm">Kelm</h3>
 
 Kelm on pimeduses peituja ja kaval tegutseja. Ta võib kasutada oma oskusi ka seaduse poolel või töötada skaudina. 
@@ -662,13 +649,17 @@ Maag oskab valmistada loitse, mis on kirjas ta loitsuraamatus.
 
 **Maagiline vastupidavus I**
 
-Maag võib mängu jooksul kasutada kuni 8 ühikut apeironit. (Vaata Lisa 3)
+Maag võib mängu jooksul kasutada kuni 8 ühikut apeironit. (Vaata Lisa 2)
+
+**Apeironi rikastamine**
+
+Tegelane võib vahendite ja toormaterjali olemasolul toota apeironit. Oskust saab kasutada vaid tööstuslike masinate olemasolul.
 
 **Tase 2**
 
 **Eriala I**
 
-Maag valib ühe eriala. Ta oskab kõiki erialaloitse. (Erialad on toodud lisas 3)
+Maag valib ühe eriala. Ta oskab kõiki erialaloitse. (Erialad on toodud lisas 2)
 
 **Tase 3**
 
@@ -698,13 +689,12 @@ Maag võib mängu jooksul kasutada kuni 12 ühikut apeironit.
 
 Maag võib mängu jooksul kasutada kuni 16 ühikut apeironit.
 
-**Apeironi rikastamine {Maag tase 3}**
-
-Tegelane võib vahendite ja toormaterjali olemasolul toota apeironit.
-
 **Lisaeriala {Maag tase 2}**
 
 Maag valib endale lisaeriala. Ta oskab lisaeriala loitse nagu oleks tema maagi tase ühe võrra madalam.
+
+**Apeironi rikastamine II {Maag tase 3}**
+Tegelane võib vahendite ja toormaterjali olemasolul toota apeironit. Oskust saab kasutada ka reisil olles, kuid selleks peab maagil olema vastav masin.
 
 **Metamaagia I**
 
@@ -714,9 +704,25 @@ Maag oskab ühte metamaagilist efekti. (Metamaagilised efektid on toodud lisas 2
 
 Maag oskab kahte metamaagilist efekti.
 
-**Metamaagia III**
+**Metamaagia III** {Maag tase 3}
 
 Maag oskab kolme metamaagilist efekti.
+
+**Multimaagia I**
+
+Maag võib kasutada korraga kuni 2 metamaagilist efekti.
+
+**Multimaagia II {Maag tase 3}**
+
+Maag võib kasutada korraga kuni 3 metamaagilist efekti.
+
+**Loitsutarkus I**
+
+Maag õpib 2 uut tase 1 loitsu. Oskust võib valida korduvalt.
+
+**Kogemustega loitsija {Maag tase 3}**
+
+Maag võib valmistada loitse väsinud seisundis olles.
 
 <h3 id="preester">Preester</h3>
 
@@ -727,7 +733,7 @@ Preestrite maagia ehk jumalmaagia on teine alentide maagiasüsteemist. Preestrit
 Preestrid peavad samuti järgima oma jumala põhimõtteid. Kui nad neid eiravad, võivad nad mõneks ajaks kaotada oma sideme jumala väega. Kui nad neid väga sügavalt rikuvad, võivad nad sideme jumalaga igaveseks kaotada. 
 
 #### Jumalad: 
-Jumalad on esitatud oma kultuurilise vastandiga. Allakriipsutatud jumalatel on tegelikult samane domeen. 
+Jumalad on esitatud oma kultuurilise vastandiga.  
 
 |Impeerium | Domeen | Vabad Maad | Domeen |
 | ------- | ----------------- | ------ | ---------------- |
@@ -782,13 +788,13 @@ Preester valib 2 kõrgemat palvet, mida ta oskab lausuda.
 
 **Mõjuala loomine {Preester tase 3}**
 
-Preester loob oma jumala mõjuala. Kõik (va mõjuala looja jumalale vastandliku jumala preestrid)  mõjualas peatuvad preestrid taastavad automaatselt 2 palvet. Samuti mõjutab jumalik mõjuala mitmete toimingute ja palvete läbiviimist.
+Preester loob oma jumala mõjuala. Kõik (va mõjuala looja jumalale vastandliku jumala preestrid) mõjualas peatuvad preestrid taastavad automaatselt 2 palvet. Samuti mõjutab jumalik mõjuala mitmete toimingute ja palvete läbiviimist. Preester võib luua ühe mõjuala mängu jooksul.
 
 **Lisapalve I {Preester tase 2}**
 
 Preester õpib 2 uut palvet.
 
-**Lisapalve II**
+**Lisapalve II {Preester tase 2}**
 
 Preester õpib 2 uut palvet.
 
@@ -798,7 +804,7 @@ Preester õpib 2 uut palvet.
 
 **Kõrgem lisapalve I {Preester tase 3}**
 
-Preester õpib ühe uue kõrgema palve.
+Preester õpib ühe uue kõrgema palve. Oskust võib valida korduvalt.
 
 **Misjonär I**
 
