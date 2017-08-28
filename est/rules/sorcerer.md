@@ -21,9 +21,9 @@ title: Tegelasreeglid; Sorts
 |Sideloits|Enese|1/minut|Eriline|Õhk|Elemendi|Loitsija võib võtta ühendust mõne tuttava teise tegelasega, kes viibib mängul. Selleks saab ta talle OG helistada. Juhul kui tegelane ei vasta, ei kulutata manapunkti.
 |Tulekera|Viske|1|Kohene|Tuli|Elemendi|Sorts viskab sihtmärki loitsukotiga, tabamus põhjustab sihtmärgile 1 kahjustuse.
 |Turvis (P)|Enese<br />Puute|1-2|???|Vesi, Maa, Vari|Elemendi|Eneseuna lisab sorts endale 1 maagilist turvisepunkti 1 manapunkti eest. Puuteuna lisab sorts sihtmärgile 1 turvisepunkti 2 manapunkti eest. Loitsu ei ole võimalik lausuda mitu korda samale sihtmärgile.
-|Tuuleiil|Osutusloits|1-3|Kohene|Õhk, Vari |Elemendi|Loitsija paiskab 1-3 tegelast endast 15 meetri kaugusele. Iga tegelase paiskamiseks tuleb kulutada 1 manapunkt.
+|Tuuleiil|Osutus|1-3|Kohene|Õhk, Vari |Elemendi|Loitsija paiskab 1-3 tegelast endast 15 meetri kaugusele. Iga tegelase paiskamiseks tuleb kulutada 1 manapunkt.
 |Valgusta |Enese||1 mäng|Tuli, Valgus|Elemendi|1 manapunkti eest loob sorts maagilise valgusallika (kattega taskulamp, helendav valguspulgake vms).
-|Välgata |Osutusloits|1|Kohene|Valgus|Elemendi|Loitsija osutab tegelasele, kes muutub oimetuks. Kasutatav ainult tegelaste vastu, kes on loitsijat ründamas või vaatavad loitsijale silma. Alternatiivselt on võimalik kasutada seda loitsu tegelase peal, et lõpetada Peida ja Varja loitsud.
+|Välgata |Osutus|1|Kohene|Valgus|Elemendi|Loitsija osutab tegelasele, kes muutub oimetuks. Kasutatav ainult tegelaste vastu, kes on loitsijat ründamas või vaatavad loitsijale silma. Alternatiivselt on võimalik kasutada seda loitsu tegelase peal, et lõpetada Peida ja Varja loitsud.
 |Aeglusta|Puute|2|1 tund|Kõik|Keeruline|Loitsija aeglustab sihtmärgi kehaprotsesse 2-kordselt. Näiteks mõjuvad mürgid ja haigused 2 korda aeglasemalt. Samuti ei saa sihtmärk joosta. Loitsu lõppedes terveneb väsinud seisundis tegelane.
 |Kehatus (P)|Enese|4|15 minutit|Kõik|Keeruline|Tegelane muutub kehatuks. Teda ei mõjuta mittemaagilised relvalöögid ja lõksud. Kehatud tegelane ei saa võidelda ega loitsida. Kehatus kestab kuni 15 minutit.
 |Kiirenda|Puute|2|1 tund|Kõik|Keeruline|Loitsija kiirendab sihtmärgi kehaprotsesse 2-kordselt. Näiteks mõjuvad mürgid ja haigused 2 korda kiiremini. Samuti saab sihtmärk 1 turvisepunkti. Loitsu lõppedes väsib terves seisundis tegelane.
