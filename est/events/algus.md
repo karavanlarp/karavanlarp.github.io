@@ -44,7 +44,7 @@ Türi lähedal suvilas. Koordinaadid [siin](http://bit.ly/2wvrEK3).
 
 Eelregistreeruda võib vastava ankeedi abil. Registreerumise kinnitab täielikult mängumaksu tasumine. Mängijakohti on 20-30. 
 
-Mängule registreerumine on avatud PCdele **28. augustini**, NPCdele **4. septembrini**. 
+Mängule registreerumine on avatud nii PCdele kui NPCdele **4. septembrini**. 
 
 [Siin](https://karavanlarp.github.io/est/reg/registration.html) pikemalt registreerimise ja osalemise kohta. 
 
