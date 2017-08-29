@@ -55,7 +55,7 @@ Mängule registreerumine on avatud nii PCdele kui NPCdele **4. septembrini**.
 * Monstering NPC - 8 eurot. Saad metsas ringi joosta ja mängijaid varitseda. 
 * Sponsorpilet - min 30 eurot (juhul kui maksad PC koha eest). Selle piletiga saad pakkuda odavama mängumaksu mõnele väiksemate võimalustega mängijale. 
 
-Mängumaksu tasumise tähtaeg on PCdele **28. august**, NPCdele **4. september**. Me ei tagasta mängumaksu pärast tähtaja möödumist. 
+Mängumaksu tasumise tähtaeg on **4. september**. Me ei tagasta mängumaksu pärast tähtaja möödumist. 
 
 Kui soovite maksta mitmes osas või hiljem, tuleb teil mängujuhtidega eraldi ühendust võtta. 
 
