@@ -44,7 +44,7 @@ In a summer cottage near Türi, Estonia. Coordinates [here](http://bit.ly/2wvrEK
 
 You may pre-register with our registration form. You will be registered when you have paid for the event. There are 20-30 player spots.
 
-Registration for PCs is open until **August 28th**, for NPCs until **September 4th**. 
+Registration for PCs and NPCs both is open until **September 4th**. 
 
 [Here](https://karavanlarp.github.io/eng/reg/registration.html) for a longer explanation for registering.
 
@@ -55,7 +55,7 @@ Registration for PCs is open until **August 28th**, for NPCs until **September 4
 * Monstering NPC - 8 euros. You can run around in the forest and ambush the players. 
 * Sponsor ticket - min 30 euros. (if playing for a PC spot). With this ticket you can supply a player with less means for a spot at the event.  
 
-Payment deadline for PCs is **August 28th**, for NPCs **September 4th**. We will not be returning the payment after the passing of the deadlines. 
+Payment deadline is **September 4th**. We will not be returning the payment after the passing of the deadlines. 
 
 If you want to pay in installments or later, please contact the gamemasters about it. 
 
