@@ -147,7 +147,7 @@ Kui komponentide tulbas on kaks korda nimetatud sama komponenti, tähendabki see
       <td>1</td>
       <td>Kohene</td>
       <td><ul><li>Harilik haavarohi¤¤</li><li>Kitsetatar¤</li></ul></td>
-      <td>Tegelase baasseisund paraneb 1 võrra ja ta taastab 1 elupunkti.</td>
+      <td>Tegelase põhiseisund paraneb 1 võrra ja ta taastab 1 elupunkti.</td>
     </tr>
     <tr>
       <td>Unerohi</td>
