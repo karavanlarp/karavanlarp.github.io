@@ -103,13 +103,13 @@ Maksumus: 1-3 manapunkti<br />
 Kestvus: Kohene<br />
 Loitsija paiskab 1-3 tegelast endast 15 meetri kaugusele. Iga tegelase paiskamiseks tuleb kulutada 1 manapunkt.
 
-_**Valgusta **_<br />
+_**Valgusta**_<br />
 Tüüp: Eneseloits<br />
 Maksumus: 1 manapunkt<br />
 Kestvus: 1 mäng<br />
 1 manapunkti eest loob sorts maagilise valgusallika (kattega taskulamp, helendav valguspulgake vms).
 
-_**Välgata **_<br />
+_**Välgata**_<br />
 Tüüp: Osutusloits<br />
 Maksumus: 1 manapunkt<br />
 Kestvus: Kohene<br />
@@ -165,7 +165,7 @@ Maksumus: 3 manapunkti<br />
 Kestvus: Kohene<br />
 Tegelane liigub teistele puutumatuna 10-100 meetrit. (OG: asetab käe pea peale ja liigub sinna, kuhu uuesti ilmub.) 
 
-_**Varja **_<br />
+_**Varja**_<br />
 Tüüp: Puuteloits<br />
 Maksumus: 3 manapunkti<br />
 Kestvus: 1 mäng<br />
