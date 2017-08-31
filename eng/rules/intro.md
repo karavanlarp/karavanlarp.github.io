@@ -102,6 +102,7 @@ Ranged weapons (arrows) ignore non-magical armor points. They wound the characte
 * Throwing weapons - under 30cm (with the exception of javelins)
 
 **Special battle effects**
+
 Mana pouches - Being hit with a mana pouch causes the requisite effect. Hits against armor and shields also count. The damage dealt with a mana pouch ignores armor. 
 
 **Magic**
