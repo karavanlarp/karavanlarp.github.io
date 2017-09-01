@@ -28,7 +28,7 @@ Kõik tegelased oskavad lugeda ja kirjutada oma emakeeles ja keeltes, mida nende
 
 **Tegelaspiirangud**
 
-Meil on mõned piirangud PCdele, kuna teatud ühiskonnastaatusega tegelaste kohalolek mängus mõjutaks selle tegevust liigselt. 
+Meil on mõned piirangud PCdele, kuna teatud ühiskonnastaatusega tegelaste kohalolek mängus mõjutaks liigselt mängu kulgu. 
 
 PCd ei saa kindlasti olla: 
 * Valitud 
@@ -37,13 +37,13 @@ PCd ei saa kindlasti olla:
 * Igavesed lindpriid 
 * Klanni- ja/või hõimupealikud või targad
 
-(PCd võivad olla madalal positsioonil ametnikud, väiksema võimuga politseinikud jms: oluline on, et neil ei oleks võimalik ainuisikuliselt mängu tegevustikku väärata, öeldes "ma nüüd kutsun oma kolleegid ja siis me teeme XYZ")
+(PCd võivad olla madalal positsioonil ametnikud, väiksema võimuga politseinikud jms: oluline on, et neil ei oleks võimalik ainuisikuliselt mängu tegevustikku väänata, öeldes "ma nüüd kutsun oma kolleegid ja siis me teeme XYZ")
 
-Ülejäänud soovide puhul soovitame GMide käest vähemalt küsida, me lubame alati kõik tegelaspalved läbi vaadata. 
+Ülejäänud soovide puhul soovitame GMidega nõu pidada – me vaatame alati kõik tegelasepalved läbi. 
 
-Samuti on meil limiit ühtse grupina tulevatele tegelastele. **Limiit on 5 inimest.** Selle limiidiga soovime vältida, et mõni grupp sarjas kasvaks nii suureks, et hakkab mängu domineerima. Ühtse grupi all mõtleme seda, et tegelased tunnevad teineteist juba enne Karavanile tulekut. 
+Samuti on meil limiit ühtse grupina tulevatele tegelastele, milleks on 5 inimest Selle limiidiga soovime vältida, et mõni grupp sarjas kasvaks nii suureks, et hakkab mängu domineerima. Ühtse grupi all mõtleme seda, et tegelased tunnevad teineteist juba enne Karavanile tulekut. 
 
-Otse loomulikult on lubatud planeerida sõpradega enne mängu, et teie tegelased hakkavad mängul omavahel rohkem suhtlema ja koos tegutsema. 
+Otse loomulikult on aga lubatud planeerida sõpradega enne mängu, et teie tegelased hakkavad mängul omavahel rohkem suhtlema ja koos tegutsema. 
 
 <hr>
 
@@ -61,19 +61,19 @@ Iga tegelane saab lisaks oma klassile valida ühe taseme Ekspert oskusi vastaval
 |Tase 2 klass                            | 6 TP     |
 |Tase 3 klass                            | 10 TP    |
 
-Kogu see protsess käib tegelasankeedi kaudu, kus saab teha ka klassi ja oskuste valikuid. Siiski on enne ankeedi täitma hakkamist hea mingil määral mõelda, millist tegelast teha soovid.
+Klassi ja oskuste valik käib tegelaseankeedi kaudu. Siiski on enne ankeedi täitma hakkamist hea mingil määral mõelda, millist tegelast teha soovid.
 
-Tegelane alustab mängu 50 stauruse või sama väärtusega Vabade Maade valuutaga. Samuti on tegelasel tema klassikirjelduses määratud varustus. Ressursid nagu komponendid ja apeiron antakse mängijale GMide poolt. Varustus on üldiselt mängija enda vastutusel, aga alati võib GMidega ühendust võtta laenamise osas. Oskuste kasutamiseks vajaliku varustuse nimekirja leiate varustuse lisast. 
+Tegelane alustab mängu 50 stauruse või sama väärtusega Vabade Maade valuutaga. Samuti on tegelasel tema klassikirjelduses määratud varustus. Ressursid nagu komponendid ja apeiron antakse mängijale GMide poolt. Varustus on üldiselt mängija enda vastutusel, aga alati võib kostüümielementide laenamiseks GMidega ühendust võtta. Oskuste kasutamiseks vajaliku varustuse nimekirja leiate varustuse lisast.
 
 **Surm:** Tegelase surm ei kuluta mängija tegelaspunkte. Mängijal on võimalik oma tegelaspunktidega järgmiseks mänguks luua uus tegelane. Uus tegelane ei tohi olla seotud lähedalt eelmise tegelasega ja ta ei saa kasutada eelmise tegelase ressursse või tutvusi. 
 
 **Mille eest tegelaspunkte saab?**
 
-Tegelaspunkte jagame PCdele ja NPCdele. On baasmäär, mille anname üritusel osalemise eest. Kostüümi, ettevalmistuse ja rollimängu eest on võimalik saada lisapunkte. NPCd saavad samuti osalemise eest tegelaspunkte, mida võivad hiljem kasutada sarja mõnel hilisemal mängul PC tegelase loomiseks. See tähendab küll seda, et on oluline, et NPCna saadud informatsiooni PC mängimiseks ei kasutataks. 
+Tegelaspunkte jagame PCdele ja NPCdele. Mängul osalemise eest on määratud baaspunktid; kostüümi, ettevalmistuse ja rollimängu eest on võimalik saada lisapunkte. Ka NPCd saavad mängus osalemise eest tegelasepunkte, mida nad võivad hiljem kasutada PC tegelase loomiseks. NPCna saadud informatsiooni on keelatud kasutada, kui sisenetakse mängu PCna. 
 
 <h3 id="rassid">Rassid:</h3>
 
-*Rasside, nende omaduste ja maksumuste kirjeldus.*
+*Rasside, nende omaduste ja maksumuste kirjeldus. Rasside esindajad saavad oma valitud rassi kohta lisainfot.*
 
 #### Alenti
 
@@ -89,7 +89,7 @@ Klassipiirang - Tavaline alenti ei saa valida sortsi klassi.
 
 **Omadused:**
 
-**Lagaari suudlus** - Lagaar võib imeda teise tegelase verd ja sellega taastada enda elupunkte. Tegelane peab olema nõus lagaarile verd andma või olema kammitsetud seisundis. Iga minutiga saab lagaar ühe elupunkti ja teine tegelane kaotab ühe. Lagaar saab võtta verd alentidelt (sh vanaverelistelt ja vulveritelt). Theumiitidel ei ole verd ning nii lagaari kui moroia veri ei ole toitev. 
+**Lagaari suudlus** - Lagaar võib imeda teise tegelase verd ja sellega taastada enda elupunkte. Selleks, et teise tegelase verd imeda, peab viimane sellega nõustuma või olema “kammitsetud” seisundis. Iga minutiga saab lagaar ühe elupunkti ja teine tegelane kaotab ühe. Lagaar saab verd imeda alentidelt, sealhulgas vanaverelistelt ja vulveritelt, kuid mitte theumiitidelt, sest neil pole verd, ega moroiadelt ja lagaaridelt, kuna nende veri pole toitev. 
 
 **Immuunsus mürkidele** - Lagaar on immuunne mürkidele ja võib eirata nendega seotud seisundeid.
 
@@ -108,9 +108,9 @@ Klassipiirang - Lagaar ei saa valida preestri ega sortsi klassi.
 
 **Omadused:**
 
-**Koolja tervis** - Moroia elupunkte ei ole võimalik tavapäraste vahenditega taastada. Kõik efektid, mis tavapärasest taastaksid tegelase elupunkte, ei mõjuta moroiat. Moroia ravimiseks on vaja alkeemilist pruulist haavaliim või surmapreestri palvet paranda moroia. 
+**Koolja tervis** - Moroia elupunkte pole võimalik tavapäraste vahenditega taastada. Mitte ükski efekt, mis tavaliselt taastavad elupunkte, ei mõjuta moroiat. Moroia ravimiseks on vaja alkeemilist pruulist _haavaliim_ või surmapreestri palvet _paranda moroia_. 
 
-**Koolja sitkus** - Moroia ei ole kunagi väsinud ega kurnatud. Elupunktide nulli langemisel on moroia suremas seisundis. Moroia võib viibida suremas seisundis nii kaua, kuni keegi ta lõplikult hävitab (põletab, raiub tükkideks ja puistab laiali) või ravib. 
+**Koolja sitkus** - Moroia pole kunagi väsinud ega kurnatud. Elupunktide nulli langemisel on moroia suremas seisundis. Moroia võib viibida suremas seisundis nii kaua, kuni keegi ta lõplikult hävitab (põletab, raiub tükkideks ja puistab laiali) või ravib. 
 
 **Immuunsus haigustele ja mürkidele** - Moroia on immuunne kõikidele mürkidele ja haigustele. Tegelane ignoreerib neid seisundeid. 
 
@@ -144,17 +144,17 @@ Klassipiirang - Vanavereline ei saa valida sortsi klassi.
 
 **Omadused:**
 
-**Loomkuju** - Vulveril on 2 vormi, alenti vorm ja loomkuju vorm. Muutumine vormide vahel võtab niikaua, kuni mängija teeb OG vastavaid kostüümimuutusi (paigaldab küüniseid, kõrvu, sabasid). Raevunud vulverid võivad kaotada võime vorme vahetada ja jäävad siis igaveseks loomkujule.
+**Loomkuju** - Vulveril on kaks vormi: alenti vorm ja loomkuju vorm. Muutumine vormide vahel võtab aega seni, kuni mängija teeb OG vastavaid kostüümimuutusi (paigaldab küüniseid, kõrvu, sabasid). Raevunud vulverid võivad kaotada võime vorme vahetada ja jäävad siis igaveseks loomkujule.
 
 **Elaja kingitus** - Kui vulver läheb loomkujule, on tema kasutada üks järgnevatest omadustest:
-* **Hea tervis** - Vulveril on üks elupunkt rohkem.
+* **Hea tervis** - Vulveril on üks elupunkt rohkem. (Elupunkt kaob alenti vormi minnes)
 * **Üleloomulik jõud** - Vulveri mõjutamiseks käsivõitlusefektidega peab tegelane omama üleloomuliku jõu oskust. Vastasel juhul vulver ignoreerib kõiki käsivõitlusefekte. Vulverit ei saa mittemaagiliselt kammitseda. 
 * **Üleloomulik sitkus** - Vulver ei ole kunagi väsinud.
 * **Kiired refleksid** - Vulver saab ühe turvisepunkti, mis taastub pärast igat lahingut automaatselt.
 
 Elaja kingitust saab osta kuni neli korda. Esimene kingitus on rassi valides, ülejäänud tuleb osta hiljem. Iga kingituse valik maksab 2 TP. Iga omandatud kingitus suurendab võimalust jääda igaveseks loomakujule. Kingitus peab olema ostetud enne kasutamist (st vulver ei saa alles kuju muutes kingitust valima hakata).
 
-**Vastuvõtlikkus haigustele ja mürkidele** - Kõik haigused ja mürgid mõjutavad vulvereid 2 korda kiiremini.
+**Vastuvõtlikkus haigustele ja mürkidele** - Kõik haigused ja mürgid mõjutavad vulvereid kaks korda kiiremini.
 
 **Kontrollimatu raev** - Loomkujul vulveritel on ajend, mis paneb nad kontrollimatult raevuma. Raevunud vulver ründab esimest ettejuhtuvat tegelast ja üritab seejärel põgeneda. Põgenemise takistamisel on vulver aggressiivne. Ajend loositakse mängujuhtide poolt ja ka mängija võib esitada selle suhtes ettepanekuid. 
 
@@ -191,7 +191,7 @@ Tegelased saavad samuti enne mängu teadmisi, mis on seotud nende klassiga.
 
 <h3 id="alkeemik">Alkeemik</h3>
 
-*Alkeemik oskab kasutada looduses leiduvaid taimi ja muid komponente maagiliste pruuliste valmistamiseks. Pruuliste vägi ei tulene mitte alkeemikust, vaid tema teadmistest ja korrektsete komponentide kasutamisest. Erilised komponendid on saanud oma väe kas jumalate puudutuse läbi või hoopis arenenud apeironi mõjutustest.*
+*Alkeemik oskab kasutada looduses leiduvaid taimi ja muid komponente maagiliste pruuliste valmistamiseks. Pruuliste vägi ei tulene mitte alkeemikust, vaid tema teadmistest ja korrektsete komponentide kasutamisest. Erilised komponendid on saanud oma väe kas jumalate puudutusest või hoopis arenenud apeironi mõjutustest.*
 
 #### Alkeemilised terminid:
 
@@ -225,15 +225,13 @@ Alkeemik võib koguda loomseid komponente kas surnud olenditelt või muudest all
  
 **Alkeemiku raamat I**
 
-Alkeemiku raamatus on kirjas infot levinumate komponentide kohta. Samuti valib alkeemik oma raamatusse 5 esimese taseme retsepti, mille pruuliseid ta valmistada oskab. 
+Alkeemiku raamatus on kirjas infot levinumate komponentide kohta. Samuti valib alkeemik oma raamatusse 5 esimese taseme retsepti, mille pruuliseid ta valmistada oskab. Tase 1 alkeemik alustab mängu oma valitud 5 levinud ja 2 erilise komponendiga. 
 
 Teise alkeemiku raamatut uurides on võimalik õppida uusi retsepte. Uue retsepti õppimiseks peab alkeemikul olema topeltkoguses soovitava pruulise valmistamiseks kuluvaid komponente. Kõik komponendid kasutatakse ära õppimisprotsessis ja alkeemik ei saa õppimise käigus pruulist valmistada! Esimese taseme pruulise õppimiseks kulub iseseisvalt 20 minutit, koos retsepti tundva alkeemiku juhendamisel 10 minutit. (OG: Alkeemik kirjutab oma raamatusse retsepti ja teeb läbi selle valmistamise protsessi.)
 
 **Pruuliste valmistamine (€)**
 
-Alkeemik oskab valmistada pruuliseid, millede retseptid on kirjas tema alkeemiku raamatus. Pruulise valmistamiseks peab alkeemik kulutama ära pruulise retseptis kirjas olevad komponendid. Mängul valmistatud pruulised kaotavad mängu lõppedes oma efekti. (Vt. lisa alkeemia). Pruuliste valmistamisaeg on: 3 minutit/komponent. 
-
-Tase 1 alkeemik alustab mängu oma valitud 5 levinud ja 2 erilise komponendiga.
+Alkeemik oskab valmistada pruuliseid, mille retseptid on kirjas tema alkeemiku raamatus. Pruulise valmistamiseks peab alkeemik kulutama ära pruulise retseptis kirjas olevad komponendid. Mängul valmistatud pruulised kaotavad mängu lõppedes oma efekti. (Vt. lisa alkeemia). Pruuliste valmistamisaeg on: 3 minutit iga komponendi kohta. 
 
 **Eksperimentaator I (€)**
 
@@ -268,7 +266,7 @@ Impeerium:<br />
 _Lõõmakene + kirju leekhein_<br />
 Kestvus: kohene
 
-Alkeemik oskab valmistada pruulist Leonte tuli. Pruulise valmistamiseks on vajalik salajase lisakomponendi olemasolu, mis on vaid oskuse omanikel. Pruulis toimib kui viskeloits, mis tekitab ühe kahjustuse, mis eirab turvist. Leonte tule retsept on Impeeriumi saladus. 
+Alkeemik oskab valmistada pruulist Leonte tuli. Pruulise valmistamiseks on vajalik salajase lisakomponendi olemasolu, mis on vaid oskuse omanikel. Pruulis toimib kui viskeloits, mis tekitab ühe turvist eirava kahjustuse. Leonte tule retsept on Impeeriumi saladus. 
 
 Vabad Maad:<br />
 **Kerge mutageen {Alkeemik tase 2}**
@@ -306,25 +304,29 @@ Kui valmistatavate pruuliste kombineeritud tase ei ületa alkeemiku taset, võib
 
 **Kogemustega pruulija**
 
-Alkeemik võib valmistada pruuliseid väsinud seisundis olles, kuid ta ei saa kasutada siis oskust väle pruulija.
+Alkeemik võib valmistada pruuliseid _väsinud_ seisundis olles, kuid ta ei saa kasutada siis oskust _väle pruulija_.
+
+**Relvakasutusoskus: ühekäerelvad**
+
+Tegelane oskab kasutada ühekäerelvi. Ta võib alustada mängu ühekäerelvaga, ning pärast relva kasutamist lahingus ei ole ta automaatselt _väsinud_.
 
 <h3 id="ekspert">Ekspert</h3>
 
-*Eksperte on igasuguseid. Paljud eksperdi oskustest ei ole ehk lahingus kasutatavad, aga ekspert on hea tugi teistele klassidele ja kõige vabama arenguga tegelane. Samuti on eksperdi madalamate tasemete oskused kättesaadavad ka teistele klassidele.*
+*Eksperte on igasuguseid. Paljud eksperdi oskustest ei ole ehk lahingus kasutatavad, aga ekspert on kõige vabama arenguga tegelane ning hea tugi teistele klassidele. Eksperdi madalamate tasemete oskused kättesaadavad ka teistele klassidele.*
 
 Valides Eksperdi klassina, tuleb selle eest esimesel tasemel tasuda 4 TP, mille eest saab omandada 4 lihtsat oskust, 2 keerulist või 1 keerulise ja 2 lihtsat. Muul juhul maksab üks Eksperdi tase 2 TPd, mille eest saab kas kaks lihtsat või ühe keerulise (tähistatud ¤¤) oskuse.
 
-Eksperdi klassina valinu võib uusi tasemeid osta nii palju kui soovib (muidugi makstes iga taseme eest 2 TPd). Teised klassid saavad omandada ainult ühe taseme Eksperti, mitte rohkem. Nad võivad seda valida kas kohe tegelast luues või hiljem.
+Eksperdi klassina valinud mängija võib uusi tasemeid osta nii palju kui soovib (muidugi makstes iga taseme eest 2 TPd). Teised klassid saavad omandada ainult ühe taseme Eksperti, mitte rohkem. Nad võivad seda valida kas kohe tegelast luues või hiljem.
 
 Eksperdi oskused on jagatud 4 mooduli vahel: teadmiste moodul, ametimoodul, kaubandusmoodul ja lahingmoodul. Ekspert, kes on valinud samast moodulist vähemalt 3 oskust saab tasuta sellele moodulile vastava erioskuse: 
 
-**Õpetlane** - Tegelane on tegelenud elus palju erinevate informatsiooniallikatega, nende uurimise ja säilitamisega. Ta teab rohkem kui enamus oma ala kohta. Oskust omandades tuleb valida eriala (näiteks: seadused, religioon, ajalugu).
+**Õpetlane** - Tegelane on tegelenud elus palju erinevate informatsiooniallikatega, nende uurimise ja säilitamisega. Ta teab rohkem kui enamik oma ala kohta. Oskust omandades tuleb valida eriala (näiteks: seadused, religioon, ajalugu).
 
-**Amet** - Tegelasel on vabalt valitud ametioskus, millega ta ennast mängude vahelisel ajal elatab. See võib olla mõni käsitöö- või esinemisoskus või ka hoopiski midagi muud. 
+**Amet** - Tegelasel on vabalt valitud ametioskus, millega ta ennast mängude vahelisel ajal elatab. See võib olla mõni käsitöö- või esinemisoskus või hoopis midagi muud. Tegelane võib olenevalt oma ametist alustada mängu rohkema raha, eriliste teadmiste või tutvustega.
 
 **Kaupleja** -  Tegelane alustab mängu kaubaga, millega ümber käies on tal võimalus enese rikkust kasvatada. 
 
-**Treenitud** - Tegelane on saanud lahingväljaõppe. Lahingsituatsioonis ei väsi tegelane elupunkti kaotuse tõttu. Kui ta oleks saanud väsinud seisundi lahingus, ilmneb see alles pärast lahingut.
+**Treenitud** - Tegelane on saanud lahingväljaõppe. Lahingsituatsioonis ei väsi tegelane elupunkti kaotuse tõttu. Kui ta oleks saanud _väsinud_ seisundi lahingus, ilmneb see alles pärast lahingut.
 
 #### Teadmiste moodul:
 
@@ -356,17 +358,19 @@ Tegelane oskab tuvastada, kas dokumendid on ehtsad või võltsitud.
 
 **Meditsiin I**
 
-Tegelane oskab anda esmaabi. Esmaabi viib tegelase suremisest kurnatud seisundisse. Samuti oskab tegelane valmistada ergutusteed, mis eemaldab tarbijalt väsinud seisundi. 
+Tegelane oskab anda esmaabi. Esmaabi viib tegelase _suremisest kurnatud_ seisundisse. Samuti oskab tegelane valmistada ergutusteed, mis eemaldab tarbijalt _väsinud_ seisundi. Tegelane suudab ühel mängul valmistada 2 korda oma meditsiini taseme jagu teesid. 
 
 **Meditsiin II (€)**
 
-Tegelane oskab ravida. Pärast meditsiiniliste protseduuride läbi viimist muutub kurnatud tegelane väsinuks ja haige taastab puhates elupunkte kiirusega 1 elupunkti 15 minuti möödudes.
+Tegelane oskab ravida. Pärast meditsiiniliste protseduuride läbi viimist muutub _kurnatud_ tegelane _väsinuks_ ja haige taastab puhates elupunkte kiirusega 1 elupunkti 15 minuti möödudes.
 
 **Meditsiin III (€)¤¤**
 
-Haigused ja mürgid: tegelane oskab neid diagnoosida ja valmistada tervendusteed ning raviteed. Tegelane oskab haige eest eriliselt hoolitseda nii, et haige pole enam nakkusohtlik ja haigusefektide kiirus väheneb 2 korda.
+Haigused ja mürgid: tegelane oskab haiguseid diagnoosida ja mürke tuvastada ning tervendus- ja raviteesid valmistada. Tal on erioskused, mis tähendab, et tema ravitud haiged pole enam nakkusohtlikud ning nende haigusefektide kiirus väheneb kaks korda.
 
-Tegelane võib kasutada oskust Meditsiin I olles väsinud.
+Tegelane suudab ühel mängul valmistada 2 korda oma meditsiini taseme jagu teesid
+
+Tegelane võib kasutada oskust _Meditsiin I_ olles _väsinud_.
 
 **Meditsiin IV (€)¤¤**
 
@@ -384,7 +388,7 @@ Tegelane võib kasutada oskust kesta parandamine I olles väsinud.
 
 **Sepakunst I (€)**
 
-Tegelane oskab parandada turviseid, kilpide ja relvi. Ühe turvisepunkti (AP) taastamiseks kulub 5 minutit tööd. Kilpide ja relvade parandamine võtab 15 minutit. Oskuse kasutamine vajab elavat tuld. 
+Tegelane oskab parandada turviseid, kilpe ja relvi. Ühe turvisepunkti (AP) taastamiseks kulub 5 minutit tööd. Kilpide ja relvade parandamine võtab 15 minutit. Oskuse kasutamine vajab elavat tuld. 
 
 **Sepakunst II (€)¤¤**
 
@@ -412,7 +416,7 @@ Tegelane võib korjata ja koguda looduses kasvavaid taimseid komponente.
 
 **Korjamine II (€)**
 
-Tegelane võib koguda loomseid komponente lahates surnud olendeid. 
+Tegelane oskab surnud olendeid lahates koguda neilt loomseid komponente. 
 
 **Alkeemiline kogemus (€) {Korjamine II}¤¤**
 
@@ -422,19 +426,19 @@ Tegelane suudab määrata 1. taseme alkeemilisi pruuliseid.
 
 **Jõukus I**
 
-Tegelane on rikkam ja saab rohkem raha ja/või erilisi esemeid. Ta alustab mängu 100 staurusega rohkem. 
+Tegelane on rikkam ja saab rohkem raha ja/või erilisi esemeid. Ta alustab mängu 100 lisastaurusega. 
 
 **Jõukus II ¤¤**
 
-Tegelane on rikkam ja saab rohkem raha ja/või erilisi esemeid. Ta alustab mängu 250 staurusega rohkem. 
+Tegelane on rikkam ja saab rohkem raha ja/või erilisi esemeid. Ta alustab mängu 250 lisastaurusega. 
 
 **Jõukus III ¤¤ {Ekspert tase 3}**
 
-Tegelane on rikkam ja saab rohkem raha ja/või erilisi esemeid. Ta alustab mängu 500 staurusega rohkem. 
+Tegelane on rikkam ja saab rohkem raha ja/või erilisi esemeid. Ta alustab mängu 500 lisastaurusega. 
 
 **Jõukus IV ¤¤  {Ekspert tase 5}**
 
-Tegelane on rikkam ja saab rohkem raha ja/või erilisi esemeid. Ta alustab mängu 1000 staurusega rohkem. 
+Tegelane on rikkam ja saab rohkem raha ja/või erilisi esemeid. Ta alustab mängu 1000 lisastaurusega. 
 
 **Hindaja I**
 
@@ -446,7 +450,7 @@ Tegelane oskab hinnata luksuslike ja harvaesinevate esemete ja kaupade väärtus
 
 #### Lahingmoodul:
 
-**Relvakasutusoskus** - Ilma oskuseta tegelane võib lahingsituatsioonis ennast küll relvaga kaitsta, kuid ei tohi sooritada rünnakuid. Oskusega tegelane võib kasutada relvi lahingsituatsioonis ründamiseks. Väljaspool lahingut saab iga tegelane teist vardasse ajada.
+**Relvakasutusoskus** - Tegelane võib kasutada vastava liigi relva, ning see kuulub tema varustuse hulka.
 
 Relvaliigid: (Iga relvaliigi jaoks tuleb oskuse eest maksta)
 * Ühekäeline relv
@@ -464,15 +468,15 @@ Tegelane saab raskeid turviseid (rõngassärk, plaatturvis) kandes 3-4 turvisepu
 
 **Sidumine (€)**
 
-Tegelane oskab teisi kinni siduda. Ta võib kasutada tavalist nööri, ning saab teadvusetu tegelase seisundi muuta kammitsetud seisundiks.
+Tegelane oskab teisi kinni siduda. Ta oskab tavalist nööri kasutades muuta teadvusetu tegelase seisundi _kammitsetud_ seisundiks.
 
 **Käsivõitlus I (€)**
 
-Tegelane võidab käsivõitluses viigi korral.
+Tegelane võidab viigi korral käsivõitluse
 
 **Uimastamine I {Käsivõitlus I} (€) ¤¤**
 
-Tegelane võib uimastada teise tegelase. Selleks peab ta käes hoidma rasket eset, ning tegema ohvrile ootamatult seljatagant pai. Ohver on seejärel uimastatud seisundis.
+Tegelane võib uimastada teise tegelase. Selleks peab ta käes hoidma rasket eset  ning tegema ohvrile ootamatult selja tagant pai. Ohver on seejärel _uimastatud_ seisundis.
 
 <h3 id="kelm">Kelm</h3>
 
@@ -518,7 +522,7 @@ Tegelane saab 1 elupunkti juurde.
 
 **Uimastamine II**
 
-Tegelane võib uimastada teise tegelase. Selleks ei vaja ta enam rasket eset, vaid peab tegema ohvrile ootamatult seljatagant pai. Ohver on seejärel uimastatud seisundis.
+Tegelane võib uimastada teise tegelase. Selleks ei vaja ta enam rasket eset, vaid peab tegema ohvrile ootamatult selja tagant pai. Ohver on seejärel _uimastatud_ seisundis.
 
 **Ohutaju **
 
@@ -573,7 +577,7 @@ Tegelane oskab piinata. Piinaja viskab münti, kui tuleb ”kiri” saab ta esit
 
 **Käsivõitlus I (€)**
 
-Tegelane võidab käsivõitluses viigi korral.
+Tegelane võidab viigi korral käsivõitluse.
 
 **Käsivõitlus II (€)**
 
@@ -589,7 +593,7 @@ Tegelasel on kaks lisa turvisepunkti, mis taastuvad automaatselt iga lahingoluko
 
 **Mürgikunst I**
 
-Tegelane oskab valmistada lihtsaid mürke, mis seespidisel tarvitamisel mõjuvad surmavalt. Samuti võib tegelane relvamürgi olemasolul kanda seda oma relvale. Mängijal on mängu alguses 1 doos seespidist mürki.
+Tegelane oskab valmistada lihtsaid mürke, mis alla neelamise korral mõjuvad surmavalt. Samuti võib tegelane relvamürgi olemasolul kanda seda oma relvale. Mängijal on mängu alguses 1 doos seespidist mürki.
 
 **Mürgikunst II (€) {Kelm tase 3}**
 
@@ -597,7 +601,7 @@ Tegelane oskab oma relvi mürgitada. Relvatabamuse saanud tegelane on mürgitatu
 
 **Sidumine (€)**
 
-Tegelane oskab teisi kinni siduda. Ta võib kasutada nööri, ning saab teadvusetu tegelase seisundi muuta kammitsetud seisundiks.
+Tegelane oskab teisi kinni siduda. Ta oskab tavalist nööri kasutades muuta teadvusetu tegelase seisundi _kammitsetud_ seisundiks.
 
 **Eristamine (€)**
 
@@ -722,13 +726,17 @@ Maag õpib 2 uut tase 1 loitsu. Oskust võib valida korduvalt.
 
 **Kogemustega loitsija {Maag tase 3}**
 
-Maag võib valmistada loitse väsinud seisundis olles.
+Maag võib valmistada loitse _väsinud_ seisundis olles.
+
+**Relvakasutusoskus: ühekäerelvad**
+
+Tegelane oskab kasutada ühekäerelvi. Ta võib alustada mängu ühekäerelvaga, ning pärast relva kasutamist lahingus ei ole ta automaatselt _väsinud_.
 
 <h3 id="preester">Preester</h3>
 
 *Preester on jumala teener. Ta levitab maailmas oma jumala sõnumit ja seisab hea tema põhimõtete eest. Preester saab kasutada oma jumala antud väge, et teisi tema ümber kas õnnistada või karistada.*
 
-Preestrite maagia ehk jumalmaagia on teine alentide maagiasüsteemist. Preestrite maagia hõlmab endas ühe konkreetse jumala ustavat teenimist, mille vastutasuks annab jumal preestrile võimaluse oma väge kanaliseerida. See kanaliseerimine toimub läbi püha sümboli, mida preester kannab oma rinnal. See sümbol on samuti loodud jumala väest ja ilma selleta on jumala väe kanaliseerimine preestrile ohtlik. 
+Preestrite maagia ehk jumalmaagia on teine alentide maagiasüsteemist. Preestrite maagia hõlmab endas ühe konkreetse jumala ustavat teenimist, mille vastutasuks annab jumal preestrile võimaluse oma väge kanaliseerida. See kanaliseerimine toimub püha sümboli kaudu, mida preester kannab oma rinnal. See sümbol on samuti loodud jumala väest ja ilma selleta on jumala väe kanaliseerimine preestrile ohtlik. 
 
 Preestrid peavad samuti järgima oma jumala põhimõtteid. Kui nad neid eiravad, võivad nad mõneks ajaks kaotada oma sideme jumala väega. Kui nad neid väga sügavalt rikuvad, võivad nad sideme jumalaga igaveseks kaotada. 
 
@@ -758,7 +766,7 @@ Jumalad on esitatud oma kultuurilise vastandiga.
 
 **Sümbol**
 
-Preestril on püha sümbol, jumala väe ohutu kanal. Sümbol on ka ise jumala väest füüsilisel kujul. Sümbol toimib kui see on preestri rinnal, või sellel on kontakt preestri nahaga. Sümbolit võib ära võtta, sellisel juhul laskub äravõtja peale jumala needus, millest ta vabaneb siis, kui sümbol on tagastatud ja preester on talle määranud väikese patukahetsuse. Needuse iseloom on seotud preestri jumalaga ja määratakse tegelast luues. 
+Preestril on püha sümbol, jumala väe ohutu kanal. Sümbol on jumala vägi füüsilisel kujul. Sümbol toimib kui see on preestri rinnal või sellel on kontakt preestri nahaga. Sümbolit võib preestrilt ära võtta, kuid sellisel juhul laskub äravõtja peale jumala needus, millest ta vabaneb siis, kui sümbol on tagastatud ja preester on talle määranud väikese patukahetsuse. Needuse iseloom on seotud preestri jumalaga ja määratakse tegelast luues. 
 
 **Side jumalaga **
 
@@ -834,6 +842,10 @@ Preester alustab mängu jumala poolt antud erilise ülesandega. Pärast ülesand
 
 Preester loob erilise puhkeala. Selleks peab ta heiskama oma jumala sümboli, ning kõik tegelased, kes saavad seal puhata, vabanevad väsinud seisundist 10 minuti puhkuse järel. Puhkealas võivad puhata preestri kodumaa elanikud, kas siis Impeeriumist või Vabadelt Maadelt. Puhkeala loomine kulutab ühe preestri palve, ning kaob kohe, kui preester liigutab jumala sümbolit või läheb sellest kaugemale kui 5 meetrit.
 
+**Relvakasutusoskus: ühekäerelvad**
+
+Tegelane oskab kasutada ühekäerelvi. Ta võib alustada mängu ühekäerelvaga, ning pärast relva kasutamist lahingus ei ole ta automaatselt väsinud.
+
 <h3 id="sorts">Sorts</h3>
 *Sortsid on theumiitide vägevaimad loitsijad. Nad on õppinud oma elementi kasutama ka väljaspool allikat ja võivad sellega isegi lahingus oma vastastesse hirmu külvata.*
 
@@ -883,7 +895,7 @@ Tegelane valib 3 uut keerulist loitsu, mida ta oskab.
 
 **Mana jagamine(€)**
 
-Sama elemendi sortsid saavad nõusolekul manapunkte üksteisele üle kanda.
+Sama elemendi sortsid saavad vastastikusel nõusolekul manapunkte üksteisele üle kanda.
 
 #### Vabamoodul
 
@@ -905,11 +917,15 @@ Sorts valib ühe elemendi (kui tema enda element on aktiivne, peab olema ka õpi
 
 **Uus element II {Sorts tase 3}**
 
-Nagu uus element I, aga sorts valib uue elemendi. Ta õpib 2 selle elemendi loitsu.
+Nagu uus element I, aga sorts valib teise lisaelemendi. Ta õpib kaks selle elemendi loitsu.
 
 **Maagiline jäljeajamine**
 
-Võimsamad maagilised kohad ja esemed jätavad endast maha tugevaid maagilisi jälgi, mida sorts näeb. (OG: maagilised jäljed on tähistatud kollaste lipukestega). Erinevalt maagist ja preestrist on sortside puhul jäljeajamine kogu aeg aktiivne. 
+Võimsamad maagilised kohad ja esemed jätavad endast maha tugevaid maagilisi jälgi, mida sorts näeb. (OG: maagilised jäljed on tähistatud kollaste lipukestega). Erinevalt maagist ja preestrist on sortside puhul jäljeajamine kogu aeg aktiivne.
+
+**Relvakasutusoskus: ühekäerelvad**
+
+Tegelane oskab kasutada ühekäerelvi. Ta võib alustada mängu ühekäerelvaga, ning pärast relva kasutamist lahingus ei ole ta automaatselt väsinud.
 
 <h3 id="sodalane">Sõdalane</h3>
 
@@ -956,11 +972,11 @@ Sõdalane saab juurde veel ühe elupunkti.
 Impeerium<br />
 **Lahingtaktika {Sõdalane tase 2}**
 
-Tegelane võib oma sõdalase taseme jagu tegelastega jagada lahingtaktika oskusi. Lahingtaktika oskuse kasutamiseks on vajalik vähemalt üks lahingpartner. Lahingtaktika saajad tuleb kokku leppida enne lahingu algust.
+Tegelane võib oma sõdalase taseme jagu tegelastega jagada lahingtaktika oskusi. Lahingtaktika oskuse kasutamiseks on vajalik vähemalt üks lahingpartner. Lahingtaktika saajad tuleb kokku leppida enne lahingu algust. (Koos _lahingtaktika_ oskusega omandatakse automaatselt _lahingtaktika: innusta_.)
 
 **Lahingtaktika: innusta**
 
-Sõdalane saab abistada tsiviilisikut lahingus. Innustatav ei saa lahingu käigus tekkivatest vigastustest väsinud seisundit. Oskus kestab vaid lahingu ajal, ning peale lahingut, kui abistatav on kaotanud elupunkte, saab ta siiski vastava seisundi.
+Sõdalane saab abistada tsiviilisikut lahingus. Innustatav ei saa lahingu käigus tekkivatest vigastustest _väsinud_ seisundit. Oskus kestab vaid lahingu ajal, mis tähendab, et peale lahingut, kui abistatav on kaotanud elupunkte, saab ta siiski vastava seisundi.
 
 **Lahingtaktika: kaitse {Sõdalane tase 3}**
 
@@ -973,7 +989,7 @@ Tegelane võib valitud hetkel lahingolukorras raevuda. Raevuda ei saa raskes tur
 
 **Sõjaraev: Põikle (€)**
 
-Tegelane saab sõjaraevus olles ühe lisa turvisepunkti.
+Tegelane saab sõjaraevus olles ühe lisaturvisepunkti.
 
 **Sõjaraev: Oimetu/Stun (€) {Sõdalane tase 3}**
 
@@ -1014,7 +1030,7 @@ Tegelane võidab automaatselt, kui vastasel pole käsivõitluse oskust.
 
 **Uimastamine I**
 
-Tegelane võib uimastada teise tegelase. Selleks peab ta käes hoidma rasket eset, ning tegema ohvrile ootamatult seljatagant pai. Ohver on seejärel uimastatud konditsioonis.
+Tegelane võib uimastada teise tegelase. Selleks peab ta käes hoidma rasket eset, ning tegema ohvrile ootamatult selja tagant pai. Ohver on seejärel uimastatud konditsioonis.
 
 [Kõiki võitluskunstide oskusi saab sõdalane kasutada oma taseme jagu mängu jooksul, ning ta ei tohi kanda rasket turvist.]
 
@@ -1032,11 +1048,11 @@ Tegelane puudutab õrnalt käega sihtmärki, ning seejärel peab sihtmärk enda 
 
 **Põikle I (€) {Käsivõitlus II}**
 
-Tegelasel on üks lisa turvisepunkt, mis taastub automaatselt iga lahingolukorra lõpus.
+Tegelasel on üks lisaturvisepunkt, mis taastub automaatselt iga lahingolukorra lõpus.
 
 **Põikle II (€) {Käsivõitlus II ja sõdalane tase 3}**
 
-Tegelasel on kaks lisa turvisepunkti, mis taastuvad automaatselt iga lahingolukorra lõpus.
+Tegelasel on kaks lisaturvisepunkti, mis taastuvad automaatselt iga lahingolukorra lõpus.
 
 **Sidumine (€)**
-Tegelane oskab teisi kinni siduda. Ta võib kasutada tavalist nööri, ning saab teadvusetu tegelase seisundi muuta kammitsetud seisundiks.
+Tegelane oskab teisi kinni siduda. Tavalist nööri kasutades oskab ta teadvusetu tegelase kinni siduda, mis muudab viimase seisundi kammitsetuks.
