@@ -18,7 +18,7 @@ Maksumus: 1-3 manapunkti.<br />
 Kestvus: Kohene<br />
 Sorts puudutab sihtmärki ja tekitab talle sortsikunsti taseme jagu kahjustust. Iga tekitatud kahjustus maksab ühe manapunkti.
 
-_**Elementaalravi **_<br />
+_**Elementaalravi**_<br />
 Tüüp: Puuteloits<br />
 Maksumus: 1 manapunkt<br />
 Kestvus: Kohene<br />

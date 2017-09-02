@@ -85,14 +85,14 @@ When a reagent is mentioned twice, it means that this brew does require the same
       <td>1</td>
       <td>immediate</td>
       <td><ul><li>Mottled firegrass¤</li></ul></td>
-      <td>Satisfies the _bloodthirst_ of a lagar as if they had used the _lagar’s kiss_.</td>
+      <td>Satisfies the <i>bloodthirst</i> of a lagar as if they had used the <i>lagar’s kiss</i>.</td>
     </tr>
 	<tr>
       <td>Bloodhunger</td>
       <td>1</td>
       <td>immediate</td>
       <td><ul><li>Bloodleaf¤¤</li></ul></td>
-      <td>Makes the lagar feel _bloodthirst_</td>
+      <td>Makes the lagar feel <i>bloodthirst</i></td>
     </tr>
 	<tr>
       <td>Calm</td>
@@ -113,21 +113,21 @@ When a reagent is mentioned twice, it means that this brew does require the same
       <td>1</td>
       <td>1 hour</td>
       <td><ul><li>Bloodleaf¤¤</li><li>Swordrake¤</li></ul></td>
-      <td>Character does not become _tired_ while the brew is in effect. The character cannot be tortured.</td>
+      <td>Character does not become <i>tired</i> while the brew is in effect. The character cannot be tortured.</td>
     </tr>
 	<tr>
       <td>Heal</td>
       <td>1</td>
       <td>10 min</td>
       <td><ul><li>Goat barley¤</li><li>Honeyblossom¤</li></ul></td>
-      <td>Removes the condition _sick_ when duration ends.</td>
+      <td>Removes the condition <i>sick</i> when duration ends.</td>
     </tr>
     <tr>
       <td>Poison: squeezer</td>
       <td>1</td>
       <td>till healed</td>
       <td><ul><li>Bloodleaf¤¤</li><li>Ironflower¤¤</li></ul></td>
-      <td>The character is _poisoned_ and _exhausted_ until the _poisoned_ condition is healed.</td>
+      <td>The character is <i>poisoned</i> and <i>exhausted</i> until the <i>poisoned</i> condition is healed.</td>
     </tr>
 	<tr>
       <td>Recovery draught</td>
@@ -141,21 +141,21 @@ When a reagent is mentioned twice, it means that this brew does require the same
       <td>1</td>
       <td>2 min</td>
       <td><ul><li>Goat barley¤</li></ul></td>
-      <td>Removes the condition _tired_ when the duration ends.</td>
+      <td>Removes the condition <i>tired</i> when the duration ends.</td>
     </tr>
     <tr>
       <td>Simple antidote</td>
       <td>1</td>
       <td>10 min</td>
       <td><ul><li>Silvernettle¤</li><li>Sunweed¤¤</li></ul></td>
-      <td>Ends the _poisoned_ condition when the duration ends.</td>
+      <td>Ends the <i>poisoned</i> condition when the duration ends.</td>
     </tr>
 	<tr>
       <td>Sleeping draught</td>
       <td>1</td>
       <td>10 min</td>
       <td><ul><li>Rivergrass¤</li><li>Mire raunweed¤</li></ul></td>
-      <td>Character becomes _unconscious_ for the duration.</td>
+      <td>Character becomes <i>unconscious</i> for the duration.</td>
     </tr>
 	<tr>
       <td>Strength </td>
@@ -169,10 +169,9 @@ When a reagent is mentioned twice, it means that this brew does require the same
       <td>1</td>
       <td>immediate / 15+ minutes</td>
       <td><ul><li>Honeyblossom¤</li><li>Silvernettle¤</li></ul></td>
-      <td>(this brew is a glue, not to be ingested) The wound glue is set on open wounds that close in 15 minutes and the character recovers 1 lifepoint. A non-moroia alenti will go from condition _dying_ to _exhausted_. A moroia will start to recover lifepoints at the rate of 1 per 15 minutes after using the wound glue. The effect lasts until the moroia loses a lifepoint or has restored all their lifepoints. A moroia who has recovered at least 1 lifepoint becomes _healthy_.</td>
+      <td>(this brew is a glue, not to be ingested) The wound glue is set on open wounds that close in 15 minutes and the character recovers 1 lifepoint. A non-moroia alenti will go from condition <i>dying</i> to <i>exhausted</i>. A moroia will start to recover lifepoints at the rate of 1 per 15 minutes after using the wound glue. The effect lasts until the moroia loses a lifepoint or has restored all their lifepoints. A moroia who has recovered at least 1 lifepoint becomes <i>healthy</i>.</td>
     </tr>
-    
-	
+    	
     <tr>
       <td>Alchemical armor</td>
       <td>2</td>
@@ -192,7 +191,7 @@ When a reagent is mentioned twice, it means that this brew does require the same
       <td>2</td>
       <td>1 hour</td>
       <td><ul><li>Theumite shell shard¤¤¤</li><li>Furyweed¤¤¤</li><li>Homespider’s eggs¤¤</li><li>Goat barley¤</li></ul></td>
-      <td>Drinker becomes immune to the element of the theumite whose shell the shard is from. They cannot also be affected by elemental strikes. After the brew’s duration ends the character becomes _tired_.</td>
+      <td>Drinker becomes immune to the element of the theumite whose shell the shard is from. They cannot also be affected by elemental strikes. After the brew’s duration ends the character becomes <i>tired</i>.</td>
     </tr>
     <tr>
       <td>Enstone </td>
@@ -206,7 +205,7 @@ When a reagent is mentioned twice, it means that this brew does require the same
       <td>2</td>
       <td>1 minut</td>
       <td><ul><li>Goat barley¤</li><li>Common woundgrass¤</li><li>Sunweed¤</li><li>Sunweed¤¤</li></ul></td>
-      <td>After the duration ends, the drinker regains all their lifepoints and becomes _healthy_.</td>
+      <td>After the duration ends, the drinker regains all their lifepoints and becomes <i>healthy</i>.</td>
     </tr>
 	<tr>
       <td>Hidden brew </td>
@@ -241,7 +240,7 @@ When a reagent is mentioned twice, it means that this brew does require the same
       <td>2</td>
       <td>immediate</td>
       <td><ul><li>Windblade¤¤</li><li>Sunweed¤¤</li><li>Honeyblossom¤</li><li>Honeyblossom¤</li></ul></td>
-      <td>The theumite becomes _healthy_.</td>
+      <td>The theumite becomes <i>healthy</i>.</td>
     </tr>
   </tbody>
 </table>
