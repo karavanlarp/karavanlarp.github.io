@@ -169,4 +169,4 @@ _**Varja**_<br />
 Tüüp: Puuteloits<br />
 Maksumus: 3 manapunkti<br />
 Kestvus: 1 mäng<br />
-Tegelane peidab ühe keskmise suurusega objekti (nt. mõõk, kott). Peidetud objekt tähistatakse OG lindiga. Loitsu alustaja võib loitsu igal momendil lõpetada. Korraga võib peita oma sortsikunsti taseme jagu esemeid. Peidetud ese peab olema OG alati sortsi küljes.
+Tegelane peidab ühe keskmise suurusega objekti (nt. mõõk, kott). Peidetud objekt tähistatakse OG lindiga. Loitsu alustaja võib loitsu igal momendil lõpetada. Korraga võib peita oma sortsikunsti taseme jagu esemeid. Peidetud ese peab olema OG alati sortsi küljes. 
