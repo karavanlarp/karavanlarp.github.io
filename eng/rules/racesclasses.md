@@ -4,6 +4,20 @@ title: Character rules; Races and classes
 ---
 ## Character rules: Character creation
 
+<div id="toc">
+	<h3>Table of Contents</h3>
+	<ul>
+		<li><a href="#races">Races</a></li>
+		<li><a href="#alchemist">Alchemist</a></li>
+		<li><a href="#expert">Expert</a></li>
+		<li><a href="#rogue">Rogue</a></li>
+		<li><a href="#mage">Mage</a></li>
+		<li><a href="#priest">Priest</a></li>
+		<li><a href="#sorcerer">Sorcerer</a></li>
+		<li><a href="#warrior">Warrior</a></li>
+	</ul>
+</div>
+
 Every player starts with 6 character points. 
 
 All characters can read and write in their native language and the languages their players know outgame (Estonian and/or English) More exact language skills are marked on the character sheet. 
@@ -53,7 +67,7 @@ Each character starts the game with 50 staurus or an equal amount of Free Lands 
 
 Character Points are awarded to both PC-s and NPC-s. Participation in a game guarantees a base level of points. Additional points may be earned through costuming, preparation and role play. NPC-s also gain Character Points for participation which they can use to create a PC in the future. Information gained as an NPC cannot be used when entering the game as a PC.
 
-### Races
+<h3 id="races">Races</h3>
 
 A description of races, their attributes and costs. Players will receive additional information about their race.
 
@@ -165,7 +179,7 @@ All classes consist of levels. After reaching a new level, the character automat
 
 Before the game, characters gain knowledge related to their class.
 
-### Alchemist
+<h3 id="alchemist">Alchemist</h3>
 
 *The Alchemist knows how to use naturally occurring plants and other components to brew magical brews. The power of the brews doesn’t stem from the Alchemist but rather their knowledge and the correct use of ingredients. Some special components get their potency from the touch of the gods or the effects of contact with apeiron.*
 
@@ -284,7 +298,7 @@ The Alchemist may brew potions while tired, but cannot use the _Quick Brewer_ sk
 
 The character knows how to wield one-handed weapons. They may start the game with a one-handed weapon and are not automatically _tired_ after using a one-handed weapon in battle.
 
-### Expert
+<h3 id="expert">Expert</h3>
 
 *There are different kinds of Experts. Many of their skills are of no use in battle, but an Expert is the most free in developing their character and a good support to other classes. Lower level Expert skills are also accessible to other classes.*
 
@@ -457,7 +471,7 @@ The character wins ties in unarmed combat.
 
 The character may render another unconscious. The character must hold a heavy object and brush the victim unexpectedly and lightly from behind. The victim will become _unconscious_.
 
-### Rogue
+<h3 id="rogue">Rogue</h3>
 
 *The Rogue hides in the shadows and acts cunningly. They may also use their skills in service of the law or work as a scout.*
 
@@ -589,7 +603,8 @@ The character can tell the difference between original and forged documents.
 
 The character can forge official documents and signatures, to a degree. The character can copy handwriting. This skill is mostly used between games.
 
-### Mage
+<h3 id="mage">Mage</h3>
+
 *A mage is a person who can shape the world according to their will using the power of apeiron. In the Empire these people are called mages, in the Free Lands they are casters.*
 
 Apeiromancy and runecraft are the two magic systems used by the alenti. Both rely on on magical signs and refined apeiron to fuel the spells. Every spell uses some amount of apeiron. The use of such spells does not require a natural talent for spellcasting.
@@ -708,7 +723,7 @@ The mage may create spells while _tired_.
 
 The character knows how to wield one-handed weapons. They may start the game with a one-handed weapon and are not automatically _tired_ after using a one-handed weapon in battle.
 
-### Priest
+<h3 id="priest">Priest</h3>
 
 *The priest is the servant of a god. They spread the god’s message in the world and stand for the god’s principles. The priest may use power granted by their god to bless or punish those around them.*
 
@@ -822,7 +837,7 @@ The priest creates a special Zone of Rest. They must put up the symbol of their 
 
 The character knows how to wield one-handed weapons. They may start the game with a one-handed weapon and are not automatically _tired_ after using a one-handed weapon in battle.
 
-### Sorcerer
+<h3 id="sorcerer">Sorcerer</h3>
 
 *The sorcerers are the most powerful casters among theumites. They have learned to use their element outside the source and may wield it to instill fear in their enemies in battle.*
 
@@ -904,7 +919,7 @@ More powerful magical locations and objects leave strong traces that the sorcere
 
 The character knows how to wield one-handed weapons. They may start the game with a one-handed weapon and are not automatically _tired_ after using a one-handed weapon in battle.
 
-### Warrior
+<h3 id="warrior">Warrior</h3>
 
 _A skilled fighter. The warrior understands the art of weapons and is the strongest among their kind. They lead in battle and last longer than others._
 
