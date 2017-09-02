@@ -29,7 +29,7 @@ You are of course permitted to plan to play together with friends.
 
 <hr>
 
-The first step of character creation is picking your characterís race. The regular alenti is the only character race that does not cost character points. 
+The first step of character creation is picking your character‚Äôs race. The regular alenti is the only character race that does not cost character points. 
 
 After this you may acquire a character class and/or buy a level of Expert skills depending on how many CPs you have left. A character can only have one class. 
 
@@ -47,7 +47,7 @@ The choice of class and skills is made by filling out the character form. It is 
 
 Each character starts the game with 50 staurus or an equal amount of Free Lands currency. The character also starts with the equipment noted in their class description. Resources such as components and apeiron are provided by the GM. The equipment is generally the responsibility of the player, but the GM-s may be contacted for the loan of costuming elements. The list of equipment required to use skills can be found in [Appendix 5: Equipment](/eng/rules/equipment.html).
 
-**Death:** A playerís Character Points do not expire upon the characterís death. The player may use them to create a new character for the next game. The new character cannot be closely related to the previous character and cannot use the previous characterís resources or contacts.
+**Death:** A player‚Äôs Character Points do not expire upon the character‚Äôs death. The player may use them to create a new character for the next game. The new character cannot be closely related to the previous character and cannot use the previous character‚Äôs resources or contacts.
 
 **How to gain Character Points?**
 
@@ -69,15 +69,15 @@ Class limitation - A normal alenti may not choose the sorcerer class.
 
 **Attributes:**
 
-**Lagarís Kiss** - The lagar may suck the blood of another character to regain life points. The target of the bloodsucking must volunteer or be _subdued_. Each minute of the kiss increases the lagarís life points by one and decreases the targetís life points by one. The lagar may suck the blood of alenti, including Old Blood and wulvers. Theumites are not viable as they have no blood, moroia and lagars are not viable because their blood is not nutritious. 
+**Lagar‚Äôs Kiss** - The lagar may suck the blood of another character to regain life points. The target of the bloodsucking must volunteer or be _subdued_. Each minute of the kiss increases the lagar‚Äôs life points by one and decreases the target‚Äôs life points by one. The lagar may suck the blood of alenti, including Old Blood and wulvers. Theumites are not viable as they have no blood, moroia and lagars are not viable because their blood is not nutritious. 
 
 **Poison Immunity** - The lagar is immune to poisons and may ignore their effects.
 
 **Unnatural Endurance** - The lagar is never _tired_. A _Dying_ lagar may only be killed by decapitation or the piercing of the heart.
 
-**Bloodthirst** - After the _exhausted_ condition ends, the lagar is famished and their fangs become visible (OG: the player puts fangs in their mouth). The lagar needs blood. They lose access to all skills requiring concentration (Ä) until they restore at least one life point through the Lagarís Kiss. If the lagar is unable to use the Kiss for one subsequent hour, they become _exhausted_. The only way to remove this _exhausted_ state is through the Lagarís Kiss. Fangs retreat after the bloodthirst has been sated. 
+**Bloodthirst** - After the _exhausted_ condition ends, the lagar is famished and their fangs become visible (OG: the player puts fangs in their mouth). The lagar needs blood. They lose access to all skills requiring concentration (‚Ç¨) until they restore at least one life point through the Lagar‚Äôs Kiss. If the lagar is unable to use the Kiss for one subsequent hour, they become _exhausted_. The only way to remove this _exhausted_ state is through the Lagar‚Äôs Kiss. Fangs retreat after the bloodthirst has been sated. 
 
-**Gift from the Afterlife (Ä)** - The lagar may restore to life one alenti who has not been dead over 15 minutes and who is not a priest or member of a subrace, by turning them into a lagar. After giving the Gift, the lagar loses one life point and the skill _Gift from the Afterlife_. The dead character is resurrected after 15 minutes as an _exhausted_ lagar with one life point. Each lagar has a special bond with the one they created.
+**Gift from the Afterlife (‚Ç¨)** - The lagar may restore to life one alenti who has not been dead over 15 minutes and who is not a priest or member of a subrace, by turning them into a lagar. After giving the Gift, the lagar loses one life point and the skill _Gift from the Afterlife_. The dead character is resurrected after 15 minutes as an _exhausted_ lagar with one life point. Each lagar has a special bond with the one they created.
 
 Class limitation - A lagar may not choose the priest or sorcerer class.
 
@@ -87,7 +87,7 @@ Class limitation - A lagar may not choose the priest or sorcerer class.
 
 **Attributes:**
 
-**Undead Vigor** - The moroiaís life points cannot be restored normally. They are not affected by any normal healing effects. A moroia can be healed by using the alchemical brew _Skin Glue_ or the Death Priestís prayer _Repair Moroia_.
+**Undead Vigor** - The moroia‚Äôs life points cannot be restored normally. They are not affected by any normal healing effects. A moroia can be healed by using the alchemical brew _Skin Glue_ or the Death Priest‚Äôs prayer _Repair Moroia_.
 
 **Undead Endurance** - The moroia is never _tired_ or _exhausted_. Upon reaching 0 life points, the moroia is _dying_. The moroia can be in this state until repaired or permanently destroyed (by burning or being cut to pieces and spread apart).
 
@@ -111,7 +111,7 @@ The moroia starts each game with one dose of _Wound glue_.
 
 Ectothermy - The Old Blood feels cold more keenly. They feel more lethargic in cool places and during the night.
 
-Cold-Blooded - The Old Bloodís brain is more similar to lizards than contemporary alenti. The may be socially awkward, exhibit less empathy etc.
+Cold-Blooded - The Old Blood‚Äôs brain is more similar to lizards than contemporary alenti. The may be socially awkward, exhibit less empathy etc.
 
 Class limitation - An Old Blood may not choose the sorcerer class.
 
@@ -145,15 +145,15 @@ Class limitations - A wulver may not choose the priest or sorcerer class.
 
 **Elemental Shell** - The theumite does not regain life points normally. They need the skill _Repair Shell_ or _Apeiron Cure_. The theumite chooses one of the following:
 * **Strong Shell** - The theumite has one extra life point.
-* **Regenerating Shell** - The theumiteís shell recovers at double speed when being repaired with apeiron or a suitable skill. When using _Apeiron Healing_, one unit of apeiron restores 2 life points. 
+* **Regenerating Shell** - The theumite‚Äôs shell recovers at double speed when being repaired with apeiron or a suitable skill. When using _Apeiron Healing_, one unit of apeiron restores 2 life points. 
     
-**Apeiron Healing** - The Theumite may regain life points by eating apeiron. Each unit of apeiron consumed restores 1 life point in 5 minutes. Apeiron can also improve the theumiteís condition, which improves by one level for each unit of apeiron consumed. (Overuse of apeiron may cause addiction)
+**Apeiron Healing** - The Theumite may regain life points by eating apeiron. Each unit of apeiron consumed restores 1 life point in 5 minutes. Apeiron can also improve the theumite‚Äôs condition, which improves by one level for each unit of apeiron consumed. (Overuse of apeiron may cause addiction)
 
 **Apeiron Immunity** - The Theumite is immune to the effects of unrefined apeiron.
 
 **Disease Immunity** - The Theumite never gets ill and ignores all disease effects.
 
-**Elemental Magic (Ä)** - A Theumite who hasnít chosen the sorcerer class can still cast one spell. They must choose it from the sorcerer elemental spell list and its element must match their own. The theumite has 1 mana point to use the spell.
+**Elemental Magic (‚Ç¨)** - A Theumite who hasn‚Äôt chosen the sorcerer class can still cast one spell. They must choose it from the sorcerer elemental spell list and its element must match their own. The theumite has 1 mana point to use the spell.
 
 Class limitation - A theumite may not choose the mage or priest class.
 
@@ -167,10 +167,10 @@ Before the game, characters gain knowledge related to their class.
 
 ### Alchemist
 
-*The Alchemist knows how to use naturally occurring plants and other components to brew magical brews. The power of the brews doesnít stem from the Alchemist but rather their knowledge and the correct use of ingredients. Some special components get their potency from the touch of the gods or the effects of contact with apeiron.*
+*The Alchemist knows how to use naturally occurring plants and other components to brew magical brews. The power of the brews doesn‚Äôt stem from the Alchemist but rather their knowledge and the correct use of ingredients. Some special components get their potency from the touch of the gods or the effects of contact with apeiron.*
 
 #### Alchemical terms:
-* **The Alchemistís Book** - A book with alchemical information and the recipes known to the Alchemist.
+* **The Alchemist‚Äôs Book** - A book with alchemical information and the recipes known to the Alchemist.
 * **Essence** - The alchemical type of a component. Determines the reaction between two components.
 * **Component** - A resource used for brews. Can be plant- or animal-based.
 * **Brew** - A drink, salve or other mixture prepared by the Alchemist. 
@@ -194,21 +194,21 @@ The character knows components, their essences and first level brews. The Alchem
 
 The Alchemist may gather and collect herbal components from nature.
 
-**Gathering II (Ä)**
+**Gathering II (‚Ç¨)**
 
 The Alchemist may gather animal components from dead creatures or other sources.
  
-**The Alchemistís Book I**
+**The Alchemist‚Äôs Book I**
 
-The Alchemistís Book has information about common components. The Alchemist may choose 5 first level recipes that he can prepare. A Level 1 Alchemist starts the game with 5 common and 2 special components of their choice.
+The Alchemist‚Äôs Book has information about common components. The Alchemist may choose 5 first level recipes that he can prepare. A Level 1 Alchemist starts the game with 5 common and 2 special components of their choice.
 
 The Alchemist can learn new recipes by studying the book of another. To learn a new recipe, the Alchemist must have a double quantity of the necessary components. All components are used for the learning process and the alchemist does not produce a potion. A first level potion takes 20 minutes to learn independently and 10 minutes with the help of an Alchemist who knows the recipe. (OG: the Alchemist writes the recipe in their book and goes through the preparation process)
 
-**Brewing (Ä)**
+**Brewing (‚Ç¨)**
 
 The Alchemist can prepare brews, provided that they have the necessary recipe in their book. To prepare a brew, the Alchemist must expend the components listed in the recipe. The effects of potions prepared during the game last until the end of the game (see [Appendix 1: Alchemist](/eng/rules/alchemist.html)). The preparation of a brew takes 3 minutes per component.
 
-**Experimenter I (Ä)**
+**Experimenter I (‚Ç¨)**
 
 The Alchemist can try to determine the essences of two components by mixing them. Determining the essence destroys the components. (OG: the player obtains information about the reaction from a GM or a suitable NPC).
 
@@ -218,11 +218,11 @@ The Alchemist can try to determine the essences of two components by mixing them
 
 The character knows components, their essences and second level brews. The Alchemist can distinguish potions using an advanced sense of smell. The Alchemist may read the name of the component, essence of brew on the information label. The Alchemist learns to prepare one second level brew.
 
-**Component Replacement (Ä)**
+**Component Replacement (‚Ç¨)**
 
 The character can replace one component in a recipe with another with the same essence.
 
-**Experimenter II (Ä)**
+**Experimenter II (‚Ç¨)**
 
 The Alchemist can try to determine the essences of two components by mixing them. Determining the essence does not destroy the components.
 
@@ -266,15 +266,15 @@ The character starts the game with 1 rare component of their choice. May be chos
 
 **Additional Recipes I**
 
-The character may choose 2 new first level recipes to write in their Alchemistís Book. May be chosen multiple times.
+The character may choose 2 new first level recipes to write in their Alchemist‚Äôs Book. May be chosen multiple times.
 
 **Additional Recipes II**
 
-The character may choose 2 new second level recipes to write in their Alchemistís Book. May be chosen multiple times.
+The character may choose 2 new second level recipes to write in their Alchemist‚Äôs Book. May be chosen multiple times.
 
-**Quick Brewer (Ä)**
+**Quick Brewer (‚Ç¨)**
 
-The Alchemist may brew several potions at once if their combined level does not exceed the Alchemistís level.
+The Alchemist may brew several potions at once if their combined level does not exceed the Alchemist‚Äôs level.
 
 **Experienced Brewer**
 
@@ -290,7 +290,7 @@ The character knows how to wield one-handed weapons. They may start the game wit
 
 Choosing the Expert as a main class at first level costs 4 CP and provides 4 simple skills, 2 simple skills and 1 complicated skill or 2 complicated skills.
 
-In other cases, one level of Expert costs 2 CP and provides 2 simple skills or 1 complicated (§§) skill.
+In other cases, one level of Expert costs 2 CP and provides 2 simple skills or 1 complicated (¬§¬§) skill.
 
 A player who chose Expert as their class can buy new levels as much as desired (paying 2 CP for each). Other classes may only obtain one level of Expert. This can be chosen upon character creation or later.
 
@@ -314,7 +314,7 @@ The character starts the game with additional information.
 
 The character may gain additional information during the game.
 
-**Knowledge III§§**
+**Knowledge III¬§¬§**
 
 The character may ask the GM one question during the game. The GM may leave the question unanswered, in which case the character may ask another question.
 
@@ -322,11 +322,11 @@ The character may ask the GM one question during the game. The GM may leave the 
 
 The player draws one rumor from the rumor deck before the game. Can be chosen up to 3 times. Each time allows the player to draw 1 additional rumor. Rumors in the deck may repeat.
 
-**Investigator {Knowledge II }§§**
+**Investigator {Knowledge II }¬§¬§**
 
 The character has connections or other resources they can use between games to obtain additional information. The character can ask the GM-s for additional information about an object, character or phenomenon seen in the previous game. [The Investigator skill must be chosen prior to contact with it]. Can be chosen up to 3 times. Each time allows the player one additional topic for information.
 
-**Verification (Ä)**
+**Verification (‚Ç¨)**
 
 The character can tell the difference between original and forged documents.
 
@@ -336,48 +336,48 @@ The character can tell the difference between original and forged documents.
 
 The character can give first aid (turns a _dying_ character into an _exhausted_ character). The character can brew invigorating tea that removes the _tired_ condition. The character can brew tea 2 times per Medicine level each game.
 
-**Medicine II (Ä)**
+**Medicine II (‚Ç¨)**
 
 The character can heal wounds. After medical procedures, an exhausted character becomes tired instead and recovers 1 life point every 15 minutes when resting.
 
-**Medicine III (Ä)§§**
+**Medicine III (‚Ç¨)¬§¬§**
 
 The character can identify diseases and poisons and prepare healing tea. The character is considered to have special skills: their patients no longer spread disease and the speed of disease effects is reduced by half. The character can brew tea 2 times per Medicine level each game. The character may use the Medicine I skill while _Tired_.
 
-**Medicine IV (Ä)§§**
+**Medicine IV (‚Ç¨)¬§¬§**
 
 Rapid healing: the character restores life points more quicky. After medical procedures, the wounded character recovers 1 life point every 5 minutes. The character can also turn an _exhausted_ character into a _tired_ character in 5 minutes.
 
-**Shell Repair I {Medicine I, Smithing I or Theumite} (Ä)**
+**Shell Repair I {Medicine I, Smithing I or Theumite} (‚Ç¨)**
 
 The character can repair theumite shells. After shell repairs, the theumite recovers 1 life point every 15 minutes.
 
-**Shell Repair II {Medicine III, Smithing III or Theumite} (Ä)§§**
+**Shell Repair II {Medicine III, Smithing III or Theumite} (‚Ç¨)¬§¬§**
 
 The character can repair theumite shells. After shell repairs, the theumite recovers 1 life point every 10 minutes.
 
 The character may use the Shell Repair I skill while tired.
 
-**Smithing I (Ä)**
+**Smithing I (‚Ç¨)**
 
 The character can repair armor, shields and weapons. Restoring one armor point takes 5 minutes of work. Repairing shields and weapons takes 15 minutes. Using the skill requires an open flame.
 
-**Smithing II (Ä)§§**
+**Smithing II (‚Ç¨)¬§¬§**
 
 The character can improve armor, adding 1 armor point to its defense value. The additional armor point is always spent last. When the armor reaches 0 AP, the improvement is lost and needs to be applied again. Improving an armor takes 15 minutes of work and 50 staurus worth of materials for light armor or 100 staurus worth for heavy armor (the smith must buy, find or otherwise obtain the materials).
 
-**Smithing III (Ä)**
+**Smithing III (‚Ç¨)**
 
-The character can improve shields, giving them the ability to ignore the first ìdestroy shieldî effect. Improving a shield takes 15 minutes of work and 250 staurus worth of material.
+The character can improve shields, giving them the ability to ignore the first ‚Äúdestroy shield‚Äù effect. Improving a shield takes 15 minutes of work and 250 staurus worth of material.
 
-**Forgery {Verification} (Ä)**
+**Forgery {Verification} (‚Ç¨)**
 
 The character can forge official documents and signatures, to a degree. The character can copy handwriting. This skill is mostly used between games.
 
 **Contracts**
 The character can write contracts. 
 
-**Locksmith I (Ä)§§**
+**Locksmith I (‚Ç¨)¬§¬§**
 
 The character can pick level 1 locks.
 
@@ -385,11 +385,11 @@ The character can pick level 1 locks.
 
 The character may gather and collect herbal components from nature.
 
-**Gathering II (Ä)**
+**Gathering II (‚Ç¨)**
 
 The character may gather animal components from dead creatures or other sources.
 
-**Alchemical Experience (Ä) {Gathering II}§§**
+**Alchemical Experience (‚Ç¨) {Gathering II}¬§¬§**
 
 The character can identify first level alchemical potions.
 
@@ -399,15 +399,15 @@ The character can identify first level alchemical potions.
 
 The character is richer and gains more money and/or special items. They begin the game with 100 additional staurus.
 
-**Wealth II§§**
+**Wealth II¬§¬§**
 
 The character is richer and gains more money and/or special items. They begin the game with 250 additional staurus.
 
-**Wealth III {Expert Level 3} §§**
+**Wealth III {Expert Level 3} ¬§¬§**
 
 The character is richer and gains more money and/or special items. They begin the game with 500 additional staurus.
 
-**Wealth IV {Expert Level 5} §§**
+**Wealth IV {Expert Level 5} ¬§¬§**
 
 The character is richer and gains more money and/or special items. They begin the game with 1000 additional staurus.
 
@@ -415,7 +415,7 @@ The character is richer and gains more money and/or special items. They begin th
 
 The character can determine the value of goods quite accurately. They can also identify forged goods and special items.
 
-**Appraise II §§**
+**Appraise II ¬§¬§**
 
 The character can determine the value of rare and luxury items. They can also tell whether apeiron is used or unused.
 
@@ -439,21 +439,21 @@ The character gains 1-2 armor points when wearing light armor (leather, gambeson
 
 The character may use a small shield. 
 
-**Armor II §§**
+**Armor II ¬§¬§**
 
 The character gains 3-4 armor points when wearing heavy armor (chain mail, plate armor).
 
 The character may use a large shield.
 
-**Binding (Ä)**
+**Binding (‚Ç¨)**
 
 The character can subdue others by binding them. The character can use rope (string) to render an unconscious character _Pinned_.
 
-**Unarmed Fighting I (Ä)**
+**Unarmed Fighting I (‚Ç¨)**
 
 The character wins ties in unarmed combat.
 
-**Render Unconscious I {Unarmed Fighting I} (Ä) §§**
+**Render Unconscious I {Unarmed Fighting I} (‚Ç¨) ¬§¬§**
 
 The character may render another unconscious. The character must hold a heavy object and brush the victim unexpectedly and lightly from behind. The victim will become _unconscious_.
 
@@ -476,15 +476,15 @@ The rogue is proficient with all weapons except two-handed weapons (one-handed w
 
 **Backstab**
 
-A rogue hitting their target from behind with a knife will deal bonus damage equal to the rogueís level (a level 1 rogue deals a total of 2 damage, a level 3 rogue deals a total of 4 damage). Usable once every 5 seconds.
+A rogue hitting their target from behind with a knife will deal bonus damage equal to the rogue‚Äôs level (a level 1 rogue deals a total of 2 damage, a level 3 rogue deals a total of 4 damage). Usable once every 5 seconds.
 
 **Level 2**
 
-**Render Unconscious I (Ä)**
+**Render Unconscious I (‚Ç¨)**
 
 The character may render another unconscious. The character must hold a heavy object and brush the victim unexpectedly and lightly from behind. The victim will become _unconscious_.
 
-**Pickpocket (Ä)**
+**Pickpocket (‚Ç¨)**
 
 The character may steal one object by attaching a clothes peg to it. Attaching the peg to a bag yields a random item. A GM or appropriate NPC will fetch the object. (Players may also resolve this themselves in case of a mutual agreement)
 
@@ -520,7 +520,7 @@ The Free Lands:<br />
 The character knows the tracks of different creatures and can evaluate their location and possible danger. The player receives clues about creatures before or during the game.
 
 Theumites:<br />
-**Primal Creature {Rogue Level 2} (Ä)**
+**Primal Creature {Rogue Level 2} (‚Ç¨)**
 
 The Theumite knows how to blend in with the landscape, making them hard to spot. They can remain motionless as long as desired or move for up to 15 seconds without being noticed (OG: hand on the head). Their location is revealed if they move for longer. Hiding can be cancelled at any time. Usable once per game.
 
@@ -532,11 +532,11 @@ The character can pick level 1 locks.
 
 The character can pick level 2 locks.
 
-**Trapper I (Ä)**
+**Trapper I (‚Ç¨)**
 
 The character can disarm traps.
 
-**Trapper II (Ä)**
+**Trapper II (‚Ç¨)**
 
 The character can set traps.
 
@@ -550,22 +550,22 @@ The character gains 1-2 armor points when wearing light armor (leather, gambeson
 
 The character may use a small shield.  
 
-**Torture (Ä) {Rogue Level 2}**
+**Torture (‚Ç¨) {Rogue Level 2}**
 
 The character knows how to torture. The torturer flips a coin. If tails, they can ask one yes-no question that the victim must answer honestly. If heads, the victim loses one life point and the character may continue the torture if the victim is still conscious.
 
-**Unarmed Fighting I (Ä)**
+**Unarmed Fighting I (‚Ç¨)**
 
 The character wins ties in unarmed combat.
 
-**Unarmed Fighting II (Ä)**
+**Unarmed Fighting II (‚Ç¨)**
 The character wins unarmed combat automatically if their opponent does not have any _Unarmed Fighting_ skill.
 
-**Dodge I (Ä) {Unarmed Fighting II}**
+**Dodge I (‚Ç¨) {Unarmed Fighting II}**
 
 The character has an additional life point that is restored automatically after every battle.
 
-**Dodge II (Ä) {Unarmed Fighting II, Rogue Level 3}**
+**Dodge II (‚Ç¨) {Unarmed Fighting II, Rogue Level 3}**
 
 The character has 2 additional life points that are restored automatically after every battle.
 
@@ -573,19 +573,19 @@ The character has 2 additional life points that are restored automatically after
 
 The character can create simple poisons that are lethal when ingested. IF the charater has contact poison, they may apply it to their weapon. The character begins the game with 1 dose of ingested poison.
 
-**Poisoner II (Ä) {Rogue Level 3}**
+**Poisoner II (‚Ç¨) {Rogue Level 3}**
 
 The character can create contact poison for weapons. A character hit by a poisoned weapon becomes _poisoned_. The character begins the game with 1 dose of contact poison.
 
-**Binding (Ä)**
+**Binding (‚Ç¨)**
 
 The character can subdue others by binding them. The character can use rope (string) to render an unconscious character _pinned_.
 
-**Verification (Ä)**
+**Verification (‚Ç¨)**
 
 The character can tell the difference between original and forged documents.
 
-**Forgery {Verification} (Ä)**
+**Forgery {Verification} (‚Ç¨)**
 
 The character can forge official documents and signatures, to a degree. The character can copy handwriting. This skill is mostly used between games.
 
@@ -600,10 +600,10 @@ There are some devices and machines that can perform different spell-like functi
 
 #### Magical terms:
 * **Apeiron (refined)** - The fuel of apeiromancy and runecraft. It is enclosed in a specially sealed bottle. Apeiron is sold in different quantities, but usually in very tiny vials. These contain enough apeiron for one simple spell. More complicated spells may need more than one vial of apeiron. During the process of spellcasting, the apeiron energy will traverse the body of the caster and exit in the form of the spell.
-* **Spell Discs** - The are two kinds of discs, marked and clean. A mage can use marked discs to instantly cast a spell. Clean discs are used to create new variations of the mageís spells.
+* **Spell Discs** - The are two kinds of discs, marked and clean. A mage can use marked discs to instantly cast a spell. Clean discs are used to create new variations of the mage‚Äôs spells.
 * **Mage Sign** - Every mage has their own sign, used on their spell discs and installed spells.
-* **Mage Book** - The Mage Book contains spells, their words of power and variants a mage knows. The cover bears the mageís sign.
-* **Word of Power** - Uttering these words releases the spellís power.
+* **Mage Book** - The Mage Book contains spells, their words of power and variants a mage knows. The cover bears the mage‚Äôs sign.
+* **Word of Power** - Uttering these words releases the spell‚Äôs power.
 
 #### Obtaining skills
 * **Level 1:** Core Module skills
@@ -616,13 +616,13 @@ There are some devices and machines that can perform different spell-like functi
 
 **Apeiron**
 
-The mage starts each game with an amount of apeiron equal to 5 + the mageís level. The mage can ascertain in a glance whether a specific dose of apeiron has been used or not.
+The mage starts each game with an amount of apeiron equal to 5 + the mage‚Äôs level. The mage can ascertain in a glance whether a specific dose of apeiron has been used or not.
 
 **Knowledge: Magic I**
 
 The mage chooses and learns 6 level 1 spells from the free spells list
 
-**Spellmaking (Ä)**
+**Spellmaking (‚Ç¨)**
 
 The mage can prepare spells written in the Mage Book.
 
@@ -710,9 +710,9 @@ The character knows how to wield one-handed weapons. They may start the game wit
 
 ### Priest
 
-*The priest is the servant of a god. They spread the godís message in the world and stand for the godís principles. The priest may use power granted by their god to bless or punish those around them.*
+*The priest is the servant of a god. They spread the god‚Äôs message in the world and stand for the god‚Äôs principles. The priest may use power granted by their god to bless or punish those around them.*
 
-The magic of priests or divine magic is the second magic system of the alenti. Priestly magic requires faithful service to one particular god, which the god rewards by allowing the priest to channel their power. The channeling works through a holy symbol that the priest wears on their chest. The symbol is made from the power of the god and channeling the godís power without it is dangerous to the priest.
+The magic of priests or divine magic is the second magic system of the alenti. Priestly magic requires faithful service to one particular god, which the god rewards by allowing the priest to channel their power. The channeling works through a holy symbol that the priest wears on their chest. The symbol is made from the power of the god and channeling the god‚Äôs power without it is dangerous to the priest.
 
 Priests must observe the principles of their god. Denying them may lead to losing the connection with divine power for a while. Very deep conflict with divine principles may end in permanent severing of the priest-god bond.
 
@@ -742,7 +742,7 @@ Each god is listed alongside their cultural opposite.
 
 **Symbol**
 
-The priest carries a holy symbol, a safe way to channel the godís power. The symbol is the godís power made manifest. It works when worn on the priestís chest or in contact with their skin. The symbol may be taken from the priest, but that incurs the curse of the god, only lifted when the symbol has been returned and the priest has named a small task of penitence. The nature of the curse is tied to the priestís god and assigned at character creation.
+The priest carries a holy symbol, a safe way to channel the god‚Äôs power. The symbol is the god‚Äôs power made manifest. It works when worn on the priest‚Äôs chest or in contact with their skin. The symbol may be taken from the priest, but that incurs the curse of the god, only lifted when the symbol has been returned and the priest has named a small task of penitence. The nature of the curse is tied to the priest‚Äôs god and assigned at character creation.
 
 **Divine Bond**
 
@@ -754,7 +754,7 @@ The priest chooses and learns 5 prayers from the simple prayers list.
 
 **Prayers**
 
-The priest may perform prayers equal to 4 + the priestís level every day.
+The priest may perform prayers equal to 4 + the priest‚Äôs level every day.
 
 **Level 2**
 
@@ -816,7 +816,7 @@ The priest starts the game with a special assignment from their god. After fulfi
  
 **Zone of Rest {Priest Level 2}**
 
-The priest creates a special Zone of Rest. They must put up the symbol of their god. All characters resting in the zone recover from the _tired_ status after 10 minutes. The Zone of Rest may be used by the priestís compatriots, either from the Empire or the Free Lands. Creating a Zone of Rest expends one prayer. The zone disappears as soon as the priest moves the godís symbol or is more than 5 meters away from it.
+The priest creates a special Zone of Rest. They must put up the symbol of their god. All characters resting in the zone recover from the _tired_ status after 10 minutes. The Zone of Rest may be used by the priest‚Äôs compatriots, either from the Empire or the Free Lands. Creating a Zone of Rest expends one prayer. The zone disappears as soon as the priest moves the god‚Äôs symbol or is more than 5 meters away from it.
 
 **Weapon Proficiency: One-Handed Weapons**
 
@@ -850,27 +850,27 @@ Opposites:
 
 The sorcerer has 7 mana points. Mana points are restored at the beginning of a game.
 
-**Art of Sorcery I (Ä)**
+**Art of Sorcery I (‚Ç¨)**
 
 The sorcerer knows all the simple spells and one spell from their element.
 
 **Level 2**
 
-**Art of Sorcery II (Ä)**
+**Art of Sorcery II (‚Ç¨)**
 
 The sorcerer knows 3 spells from their element and may choose and learn one complicated spell.
 
-**Mana Restoration (Ä)**
+**Mana Restoration (‚Ç¨)**
 
-The sorcerer can recover mana points at a specially designated elemental ley line. The amount of mana restored depends on the strength of the ley line and the sorcererís level.
+The sorcerer can recover mana points at a specially designated elemental ley line. The amount of mana restored depends on the strength of the ley line and the sorcerer‚Äôs level.
 
 **Level 3**
 
-**Art of Sorcery III (Ä)**
+**Art of Sorcery III (‚Ç¨)**
 
 The sorcerer chooses and learns 3 new complex spells.
 
-**Mana Sharing (Ä)**
+**Mana Sharing (‚Ç¨)**
 
 Sorcerers of the same element may transfer mana points to each other in case of mutual agreement.
 
@@ -929,7 +929,7 @@ The warrior ignores the first hit to a limb in each battle. The limb point is lo
 
 The warrior never becomes _tired_ as a result of loss of life points. In addition, the warrior has to lose all their life points (not only 2) to become _exhausted_.
 
-The Warrior is strong enough to carry one character. To denote it, the warrior places one hand on the characterís shoulder and both move at normal walking pace.
+The Warrior is strong enough to carry one character. To denote it, the warrior places one hand on the character‚Äôs shoulder and both move at normal walking pace.
 
 **Level 2**
 
@@ -966,11 +966,11 @@ The warrior may choose to go into a rage in battle. Rage cannot be used in heavy
 
 When choosing _Battle Rage_, the warrior automatically gains _Battle Rage: Dodge_.
 
-**Battle Rage: Dodge (Ä)**
+**Battle Rage: Dodge (‚Ç¨)**
 
 The warrior gains one armor point while raging.
 
-**Battle Rage: Stun (Ä) {Warrior Level 3}**
+**Battle Rage: Stun (‚Ç¨) {Warrior Level 3}**
 
 The character may perform stunning blows equal to their warrior level each game.
 
@@ -979,10 +979,10 @@ Theumites<br />
 
 The warrior may use an elemental strike to add magical damage from their element to their weapon. Some creatures are more vulnerable to elemental strikes.
 
-**Elemental Blow I (Ä)**
+**Elemental Blow I (‚Ç¨)**
 The attacks of the theumite are powered by their element. Some creatures are more vulnerable to a certain element.
 
-**Elemental Blow II (Ä) {Warrior Level 3}**
+**Elemental Blow II (‚Ç¨) {Warrior Level 3}**
 
 The character may perform mighty elemental attacks equal to their warrior level each game. A person struck by such an attack becomes _exhausted_. (An _elemental shield_ protects against elemental attacks).
 
@@ -1003,41 +1003,41 @@ The character may use a large shield.
 
 The character gains one armor point when wearing armor.
 
-**Unarmed Fighting I (Ä)**
+**Unarmed Fighting I (‚Ç¨)**
 
 The character wins ties in unarmed combat.
 
-**Unarmed Fighting II (Ä)**
+**Unarmed Fighting II (‚Ç¨)**
 
 The character wins unarmed combat automatically if their opponent does not have any _Unarmed Fighting_ skill.
 
-**Render Unconscious I (Ä)**
+**Render Unconscious I (‚Ç¨)**
 
 The character may render another unconscious. The character must hold a heavy object and brush the victim unexpectedly and lightly from behind. The victim will become _unconscious_.
 
-[All martial arts skills have uses equal to the warriorís level and they cannot be used when wearing heavy armor.]
+[All martial arts skills have uses equal to the warrior‚Äôs level and they cannot be used when wearing heavy armor.]
 
-**Martial Arts: Stun (Ä) {Render Unconscious I, Unarmed Fighting II}**
+**Martial Arts: Stun (‚Ç¨) {Render Unconscious I, Unarmed Fighting II}**
 
 The character lightly touches the target to render them _stunned_.
 
-**Martial Arts: Imprison (Ä) {Martial Arts: Stun}**
+**Martial Arts: Imprison (‚Ç¨) {Martial Arts: Stun}**
 
 The character lightly touches the target to render them _Pinned_ until the character removes the hand.
 
-**Martial Arts: Disarm (Ä) {Martial Arts: Stun}**
+**Martial Arts: Disarm (‚Ç¨) {Martial Arts: Stun}**
 
 The character lightly touches the target to force them to throw a held weapon on the ground.
 
-**Dodge I (Ä) {Unarmed Fighting II}**
+**Dodge I (‚Ç¨) {Unarmed Fighting II}**
 
 The character has an additional life point that is restored automatically after every battle.
 
-**Dodge II (Ä) {Unarmed Fighting II, Warrior Level 3}**
+**Dodge II (‚Ç¨) {Unarmed Fighting II, Warrior Level 3}**
 
 The character has 2 additional life points that are restored automatically after every battle.
 
-**Binding (Ä)**
+**Binding (‚Ç¨)**
 
 The character can subdue others by binding them. The character can use rope (string) to render an unconscious character _subdued_.
 
