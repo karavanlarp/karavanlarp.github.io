@@ -1,6 +1,6 @@
 ---
 layout: default-eng
-title: Character rules; Alchemist
+title: Appendix 1; Alchemist
 ---
 ## Appendix 1: Alchemist
 
@@ -23,40 +23,40 @@ The essence reaction table
 ### Reagents
 
 |Name                |Availability|Usage|
-|--------------------|---------|---|
-|Goat barley         |Common   |
-|Homespider’s eggs   |Common   |
-|Honeyblossom        |Common   |
-|Madness grass       |Common   |
-|Manybloom mighty    |Common   |
-|Mire raunweed       |Common   |
-|Mottled firegrass   |Common   |
-|Rivergrass          |Common   |
-|Silvernettle        |Common   |
-|Swordrake           |Common   |
-|Wood potato         |Common   |
-|Afternoon moss      |Special  |
-|Blood leaf          |Special  |
-|Common woundgrass   |Special  |
-|Flameling           |Special  |
-|Flowfruit           |Special  |
-|Ironflower          |Special  |
-|Lagar blood         |Special  |
-|Moroia ash          |Special  |
-|Sand tobacco        |Special  |
-|Sunweed             |Special  |
-|Windblade           |Special  |
-|Wulver spit         |Special  |
-|Breath of life      |Rare     |
-|Furyweed            |Rare     |
-|Night’s heart       |Rare     |
-|Soulfruit           |Rare     |
-|Theumite shell shard|Rare     |
-|Tempest             |Rare     |
+|--------------------|---------|----------------------------------------------------------------------------|
+|Goat barley         |Common   |Rest, Calm, Heal, Recovery draught, Elemental shield, Heal potion           |
+|Homespider’s eggs   |Common   |Elemental shield, Enstone                                                   |
+|Honeyblossom        |Common   |Wound glue, Heal, Theumite's helper                                         |
+|Madness grass       |Common   |                                                                            |
+|Manybloom mighty    |Common   |Strength, Battleluck                                                        |
+|Mire raunweed       |Common   |Calm, Living acid, Sleeping draught, Enstone                                |
+|Mottled firegrass   |Common   |Bloodbrew, Living acid, Leonte fire                                         |
+|Rivergrass          |Common   |Sleeping draught, Apeiron brew                                              |
+|Silvernettle        |Common   |Wound glue, Simple antidote, Hidden brew                                    |
+|Swordrake           |Common   |Fortitude, Alchemical armor                                                 |
+|Wood potato         |Common   |Enstone                                                                     |
+|Afternoon moss      |Special  |                                                                            |
+|Blood leaf          |Special  |Bloodhunger, Fortitude, Poison: squeezer                                    |
+|Common woundgrass   |Special  |Recovery draught, Heal potion                                               |
+|Flameling           |Special  |Leonte fire                                                                 |
+|Flowfruit           |Special  |Apeiron brew, Lockpicking acid                                              |
+|Ironflower          |Special  |Battleluck, Alchemical armor, Poison: squeezer                              |
+|Lagar blood         |Special  |Hidden brew                                                                 |
+|Moroia ash          |Special  |                                                                            |
+|Sand tobacco        |Special  |Strength, Cold fire, Apeiron brew, Lockpicking acid, Hidden brew            |
+|Sunweed             |Special  |Cold fire, Simple antidote, Alchemical armor, Heal potion, Theumite's helper|
+|Windblade           |Special  |Lockpicking acid, Theumite's helper                                         |
+|Wulver spit         |Special  |Living acid                                                                 |
+|Breath of life      |Rare     |                                                                            |
+|Furyweed            |Rare     |Alchemical armor, Elemental shield                                          |
+|Night’s heart       |Rare     |                                                                            |
+|Soulfruit           |Rare     |                                                                            |
+|Theumite shell shard|Rare     |Elemental shield                                                            |
+|Tempest             |Rare     |                                                                            |
 
 ### Recipes
 
-When a reagent is mentioned twice, it means that this brew does require the same reagent twice. The stars denote the availability of reagent.
+When a reagent is mentioned twice, it means that this brew does require the same reagent twice. The stars denote the availability of a reagent.
 
 * Common ¤
 * Special ¤¤
