@@ -20,7 +20,7 @@ title: Tegelasreeglid; Rassid ning klassid
 
 <h3 id="tegelane">Tegelase loomine</h3>
 
-*Siin kirjeldame tegelase loomist ja mõningaid küsimusi seoses tegelaspunktidega. *
+*Siin kirjeldame tegelase loomist ja mõningaid küsimusi seoses tegelaspunktidega.*
 
 Iga mängija alustab 6 tegelaspunktiga.
 
@@ -63,7 +63,7 @@ Iga tegelane saab lisaks oma klassile valida ühe taseme Ekspert oskusi vastaval
 
 Klassi ja oskuste valik käib tegelaseankeedi kaudu. Siiski on enne ankeedi täitma hakkamist hea mingil määral mõelda, millist tegelast teha soovid.
 
-Tegelane alustab mängu 50 stauruse või sama väärtusega Vabade Maade valuutaga. Samuti on tegelasel tema klassikirjelduses määratud varustus. Ressursid nagu komponendid ja apeiron antakse mängijale GMide poolt. Varustus on üldiselt mängija enda vastutusel, aga alati võib kostüümielementide laenamiseks GMidega ühendust võtta. Oskuste kasutamiseks vajaliku varustuse nimekirja leiate varustuse lisast.
+Tegelane alustab mängu 50 stauruse või sama väärtusega Vabade Maade valuutaga. Samuti on tegelasel tema klassikirjelduses määratud varustus. Ressursid nagu komponendid ja apeiron antakse mängijale GMide poolt. Varustus on üldiselt mängija enda vastutusel, aga alati võib kostüümielementide laenamiseks GMidega ühendust võtta. Oskuste kasutamiseks vajaliku varustuse nimekirja leiate [varustuse lisast](/est/rules/equipment.html).
 
 **Surm:** Tegelase surm ei kuluta mängija tegelaspunkte. Mängijal on võimalik oma tegelaspunktidega järgmiseks mänguks luua uus tegelane. Uus tegelane ei tohi olla seotud lähedalt eelmise tegelasega ja ta ei saa kasutada eelmise tegelase ressursse või tutvusi. 
 
@@ -89,15 +89,15 @@ Klassipiirang - Tavaline alenti ei saa valida sortsi klassi.
 
 **Omadused:**
 
-**Lagaari suudlus** - Lagaar võib imeda teise tegelase verd ja sellega taastada enda elupunkte. Selleks, et teise tegelase verd imeda, peab viimane sellega nõustuma või olema “kammitsetud” seisundis. Iga minutiga saab lagaar ühe elupunkti ja teine tegelane kaotab ühe. Lagaar saab verd imeda alentidelt, sealhulgas vanaverelistelt ja vulveritelt, kuid mitte theumiitidelt, sest neil pole verd, ega moroiadelt ja lagaaridelt, kuna nende veri pole toitev. 
+**Lagaari suudlus** - Lagaar võib imeda teise tegelase verd ja sellega taastada enda elupunkte. Selleks, et teise tegelase verd imeda, peab viimane sellega nõustuma või olema _kammitsetud_ seisundis. Iga minutiga saab lagaar ühe elupunkti ja teine tegelane kaotab ühe. Lagaar saab verd imeda alentidelt, sealhulgas vanaverelistelt ja vulveritelt, kuid mitte theumiitidelt, sest neil pole verd, ega moroiadelt ja lagaaridelt, kuna nende veri pole toitev. 
 
 **Immuunsus mürkidele** - Lagaar on immuunne mürkidele ja võib eirata nendega seotud seisundeid.
 
-**Üleloomulik sitkus** - Lagaar ei ole kunagi väsinud konditsioonis. Suremas seisundis lagaari on võimalik tappa vaid pea maha raiumise või südame läbistamise teel.
+**Üleloomulik sitkus** - Lagaar ei ole kunagi _väsinud_ seisundis. _Suremas_ seisundis lagaari on võimalik tappa vaid pea maha raiumise või südame läbistamise teel.
 
-**Vereiha** - Pärast kurnatud seisundi lõppemist tabab lagaari nälg ja tema kihvad tulevad nähtavale (OG: mängija paneb endale kihvad suhu). Ta vajab verd, kaotab ligipääsu kõikidele keskendumist (€) vajavatele oskustele kuniks ta pole lagaari suudlusega vähemalt ühte elupunkti taastanud. Kui tegelane ei saa järgneva tunni jooksul kasutada oskust lagaari suudlus, muutub tema seisund kurnatuks, ning ainus viis seisundit eemaldada on lagaari suudluse oskusega. Vereiha rahuldamisel kihvad taanduvad. 
+**Vereiha** - Pärast _kurnatud_ seisundi lõppemist tabab lagaari nälg ja tema kihvad tulevad nähtavale (OG: mängija paneb endale kihvad suhu). Ta vajab verd, kaotab ligipääsu kõikidele keskendumist (€) vajavatele oskustele kuniks ta pole _lagaari suudlusega_ vähemalt ühte elupunkti taastanud. Kui tegelane ei saa järgneva tunni jooksul kasutada oskust _lagaari suudlus_, muutub tema seisund _kurnatuks_, ning ainus viis seisundit eemaldada on _lagaari suudluse_ oskusega. Vereiha rahuldamisel kihvad taanduvad. 
 
-**Kingitus teispoolsusest (€)** - Lagaar võib tuua tagasi vähem kui 15 minutit surnud olnud alenti (kes ei ole preester või ei kuulu mõnda alarassi), muutes ta lagaariks. Kingituse andmisel kaotab lagaar ühe elupunkti ja oskuse kingitus teispoolsusest. 15 minuti pärast ärkab surnud tegelane 1 elupunktiga kurnatud lagaarina. Lagaaril on eriline side sellega, kelle ta loonud on. 
+**Kingitus teispoolsusest (€)** - Lagaar võib tuua tagasi vähem kui 15 minutit surnud olnud alenti (kes ei ole preester või ei kuulu mõnda alarassi), muutes ta lagaariks. Kingituse andmisel kaotab lagaar ühe elupunkti ja oskuse _kingitus teispoolsusest_. 15 minuti pärast ärkab surnud tegelane 1 elupunktiga _kurnatud_ lagaarina. Lagaaril on eriline side sellega, kelle ta loonud on. 
 
 Klassipiirang - Lagaar ei saa valida preestri ega sortsi klassi.
  
@@ -110,7 +110,7 @@ Klassipiirang - Lagaar ei saa valida preestri ega sortsi klassi.
 
 **Koolja tervis** - Moroia elupunkte pole võimalik tavapäraste vahenditega taastada. Mitte ükski efekt, mis tavaliselt taastavad elupunkte, ei mõjuta moroiat. Moroia ravimiseks on vaja alkeemilist pruulist _haavaliim_ või surmapreestri palvet _paranda moroia_. 
 
-**Koolja sitkus** - Moroia pole kunagi väsinud ega kurnatud. Elupunktide nulli langemisel on moroia suremas seisundis. Moroia võib viibida suremas seisundis nii kaua, kuni keegi ta lõplikult hävitab (põletab, raiub tükkideks ja puistab laiali) või ravib. 
+**Koolja sitkus** - Moroia pole kunagi _väsinud_ ega _kurnatud_. Elupunktide nulli langemisel on moroia _suremas_ seisundis. Moroia võib viibida _suremas_ seisundis nii kaua, kuni keegi ta lõplikult hävitab (põletab, raiub tükkideks ja puistab laiali) või ravib. 
 
 **Immuunsus haigustele ja mürkidele** - Moroia on immuunne kõikidele mürkidele ja haigustele. Tegelane ignoreerib neid seisundeid. 
 
@@ -127,7 +127,7 @@ Moroia alustab mängu ühe doosi haavaliimiga.
 
 **Omadused:**
 
-**Regeneratsioon** - Nõrgestatud konditsioonis vanavereline võib 10 minutit puhata. Seejärel on tema seisundiks väsinud ning ta taastab ühe elupunkti.
+**Regeneratsioon** - _Kurnatud_ seisundis vanavereline võib 10 minutit puhata. Seejärel on tema seisundiks _väsinud_ ning ta taastab ühe elupunkti.
 
 **Immuunsus haigustele** - Vanavereline ei haigestu kunagi, tegelane ignoreerib kõiki haigustega seotud efekte. 
 
@@ -148,8 +148,8 @@ Klassipiirang - Vanavereline ei saa valida sortsi klassi.
 
 **Elaja kingitus** - Kui vulver läheb loomkujule, on tema kasutada üks järgnevatest omadustest:
 * **Hea tervis** - Vulveril on üks elupunkt rohkem. (Elupunkt kaob alenti vormi minnes)
-* **Üleloomulik jõud** - Vulveri mõjutamiseks käsivõitlusefektidega peab tegelane omama üleloomuliku jõu oskust. Vastasel juhul vulver ignoreerib kõiki käsivõitlusefekte. Vulverit ei saa mittemaagiliselt kammitseda. 
-* **Üleloomulik sitkus** - Vulver ei ole kunagi väsinud.
+* **Üleloomulik jõud** - Vulveri mõjutamiseks käsivõitlusefektidega peab tegelane omama _üleloomuliku jõu_ oskust. Vastasel juhul vulver ignoreerib kõiki käsivõitlusefekte. Vulverit ei saa mittemaagiliselt kammitseda. 
+* **Üleloomulik sitkus** - Vulver ei ole kunagi _väsinud_.
 * **Kiired refleksid** - Vulver saab ühe turvisepunkti, mis taastub pärast igat lahingut automaatselt.
 
 Elaja kingitust saab osta kuni neli korda. Esimene kingitus on rassi valides, ülejäänud tuleb osta hiljem. Iga kingituse valik maksab 2 TP. Iga omandatud kingitus suurendab võimalust jääda igaveseks loomakujule. Kingitus peab olema ostetud enne kasutamist (st vulver ei saa alles kuju muutes kingitust valima hakata).
@@ -290,11 +290,11 @@ Tegelane alustab mängu enda poolt valitud 3 erilise lisakomponendiga. Võimalik
 
 Tegelane alustab mängu enda poolt valitud 1 haruldase lisakomponendiga. Võimalik valida korduvalt.
 
-**Lisaretseptid I **
+**Lisaretseptid I**
 
 Tegelane saab valida 2 uut esimese taseme retsepti oma alkeemiku raamatusse. Võimalik valida korduvalt.
 
-**Lisaretseptid II **
+**Lisaretseptid II**
 
 Tegelane saab valida 2 uut teise taseme retsepti oma alkeemiku raamatusse. Võimalik valida korduvalt.
 
@@ -350,7 +350,7 @@ Enne mängu tõmbab tegelane kuulujuttude loosist endale mõne fakti. Võimalik 
 
 Tegelane omab tutvusi või muid ressursse, mille kaudu mängude vahelisel ajal lisainfot hankida. Tegelane võib enne järgmist mängu küsida GM-idelt ühe eelmisel mängul kohatud objekti/tegelase/nähtuse kohta lisainformatsiooni. [Uurija oskus peab olema valitud enne huvipakkuva objekti/tegelase/nähtusega kokku puutumist]. Võimalik valida kuni 3 korda, misjuhul saab iga valitud korra eest koguda informatsiooni erineva objekti/nähtuse või isiku kohta.
 
-**Eristamine (€) **
+**Eristamine (€)**
 
 Tegelane oskab tuvastada, kas dokumendid on ehtsad või võltsitud.
 
@@ -374,7 +374,7 @@ Tegelane võib kasutada oskust _Meditsiin I_ olles _väsinud_.
 
 **Meditsiin IV (€)¤¤**
 
-Kiire ravitsemine: Tegelane suudab kiiremini tervisepunkte taastada, pärast meditsiiniliste protseduuride läbi viimist taastab haige 1 elupunkt 5 minuti möödudes. Samuti suudab tegelane kurnatud tegelase 5 minutiga viia väsinud seisundisse.
+Kiire ravitsemine: Tegelane suudab kiiremini tervisepunkte taastada, pärast meditsiiniliste protseduuride läbi viimist taastab haige 1 elupunkt 5 minuti möödudes. Samuti suudab tegelane _kurnatud_ tegelase 5 minutiga viia _väsinud_ seisundisse.
 
 **Kesta parandamine I {Meditsiin I või Sepakunst I, theumiitidel eeldusoskus puudub} (€)**
 
@@ -384,7 +384,7 @@ Tegelane oskab theumiitide kestasid parandada. Pärast kesta parandamist hakkab 
 
 Tegelane oskab theumiitide kestasid parandada. Pärast kesta parandamist hakkab theumiit taastama elupunkte kiirusega 1 elupunkt 10 minuti jooksul.
 
-Tegelane võib kasutada oskust kesta parandamine I olles väsinud.
+Tegelane võib kasutada oskust _kesta parandamine I_ olles _väsinud_.
 
 **Sepakunst I (€)**
 
@@ -402,7 +402,7 @@ Tegelane oskab tugevdada olemasolevaid kilpe, andes neile omaduse eirata esimest
 
 Tegelane oskab mingil määral võltsida ametlikke dokumente ja allkirju. Samuti oskab ta kopeerida käekirju. Peamiselt mängude vahel kasutatav oskus. 
 
-**Lepingud **
+**Lepingud**
 
 Tegelane oskab vormistada lepinguid. 
 
@@ -480,7 +480,7 @@ Tegelane võib uimastada teise tegelase. Selleks peab ta käes hoidma rasket ese
 
 <h3 id="kelm">Kelm</h3>
 
-Kelm on pimeduses peituja ja kaval tegutseja. Ta võib kasutada oma oskusi ka seaduse poolel või töötada skaudina. 
+*Kelm on pimeduses peituja ja kaval tegutseja. Ta võib kasutada oma oskusi ka seaduse poolel või töötada skaudina.*
 
 #### Oskuste omandamine:
 
@@ -504,7 +504,7 @@ Kelm, kes tabab noalöögiga ohvrit selga, teeb talle oma taseme jagu lisakahju.
 
 **Uimastamine I (€)**
 
-Tegelane võib uimastada teise tegelase. Selleks peab ta käes hoidma rasket eset, ning tegema ohvrile ootamatult seljatagant pai. Ohver on seejärel uimastatud seisundis.
+Tegelane võib uimastada teise tegelase. Selleks peab ta käes hoidma rasket eset, ning tegema ohvrile ootamatult seljatagant pai. Ohver on seejärel _uimastatud_ seisundis.
 
 **Taskuvaras (€)**
 
@@ -512,7 +512,7 @@ Tegelane võib varasta ühe eseme kinnitades sellele pesulõksu. Koti külge kin
 
 **Treenitud**
 
-Tegelane on saanud lahingväljaõppe. Lahingsituatsioonis ei väsi tegelane elupunkti kaotuse tõttu. Kui ta oleks saanud väsinud seisundi lahingus ilmneb see alles pärast lahingut.
+Tegelane on saanud lahingväljaõppe. Lahingsituatsioonis ei _väsi_ tegelane elupunkti kaotuse tõttu. Kui ta oleks saanud _väsinud_ seisundi lahingus ilmneb see alles pärast lahingut.
 
 **Tase 3**
 
@@ -524,7 +524,7 @@ Tegelane saab 1 elupunkti juurde.
 
 Tegelane võib uimastada teise tegelase. Selleks ei vaja ta enam rasket eset, vaid peab tegema ohvrile ootamatult selja tagant pai. Ohver on seejärel _uimastatud_ seisundis.
 
-**Ohutaju **
+**Ohutaju**
 
 Tegelaneb saab enne mängu või mängu ajal GM-ide käest informatsiooni, mis on tegelasele kasulik või hoiatab teda tulevase ohu eest.
 
@@ -565,7 +565,7 @@ Tegelane oskab lõkse üles seada.
 
 **Lõksumeister III {Kelm tase 3}**
 
-Tegelane ignoreerib esimest teda mõjutavat lõksu, ning ta saab kasutada lõksumeistri oskusi väsinud seisundis.
+Tegelane ignoreerib esimest teda mõjutavat lõksu, ning ta saab kasutada lõksumeistri oskusi _väsinud_ seisundis.
 
 **Turvised I**
 
@@ -585,11 +585,11 @@ Tegelane võidab automaatselt, kui vastasel pole käsivõitluse oskust.
 
 **Põikle I (€) {Käsivõitlus II}**
 
-Tegelasel on üks lisa turvisepunkt, mis taastub automaatselt iga lahingolukorra lõpus.
+Tegelasel on üks lisaturvisepunkt, mis taastub automaatselt iga lahingolukorra lõpus.
 
 **Põikle II (€) {Käsivõitlus II, kelm tase 3}**
 
-Tegelasel on kaks lisa turvisepunkti, mis taastuvad automaatselt iga lahingolukorra lõpus.
+Tegelasel on kaks lisaturvisepunkti, mis taastuvad automaatselt iga lahingolukorra lõpus.
 
 **Mürgikunst I**
 
@@ -597,7 +597,7 @@ Tegelane oskab valmistada lihtsaid mürke, mis alla neelamise korral mõjuvad su
 
 **Mürgikunst II (€) {Kelm tase 3}**
 
-Tegelane oskab oma relvi mürgitada. Relvatabamuse saanud tegelane on mürgitatud seisundis. Mängijal on mängu alguses 1 doos relvamürki.
+Tegelane oskab oma relvi mürgitada. Relvatabamuse saanud tegelane on _mürgitatud_ seisundis. Mängijal on mängu alguses 1 doos relvamürki.
 
 **Sidumine (€)**
 
@@ -698,6 +698,7 @@ Maag võib mängu jooksul kasutada kuni 16 ühikut apeironit.
 Maag valib endale lisaeriala. Ta oskab lisaeriala loitse nagu oleks tema maagi tase ühe võrra madalam.
 
 **Apeironi rikastamine II {Maag tase 3}**
+
 Tegelane võib vahendite ja toormaterjali olemasolul toota apeironit. Oskust saab kasutada ka reisil olles, kuid selleks peab maagil olema vastav masin.
 
 **Metamaagia I**
@@ -756,7 +757,7 @@ Jumalad on esitatud oma kultuurilise vastandiga.
 
 #### Oskuste omandamine
 
-* **Tase 1:** Põhimoodul + 1 vabamooduli oskus (imelik on vist lubada ainult 1 oskust teisel tasemel)
+* **Tase 1:** Põhimoodul + 1 vabamooduli oskus
 * **Tase 2:** Põhimoodul + 1 vabamooduli oskus
 * **Tase 3:** Põhimoodul + 2 vabamooduli oskust
 
@@ -768,7 +769,7 @@ Jumalad on esitatud oma kultuurilise vastandiga.
 
 Preestril on püha sümbol, jumala väe ohutu kanal. Sümbol on jumala vägi füüsilisel kujul. Sümbol toimib kui see on preestri rinnal või sellel on kontakt preestri nahaga. Sümbolit võib preestrilt ära võtta, kuid sellisel juhul laskub äravõtja peale jumala needus, millest ta vabaneb siis, kui sümbol on tagastatud ja preester on talle määranud väikese patukahetsuse. Needuse iseloom on seotud preestri jumalaga ja määratakse tegelast luues. 
 
-**Side jumalaga **
+**Side jumalaga**
 
 Jumal võib harva anda preestrile märku millestki huvitavast, ohtlikust või olulisest. Üldiselt iseaktiveeruv omadus, seda ei saa teadlikult kasutada. 
 
@@ -840,11 +841,11 @@ Preester alustab mängu jumala poolt antud erilise ülesandega. Pärast ülesand
  
 **Puhkeala {Preester Tase 2}**
 
-Preester loob erilise puhkeala. Selleks peab ta heiskama oma jumala sümboli, ning kõik tegelased, kes saavad seal puhata, vabanevad väsinud seisundist 10 minuti puhkuse järel. Puhkealas võivad puhata preestri kodumaa elanikud, kas siis Impeeriumist või Vabadelt Maadelt. Puhkeala loomine kulutab ühe preestri palve, ning kaob kohe, kui preester liigutab jumala sümbolit või läheb sellest kaugemale kui 5 meetrit.
+Preester loob erilise puhkeala. Selleks peab ta heiskama oma jumala sümboli, ning kõik tegelased, kes saavad seal puhata, vabanevad _väsinud_ seisundist 10 minuti puhkuse järel. Puhkealas võivad puhata preestri kodumaa elanikud, kas siis Impeeriumist või Vabadelt Maadelt. Puhkeala loomine kulutab ühe preestri palve, ning kaob kohe, kui preester liigutab jumala sümbolit või läheb sellest kaugemale kui 5 meetrit.
 
 **Relvakasutusoskus: ühekäerelvad**
 
-Tegelane oskab kasutada ühekäerelvi. Ta võib alustada mängu ühekäerelvaga, ning pärast relva kasutamist lahingus ei ole ta automaatselt väsinud.
+Tegelane oskab kasutada ühekäerelvi. Ta võib alustada mängu ühekäerelvaga, ning pärast relva kasutamist lahingus ei ole ta automaatselt _väsinud_.
 
 <h3 id="sorts">Sorts</h3>
 *Sortsid on theumiitide vägevaimad loitsijad. Nad on õppinud oma elementi kasutama ka väljaspool allikat ja võivad sellega isegi lahingus oma vastastesse hirmu külvata.*
@@ -925,7 +926,7 @@ Võimsamad maagilised kohad ja esemed jätavad endast maha tugevaid maagilisi j�
 
 **Relvakasutusoskus: ühekäerelvad**
 
-Tegelane oskab kasutada ühekäerelvi. Ta võib alustada mängu ühekäerelvaga, ning pärast relva kasutamist lahingus ei ole ta automaatselt väsinud.
+Tegelane oskab kasutada ühekäerelvi. Ta võib alustada mängu ühekäerelvaga, ning pärast relva kasutamist lahingus ei ole ta automaatselt _väsinud_.
 
 <h3 id="sodalane">Sõdalane</h3>
 
@@ -985,7 +986,7 @@ Impeeriumi sõdalased on õppinud koos võitlema, ning sõdalane saab ühe (kolm
 Vabad Maad<br />
 **Sõjaraev {Sõdalane tase 2}**
 
-Tegelane võib valitud hetkel lahingolukorras raevuda. Raevuda ei saa raskes turvises. Sõdalane on alati pärast lahingut, kus ta oli sõjaraevus, väsinud. Sõjaraev lõppeb olukorra lahenedes või kui raevuja on seljatanud oma vastase. Sõjaraevus olek on järgmiste oskuste kasutamise eelduseks:
+Tegelane võib valitud hetkel lahingolukorras raevuda. Raevuda ei saa raskes turvises. Sõdalane on alati pärast lahingut, kus ta oli sõjaraevus, _väsinud_. Sõjaraev lõppeb olukorra lahenedes või kui raevuja on seljatanud oma vastase. Sõjaraevus olek on järgmiste oskuste kasutamise eelduseks: (Koos sõjaraev oskusega omandatakse automaatselt _sõjaraev: põikle_.)
 
 **Sõjaraev: Põikle (€)**
 
@@ -993,7 +994,7 @@ Tegelane saab sõjaraevus olles ühe lisaturvisepunkti.
 
 **Sõjaraev: Oimetu/Stun (€) {Sõdalane tase 3}**
 
-Tegelane võib sooritada sõdalase taseme jagu arv kordi mängu jooksul oimetuks tegeva löögi.
+Tegelane võib sooritada sõdalase taseme jagu arv kordi mängu jooksul _oimetuks_ tegeva löögi.
 
 Theumiidid<br />
 **Elementaallöök {Sõdalane tase 2}**
@@ -1006,7 +1007,7 @@ Tegelase löögid on väestatud theumiidi elemendist, ning leidub olendeid, kes 
 
 **Elementaallöök II (€) {Sõdalane tase 3}**
 
-Tegelane võib sooritada sõdalase taseme jagu arv kordi mängu jooksul võimsat elementaallööki. Elementaallöögiga tabatu muutub kurnatuks. (Elementaallöögi eest kaitseb elemendikilp).
+Tegelane võib sooritada sõdalase taseme jagu arv kordi mängu jooksul võimsat elementaallööki. Elementaallöögiga tabatu muutub _kurnatuks_. (Elementaallöögi eest kaitseb _elemendikilp_).
 
 **Turvised I**
 
@@ -1030,17 +1031,17 @@ Tegelane võidab automaatselt, kui vastasel pole käsivõitluse oskust.
 
 **Uimastamine I**
 
-Tegelane võib uimastada teise tegelase. Selleks peab ta käes hoidma rasket eset, ning tegema ohvrile ootamatult selja tagant pai. Ohver on seejärel uimastatud konditsioonis.
+Tegelane võib uimastada teise tegelase. Selleks peab ta käes hoidma rasket eset, ning tegema ohvrile ootamatult selja tagant pai. Ohver on seejärel _uimastatud_ konditsioonis.
 
 [Kõiki võitluskunstide oskusi saab sõdalane kasutada oma taseme jagu mängu jooksul, ning ta ei tohi kanda rasket turvist.]
 
 **Võitluskunstid: Oimetu (€) {Uimastamine I, Käsivõitlus II}**
 
-Tegelane puudutab õrnalt käega sihtmärki, ning seejärel on sihtmärk seisundis oimetu. 
+Tegelane puudutab õrnalt käega sihtmärki, ning seejärel on sihtmärk seisundis _oimetu_. 
 
 **Võitluskunstid: Vangista (€) {Võitluskunstid: Oimetu}**
 
-Tegelane puudutab õrnalt käega sihtmärki, ning seejärel on sihtmärk seisundis kammitsetud, kuniks sõdalane oma käe sihtmärgilt eemaldab.
+Tegelane puudutab õrnalt käega sihtmärki, ning seejärel on sihtmärk seisundis _kammitsetud_, kuniks sõdalane oma käe sihtmärgilt eemaldab.
 
 **Võitluskunstid: Relvitu (€) {Võitluskunstid: Oimetu}**
 
@@ -1055,4 +1056,4 @@ Tegelasel on üks lisaturvisepunkt, mis taastub automaatselt iga lahingolukorra 
 Tegelasel on kaks lisaturvisepunkti, mis taastuvad automaatselt iga lahingolukorra lõpus.
 
 **Sidumine (€)**
-Tegelane oskab teisi kinni siduda. Tavalist nööri kasutades oskab ta teadvusetu tegelase kinni siduda, mis muudab viimase seisundi kammitsetuks.
+Tegelane oskab teisi kinni siduda. Tavalist nööri kasutades oskab ta teadvusetu tegelase kinni siduda, mis muudab viimase seisundi _kammitsetuks_.
