@@ -279,7 +279,7 @@ Loob ja asetab valitud kohta maagilise lõksu. Lõksu langenud tegelane on _uima
 Maksumus: 1 apeiron<br />
 Tüüp: Eneseloits <br />
 Kestvus: Eriline <br />
-Võimsamad maagilised kohad ja esemed jätavad endast maha tugevaid maagilisi jälgi, mida maag näeb. (OG: maagilised jäljed on tähistatud kollaste lipukestega). Maagilise jäljeajamise alustamine maksab ühe manapunkti.
+Võimsamad maagilised kohad ja esemed jätavad endast maha tugevaid maagilisi jälgi, mida maag näeb. (OG: maagilised jäljed on tähistatud kollaste lipukestega). Maagilise jäljeajamise alustamine maksab ühe apeironi.
 
 **Nõrkus**<br />
 Maksumus: 2 apeironi<br />
