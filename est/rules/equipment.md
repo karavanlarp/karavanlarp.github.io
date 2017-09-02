@@ -8,9 +8,9 @@ title: Lisa 5; Varustus
 
 Varustuse ja erinevate esemete sisse toomisel ei ole otseseid piiranguid, aga võime otsustada mingit varustust mängu mitte lubada.
 
-Relvad ja kilbid - Täpsemate valmistamisnõuete jaoks palun vaadata Põhjala Pööripäeva reeglite lisa 1: Ohutusnõuded relvaimitatsioonidele <a href="http://www.ancalagon.ee/index.php/tarvilik-teave/maengu-reeglid">http://www.ancalagon.ee/index.php/tarvilik-teave/maengu-reeglid</a>
+**Relvad ja kilbid** - Täpsemate valmistamisnõuete jaoks palume vaadata Põhjala Pööripäeva reeglite lisa 1: Ohutusnõuded relvaimitatsioonidele [siin](http://www.ancalagon.ee/index.php/tarvilik-teave/maengu-reeglid).
 
-Manakott - Peab olema valmistatud kergest ja pehmest materjalist, mida on ohutu visata. Täitmiseks sobivad tangained, näiteks läätsed, herned, tatar vms. Manakott peaks olema umbes 5x5cm ja kaaluma alla 150 grammi.
+**Manakott** - Peab olema valmistatud kergest ja pehmest materjalist, mida on ohutu visata. Täitmiseks sobivad tangained, näiteks läätsed, herned, tatar vms. Manakott peaks olema umbes 5x5cm ja kaaluma alla 150 grammi.
 
 ### Alkeemik
 
