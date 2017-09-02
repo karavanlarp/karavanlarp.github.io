@@ -74,7 +74,7 @@ Duration: Immediate<br />
 Charges a simpler magical item.
 
 **Martyr**<br />
-Type: Touch spell<br />     
+Type: Touch spell<br />
 Duration: Immediate<br />
 The priest takes on some of the target’s physical suffering and/or pain. 
 
@@ -89,13 +89,13 @@ Duration: 2 minutes<br />
 The target calms. They may not attack or hurt anyone. The effect of the prayer ends the moment someone else attacks the target. The lagar loses their bloodlust, and the wulver their rage. Any rage skills also cannot be used during the duration. 
 
 **Light**<br />
-Type: Self spell<br />     
+Type: Self spell<br />
 Duration: 1 game<br />
 The character creates a cold source of light. (OG: chemical light stick or small flashlight).
 
 **Clue**<br />
-Type: Self spell<br />     
-Duration: Immediate<br />  
+Type: Self spell<br />
+Duration: Immediate<br />
 Can receive an useful clue from their god. 
 
 **Blessing: energize**<br />
@@ -411,7 +411,7 @@ Type: Self spell<br />
 Duration: 2 minutes<br />
 Nonmagical weapons cannot harm the priest.
 
-####Rhen-Apa
+#### Rhen-Apa
 
 **Woodhall**<br />
 Type: Area spell<br />
