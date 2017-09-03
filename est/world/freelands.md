@@ -244,9 +244,9 @@ Pidusid peetakse igasugustel põhjustel, ja tavaks on teretulnuks pidada kasvõi
 
 Vabamaalased kasutavad rahana eri metallide seibe. Neid on kolme tüüpi - vask, hõbe ja kuld.
 
-1 kuld = 150 staurust
-1 hõbe = 15 staurust
-1 vask = 1.5 staurust
+* 1 kuld = 150 staurust
+* 1 hõbe = 15 staurust
+* 1 vask = 1.5 staurust
 
 Seibid on teoorias kõik üle kaalutud täpsete kaaludega selleks määratud ametimeeste poolt ning sisaldavad sama palju metalli. Suur osa hõimusisest kaubavahetust aga toimub bartersüsteemis, kus raha pole vajalik. Seibe kasutatakse rohkem teiste hõimude või Impeeriumiga kauplemiseks. 
 
