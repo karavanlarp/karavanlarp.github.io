@@ -243,10 +243,14 @@ There are many reasons for a party and all present are welcome, even if they are
 <h3 id="economy">Economy </h3>
  
 Freelanders use circles of different metals as currency. There are three types of them – copper, silver and gold. 
+
+100 coppers = 10 silvers = 1 gold
  
-1 gold = 10 silvers = 100 coppers = 20 staurus
-1 silvers = 10  coppers = 2 staurus
-1 staurus = 5 coppers
+Exchange rates: 
+
+* 1 gold = 150 staurus
+* 1 silver = 15 staurus
+* 1 copper = 1.5 staurus
  
 All the circles have been weighed with exact scales by officials tasked with the responsibility and contain same amounts of the metal in question. However, most of inner-tribe trade is done with the barter system where money is not necessary. The cirles are used for trade between the tribes and with the Empire.  
  
