@@ -527,10 +527,10 @@ Tüüp: Eneseloits<br />
 Kestvus: kohene<br />
 Preester saab teada, kas läheduses on maavarasid või metalle. 
 
-**Paranda turvis**<br />
+**Sulenise kaitse**<br />
 Tüüp: Puuteloits<br />
-Kestvus: kohene<br />
-Preester parandab katkise turvise.
+Kestvus: 2 tundi<br />
+Preestri puudutatud relv, turvis või kilp on purunematu palve kestvuse ajaks. Võitlusmõjutused ja loitsud mis purustaksid kilbi, turvise või relva ei toimi. Turvis kaotab endiselt tabamuse saades turvisepunkti, kuid seda on võimatu ühe loitsu või tabamusega katki teha.
 
 **Oskused:**<br />
 **Sepakunst I, Sepakunst II, Jõukus I, Jõukus II, Hindaja I, Hindaja II**
