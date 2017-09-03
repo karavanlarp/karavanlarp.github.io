@@ -66,6 +66,12 @@ A permit can be obtained from border officials. This process can be easier or ha
 
 The money of both countries is valid in the borderlands.
 
+Exchange rates: 
+
+* 1 gold = 150 staurus
+* 1 silver = 15 staurus
+* 1 copper = 1.5 staurus
+
 As elsewhere, violence towards others is prohibited. Tests of strength with witnesses are allowed and the extent of the trial is regulated (usually until the first serious wound). Having reached this point, the issue is considered resolved. This applies mostly to small quarrels.
 
 This doesn’t mean the borderlands are completely safe. Travelling alone is usually not recommended due to the threat of robbers, who often take the lives of their victims in addition to their property. For this reason, the caravans are protected by guards and many veterans make a living escorting travellers.
