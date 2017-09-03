@@ -65,6 +65,10 @@ Liikumisloa saamiseks tuleb külastada piiriametnikke. See protsess võib olla k
 
 Piirialas kehtivad mõlema poole valuutad. 
 
+* 1 kuld = 150 staurust
+* 1 hõbe = 15 staurust
+* 1 vask = 1.5 staurust
+
 Nagu ka mujal, on vägivald teiste vastu keelatud. Lubatud on tunnistajatega mõõduvõtud, kus on fikseeritud ka mõõduvõtmise ulatus (üldiselt esimese tõsise haavani), pärast mida loetakse olukord lahendatuks. See kehtib pigem kergete tülide puhul. 
 
 See aga ei tähenda, et piirialadel oleks täiesti ohutu. Üldiselt ei soovitata üksi reisida, nii on võimalik langeda röövlite kätte, kes õnnetu paljaks varastamise järel ka mõnikord ta elu võtavad. Sellepärast liiguvad karavanid valvuritega ja mitmed veteranid teenivad elatist reisijate eskortimisega. 
