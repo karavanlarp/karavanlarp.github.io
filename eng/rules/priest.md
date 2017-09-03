@@ -526,6 +526,12 @@ Type: Self spell<br />
 Duration: Immediate<br />
 The priest learns if there are any resources or metals nearby. 
 
+**The protection of Sulenis**<br />
+Type: Touch spell<br />
+Duration: 2 hours<br />
+The priest makes a weapon, armor or shield indestructible for the duration. All effects that would destroy the item do not work. An armor can still be reduced to broken via losing all of its armorpoints, but it cannot be broken with one spell or hit. 
+
+
 **Skills:**<br />
 **Smithing I, Smithing II, Wealth I, Wealth II, Appraise I, Appraise II**
 
