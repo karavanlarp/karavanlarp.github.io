@@ -271,9 +271,9 @@ Service and wages
 
 **Exchange rates** 
 
-1 staurus = 5 Free Lands coppers
-2 staurus = 1 Free Lands silver = 10 Free Lands coppers
-20 staurus = 1 Free Lands gold = 10 Free Lands silvers = 100 Free Lands coppers
+* 1 gold = 150 staurus
+* 1 silver = 15 staurus
+* 1 copper = 1.5 staurus
 
 <h3 id="politics">Politics</h3>
 
