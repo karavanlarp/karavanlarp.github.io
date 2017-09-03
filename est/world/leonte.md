@@ -269,6 +269,12 @@ Teenused ja palgad
 * Palgasõduri päevatöö        ~ 10 St
 * Leonte sõduri kuupalk        100 St
 
+Vahetuskursid: 
+
+* 1 kuld = 150 staurust
+* 1 hõbe = 15 staurust
+* 1 vask = 1.5 staurust
+
 <h3 id="poliitika">Poliitika</h3>
 
 Impeeriumit valitseb ainuisikuliselt keiser. Teda abistavad Valitud. 
