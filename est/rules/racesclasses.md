@@ -645,7 +645,7 @@ Maag alustab igat mängu 5+maagi tase apeironiga. Maag oskab silmapilguga hinnat
 
 **Teadmised: maagia I**
 
-Maag valib vabade loitsude hulgast 4 tase 1 loitsu, mida ta oskab valmistada. 
+Maag valib vabade loitsude hulgast 6 tase 1 loitsu, mida ta oskab valmistada. 
 
 **Loitsu tegemine (€)**
 
