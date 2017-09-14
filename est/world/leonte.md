@@ -113,7 +113,7 @@ Impeerium on jaotatud kümneks piirkondliku pealinnaga maakonnaks. Impeeriumi pe
 
 **Muud punktid**
 
-![Looduskaart](https://karavanlarp.github.io/img/map/Leonte_counties.png)
+![Looduskaart](https://karavanlarp.github.io/img/map/Leonte_nature.png)
 
 * Alger - Impeeriumi pikim jõgi, selle sisemere poolses otsas asub Rhaentium.
 * Allikad - Asuvad üle kogu Impeeriumi. Tuli - Razen, Vesi - Warul, Õhk - Dethan, Maa - Karis, Valgus - Saqad, Vari - Amite 
