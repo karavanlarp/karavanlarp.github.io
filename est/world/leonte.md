@@ -368,131 +368,107 @@ Maapeal on jumalate tahte väljendajateks nende preestrid ja mõnikord väga har
 
 Impeeriumi jumalad on: 
 
-**Malakhim**
+#### Malakhim
 
-Tiitlid: Tasakaalu Hoidja 
+<img src="/img/logo/god_imperial/malakhim.png" style="display: inline-block;">
 
-Sümbolid: kaalud, kirjutussuled, pitserid, sauad, baldahhiinid, valguskiired
-
-Valitsusala: kord, seadused, tasakaal, lepingud, poliitika, aadlikud 
-
-Vastand: Ban-Mawr
-
-Voorus: austus
-
-Värvid: kollane, lilla, tumepunane 
+**Tiitlid:** Tasakaalu Hoidja<br />
+**Sümbolid:** kaalud, kirjutussuled, pitserid, sauad, baldahhiinid, valguskiired<br />
+**Valitsusala:** kord, seadused, tasakaal, lepingud, poliitika, aadlikud<br />
+**Vastand:** Ban-Mawr<br />
+**Voorus:** austus<br />
+**Värvid:** kollane, lilla, tumepunane
 
 Ametnike, kohtunike ja juhtide jumal. Tema preestrid jälgivad, et seadused oleksid omavahel kooskõlas. Malakhimi õnnistus on lepingute siduvus ja Impeeriumi teenrite vastutus ametimärkide näol. 
 
-**Keteos**
+#### Keteos
 
-Tiitlid: Lõppude Vardja
+<img src="/img/logo/god_imperial/keteos.png" style="display: inline-block;">
 
-Sümbolid: tähed, noad, uksed, luud 
-
-Valitsusala: surm, öö/varjud, lõpp, moroiad, lagaarid 
-
-Vastand: Lir-Neth
-
-Voorus: minna laskmine
-
-Värvid: must, kollane, valge 
+**Tiitlid:** Lõppude Vardja<br />
+**Sümbolid:** tähed, noad, uksed, luud<br />
+**Valitsusala:** surm, öö/varjud, lõpp, moroiad, lagaarid<br />
+**Vastand:** Lir-Neth<br />
+**Voorus:** minna laskmine<br />
+**Värvid:** must, kollane, valge
 
 Surnute jumal. Tema preestrid valvavad surijate ja surnute järele ning jälgivad öiseid tähti. Keteose õnnistus on hingede minek pärast surma Jumalamäele. 
 
-**Atrepe**
+#### Atrepe
 
-Tiitlid: Teadjate Valvur 
+<img src="/img/logo/god_imperial/atrepe.png" style="display: inline-block;">
 
-Sümbolid: raamatud, rullid, mõõteriistad, silmad (tavaliselt rohkem kui üks), korrapärased kujundid
-
-Valitsusala: teadmised, informatsioon, tarkus, mõõdud, pühakud
-
-Vastand: Vael-Ser
-
-Voorus: mäletamine 
-
-Värvid: hall, oliivroheline, helesinine
+**Tiitlid:** Teadjate Valvur <br />
+**Sümbolid:** raamatud, rullid, mõõteriistad, silmad (tavaliselt rohkem kui üks), korrapärased kujundid<br />
+**Valitsusala:** teadmised, informatsioon, tarkus, mõõdud, pühakud<br />
+**Vastand:** Vael-Ser<br />
+**Voorus:** mäletamine <br />
+**Värvid:** hall, oliivroheline, helesinine
 
 Akadeemikute, ajaloolaste ja teadjate jumal. Tema preestrid säilitavad vanimaid ürikuid ja rulle. Atrepe õnnistus on teadmiste leidmine. 
 
-**Parendi**
+#### Parendi
 
-Tiitlid: Teenäitaja
+<img src="/img/logo/god_imperial/parendi.png" style="display: inline-block;">
 
-Sümbolid: liivakellad, veetilgad, paadid, rattad, lehvikud, linnusuled, lambid 
-
-Valitsusala: rändajad, jõed, linnud, aeg, muutused/tsüklid, geograafia  
-
-Vastand: Arim-Wol
-
-Voorus: paindlikkus
-
-Värvid: sinine, heleroheline, meresinine
+**Tiitlid:** Teenäitaja<br />
+**Sümbolid:** liivakellad, veetilgad, paadid, rattad, lehvikud, linnusuled, lambid <br />
+**Valitsusala:** rändajad, jõed, linnud, aeg, muutused/tsüklid, geograafia<br />
+**Vastand:** Arim-Wol<br />
+**Voorus:** paindlikkus<br />
+**Värvid:** sinine, heleroheline, meresinine
 
 Rändajate, kaupmeeste, kullerite ja postitoojate jumal. Tema preestrid jälgivad ilma. Parendi õnnistus on asjade liigutamine ja mõnikord ka ilma mõjutamine. 
 
-**Terhent**
+#### Terhent
 
-Tiitlid: Päikeseratsanik, Mägede Vanim 
+<img src="/img/logo/god_imperial/terhent.png" style="display: inline-block;">
 
-Sümbolid: igasugused relvad, kettad, kiired, mäed, lipud
-
-Valitsusala: sõda, päike/valgus, jõud, relvad, mäestikud  
-
-Vastand: Nal-Mat
-
-Voorus: vaprus
-
-Värvid: tumepunane, kollane, hall
+**Tiitlid:** Päikeseratsanik, Mägede Vanim <br />
+**Sümbolid:** igasugused relvad, kettad, kiired, mäed, lipud<br />
+**Valitsusala:** sõda, päike/valgus, jõud, relvad, mäestikud  <br />
+**Vastand:** Nal-Mat<br />
+**Voorus:** vaprus<br />
+**Värvid:** tumepunane, kollane, hall
 
 Sõdurite kaitsejumal. Tema preestrid õnnistavad sõdureid ja innustavad neid lahinguväljadel. Samuti kannavad nad edasi vanu võitluskunste ja muid teadmisi. Terhenti õnnistus on vaprus lahingus ja jõud võitlemiseks. 
 
-**Sulenis**
+#### Sulenis
 
-Tiitlid: Esimene Looja
+<img src="/img/logo/god_imperial/sulenis.png" style="display: inline-block;">
 
-Sümbolid: igasugused tööriistad, kivimid ja juveelid
-
-Valitsusala: tööstus, looming, maavarad, värvid 
-
-Vastand: Rhen-Apa
-
-Voorus: töökus
-
-Värvid: pruun, tumehall, oranž
+**Tiitlid:** Esimene Looja<br />
+**Sümbolid:** igasugused tööriistad, kivimid ja juveelid<br />
+**Valitsusala:** tööstus, looming, maavarad, värvid <br />
+**Vastand:** Rhen-Apa<br />
+**Voorus:** töökus<br />
+**Värvid:** pruun, tumehall, oranž
 
 Kõigi käsitööliste kaitsejumal. Tema preestrid valvavad iidseid käsitöökunste ja artefakte. Sulenise õnnistus on Impeeriumi maavarad. 
 
-**Baruna**
+#### Baruna
 
-Tiitlid: Linnade Hing
+<img src="/img/logo/god_imperial/baruna.png" style="display: inline-block;">
 
-Sümbolid: katused, sambad, mündid, erinevad muusikariistad, kett/sõlmmustrid, peekrid
+**Tiitlid:** Linnade Hing<br />
+**Sümbolid:** katused, sambad, mündid, erinevad muusikariistad, kett/sõlmmustrid, peekrid<br />
+**Valitsusala:** linnad, kultuur, suhted, tuli, alkohol, raha, muusika<br />
+**Vastand:** Zer-Nim<br />
+**Voorus:** sidemed<br />
+**Värvid:** virsikoranž, lilla, hall
 
-Valitsusala: linnad, kultuur, suhted, tuli, alkohol, raha, muusika
+Kõikide meelelahutajate ja rahakäsitlejate kaitsejumal. Tema preestrid hoiavad muusika, luule ja muu kultuuri saladusi. Sellele lisaks sõlmivad nemad abielusid (kuigi lisaks on otse loomulikult vaja abielu registreerida ka Impeeriumi Perekonnaseisuametis). Baruna õnnistus on Impeeriumi rahasüsteem. 
 
-Vastand: Zer-Nim
+#### Darsilis
 
-Voorus: sidemed
+<img src="/img/logo/god_imperial/darsilis.png" style="display: inline-block;">
 
-Värvid: virsikoranž, lilla, hall
-
-Kõikide meelelahutajate ja rahakäsitlejate kaitsejumal. Tema preestrid hoiavad muusika, luule ja muu kultuuri saladusi. Sellele lisaks sõlmivad nemad abielusid (kuigi lisaks on otseloomulikult vaja abielu registreerida ka Impeeriumi Perekonnaseisuametis). Baruna õnnistus on Impeeriumi rahasüsteem. 
-
-**Darsilis**
-
-Tiitlid: Elavate Kaitsja
-
-Sümbolid: seemned, puud, viljad, konnad, veised 
-
-Valitsusala: kõik elavad, muld, ilm, ravi, algus 
-
-Vastand: Eil-Gann
-
-Voorus: abistamine 
-
-Värvid: roheline, pruun, hall 
+**Tiitlid:** Elavate Kaitsja<br />
+**Sümbolid:** seemned, puud, viljad, konnad, veised <br />
+**Valitsusala:** kõik elavad, muld, ilm, ravi, algus <br />
+**Vastand:** Eil-Gann<br />
+**Voorus:** abistamine <br />
+**Värvid:** roheline, pruun, hall 
 
 Kõikide elavate, eriti laste ja maaharijate kaitsejumal. Tema preestrid ravivad raskelt haigeid ning haavatuid ja õnnistavad maad. Darsilise õnnistus on maa viljakus. 
 
