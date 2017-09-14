@@ -361,147 +361,115 @@ Jumalaid kujutatakse loomapeadega, sest igal jumalal on oma püha loom. Legendi 
 
 Maa peal on jumalate tahte väljendajateks nende preestrid ja mõnikord väga harva nende saadikud. 
 
-**Ban-Mawr**
+#### Ban-Mawr
 
-Tiitlid: Vannete Valvur, Vabade Juht
+<img src="/img/logo/god_freelands/ban-mawr.png" style="display: inline-block;">
 
-Sümbolid: kirved, kihvad
-
-Valitsusala: kaos, lubadused, veri, vabadus, pealikud, lepingud ja vanded 
-
-Vastand: Malakhim
-
-Voorus: jultumus
-
-Püha loom: karu 
-
-Värvid: roheline, tumepunane, kollane 
+**Tiitlid:** Vannete Valvur, Vabade Juht<br />
+**Sümbolid:** kirved, kihvad<br />
+**Valitsusala:** kaos, lubadused, veri, vabadus, pealikud, lepingud ja vanded <br />
+**Vastand:** Malakhim<br />
+**Voorus:** jultumus<br />
+**Püha loom:** karu <br />
+**Värvid:** roheline, tumepunane, kollane
 
 Ban-Mawr on Vabade Maade jumalate juht. Kui antakse vandeid, siis neid antakse tema nimel, ja tema viha pöördub nende peale, kes oma vannetest taganevad. Tema preestrid on tihti kohtupidamiste juures ja annavad oma nõu. Enne kui ei olnud kirjapandud Koodeksit, oli selle meelespidamine nende peamine ülesanne. Ban-Mawri õnnistus on verevannete siduvus. 
 
-**Lir-Neth**
+#### Lir-Neth
 
-Tiitlid: Kaotuse Tuul, Nägemise Piir
+<img src="/img/logo/god_freelands/lir-neth.png" style="display: inline-block;">
 
-Sümbolid: kolbad, tuuled, silm (üldiselt ainult üks)
-
-Valitsusala: surm, nägemused, saatus, mälestused 
-
-Vastand: Keteos
-
-Voorus: etteaimdus
-
-Püha loom: öökull
-
-Värvid:  tumesinine, tumehall, valge 
+**Tiitlid:** Kaotuse Tuul, Nägemise Piir<br />
+**Sümbolid:** kolbad, tuuled, silm (üldiselt ainult üks)<br />
+**Valitsusala:** surm, nägemused, saatus, mälestused <br />
+**Vastand:** Keteos<br />
+**Voorus:** etteaimdus<br />
+**Püha loom:** öökull<br />
+**Värvid:**  tumesinine, tumehall, valge
 
 Lir-Nethi preestrid on need kes valvavad surijaid, surnuid ja esivanemaid. Samuti on neile antud mingil määral võimalus kaeda tulevikku ja seda tõlgendada teiste jaoks. Nemad on need, kes kutsuvad hõimu palvel esivanemaid tagasi. Lir-Nethi õnnistus on surnute lahkumine Ilmasüvikusse. 
 
-**Vael-Ser**
+#### Vael-Ser
 
-Tiitlid: Peidetud Teadmine, Vigurdaja 
+<img src="/img/logo/god_freelands/vael-ser.png" style="display: inline-block;">
 
-Sümbolid: ussid, spiraalid, täringud
-
-Valitsusala: öö, varjud, vingerpussid, koopad, õnn 
-
-Vastand: Atrepe
-
-Voorus: leidlikkus
-
-Püha loom: kaaren
-
-Värvid: siniroheline, lilla, must 
+**Tiitlid:** Peidetud Teadmine, Vigurdaja <br />
+**Sümbolid:** ussid, spiraalid, täringud<br />
+**Valitsusala:** öö, varjud, vingerpussid, koopad, õnn<br />
+**Vastand:** Atrepe<br />
+**Voorus:** leidlikkus<br />
+**Püha loom:** kaaren<br />
+**Värvid:** siniroheline, lilla, must
 
 Vael-Ser on isemoodi jumal. Tema poole palvetavad kõik kes käivad oma teed üksi, ja kellel on õnn meelel. Tema preestrid hoiavad saladusi ja mõistatusi. Vael-Seri õnnistus on võimaluste lõputus. 
 
-**Arim-Wol**
+#### Arim-Wol
 
-Tiitlid: Küllatooja, Esimene Laul 
+<img src="/img/logo/god_freelands/arim-wol.png" style="display: inline-block;">
 
-Sümbolid: kausid, meekärjed, marjad, korvid, rütmikad pillid  
-
-Valitsusala: stabiilsus, lootus, küllus, laulud/luule 
-
-Vastand: Parendi
-
-Voorus: hääl
-
-Püha loom: jäär
-
-Värvid: kollane, pruun, heleroheline 
+**Tiitlid:** Küllatooja, Esimene Laul <br />
+**Sümbolid:** kausid, meekärjed, marjad, korvid, rütmikad pillid<br />
+**Valitsusala:** stabiilsus, lootus, küllus, laulud/luule <br />
+**Vastand:** Parendi<br />
+**Voorus:** hääl<br />
+**Püha loom:** jäär<br />
+**Värvid:** kollane, pruun, heleroheline
 
 Arim-Wol on kindluse jumal. Tema preestrid toovad maailma lootust ja alalhoidmist hoolimata hõimudest või seltsidest või vaenudest ja ravivad seda oma lauluga. Arim-Woli õnnistus on maa viljakus. 
 
-**Nal-Mat**
+#### Nal-Mat
 
-Tiitlid: Tormide Valitseja, Jahtide Isand  
+<img src="/img/logo/god_freelands/nal-mat.png" style="display: inline-block;">
 
-Sümbolid: välgunooled, vibud, nooled
-
-Valitsusala: jaht, võitlus, vulverid, raev, tormid 
-
-Vastand: Terhent
-
-Voorus: raev
-
-Püha loom: kult
-
-Värvid: pruun, helepunane, helesinine 
+**Tiitlid:** Tormide Valitseja, Jahtide Isand<br />
+**Sümbolid:** välgunooled, vibud, nooled<br />
+**Valitsusala:** jaht, võitlus, vulverid, raev, tormid<br />
+**Vastand:** Terhent<br />
+**Voorus:** raev<br />
+**Püha loom:** kult<br />
+**Värvid:** pruun, helepunane, helesinine
 
 Nal-Mat on jahi ja konfliktide jumal. Tema preestrid on tavaliselt need, kes sõtta minejaid õnnistavad. Nal-Mati õnnistus on raev neile, kes seda kanda julgevad. 
 
-**Rhen-Apa**
+#### Rhen-Apa
 
-Tiitlid: Laanesarvik, Viimane Valvur 
+<img src="/img/logo/god_freelands/rhen-apa.png" style="display: inline-block;">
 
-Sümbolid: metsikud loomad, puud, maa 
-
-Valitsusala: mets, kodu, esivanemad 
-
-Vastand: Sulenis
-
-Voorus: alistumine
-
-Püha loom: põder
-
-Värvid: roheline, helepunane, must 
+**Tiitlid:** Laanesarvik, Viimane Valvur<br />
+**Sümbolid:** metsikud loomad, puud, maa<br />
+**Valitsusala:** mets, kodu, esivanemad<br />
+**Vastand:** Sulenis<br />
+**Voorus:** alistumine<br />
+**Püha loom:** põder<br />
+**Värvid:** roheline, helepunane, must
 
 Rhen-Apa on metsade ja iidsete paikade jumal. Tema preestrid hoolitsevad maa saladuste eest, ning tihti ka valvavad esivanemate puhkepaiku. Rhen-Apa õnnistus on metsade rohkus. 
 
-**Zer-Nim**
+#### Zer-Nim
 
-Tiitlid: Turmakandja, Lõppemise Leek 
+<img src="/img/logo/god_freelands/zer-nim.png" style="display: inline-block;">
 
-Sümbolid: leegid, putukad 
-
-Valitsusala: lagunemine, aeg, häving, haigused 
-
-Vastand: Baruna
-
-Voorus: lõpetamine 
-
-Püha loom: rott 
-
-Värvid: must, virsikoranž, tumepunane
+**Tiitlid:** Turmakandja, Lõppemise Leek<br />
+**Sümbolid:** leegid, putukad<br />
+**Valitsusala:** lagunemine, aeg, häving, haigused<br />
+**Vastand:** Baruna<br />
+**Voorus:** lõpetamine<br />
+**Püha loom:** rott<br />
+**Värvid:** must, virsikoranž, tumepunane
 
 Zer-Nim on jumal, keda peljatakse. Tema preestrid uurivad haigusi ja muid sarnaseid nähtusi. Zer-Nimi õnnistus on asjade lõpetamine, et uued asjad saaksid alata. 
 
-**Eil-Gann**
+#### Eil-Gann
 
-Tiitlid: Päevakuulutaja, Uudiste Saatja
+<img src="/img/logo/god_freelands/eil-gann.png" style="display: inline-block;">
 
-Sümbolid: tuuleiilid, päikesetõusud, puhumissarved 
-
-Valitsusala: päev, kirg, liikumine, tuuled   
-
-Vastand: Darsilis
-
-Voorus: tegutsemine 
-
-Püha loom: jänes
-
-Värvid: heleroheline, helehall, helepruun 
+**Tiitlid:** Päevakuulutaja, Uudiste Saatja<br />
+**Sümbolid:** tuuleiilid, päikesetõusud, puhumissarved<br />
+**Valitsusala:** päev, kirg, liikumine, tuuled<br />
+**Vastand:** Darsilis<br />
+**Voorus:** tegutsemine<br />
+**Püha loom:** jänes<br />
+**Värvid:** heleroheline, helehall, helepruun
 
 Rändajate, teatetoojate ja muude liikujate jumal. Tema preestrid rändavad tihti mööda maid ja toovad kuuldud uudiseid ning lugusid. Eil-Ganni õnnistus on tuuled õigest sunnast. 
 
