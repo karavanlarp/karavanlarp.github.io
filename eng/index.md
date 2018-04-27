@@ -2,13 +2,13 @@
 layout: default-fb-eng
 title: Karavan LARP
 right_content: |
-    ![Image](/img/gallery/Thanaria_6_34.JPG)
+    ![Image](/img/gallery/267.JPG)
 
-    ![Image](/img/gallery/Fyerellal_4_40.JPG)
+    ![Image](/img/gallery/131.JPG)
 
-    ![Image](/img/gallery/Fyerellal_6_30.JPG)
+    ![Image](/img/gallery/217.JPG)
 
-    ![Image](/img/gallery/Fyerellal_I_108.jpg)
+    ![Image](/img/gallery/165.JPG)
 ---
 <h3 style="padding-top: 0px;">What?</h3>
 Caravan is a high-fantasy adventure larp series, welcoming players of all experiences. We want to give our players a fun and adventure-filled event full of nature, tense situations, mystical elements and many other things. 
