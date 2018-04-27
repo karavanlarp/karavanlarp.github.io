@@ -81,8 +81,6 @@ Ootame mängule ka välismaiseid mängijaid, seetõttu on mängukeelteks eesti j
 
 <h3 id="description">Mis juhtus?</h3>
 
-[Pildid](https://photos.google.com/share/AF1QipNobX8upqdh14tTf0mOjy8BD8Lss9AyBRiLB4qnYq7TOA540c0R-C1qpSOqEa0H-Q?key=ejF4VHpuRF9ZZ2g4M2tpNmg0T2tySVNFV0VJbFpB)
-
 _Kaunil suvepäeval rullusid lahti isevärki sündmused. Karavaniga liituda soovijad pidid kohtumispaika jõudmiseks võitlema bandiitidega ja leidma vähe käidud radu. Kohal oli väikest kodukõrtsi pidav naine, aga Karavani enda rahvast ei olnud mõnda aega kippu ega kõppu._
 
 _Kogunemisele saabusid ka Impeeriumi piiriametnikud, kes asusid agaralt kontrollima kohalolijate tervist, kuna oli uudiseid katkupuhangust. Samuti anti välja piiriload neile, kel neid veel ei olnud. Tulemata ei jätnud ka vabamaalasi. Mõnevõrra kaugelt kohale rännanud seltskond otsis taga oma sugulast, kelle saatus selgus õige pea - tema ja tema juhitud theumiitide grupp oli koletul viisil hukka saanud. Surmapaigas võis leida õnnetute jäänuseid ja sulguva portaali._
@@ -92,3 +90,5 @@ _Lõpuks saabus Karavani asjaajaja ja hakati kärmelt pabereid tegema, selleks o
 _Õhtupimeduses kimbutasid lõpuks kokku kogunenud tegelasi varjuolendid, kellega mitte lihtne võidelda ei olnud. Vähemalt olid Karavani juht ja tema kaaslane lõpuks pääsenud metsast, küll pärast mitmeid sekeldusi. Õhtu viimaseks üllatuseks oli see, et ka kõrtsiemanda sees oli mingisugune kummaline vaim, mille seiklejad agaralt maha tapsid._
 
 _Ööpimeduses juhiti uued liitujad Karavani juurde, ja majutati nende valitud vankritesse. Teekond põhja jätkus hommikul..._
+
+[Pildid](https://photos.google.com/share/AF1QipNobX8upqdh14tTf0mOjy8BD8Lss9AyBRiLB4qnYq7TOA540c0R-C1qpSOqEa0H-Q?key=ejF4VHpuRF9ZZ2g4M2tpNmg0T2tySVNFV0VJbFpB)
