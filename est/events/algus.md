@@ -79,28 +79,16 @@ Pakume süüa terve ürituse jooksul, ka reedel tulijatele ja pühapäeval lahku
 
 Ootame mängule ka välismaiseid mängijaid, seetõttu on mängukeelteks eesti ja inglise keel. Juhul kui külalisi ei tule, mängime eesti keeles. 
 
-### Kuidas kohale?
+<h3 id="description">Mis juhtus?</h3>
 
-Bussiaegu saab vaadata siit: [tpilet.ee](https://www.tpilet.ee/) 
+_Kaunil suvepäeval rullusid lahti isevärki sündmused. Karavaniga liituda soovijad pidid kohtumispaika jõudmiseks võitlema bandiitidega ja leidma vähe käidud radu. Kohal oli väikest kodukõrtsi pidav naine, aga Karavani enda rahvast ei olnud mõnda aega kippu ega kõppu._
 
-Rongiaegu saab vaadata siit: [elron.ee](http://elron.ee/) 
+_Kogunemisele saabusid ka Impeeriumi piiriametnikud, kes asusid agaralt kontrollima kohalolijate tervist, kuna oli uudiseid katkupuhangust. Samuti anti välja piiriload neile, kel neid veel ei olnud. Tulemata ei jätnud ka vabamaalasi. Mõnevõrra kaugelt kohale rännanud seltskond otsis taga oma sugulast, kelle saatus selgus õige pea - tema ja tema juhitud theumiitide grupp oli koletul viisil hukka saanud. Surmapaigas võis leida õnnetute jäänuseid ja sulguva portaali._
 
-Mängukohale lähim ühistranspordipeatus on Türi, sealt on umbes 5 kilomeetrit mängukohale. 
+_Lõpuks saabus Karavani asjaajaja ja hakati kärmelt pabereid tegema, selleks oldi ju kohale tuldud. Selle kõrvalt käisid soovijad metsa uurimas - seal leidus nii taimi kui ka kummalisemaid asju, samuti said nad maha pidada lahingu või kaks._
 
-Laupäeval mängule jõudmiseks Tallinnast sobib kell 09.00 väljuv ja 10.35 Türile saabuv buss. 
+_Õhtupimeduses kimbutasid lõpuks kokku kogunenud tegelasi varjuolendid, kellega mitte lihtne võidelda ei olnud. Vähemalt olid Karavani juht ja tema kaaslane lõpuks pääsenud metsast, küll pärast mitmeid sekeldusi. Õhtu viimaseks üllatuseks oli see, et ka kõrtsiemanda sees oli mingisugune kummaline vaim, mille seiklejad agaralt maha tapsid._
 
-Laupäeval mängule jõudmiseks Tartust tuleb 07.30 väljuva bussiga sõita Kose-Risti ja sealt minna 09.37 väljuva Türi bussi peale. 
+_Ööpimeduses juhiti uued liitujad Karavani juurde, ja majutati nende valitud vankritesse. Teekond põhja jätkus hommikul..._
 
-Ostke võimalusel piletid ette ära!
-
-Arvestage et graafikud võivad veel muutuda. Paar nädalat enne mängu täpsustame graafikud kindlasti üle! 
-
-Bussi- või rongijaama saabujatele organiseerime transpordi mängukohale. 
-
-Võib saabuda juba reede õhtul ja kohapeal ööbida. Ööbida kohapeal saab ka pärast mängu lõppu. 
-
-### Kogunemine
-
-Autoga tulijad võiksid saabuda kella 10.30ks ja vajadusel aidata bussi/rongijaamast mängijaid transportida. Üldine kogunemiskellaaeg on 11. Kui teil on vaja ennast pikemalt kostümeerida või meikida, palun saabuge kindlasti varem, püüame algbriifiga alustada võimalikult vara. 
-
-Palume hiljaks jäämisel kindlasti teada anda! Arvestage, et me ei saa paari hilineja pärast mängu algust edasi lükata, mis võib tähendada seda et osa teie mängu algusest muutub veidi. 
+[Pildid](https://photos.google.com/share/AF1QipNobX8upqdh14tTf0mOjy8BD8Lss9AyBRiLB4qnYq7TOA540c0R-C1qpSOqEa0H-Q?key=ejF4VHpuRF9ZZ2g4M2tpNmg0T2tySVNFV0VJbFpB)

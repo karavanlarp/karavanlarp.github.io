@@ -77,28 +77,16 @@ We will have food available for the entire event, also for those who arrive on F
 
 All game materials will be provided in Estonian and English. Depending on the amount of English-speaking participants, we will play the whole larp or parts of it in English. In the second case, a translator will be made available for you. 
 
-### How will I get there?  
+<h3 id="description">What happened?</h3>
 
-The location is 105 kilometers (about one and half hour’s drive) near Türi. When approaching from the north you will not have to enter the town and can drive straight to the location. 
+_Strange things happened on a nice summer day. Those who wished to join the Caravan had to fight bandits and find rarely walked paths. At the meeting place they found a woman who kept a little tavern, but nobody from the Caravan itself._
 
-Bus times here: [tpilet.ee](https://www.tpilet.ee/en)
+_The next arrivals were Imperial border agents who gave out border passes and performed medical tests, as there were rumors of a plague outbreak nearby. Freelanders came as well. A group from somewhat far away was searching for their relative, whose fate became clear soon enough - she and the theumites she had been leading had died gruesomely. The adventurers found only their remains and a closing portal._
 
-Train times here: [elron.ee](http://elron.ee/en/)
+_Finally the Caravan’s representative arrived, and everybody got busy filling out forms and signing papers to join up as that was why they had come. Meanwhile they also searched the forest - full of plants and other things, and had a battle or two._
 
-The closest public transportation stop for the game is Türi, from there it is about 5 kilometers to the larp. 
+_As the evening fell, mysterious shades troubled the group. They were hard to defeat. At least the leader of the Caravan’ and her companion made it out of the forest after many struggles. The last surprise of the evening was that the tavern keeper had been possessed by another shade, which the adventurers readily killed._
 
-To get there on Saturday from Tallinn, the bus leaving at 09.00 and arriving in Türi at 10.35 is the best option. 
+_The new arrivals were led to the Caravan in the dark of the night and set up in their chosen wagons. The journey north continued in the morning..._
 
-Buy tickets in advance if you can. 
-
-Keep in mind the timetables can change. We will confirm the timetables a few weeks before the game. 
-
-We will organise transport from the public stop to the game if needed. 
-
-You may arrive on Friday and sleep on location. You may also stay Saturday night after the game ends. 
-
-### When do I need to be there?
-
-Those coming with a car should be on location at 10.30 and help to transport people from the public stops if needed. The overall time is 11. If you need some time to prepare your outfit and makeup, please be there earlier, as we want to start as early with the briefings as possible. 
-
-Definitely let us know if you are going to be late. We will not be postponing the game’s start for a few people, which can mean that your game start will change a bit. 
+[Pictures](https://photos.google.com/share/AF1QipNobX8upqdh14tTf0mOjy8BD8Lss9AyBRiLB4qnYq7TOA540c0R-C1qpSOqEa0H-Q?key=ejF4VHpuRF9ZZ2g4M2tpNmg0T2tySVNFV0VJbFpB)
