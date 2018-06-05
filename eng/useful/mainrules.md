@@ -10,7 +10,7 @@ _These are rules for the event, character and mechanics-specific rules are on a 
 
 The gamemasters are the organisers and judges of the event. The gamemaster will always have the last word on decisions about the rules and other things. The gamemasters reserve the right to pick the attendees of the events. 
 
-Caravan’s current gamemasters are: Mona Hakomaa, Maarja Lutsar and Siim Kurvits
+Caravan’s current gamemasters are: Mona, Maarja, Siim, Martin and Iti
 
 ### IG and OG 
 

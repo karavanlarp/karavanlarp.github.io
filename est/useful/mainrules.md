@@ -10,7 +10,7 @@ Need puudutavad ürituse üldist korda, tegelaste ja mehhaanikatega seotud reegl
 
 Mängujuhid on ürituse korraldajad ja kohtunikud. Mängujuhile jääb reeglite ja muude otsuste tegemisel alati viimane sõna. Mängujuhid jätavad endale õiguse üritusel osalejaid valida. 
 
-Karavani mängujuhid on: Mona Hakomaa, Maarja Lutsar ja Siim Kurvits. 
+Karavani mängujuhid on: Mona, Maarja, Siim, Martin ja Iti. 
 
 ### IG ja OG 
 
