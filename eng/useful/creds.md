@@ -20,17 +20,25 @@ Maarja has created two larp series and many small experimental larps. In the Car
 
 _Larp engineer_
 
-Siim has also organised larps before (a fantasy series and a few sci-fi themed larps). Siim is responsible for turning Caravan into a game: he works on rules and designing game mechanics. In real life Siim studies mathematical statistics and gene technology in university. His hobbies are martial arts, hiking and board games. 
+Siim has also organised larps before (a fantasy series and a few sci-fi themed larps). Siim is responsible for turning Caravan into a game: he works on rules and designing game mechanics. In real life Siim studies mathematical statistics and gene technology in university. His hobbies are martial arts, hiking and board games.
+
+**Martin**
+
+_Wordsmith_
+
+Martin has been in the organising team of a few larps and is an active game master of tabletop role play games. In the Caravan team he writes stories and in-world materials and helps out where necessary. In real life Martin translates books and games. His main hobbies are literature, writing and board games.
+
+**Iti**
+
+_She who defeats slips of tongue_
+
+Iti has volunteered in the organization of various games and events, but the Caravan series is her debut as a game master. In the Caravan team she is the main editor. In real life Iti translates and lives on top of a huge pile of socks. Her hobbies are adventuring and reminding of the diversity of worldviews.
 
 ### Credits
 
 **Art department**
 * Dani
 * Birgit
-
-**Translations and editing**
-* Martin
-* Iti
 
 **Other helpers**
 * Ghost

@@ -22,15 +22,23 @@ _Mängutehniline insener_
 
 Ka Siim on korraldanud enne larpe (Fyerellal ja mõned sci-fi mängud). Siimu peamine ülesanne on muuta Karavan mänguks: tema tegeleb reeglite ja mängumehhaanika disainiga. Sellele lisaks on ta terve mõistus kui sellest kipub puudu jääma. Päriselus õpib Siim ülikoolis matemaatilist statistikat ja geenitehnoloogiat. Tema hobideks on võitluskunstid, matkamine ja lauamängud. 
 
+**Martin**
+
+_Sulesepp_
+
+Martin on kuulunud paari LARP-tiimi ("Õhtusöök Gatehouse´i võõrastemajas" ja valik lühilarpe) ning on aktiivne pliiatsi-ja-paberi mängujuht. Karavani tiimis kirjutab ta lugusid ja maailmasiseseid materjale ning aitab, kus vaja. Päriselus tõlgib Martin raamatuid ja filme. Tema peamised huvid on kirjandus, kirjutamine ning lauamängud.
+
+**Iti**
+
+_Keelevääratuste võitja_
+
+Iti on aidanud mitmeid mänge ja üritusi läbi viia vabatahtlikuna, ent Karavani seeria on tema esimene etteaste mängujuhina. Karavani tiimis on tema peamine toimetaja. Päriselus ta tõlgib ja elab suure sokikuhila otsas. Tema hobideks on seiklused ja maailmavaadete mitmekesisuse meelde tuletamine.
+
 ### Tänud
 
 **Kunsti osakond**
 * Dani
 * Birgit
-
-**Tõlkimine ja toimetamine**
-* Martin
-* Iti
 
 **Muud abilised**
 * Ghost
