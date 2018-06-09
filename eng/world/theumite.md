@@ -37,7 +37,7 @@ There are many notes and chronicles of history after the arrival of the alenti, 
  
 <h3 id="geography">Sources e. geography</h3>
  
-Sources are cities constisting of elemental power, where theumites live. They are also their places of birth. Theumites are born from the pure elemental flows in the middle of the source. There used to be many sources, even more than a hundred. Now there are only twelve. The alenti come to the sources rarely because they are hard to access for anyone who is not the element of that particular source. 
+Sources are cities consisting of elemental power, where theumites live. They are also their places of birth. Theumites are born from the pure elemental flows in the middle of the source. There used to be many sources, even more than a hundred. Now there are only twelve. The alenti come to the sources rarely because they are hard to access for anyone who is not the element of that particular source. 
  
 **Empire** 
  
@@ -87,7 +87,7 @@ The actual ceremony is formal, during it the Nurturer and the Teacher pass on th
  
 **Old age and death**
  
-Old age begins when the theumites' power starts to wane. If the theumite is working on an experiment or any sort of other big work, they will start to finish it during the next years and record it with the help of the chroniclers. 
+Old age begins when the theumite's power starts to wane. If the theumite is working on an experiment or any sort of other big work, they will start to finish it during the next years and record it with the help of the chroniclers. 
  
 On the moment of death the theumite's body disperses and their power returns to the element. Usually the power returns to the center of the source, but the power of those dying far away from a source might go somewhere else. Usually an echo is left behind, something that other theumites can sense when close to it. It is tradition that the first one to know or to find the echo announces the death, and the dead theumite's name will be repeated all over the source until everyone knows of their death, and then it is recorded by the chroniclers.
  
@@ -125,7 +125,7 @@ It is important that one spend their free time in useful ways and the activities
  
 Theumites have a collective economy. Every adult theumite is expected to give some of their work for the benefit of all. Two theumites can also exchange work, this sort of exchange of work is usually fixed with a magical contract. 
  
-Theumites buy apeiron from the Empire and the Free Lands. For this the theumites perform various magical rites, because their magic is different from alenti. They also make jewelry and other useful magical items that the alenti can use. 
+Theumites buy apeiron from the Empire and the Free Lands. For this the theumites perform various magical rites, because their magic is different from the alenti. They also make jewelry and other useful magical items that the alenti can use. 
  
 When a theumite leaves their source, they are given a document with which they can acquire currency to pay for things. It is also possible to earn money by performing various favors. Usually theumites solve magical problems and do other things they can do.  
  
@@ -198,7 +198,7 @@ There are about 2 million theumites on the continent. The distribution in relati
  
 * Honored (e. Leaders)
 * Nurturers
-* Chronicles and knowers
+* Chroniclers and knowers
 * Artisans
 * Healers
 * Smiths
@@ -208,7 +208,7 @@ About three fourths of theumites live in the sources and most of them do not lea
  
 <h3 id="warfare">Warfare </h3>
  
-All theumites are taught to protect themselves, but few study warfare. Since there are not a lot of theumites and repairing shells take a lot of time, every single life is too important to squander. Therefore theumites have no official army and if they work for the Empire or the Free Lands, they do so in a non-military capacity. 
+All theumites are taught to protect themselves, but few study warfare. Since there are not a lot of theumites and repairing shells takes a lot of time, every single life is too important to squander. Therefore theumites have no official army and if they work for the Empire or the Free Lands, they do so in a non-military capacity. 
  
 Weapons are worn by theumites leaving the source, to avoid using too much power for fighting. It is not tradition to wear a weapon inside the source. 
  
@@ -216,7 +216,7 @@ Weapons are worn by theumites leaving the source, to avoid using too much power 
  
 Theumite society is quite interwoven despite the fact that theumites live in twelve different places on the continent and most of them never leave home. The gates in the sources are used to communicate and to send items and letters. This allows theumites to act in concert.
  
-Theumites are fairly isolationist and engage the alenti only as much as they truly must. There are exceptions, and quite many go to explore the world when they become adults. Some of them return immediately, having decided theumite society is better for time. Others return rarely, only to renew their shell and equipment so they can continue on. 
+Theumites are fairly isolationist and engage the alenti only as much as they truly must. There are exceptions, and quite many go to explore the world when they become adults. Some of them return immediately, having decided theumite society is better for them. Others return rarely, only to renew their shell and equipment so they can continue on. 
  
 Apart from being isolationist theumite society is also quite stern and conservative. Great changes are rare and it is preferred to keep things as they are. This comes from the fact that changes have not been for theumites – the arrival of the alenti nearly destroyed their entire civilisation. 
  

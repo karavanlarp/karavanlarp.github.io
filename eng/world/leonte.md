@@ -177,7 +177,7 @@ For alenti romantic love is usually not more important than friendship. Rather t
 
 **Marriage and family** 
 
-All adult alenti may get married. Usually one finds their future partner themselves, but there are cases of family finding the suitable person. Love is not always the requirement for marriage, there are also relationships where two people want to have a home and a family for other reasons. 
+All adult alenti may get married, regardless of gender. Usually one finds their future partner themselves, but there are cases of family finding the suitable person. Love is not always the requirement for marriage, there are also relationships where two people want to have a home and a family for other reasons. 
 
 Whichever of the partners may propose. The engagement is marked by a matched set of jewelry that both wear. Usually the jewelry are bracelets, but rings and necklaces are also used. The marriage is registered in the family registry office and there is also a family party. The newlyweds also go to the temple of Baruna to pray for a blessing. 
 
@@ -311,7 +311,7 @@ There always six theumites amongst the Emperor's advisors, representatives of th
 
 **Officials**
 
-The Imperial officials are the one who keep the large organised bureaucracy going. Every unbranded adult citizen may become an official, though lagars, moroia and wulvers do not tend to rise very high in the hierarchy. To become an official ones needs to take exams to attend special academies where everything an official needs for their work is taught: higher arithmetics, calligraphy, history, law, and so on. These academies are all over the Empire, but the official of the most high degree are schooled only in Rhaentium. 
+The Imperial officials are the one who keep the large organised bureaucracy going. Every unbranded adult citizen may become an official, though lagars, moroia and wulvers do not tend to rise very high in the hierarchy. To become an official ones needs to take exams to attend special academies where everything an official needs for their work is taught: higher arithmetics, calligraphy, history, law, and so on. These academies are all over the Empire, but the officials of the most high degree are schooled only in Rhaentium. 
 
 The first level is enough to work in one’s home under someone else’s directions. The system of exams is complex and only few can complete the hardest of them, to receive the privilege of working for the Emperor and the Chosen. 
 
@@ -461,9 +461,9 @@ Protector god of all the living, especially children and farmers. Darsilis’ pr
 
 **Saints**
 
-A saint is an alenti has done something very important or shown a good example with their deeds and loyalty. A saint is always named posthumously, by the Synod and the priests of Atrepe. The name of the saint is then recorded in the Book of the Blessed kept in Atrepe’s Grant Temple. 
+A saint is an alenti has done something very important or shown a good example with their deeds and loyalty. A saint is always named posthumously, by the Synod and the priests of Atrepe. The name of the saint is then recorded in the Book of the Blessed kept in Atrepe’s Grand Temple. 
 
-By the last count there are over 500 of saints, and each of them watches over a small aspect of Imperial life like they used to in their lifetime. Many of them have their own orders, the members of which are dedicated to following the example of that particular saint. 
+By the last count there are over 500 saints, and each of them watches over a small aspect of Imperial life like they used to in their lifetime. Many of them have their own orders, the members of which are dedicated to following the example of that particular saint. 
 
 Saints: 
 
@@ -528,9 +528,9 @@ Most of the principles of outfitting the army and warfare have been passed from 
 **Some better known legions
 
 * Adura Legion - Held the Fortress of Mist Pass for a 100 days during year 1617 against a much larger Freelander army. 
-* Darith Legion (darith - ‘doom’ in high-alenti) - Differently from other legions, this one is led by a priest of Keteos. Most of the legion is made up by moroia, deserters and other criminals. Historically they have been used as expendable troops against the Free Lands and a large part of the moroia in the legion were Freelanders before their death. There are many stories and legends about this legion. 
+* Darith Legion (darith - ‘doom’ in high-leonte) - Differently from other legions, this one is led by a priest of Keteos. Most of the legion is made up by moroia, deserters and other criminals. Historically they have been used as expendable troops against the Free Lands and a large part of the moroia in the legion were Freelanders before their death. There are many stories and legends about this legion. 
 * Oroph Legion - One of the oldest legions in the Empire, having inspited many legends and books with the bravery of its soldiers.  
-* Valara Legion (valara - ‘resolute’ in high-alenti) - The former legion of the current Strategos Peleias Lardon. 
+* Valara Legion (valara - ‘resolute’ in high-leonte) - The former legion of the current Strategos Peleias Lardon. 
 
 **Border patrol**
 

@@ -72,7 +72,7 @@ Theumal alentide ja theumiitide vahel peetud sõja kohta on rohkem ülestähendu
 
 * 2845 - Sõlmitakse rahuleping, Impeeriumi ja Vabade Maade sõja ametlik lõpp. Läbirääkimiste alusel luuakse piiritsoon ja sellele kehtivad seaduslikud erandid, muuhulgas ka maksusoodustused.
 * 2846 - Piiritsooni hakkavad asustama mõlema poole elanikud, tekib mitmeid uusi asulaid. Hakkavad liikuma esimesed karavanid. 
-* 2847 - Sinodi ja Nemeria preestrite läbirääkimised usulistes küsimustes jõuavad ediktini, mille alusel on lubatud mõlemas riigis kõikide jumalate teenimine. 
+* 2847 - Sinodi ja Vabade Maade preestrite läbirääkimised usulistes küsimustes jõuavad ediktini, mille alusel on lubatud mõlemas riigis kõikide jumalate teenimine. 
 * 2848 - Teliti linnas toimub suurem kokkupõrge leontiidide ja vabamaalaste vahel. Olukorra rahustamiseks sisenevad linna piirivalvurid. Järgneb paar kuud pingeid, kokkupõrkes osalenuid trahvitakse. 
 * 2849 - Keiser loob paleevalvurite sekka uue, ainult vabamaalastest koosneva üksuse.
 * 2850 - Rhaentiumi ülikooli arheoloogid leiavad piiritsoonis kaeveid tehes erinevaid theumiitide artefakte. Toimuvad diplomaatilised vaidlused nende kuuluvuse üle. 
@@ -141,7 +141,7 @@ Impeerium on jaotatud kümneks piirkondliku pealinnaga maakonnaks. Impeeriumi pe
 
 <h3 id="keeled">Keeled</h3> 
 
-Impeeriumis räägitakse mitmeid erinevaid alenti keele dialekte. (Eesti ja inglise keel tähistavad mängus neist kahte). Valitud, ametnikud ja preestrid kasutavad kõrg-alenti keelt; selles viiakse läbi ka tseremooniad ja muud tähtsad sündmused ning kasutatakse oluliste kohtade ja grupeeringute nimede andmisel. Maagid kasutavad oma toimingutes valemikeelt.
+Impeeriumis räägitakse mitmeid erinevaid alenti keele dialekte. (Eesti ja inglise keel tähistavad mängus neist kahte). Valitud, ametnikud ja preestrid kasutavad kõrg-leonte keelt; selles viiakse läbi ka tseremooniad ja muud tähtsad sündmused ning kasutatakse oluliste kohtade ja grupeeringute nimede andmisel. Maagid kasutavad oma toimingutes valemikeelt.
 
 **Nimedest**
 
@@ -177,7 +177,7 @@ Alentide jaoks pole romantiline armastus üldiselt sõprusest olulisem. Neid eri
 
 **Abielu ja perekond**
 
-Abielluda võivad kõik täiskasvanud alentid. Üldiselt leitakse tulevane paariline ise, aga on ka juhuseid, kus pere leiab sobiva isiku. Armastus pole alati abiellumise eelduseks, esineb omajagu ka suhteid, kus kaks isikut soovivad luua kodu ja pere teistsugustel põhjustel. 
+Abielluda võivad kõik täiskasvanud alentid, soost olenemata. Üldiselt leitakse tulevane paariline ise, aga on ka juhuseid, kus pere leiab sobiva isiku. Armastus pole alati abiellumise eelduseks, esineb omajagu ka suhteid, kus kaks isikut soovivad luua kodu ja pere teistsugustel põhjustel. 
 
 Ettepaneku võib teha ükskõik milline osapooltest. Kihlust märgistab ehete paar, mida mõlemad osapooled kannavad. Tavaliselt on valitud eheteks käevõrud, esineb ka sõrmuseid ja kaelaehteid. Abielu registreeritakse perekonnaseisuametis ja tavaliselt korraldatakse ka pidu pereringis. Vastselt abiellunud käivad tava kohaselt Baruna templis õnnistuse saamiseks jumala poole palvetamas.
 
@@ -332,15 +332,15 @@ Impeerium: 21 566 000 miljonit
 * Theumiidid: 1,2 miljonit 
 
 * Linnades elab: u 5 miljonit 
-* Maal elab: u 16 miljon 
+* Maal elab: u 16 miljonit
 
 * Valitud: u 10 000
 * Sõjavägi: u 1,5 miljonit 
-* Preesterkond: u miljonit
+* Preesterkond: u 1 miljon
 * Käsitöölised: u 3 miljonit 
 * Ametnikud: u 500 000 
 * Kaupmehed: u 1 miljon 
-* Politsei/linnavalve: u 1 miljonit  
+* Politsei/linnavalve: u 1 miljon  
 * Maaharijad: u 14 miljon 
 * Muud (kõik ülejäänud): u 3 miljonit
 
@@ -358,6 +358,10 @@ Maakonnad ja pealinnad:
 * Kalath: 1 652 000, Lomoris 86 000
 * Melmir: 994 000, Aethilis 96 000
 
+Aren: 54 000
+Telit: 36 000
+
+
 <h3 id="religioon">Religioon </h3>
 
 Religioon on Impeeriumis tähtsal kohal; tänu jumalatele on Impeeriumi olemasolu võimalik, nende õnnistused aitavad sellel õitseda ja needused on kuni hiljutise ajani aidanud vastu seista Vabade Maade rahvaste vastu.
@@ -372,7 +376,7 @@ Impeeriumi jumalad on:
 
 <img src="/img/logo/god_imperial/malakhim.png" style="display: inline-block;">
 
-**Tiitlid:** Tasakaalu Hoidja<br />
+**Tiitlid:** Tasakaalu Hoidja, Seaduste Kilp<br />
 **Sümbolid:** kaalud, kirjutussuled, pitserid, sauad, baldahhiinid, valguskiired<br />
 **Valitsusala:** kord, seadused, tasakaal, lepingud, poliitika, aadlikud<br />
 **Vastand:** Ban-Mawr<br />
@@ -385,7 +389,7 @@ Ametnike, kohtunike ja juhtide jumal. Tema preestrid jälgivad, et seadused olek
 
 <img src="/img/logo/god_imperial/keteos.png" style="display: inline-block;">
 
-**Tiitlid:** Lõppude Vardja<br />
+**Tiitlid:** Lõppude Vardja, Esimene Surnu<br />
 **Sümbolid:** tähed, noad, uksed, luud<br />
 **Valitsusala:** surm, öö/varjud, lõpp, moroiad, lagaarid<br />
 **Vastand:** Lir-Neth<br />
@@ -398,7 +402,7 @@ Surnute jumal. Tema preestrid valvavad surijate ja surnute järele ning jälgiva
 
 <img src="/img/logo/god_imperial/atrepe.png" style="display: inline-block;">
 
-**Tiitlid:** Teadjate Valvur <br />
+**Tiitlid:**  Teadjate Kaitsja, Mälestuste Vaataja  <br />
 **Sümbolid:** raamatud, rullid, mõõteriistad, silmad (tavaliselt rohkem kui üks), korrapärased kujundid<br />
 **Valitsusala:** teadmised, informatsioon, tarkus, mõõdud, pühakud<br />
 **Vastand:** Vael-Ser<br />
@@ -411,7 +415,7 @@ Akadeemikute, ajaloolaste ja teadjate jumal. Tema preestrid säilitavad vanimaid
 
 <img src="/img/logo/god_imperial/parendi.png" style="display: inline-block;">
 
-**Tiitlid:** Teenäitaja<br />
+**Tiitlid:** Teenäitaja , Vetevalvur<br />
 **Sümbolid:** liivakellad, veetilgad, paadid, rattad, lehvikud, linnusuled, lambid <br />
 **Valitsusala:** rändajad, jõed, linnud, aeg, muutused/tsüklid, geograafia<br />
 **Vastand:** Arim-Wol<br />
@@ -437,7 +441,7 @@ Sõdurite kaitsejumal. Tema preestrid õnnistavad sõdureid ja innustavad neid l
 
 <img src="/img/logo/god_imperial/sulenis.png" style="display: inline-block;">
 
-**Tiitlid:** Esimene Looja<br />
+**Tiitlid:** Esimene Looja, Varanduste Leidja<br />
 **Sümbolid:** igasugused tööriistad, kivimid ja juveelid<br />
 **Valitsusala:** tööstus, looming, maavarad, värvid <br />
 **Vastand:** Rhen-Apa<br />
@@ -450,7 +454,7 @@ Kõigi käsitööliste kaitsejumal. Tema preestrid valvavad iidseid käsitööku
 
 <img src="/img/logo/god_imperial/baruna.png" style="display: inline-block;">
 
-**Tiitlid:** Linnade Hing<br />
+**Tiitlid:** Linnade Hing, Soojahoidja<br />
 **Sümbolid:** katused, sambad, mündid, erinevad muusikariistad, kett/sõlmmustrid, peekrid<br />
 **Valitsusala:** linnad, kultuur, suhted, tuli, alkohol, raha, muusika<br />
 **Vastand:** Zer-Nim<br />
@@ -463,7 +467,7 @@ Kõikide meelelahutajate ja rahakäsitlejate kaitsejumal. Tema preestrid hoiavad
 
 <img src="/img/logo/god_imperial/darsilis.png" style="display: inline-block;">
 
-**Tiitlid:** Elavate Kaitsja<br />
+**Tiitlid:** Elavate Kaitsja, Alguste Isand<br />
 **Sümbolid:** seemned, puud, viljad, konnad, veised <br />
 **Valitsusala:** kõik elavad, muld, ilm, ravi, algus <br />
 **Vastand:** Eil-Gann<br />

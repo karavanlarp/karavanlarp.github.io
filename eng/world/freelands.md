@@ -83,7 +83,7 @@ The Free Lands historically began on Theuma, established by alenti who refused t
 * 2795 - 2814: Lerde, of Tribe Azen. 
 * 2814 - 2830: Rigan, of Tribe Brig. Was a chronicler before becoming king. 
 * 2830- 2841: Zelia, of Tribe Kathen. Had a very good relationship with theumites and thanks to her theumites currently help the apeiron miners on Howl Islands. 
-* 2842 - praeguseni: Alix, of Tribe Turahan. Brought peace with the Empire. i
+* 2842 - praeguseni: Alix, of Tribe Turahan. Brought peace with the Empire. 
  
 <h3 id="geography">Geography </h3>
  
@@ -174,7 +174,7 @@ Relationships are important, but a Freelander's closest person can be either the
  
 **Marriage and family**
  
-Any adult may get married. The proposal is made to the person in question and their family, and there is a custom to bring something to show their skills and what they will offer to their intended. It is common to live together for a time before getting married, and those who wish to get married are traditionally sent on a trip by the elders during which they have to complete different tasks. This trip is meant for the couple to discover if they can be together in hardship and if their marriage is meant to be. 
+Any adult may get married, regardless of gender. The proposal is made to the person in question and their family, and there is a custom to bring something to show their skills and what they will offer to their intended. It is common to live together for a time before getting married, and those who wish to get married are traditionally sent on a trip by the elders during which they have to complete different tasks. This trip is meant for the couple to discover if they can be together in hardship and if their marriage is meant to be. 
  
 The marriage ceremony is conducted by an elder chosen by the couple, and it is common that the people getting married get a mark to symbolise their marriage. All of this is accompanied by a big party where all locals are welcome. 
 
@@ -288,7 +288,7 @@ Laws are changed and great decisions are made during the Landsmeet. The tributes
  
 **Judgement**
  
-Judgements are commonly held inside the clan or tribe. There are very few things serious enough to be brought to the king. Despite that, one king's tasks is to judge and give sentences over crimes committed in Kingland. 
+Judgements are commonly held inside the clan or tribe. There are very few things serious enough to be brought to the king. Despite that, one of the king's tasks is to judge and give sentences over crimes committed in Kingland. 
  
 **Tribal and clan government** 
  
@@ -339,7 +339,7 @@ Lands and capitals:
 * Edgeland: 910 000, Kasal 102 000
 * Strongland: 966 000, Piska 74 000
 * Cliffland: 832 000, Ommel 67 000
-* Mistland: 1 340 000 , Storra 89 000
+* Mistland: 1 340 000, Storra 89 000
 * Braveland: 878 000, Dermen 56 000
 * Woodland: 711 000, Ragald 62 000
 * Plentyland: 1 258 000 , Hetse 223 000
@@ -523,26 +523,26 @@ The clan is a small part of the tribe. A clan is usually considered to be a grou
  
 Every tribes has their own legends and sacred places, their own traditions and trades. There are very large tribes and very small ones. A tribe exists as long as it can sustain the next generation. In the beginning there were more tribes, since the legendary band leaders did not always agree with their followers, but none have disappeared recently. No new tribes have appeared either. The creation and dissolution of clans is likelier to happen since tribal borders move and some places are left behind to be returned to twenty years later.
  
-The tribes do go to war with one another, but such conflicts are meant to be friendly and to test the troops. There are however tribes who do not speak to one another and avoid one another even in Cairlinn Tor. Such and true war inside a tribe is not allowed, and those who ignore this law, are punished severely. All such conflicts must be forgotten if the king calls for war against the Empire. 
+The tribes do go to war with one another, but such conflicts are meant to be friendly and to test the troops. There are however tribes who do not speak to one another and avoid one another even in Cairlinn Tor. Such conflict and true war inside a tribe is not allowed, and those who ignore this law, are punished severely. All such conflicts must be forgotten if the king calls for war against the Empire. 
  
 **10 most important tribes** 
  
-* Brig -  Having long reigned in the south part of valleyland, Tribe Brig has always been feuding with Tribe Turahan. They compete over who gets to control White River and the trade on it. The current tribe chief is Wolan Nightstalker. 
+* Brig -  Having long reigned in the south part of Valleyland, Tribe Brig has always been feuding with Tribe Turahan. They compete over who gets to control White River and the trade on it. The current tribe chief is Wolan Nightstalker. 
 * Turahan – Tribe Turahan has reigned in Valleyland, north of White River. The current king Alix is from this tribe. The current tribe chief is Dager Riverwolf. 
-* Norak – One of the biggest and more warlik tribes, Norak has always fought the Empire, even when the king has not called for it. This is because they have always lived in Strongland, sharing a border with the Empire. The tribe was also one of the biggest opponents of the peace treaty. Their previous chief fought a trial to stop it, but lost. The current tribe chief is Yaner Capable. 
+* Norak – One of the biggest and more warlike tribes, Norak has always fought the Empire, even when the king has not called for it. This is because they have always lived in Strongland, sharing a border with the Empire. The tribe was also one of the biggest opponents of the peace treaty. Their previous chief fought a trial to stop it, but lost. The current tribe chief is Yaner Capable. 
 * Helet – Living in Braveland, Tribe Helet has always guarded the Hunger Islands. When the treaty was signed they helped to establish the village of Aren and the tribe has grown richer thanks to trade. The current tribe chief is Teria Brightmind. 
-* Lofn – Tribe Lofn, the inhabitants of the East Watch, is home to the headquarters of the Seafarers and both tribe and society have enjoyed a good relationship. The tribe also has connections to Tribe Brig whom they trade with for wood from the Oldwood for their ships.   The current tribe chief is Mallend Small. 
+* Lofn – Tribe Lofn, the inhabitants of the East Watch, is home to the headquarters of the Seafarers and both tribe and society have enjoyed a good relationship. The tribe also has connections to Tribe Brig whom they trade with for wood from the Oldwood for their ships.  The current tribe chief is Mallend Small. 
 * Areun –  Nearly all of this quite small tribe lives in the Sky Mountains, though some of the members trade with Tribe Helet. The current tribe chief is Iser Pathfinder.
 * Skara – Tribe Skara has always lived in the north of Edgeland and their representatives played a large part in opening the Howl Islands galdar mines. The current tribe chief is  Peran Breezewatcher. 
 * Xenit – Tribe Xenit in the south of Dawnland is home to the best hunters in the Free Lands. Many of them often go to the Fang Islands to hunt. The tribe offers transport for other interested parties, but do not guarantee their survival. The current tribe chief is Argis Finder. 
-* Ilvoed – Tribe Ilvoed lived in the northern area of Redland which became four island after a catastrophe. Even though most of the tribe died, the rest decided to stay and the tribe is now known all over the Free Lands as a symbol of stubbornness. The current tribe chief is Xagha Bluehead. 
+* Ilvoed – Tribe Ilvoed lived in the northern area of Redland which became four islands after a catastrophe. Even though most of the tribe died, the rest decided to stay and the tribe is now known all over the Free Lands as a symbol of stubbornness. The current tribe chief is Xagha Bluehead. 
 * Saless – Tribe Saless is known for good relations with theumites. Many theumites traveling the Free Lands tend to end up in the east end of Mistland at the historical centre of the tribe. Legend has it the tribe helped a retinue of theumites centuries ago, and received gratitude remembered to this day. The current tribe chief is Maras Lamefoot. 
  
 More tribes: Azen, Darais, Kathen, Kerr, Lugen, Magar 
  
 **Societies**
  
-A society is a collection to people with similar interests and knowledge. Just like tribes, were are many societies, those with the most members are given below. Societies have formed over the years and they all have different locations. Each society has their secrets and while they work to benefit the Free Lands, they keep what is theirs close. 
+A society is a collection to people with similar interests and knowledge. Just like tribes, there are many societies, those with the most members are given below. Societies have formed over the years and they all have different locations. Each society has their secrets and while they work to benefit the Free Lands, they keep what is theirs close. 
  
 Societies also help to keep communication between tribes open. Even if the tribes of two members of the same society are at war, the members may not join the conflict, at least not opposite their fellow society members. For many their society is more important than their tribe. Societies also have their hierarchies and titles which are used in communication between members. 
  
@@ -571,7 +571,7 @@ Societies do expel members: those who betray the society or attack a fellow memb
 * Ingenuity – A clever thinker survives in every situation.
 * Submission – The world is as it is, not all in it can be changed and it must be understood. 
 * Rage – One defeats their opponents with rage. 
-* Voice – One speak for themselves, no one else is likely to do it. 
+* Voice – One must speak for themselves, no one else is likely to do it. 
 * Ending – Better to end things than to let them lie. 
 * Action – Nothing is given for inaction.
  
@@ -579,7 +579,7 @@ Societies do expel members: those who betray the society or attack a fellow memb
  
 The attitude towards moroia, lagars and wulvers in the Free Lands is different from the attitude in the Empire. There is no enforced registration and usually beings with different conditions are allowed to live whereever they wish. Many of them have also used their powers to fight the Empire. 
  
-The Old Blood do not enjoy such a positive attitude as in the Empire, but they also let to exist as they wish. 
+The Old Blood do not enjoy such a positive attitude as in the Empire, but they are also let to exist as they wish. 
  
 **Law and punishment**
  

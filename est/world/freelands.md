@@ -53,7 +53,7 @@ Vabad Maad said ajalooliselt alguse Theumal, neile panid aluse Impeeriumiga ühi
 * 1598 - Hõimude ühine laevastik seilab Suurjärve Rhaentiumi alla, ent suured tormid sunnivad laevastiku taganema. 
 * 1617 - Rünnatakse Udukuru kindlust, et Udukuru Vabade Maade jaoks vallutada. Pärast kolme kuud tulutut võitlust annab kuningas Satha käsu taganeda. 
 * 1629 - Impeeriumis levib kuuldus verd imevatest olenditest, neid kutsutakse lagaarideks. Impeeriumi rangete seaduste tõttu rändavad mitmed neist Vabadele Maadele. 
-* 1790 - Kaljumaad ründab Impeeriumi kooljamaag sihiga see vallutada. Enne kui Kaljumaa väed jõuavad reageerida, peatatakse maagi vägi Impeeriumi sõdurite poolt. Kõik maagi järgnenud sõdurid hukatakse koheselt.
+* 1790 - Kaljumaad ründab Impeeriumi kooljamaag sihiga see vallutada. Enne kui Kaljumaa väed jõuavad reageerida, peatatakse maagi vägi Impeeriumi sõdurite poolt. Kõik maagile järgnenud sõdurid hukatakse koheselt.
 * 1907 - Looduskatastroof Punamaa põhjaosas lahutab osa maast mandrist, tekib neli uut saart. Neil aladel elanud Ilvoedi hõimu liikmetest hukkub enamus. 
 * 2076 - Kaljumaa põhjaosa järjepidevalt rünnanud Impeeriumi leegion kaob ühel päeval seletamatult.
 * 2195 - Impeeriumis spioneerinud isikud toovad tagasi teadmise trükipressist. Kuigi tehnoloogia on kallis, tähendab see siiski seda, et olulisemaid tekste ja laule hakatakse trükkima ja levitama.  
@@ -174,7 +174,7 @@ Sidemed on olulised, kuigi ei ole väga vahet kas vabamaalase lähedaseim isik o
 
 **Abielu ja perekond**
 
-Abielluda võivad kõik täiskasvanud. Kosja tullakse kositavale ja tema perele, ning kombeks on tuua midagi millega näidatakse oma oskusi ja seda, mida tulevasele pakkuda soovitakse. Tavaliselt on kombeks mõnda aega koos elada enne abiellumist, ja abielluda soovijad saadetakse kombekohaselt tarkade poolt väikesele rännakule, mille ajal nad peavad täitma erinevaid ülesandeid. See rännak on mõeldud välja selgitamaks kas paar suudab koos olla ka raskustes ja kas tulev abielu on võimeline kestma. 
+Abielluda võivad kõik täiskasvanud, soost olenemata. Kosja tullakse kositavale ja tema perele, ning kombeks on tuua midagi millega näidatakse oma oskusi ja seda, mida tulevasele pakkuda soovitakse. Tavaliselt on kombeks mõnda aega koos elada enne abiellumist, ja abielluda soovijad saadetakse kombekohaselt tarkade poolt väikesele rännakule, mille ajal nad peavad täitma erinevaid ülesandeid. See rännak on mõeldud välja selgitamaks kas paar suudab koos olla ka raskustes ja kas tulev abielu on võimeline kestma. 
 
 Abielutseremoonia ise viiakse läbi paari valitud targa poolt, ning üldiselt on kombeks et paarilised võtavad endale märgi, mis nende abielu tähistab. Seda kõike saadab loomulikult suur pidu, kuhu on kutsutud kõik kohalikud. 
 
@@ -244,6 +244,7 @@ Pidusid peetakse igasugustel põhjustel, ja tavaks on teretulnuks pidada kasvõi
 
 Vabamaalased kasutavad rahana eri metallide seibe. Neid on kolme tüüpi - vask, hõbe ja kuld.
 
+* 1 kuld = 10 hõbedat = 100 vaske 
 * 1 kuld = 150 staurust
 * 1 hõbe = 15 staurust
 * 1 vask = 1.5 staurust

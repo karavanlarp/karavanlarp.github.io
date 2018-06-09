@@ -48,7 +48,7 @@ To an extent, the laws of nature are also ignored near the temples, altars and o
 
 There are other inhabitants on Theuma besides the alenti and the theumites.
 
-Unlike our world, there are no cats and dogs. Wolves and lynxes exist, but the alenti have domesticated wild boars and goats instead. Most pets are small pigs and goats. There are also no horses. Cattle is used for food and farming. Draft animals are usually animal-shaped serviles.
+The alenti keep small pigs and goats as domestic animals, but there are cats, dogs and lizards as well. Horses exist, but not in great numbers (mostly used in warfare). Cattle is used for food and farming. Draft animals are usually animal-shaped serviles.
 
 **Plants**
 
@@ -144,7 +144,7 @@ The alenti do not have different sexes. All alenti have similar reproductive gla
 
 The process of birth is short, although uncomfortable. Only one child is born at a time. Infant alenti resemble lizards, they are hairless and their bodies and tails are covered in scales. Tradition dictates that both parents take turns carrying the newborn in a pouch, so their body heat can help continue the child’s development. The tail usually drops away during the first month. Scales recede during the first year by way of shedding.
 
-The parents’ traits are passed on to the children. The child of two of the Old Blood also has Old Blood and the same goes for wulvers. The wulver beast form can also be inherited and will be apparent at birth. If only one of the parents carries a trait, there is a 50% possibility of passing it on.
+The parents’ traits are passed on to the children. The child of two of the Old Blood also is Old Blood and the same goes for wulvers. The wulver beast form can also be inherited and will be apparent at birth. If only one of the parents carries a trait, there is a 50% possibility of passing it on.
 
 The lagars and the moroia can no longer reproduce as their glands cannot produce genetic material. Long-serving priests also lose the capability and it is not socially acceptable anyway.
 
@@ -173,7 +173,7 @@ Theumite – from Theuma
 
 Theumites are originally native to Theuma, and they make up about 5% of the continent's total population. They are born in the elemental sources and consist of pure elemental power. There are six theumite elements: fire, water, air, earth, light and shadow.  
 
-Theumites are sexless and and genderless, but in some dialects they use different pronouns to refer to themselves. (OG: players are welcome to choose which pronouns their character should be refered to as). All theumites know how to use their innate power to some degree, but a theumite's skills depend on their talents, interests and respective training. 
+Theumites are sexless and and genderless, but in some dialects they use different pronouns to refer to themselves. (OG: players are welcome to choose which pronouns their character should be refered to with). All theumites know how to use their innate power to some degree, but a theumite's skills depend on their talents, interests and respective training. 
 
 **Characteristics** 
 
@@ -219,7 +219,7 @@ A wulver has no special abilities in alenti form. In beast form they develop the
 
 A wulver in beast form can infect others. In a tense situation or the heat of battle, wulvers can lose control over their actions. Such an attack can sometimes end in retaining their bestial qualities for ever.
 
-**The moroia or undead**
+**The moroia or undead/draugr**
 
 A **moroia** is an alenti whose soul did not leave the body upon death. The moroia never die of old age or wounds - even decapitated moroia can keep going when the head is reattached. They cannot have children, serve as a priest or turn into a wulver. A moroia’s soul cannot be placed inside a servile shell.
 

@@ -47,7 +47,7 @@ Loodusseadusi eiravad teatud ulatuses ka jumalate templid, altarid ja muud neile
 
 Peale alentide ja theumiitide elab Theumal ka muid olendeid. 
 
-Erinevalt meie maailmast pole selles maailmas kasse ega koeri. Hundid ja ilvesed on olemas, aga alentid on kodustanud hoopis metssead ja kitsed, mis tähendab, et lemmikloomadena peetakse pigem väikeseid sigu ja kitsi. Samuti pole hobuseid. Leidub aga veiseid, keda süüakse ja kasutatakse põllutöödel. Peamiste veoloomadena kasutatakse hoopiski loomakujulisi serviile. 
+Alentid peavad koduloomadena pigem väikeseid sigu ja kitsi, kuigi esineb ka kasse, koeri ja sisalikke. Hobuseid eksisteerib, aga mitte arvukalt (kasutatakse peamiselt sõjaväes). Leidub ka veiseid, keda süüakse ja kasutatakse põllutöödel. Peamiste veoloomadena kasutatakse hoopiski loomakujulisi serviile. 
 
 **Taimed**
 
@@ -215,7 +215,7 @@ Loomavormis on vulver teistele nakkusohtlik. On võimalik, et ärevas olukorras 
 
 **Moroiad (e. kooljad)** (moroia/draugr)
 
-Moroia on alenti, kelle hing pole suremise hetkel kehast lahkunud. Nad ei sure vanadusse ega saadud haavadesse- isegi siis, kui moroial pea maha raiuda, piisab pea tagasipanekust, et too saaks edasi tegutseda. Nad pole võimeline saama lapsi, teenima ühtegi jumalat preestrina ega muutuma vulveriks. Samuti ei saa moroia hinge asendada serviilikesta sisse. 
+Moroia on alenti, kelle hing pole suremise hetkel kehast lahkunud. Nad ei sure vanadusse ega saadud haavadesse- isegi siis, kui moroial pea maha raiuda, piisab pea tagasipanekust, et too saaks edasi tegutseda. Nad pole võimelised saama lapsi, teenima ühtegi jumalat preestrina ega muutuma vulveriks. Samuti ei saa moroia hinge asendada serviilikesta sisse. 
 
 Moroia keha on võimalik mingil määral taastada, selleks vajalikud oskused on vaid surmajumalate preestritel. Juhul, kui moroia kogu keha elemendipuhangu või millegi muu plahvatuslikuga hävitatakse, tekib moroiast üsna kindlasti raika. 
 
@@ -319,7 +319,7 @@ Apeiromantia kasutaja on maag.
 
 Vabadel Maadel kasutatakse ruunikunsti. See on nende alternatiiv Impeeriumi apeiromantiale. 
 
-Toimeviisilt sarnaneb ruunikunst apeiromantiale, aga valemite asemel kasutatakse ruune. Ruunikunstile annab samuti jõudu apeiron (Vabade Maadel galdar). Ka Vabadel Maadel on erinevaid masinaid, millega puhastatakse apeironit ja tehakse muid suuri tegusid. 
+Toimeviisilt sarnaneb ruunikunst apeiromantiale, aga valemite asemel kasutatakse ruune. Ruunikunstile annab samuti jõudu apeiron (Vabadel Maadel galdar). Ka Vabadel Maadel on erinevaid masinaid, millega puhastatakse apeironit ja tehakse muid suuri tegusid. 
 
 Ruunikunsti kasutaja on loitsija. 
 
@@ -348,7 +348,7 @@ Alentid seevastu peavad tegema teadliku valiku kas teenida mõnda jumalat preest
 
 Nii Impeeriumis kui ka Vabadel Maadel on jumalate preestrina teenimine üpriski sarnane. Tõelist väge saab alenti kasutada alles siis, kui ta on läbinud katsed ja näidanud, et on vääriline seda väge kasutama. Igal jumalal on oma mõjuala, ja üldiselt saabki antud väega teha tegusid selles mõjualas. Kuigi jumalaid on aastatuhandeid üksteisele vastandatud, esineb mõlemal poolel sarnase väega jumalaid. 
 
-Impeeriumis õpetab apeiromantiat Maagide Akadeemia võrgustik, mille akadeemiad on iga maakonna pealinnades. Neil on ka mujal asutusi, millel kõigil on erinevad eesmärgid. Enamus maagidest tegeleb apeironi kaevandamise ja puhastamisega, kuna see on üks lihtsamaid aga aeganõudvamaid maagide töödest. Andekamad ja sihikindlamad maagid võivad tegeleda üleloomulike nähtuste uurimisega, uute loitsude loomisega ja maardlate otsimisega. Maagilisi koolkondi on mitmeid, aga üldiselt saab maag valida endale spetsiifilise suuna alles siis kui ta on läbinud raske õppetöö akadeemias. 
+Impeeriumis õpetab apeiromantiat Maagide Akadeemia võrgustik, mille akadeemiad on iga maakonna pealinnades. Neil on ka mujal asutusi, millel kõigil on erinevad eesmärgid. Enamus maagidest tegeleb apeironi kaevandamise ja puhastamisega, kuna see on üks lihtsamaid aga aeganõudvamaid maagide töödest. Andekamad ja sihikindlamad maagid võivad tegeleda üleloomulike nähtuste uurimisega, uute loitsude loomisega ja maardlate otsimisega. Maagilisi koolkondi on mitmeid, aga üldiselt saab maag valida endale spetsiifilise suuna alles siis, kui ta on läbinud raske õppetöö akadeemias. 
 
 Vabadel Maadel õpetavad ruunikunsti Loitsijate seltsi liikmed äsja vastuvõetud liikmetele. Nagu ka Impeeriumis, on Loitsijaid Vabade Maade suurimates keskustes ja nad valivad oma õpilasi. Õpetus toimub väikestes kollektiivides ja õpilane loetakse valmis olema siis, kui tema õpetaja seda arvab. 
 
