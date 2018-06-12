@@ -229,7 +229,7 @@ Moroia created by accident are normally allowed to live on in society, although 
 
 Freelanders call these creatures the **draugr**.
 
-*Raika or ghosts* _(a non-playable race)_
+**Raika or ghosts** _(a non-playable race)_
 
 **Raika** are disembodied spirits who haven’t moved on for some reason. Raika are usually all alenti, mostly those who had some unresolved issues in life. Raika cannot influence the living world very much - they may be able to move small objects, but that’s about it. They cannot affect living beings. The exceptions to this are places influenced by the gods of death, where the border between this world and the next is thinner. In such locations a raika could change the physical world, especially when confronted with strong emotions.
  
