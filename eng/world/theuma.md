@@ -241,6 +241,14 @@ A lagar is capable of turning another alenti into his kind. This connection give
 
 Just like wulvers and moroia, the lagars of the Empire are obligated to register themselves and live with limitations.
 
+**The Old Blood**
+
+The Old Blood are a subrace of alenti. Historically all alenti were like them, but now they have become the exception. They can be distinguished from regular alenti by their often colorful scales. Their eyes can also resemble the eyes of lizards. Old Blood recover from injuries faster than regular alenti, but are susceptible to the cold. They are also different in behavior from other alenti, they are often socially awkward.
+
+**Leshy** _(non-playable race)_
+
+Leshy are forest creatures found in the Free Lands. They are created similarly to serviles, their bodies made by alenti but the souls summoned. Where these souls come from, is not exactly known. Leshy understand alenti languages and can communicate. Leshy are usually the size of a child, made of a plant material and prefer to do what they want rather than take orders from anyone. However, mages can receive great help from them and possess a special bond with leshy of their creation. 
+
 **Other creatures** _(non-playable race)_
 
 Especially in the Free Lands there are beings, who are different from regular animals, plants or aforementioned beings. Either they have been affected by a passing elemental storm or a surprising shrine to a god, they are different. Some of them are capable of speaking in tongues, but not always such that can be easily understood. It can also happen that an animal stumbles upon a small deposit of apeiron, which can also change them. 

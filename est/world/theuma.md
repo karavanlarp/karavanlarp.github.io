@@ -235,6 +235,14 @@ Lagaar suudab teha teistest alentist samuti lagaari; see side annab loojale teat
 
 Sarnaselt vulveritele ja moroiadele on nad Impeeriumis kohustatud ennast registreerima ja elama piirangute all. 
 
+**Vanaverelised** (The Old Blood)
+
+Vanaverelised  on üks alentide alaliikidest. Vanasti olid kõik alentid nende moodi, nüüd on neist saanud erand. Nad on tavalistest alentidest eristatavad selle järgi, et nende kehal on soomused, mis on tihti kirevavärvilised. Samuti võivad nende silmad meenutada sisalike silmi. Vanaverelised taastuvad vigastustest kiiremini kui tavalised alentid, aga on külmale vastuvõtlikud. Samuti võib täheldada, et nende käitumine erineb veidi teistest alentidest, näiteks tunnevad nad end seltskonnas ebamugavamalt.
+
+**Leshyd** *(ei ole mängitav rass)*
+
+Leshyd on Vabadel Maadel esinevad metsaolendid. Neid luuakse üsna samamoodi nagu serviile ehk keha valmistavad alentid, aga hinged tuleb kutsuda. Kust need hinged täpselt tulevad, ei ole teada. Leshyd mõistavad alentide keeli ja oskavad suhelda. Leshyd on tavaliselt lapsesuurused, koosnevad taimsest materjalist ja teevad sõna kuulamise asemel  pigem ise, mida soovivad. Siiski saavad maagid neilt palju abi ja omavad enda loodud leshydega erilist sidet. 
+
 **Muud olendid** *(ei ole mängitav rass)*
 
 Eriti Vabadel Maadel esineb olendeid, kes erinevad tavalistest loomadest, taimedest ja eelmainitud olenditest. Kas on neid mõjutanud mõni mööduv elemenditorm või üllatavas kohas ilmunud jumala altar, igatahes erinevad nad oluliselt teistest. Mõned neist on võimelised ka kõnelevate rahvastega suhtlema, kuigi nad ei pruugi alati rääkida mõistetavat keelt. Mõnikord juhtub ka seda, et loomad satuvad väikese apeironikogumi otsa ja sellega kohtumine muudab neid tuntavalt. 
