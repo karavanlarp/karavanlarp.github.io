@@ -4,4 +4,4 @@ title: Registreerumine
 ---
 ## Registreerumine
 
-Registreerumine on hetkel suletud.
+Mängule registreerumine on hetkel suletud.
