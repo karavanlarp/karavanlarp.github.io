@@ -75,7 +75,7 @@ See aga ei tähenda, et piirialadel oleks täiesti ohutu. Üldiselt ei soovitata
 
 **Ajaarvamine**
 
-Kasutusel on ühtne kalender ja meie maailmas tuntud ajaarvamissüsteem 365-päevase aastaga, kus iga viies on liigaasta (liigpäev lisatakse viimase kuu lõppu). Aastas on kaksteist kuud. Ühes nädalas on kaheksa päeva. 
+Kasutusel on ühtne kalender ja meie maailmas tuntud ajaarvamissüsteem 365-päevase aastaga, kus iga viies on liigaasta (liigpäev lisatakse viimase kuu lõppu). Aastas on kaksteist kuud. Ühes kuus on kolmkümmend päeva (jaanuaris, märtsis, mais, juulis ja septembris on kolmkümmendüks päeva). Ühes nädalas on kaheksa päeva. 
 
 Impeeriumis on kuude nimetusteks jaanuar, veebruar, märts, aprill, mai, juuni, juuli, august, september, oktoober, november ja detsember.
 

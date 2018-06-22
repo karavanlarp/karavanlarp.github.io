@@ -78,7 +78,7 @@ This doesn’t mean the borderlands are completely safe. Travelling alone is usu
 
 **Calendar**
 
-Theuma has a common calendar and the same 365-day year as our world, with every fifth year being the leap year (the extra day being added to the end of the last month). One year has 12 months. One week has eight days.
+Theuma has a common calendar and the same 365-day year as our world, with every fifth year being the leap year (the extra day being added to the end of the last month). One year has 12 months. One month has 30 days (January, March, May, July and September have 31). One week has eight days.
 
 In the Empire, the months are called January, February, March, April, May, June, July, August, September, October, November and December.
 
