@@ -40,6 +40,9 @@ Iti on aidanud mitmeid mänge ja üritusi läbi viia vabatahtlikuna, ent Karavan
 * Dani
 * Birgit
 
+**Sotsiaalmeedia**
+* Hanna
+
 **Muud abilised**
 * Ghost
 * Raigo

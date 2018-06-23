@@ -40,6 +40,9 @@ Iti has volunteered in the organization of various games and events, but the Car
 * Dani
 * Birgit
 
+**Community**
+* Hanna
+
 **Other helpers**
 * Ghost
 * Raigo
