@@ -4,4 +4,4 @@ title: Registration
 ---
 ## Registration
 
-Registration is closed at the moment.
+Registration for the second event of the Caravan larp-series begins on July 1st.

@@ -4,4 +4,4 @@ title: Registreerumine
 ---
 ## Registreerumine
 
-Mängule registreerumine on hetkel suletud.
+Registreerumine Karavani larpi-seeria teisele mängule algab 1. juulil.
