@@ -3,7 +3,7 @@ layout: default-est
 title: Theumiidid
 ---
 
-## Theumiidid
+## Theumiitide Ühendus
 
 ![Theumiitide logo](https://karavanlarp.github.io/img/theumiitide-logo.png)
 
@@ -25,7 +25,7 @@ title: Theumiidid
 	</ul>
 </div>
 
-Theumiidid on Theumat algselt valitsenud elemendivaimude rass. 
+Theumiidid on Theumat algselt valitsenud elemendivaimude rass. Nende isoleeritud enklaave kutsutakse Theumiitide Ühenduseks. 
 
 <h3 id="ajalugu">Ajalugu</h3>
 

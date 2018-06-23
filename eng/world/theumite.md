@@ -3,7 +3,7 @@ layout: default-eng
 title: Theumites
 ---
 
-## Theumites 
+## Theumite Union
 
 ![Theumiitide logo](https://karavanlarp.github.io/img/theumiitide-logo.png)
 
@@ -27,7 +27,7 @@ title: Theumites
  
 ### General 
  
-Theumites are a race of elemental spirits who used to rule Theuma.
+Theumites are a race of elemental spirits who used to rule Theuma. Their isolated enclaves are called the Theumite Union. 
  
 <h3 id="history">History </h3>
  
