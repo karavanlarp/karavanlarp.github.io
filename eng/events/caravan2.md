@@ -4,11 +4,11 @@ title: Karavan II
 ---
 ## Caravan II: Heart of the Forest
 
-_It has been two months since the caravan set out from the port town of Aren. The travellers’ wagons have rolled across the rocky wasteland west of the Sky Mountains, through the harsh forests in the Empire’s border region and passed by the rare fields of settlers fighting to survive in the wild lands. The small bundle of farmer houses at Leukas and the fortified village surrounding the shrine at Imanre are now behind them. In these settlements members of the caravan offered their goods as well as news. Some travellers left on their own path to be replaced by others travelling northward._
+_It has been two months since the caravan set out from the port town of Aren. The travellersâ€™ wagons have rolled across the rocky wasteland west of the Sky Mountains, through the harsh forests in the Empireâ€™s border region and passed by the rare fields of settlers fighting to survive in the wild lands. The small bundle of farmer houses at Leukas and the fortified village surrounding the shrine at Imanre are now behind them. In these settlements members of the caravan offered their goods as well as news. Some travellers left on their own path to be replaced by others travelling northward._
 
 _The nature surrounding the trade route is now becoming more wild. One early morning, the caravan enters an ancient forest where the trees crowd close around the road, as if angry at the axes of pathfinders and the invasion of civilisation. The open terrain and wide vistas give way to a wall of greenery that constantly surrounds the travellers. During the day, the caravan is accompanied by birdsong and the alchemists of the group find ample opportunities to replenish their supplies. The night is full of strange animal cries and old freelander legends are told around campfires. Many a traveller prays to Rhen-Apa, Parendi or Darsilis to bless their journey in these parts._
 
-_Indeed, a good opportunity to address the gods will soon present itself, for the next stop along the route lies near an altar to Terhent - a small freehold amid the woods, where Anja, the caravan’s guide, plans to meet an acquaintance..._
+_Indeed, a good opportunity to address the gods will soon present itself, for the next stop along the route lies near an altar to Terhent - a small freehold amid the woods, where Anja, the caravanâ€™s guide, plans to meet an acquaintance..._
 
 ### What?
 
@@ -20,7 +20,7 @@ October 6th - 7th 2018. The game takes place from Saturday afternoon to late eve
 
 ### Where?
 
-[Pätsuloigu farm](https://www.google.com/maps/dir//59.272547,24.273777/@59.307203,24.393068,9z?hl=en), Harjumaa county
+[PÃ¤tsuloigu farm](https://www.google.com/maps/dir//59.272547,24.273777/@59.307203,24.393068,9z?hl=en), Harjumaa county
 
 ### Registration
 
