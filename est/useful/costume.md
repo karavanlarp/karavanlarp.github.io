@@ -48,7 +48,7 @@ Seiklejad ja karavanide reisijad kannavad üldiselt praktilisi rõivaid, millega
 
 **Turvistest:** Impeeriumis esineb pigem nahk- ja lamellturviseid, aga rõngassärgid pole samas enam haruldased. 
 
-**Relvadest:** Sobivad kõik bofferrelvad, mis on teistele ohutud. 
+**Relvadest:** Mängus kasutatavad boffer- ja laterksrelvad peavad vastama PÕhjala Pööripäeva lisas nr 1 esitatud ohutusnõuetele ( [Vt siit](http://www.ancalagon.ee/index.php/tarvilik-teave/maengu-reeglid) ). Kõik relvad peavad enne mängu alust läbima ohutuskontrolli.
 
 Soengud on üldiselt lihtsad ja praktilised. Impeeriumis pole kommet ennast tätoveerida, nii et kui tegelasel on tätoveeringuid, on need tehtud piirialadel. 
 
