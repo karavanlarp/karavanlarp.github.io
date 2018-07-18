@@ -1,222 +1,163 @@
 ---
 layout: default-est
-title: Tegelasreeglid; sissejuhatus
+title: Reeglid
 ---
-## Tegelasreeglid: Sissejuhatus
+## Reeglid
 
-### Kuidas seda dokumenti kasutada? 
+Sellel lehel olev tekst on reeglikokkuvõte. Lehe allosas on lingid täielikele reeglitele, mis asuvad Google Drive'is.
 
-Reeglid on esitatud kolmes osas.
+Reeglid on täiustamisel. Kui te leiate neist vastukäivusi või jääb midagi segaseks, siis kirjutage meile. Kui midagi muutma peame (mida me seeria jooksul ehk veel peame), anname oma parima, et teha muutusi mängijate suhtes õiglaselt.
 
-Esimene osa, mis kirjeldab üldreegleid, on kõigile kohustuslikuks lugemiseks. Lahingreegleid, seisundeid ja muud olulist tutvustame ka algbriifil. Lühendite ja mõistete nimekiri selgitab lahti kõik reeglites kasutatud spetsiifilised terminid.
-
-Teine osa hõlmab endas tegelase loomise reegleid ja klasside kirjeldust ning nende seast tuleb tegelast luues oma valik teha.
-
-Kolmas osa on lisad, kus on retsepte, loitse ja muud lisainfot puudutav teave. Teie tegelasega seonduv - tema omadused, oskused ja lisad – lähevad pärast tegelasankeedi täitmist loodavasse tegelaslehte.  
-
-Reeglid on uued. Kui te leiate neist vastukäivusi või jääb midagi segaseks, siis kirjutage meile. Mitu osa on eksperimentaalsed, nii et alles mängimise käigus selgub, mis töötab ja mis mitte. Kui midagi muutma peame (mida me kindlasti seeria jooksul peame), anname oma parima, et teha muutusi mängijate suhtes õiglaselt.
-
-Järgnevalt on esitatud kolme esimese tegelastaseme oskused; neljanda ja viienda taseme oskused selguvad enne järgmiseid mänge. Tuleval mängul on kõik tegelased esimesel tasemel, mistõttu on targem süveneda pigem esimese taseme oskustesse.]
+_Tähelepanu! Tegemist on reeglikokkuvõttega. Reeglikokkuvõtte lugemine ei asenda tervislikku reeglite lugemist. Segaduse püsimisel või küsimuste tekkimisel konsulteeri reeglite täisversiooni või GMiga._
 
 <div id="toc">
 	<h3>Sisukord</h3>
 	<ul>
-		<li><a href="#lyhendid">Lühendid</a></li>
-		<li><a href="#yldreeglid">Üldised reeglid</a></li>
+		<li><a href="#ohutus">Ohutus</a></li>
+		<li><a href="#keeled">Keeled</a></li>
+		<li><a href="#tervis">Tegelase tervis</a></li>
+		<li><a href="#lahing">Lahing</a></li>
 		<li><a href="#seisundid">Seisundid</a></li>
+		<li><a href="#peablugema">Milliseid reegleid ma pean lugema?</a></li>
+		<li><a href="#lingid">Lingid täielikele reeglitele</a></li>
 	</ul>
 </div>
 
-<h3 id="lyhendid">Lühendid ja olulised mõisted:</h3>
+<h3 id="ohutus">Ohutus</h3>
 
-*Siin on ära toodud üldisemad mõisted. Klassispetsiifilised mõisted on lahti seletatud klassi kirjelduses.*
+Mängu võib peatada ohtliku OG olukorra tekkimisel; selleks on kasutusel gamestop-reegel. Kuuldes kedagi ütlemas „Gamestop“, tuleb mängijatel koheselt mängimine lõpetada ja jääda paigale, kuni olukord lahendatakse ja GM lubab mängul jätkuda.
 
-* **IG** - In game ehk mängusisene. 
-* **OG** - Out game ehk mänguväline. 
-* **PC** - Player character ehk mängijategelane. 
-* **NPC** - Non-player character ehk mitte-mängijategelane.
-* **HP** - Tervis, elupunkt. 
-* **AP** - Turvis, turvisepunkt.
-* **mHP** - Maagiline tervis
-* **mAP** - Maagiline turvis
-* **CP** - Tegelaspunkt.
-* **Critical** - tegelase HP langeb nulli, eirab turvist
-* **{Oskus}** - Tähendab eeldusoskust või taset, mis peab tegelasel vastava oskuse omandamiseks eelnevalt olemas olema.
+Juhul kui mõni IG olukord muutub ebamugavaks, võib mängija selle katkestada, öeldes “turvasõna”. Seda kuuldes tuleks antud olukorra rollimängimine lõpetada ning “turvasõna” öelnu ütleb, mida tal mängu jätkamiseks vaja on (tekkinud olukorra lõpetamine või muutmine, küsimusteta äraminek, midagi muud). Turvasõna kasutamist ei pea põhjendama.
 
-<h3 id="yldreeglid">Üldised reeglid:</h3>
+Võitlus:
 
-*Olulised mängu käigu kohta käivad reeglid.*
+1. Keelatud on kaasmängija tahtlik vigastamine, liiga brutaalne võitlus, löökide ja torgete sooritamine kubeme- ja peapiirkonda.
 
-**Deklareerimine**
+2. Keelatud on füüsiline kontakt (vastase haaramine, heitmine, tõukamine jne). Maadlemine on lubatud ainult lahingust eemal ning mõlema osapoole vastastikusel kokkuleppel. Kilpidega tõukamine on keelatud.
 
-Kui mängul räägitakse ainult eesti keelt, tuleb efekte deklareerida eesti keeles. Juhul kui mängimine toimub inglise keeles, tuleb efekte deklareerida inglise keeles. Näiteks lahingus, kus on mitmekeelsed osalejad, on targem deklareerida ka ründamise efekti inglise keeles, et kõik teaksid, mis just toimus. Selle jaoks oleme efektide juurde pannud ka nende inglise keelsed vasted. 
+3. Kõik mängul olevad bofferrelvad peavad läbima enne mängu toimuva turvakontrolli. Turvakontroll teostatakse vastavalt Põhjala Pööripäeva ohutusnõuetele (vaata: [http://www.ancalagon.ee/index.php/tarvilik-teave/maengu-reeglid](http://www.ancalagon.ee/index.php/tarvilik-teave/maengu-reeglid) Lisa 1). Erilist tähelepanu pöörame vibudele ja nooltele. Kontrollimata relvade kasutamine lahingus on keelatud!
 
-**Elupunktid**
+Vajadusel markeerime *ohtliku paiga pimedal ajal valgete ja punaste pallidega*. IG ei tähenda see midagi, OG tähendab see seda, et valgusketi vahetus läheduses tasub ettevaatlikult liikuda. Kui mängul selline markeerimine toimub, kirjeldame asjaolusid täpsemalt ka algbriifil.
 
-Elupunktid sümboliseerivad tegelase tervist. Tegelase elupunktid ei lange kunagi alla nulli.
+Kui üks tegelane teise kinni seob, markeeritakse seda nööriga, mida seotud tegelane hoiab oma käte ümber. *Sidumist OG ei toimu.*
 
-Elupunktide kaotamine toob esile põhiseisundite muutused (_terve_ -> _väsinud_ -> _kurnatud_ -> _suremas_), mida on täpsemalt kirjeldatud seisundite osas.
+IG jookide manustamisel ei ole kohustuslik seda OG juua, vedeliku võib maha valada.
 
-**Ravimine**
+<h3 id="keeled">Keeled</h3>
 
-Ravimine toimub kahes osas. Esmalt on võimalik oskustega nagu meditsiin parandada tegelase põhiseisundit. Pärast oskusliku ravivõtte kasutamist algab elupunktide taastumine.
+Kui mängul on väliskülalisi, tuleb kõik lahingefektid deklareerida inglise keeles. Kui neid ei ole, kasutatakse eesti keelt. Kõik efektid on reeglites kirjas. 
 
-**Tapmine**
+<h3>Märgistus</h3>
 
-Tegelast saab tappa, kui ta on _suremas_ seisundis. 
+#### Kleepsud
 
-**Relvatabamus**
+![Küsimärk](https://karavanlarp.github.io/img/karavan-küsimärk.png) ![Hüüumärk](https://karavanlarp.github.io/img/karavan-hüüuimärk.png)
 
-Relvatabamuseks loetakse lööki või torget, mis vastab vähemalt ühele 2-st kriteeriumist:
+Mõned kohad või esemed mängualal võivad olla märgitud kleepsuga. Kleepse on kahte tüüpi:
+* küsimärk: märgitud asja/kohaga tegutsemiseks on vaja GMi
+* hüüumärk: märgitud asja/koha juures on kirjalikud juhised. GMi kohalolek pole vajalik
 
-* Relvatabamusele on eelnenud vähemalt meetrine hoovõtt
-* Tabamuse saaja tundis tabamust või kuulis tabamuse tekitatud heli
+#### Valguspallid
 
-Relvatabamuseks ei loeta libamisi ja riivamisi sooritatud lööke ja torkeid.
- 
-Relvatabamus kustutab tegelase elupunkti, turvise olemasolul esmalt turvisepunkti.
+Valguspallid tähistavad mingit maagilist efekti (erandiks punaste ja valgete pallide kombinatsioon, nagu öeldud üleval). 
 
-Vaikimisi on tabamus alati 1. Seda ka juhul, kui tegelasel on võime sooritada suurema kahjustusega rünnakuid, ent ta ei deklareerinud seda löömise ajal.
+<h3 id="tervis">Tegelase tervis</h3>
 
-Ilma relvakasutuse oskuseta tegelane võib lahingolukorras kasutada küll ühekäerelva, kuid sel juhul on ta alati ja automaatselt lahingu lõppedes _väsinud_ (ka siis kui ükski tema poolt sooritatud löök ei tabanud vastast ega vastane teda). Lisaks võib mängu alustada relvaga vaid vastavat _relvakasutuse_ oskust omav tegelane. Erandiks on noad, mida võivad omada kõik tegelased. 
+Tegelasel on mingi arv elupunkte, mille arv ei saa langeda alla nulli. Samuti on ta alati mingis _seisundis_ (neist räägitakse allpool). Kui tegelane kaotab elupunkte, muutub ka tema seisund. Kui tegelast ravitakse (näiteks oskusega _meditsiin_), algab elupunktide taastumine.
 
-**Haavadest**
+Tegelast saab tappa, kui ta on seisundis _suremas_. Selleks tuleb tapmine läbi mängida.
 
-Tegelase haavata saamisele tuleks läheneda rollimänguliselt vastavalt sellele, kuidas ta haavata sai. Kui tegelast löödi tömbi relvaga, on tulemuseks sisemine kahjustus või isegi luumurd. Kui teda löödi terava relvaga, on tulemuseks veritsev haav. Meditsiini oskuse kasutamiseks tuleb tegelase vigastusi rollimänguliselt ravida.
+<h3 id="lahing">Lahing</h3>
 
-Haavatut ravida võib nii teine tegelane kui ka haavatu ise, oluline on see, et tohterdajal oleks selleks tarvilik oskus: näiteks meditsiin või sobivad loitsud. 
+Igasugune võitlemine peab käima ohutusnõuetele vastavalt.
 
-NB! *Võitlus peab olema võimalikult ohutu!*
+Kui tegelasel ei ole _relvakasutuse_ oskust, ei tohi tal mängu alguses olla mingeid relvi peale nugade. Samuti tohib ta lahingus kasutada ainult ühekäerelva ning ta on *alati* lahingu lõppedes seisundis väsinud (isegi siis, kui teda kordagi ei tabatud ning ka tema ei tabanud kedagi).
 
-1. Keelatud on kaasmängija tahtlik vigastamine, liiga brutaalne võitlus, löökide ja torgete sooritamine kubeme ja peapiirkonda.
-2. Keelatud on füüsiline kontakt nagu vastase haaramine, heitmine, tõukamine jne. Maadlemine on lubatud vaid lahingust eemal ning mõlema osapoole vastastikusel kokkuleppel. Samuti on keelatud kilpidega tõukamine. 
-3. Kõik mängul olevad bofferrelvad peavad läbima enne mängu toimuva turvakontrolli. Turvakontroll teostatakse üldlevinud ohutusnõudeid silmas pidades. Erilist tähelepanu osutame vibudele ja nooltele. Kontrollimata relvade kasutamine lahingus on keelatud!
+Võitluses võib kasutada lisaks löökidele ka torkeid. Relvatabamused ei loe, kui need juhtusid riivamisi. Arvesse minekuks peab juhtuma vähemalt üks kahest:
+* Relvatabamusele eelnes vähemalt meetrine hoovõtt
+* Tabatu tundis või kuulis tabamust
 
-**Turvis**
+Kui ei ole teisiti öeldud, tekitab iga tabamus ainult ühe kahjustuse. Rohkemate kahjustuste tegemiseks peab kahjustaja *relvalöögi ajal* lisakahjustuse kuuldavalt deklameerima.
 
-Vastava oskusega tegelane võib omada turvisepunkte. Karavan LARP seerias annab GM iga mängu alguses mängijale vastavalt tema turvise välimusele ja tegelase oskustele turvisepunkte. Turvisepunktide andmisel on oluline turvise välimus. Turvis ei pea pakkuma reaalset kaitset, rohkem punkte saab turvise eest, mis näeb võimalikult realistlik ja/või kena välja.
+Haavata saamisele tuleb reageerida rollimänguliselt, nagu ka _meditsiini_ oskuse kasutamisele. Haavatut tohib ravida nii teine tegelane kui ta ise, oluline on, et ravitsejal oleks selleks tarvilik oskus.
 
-Turvisepunktid kustuvad enne elupunkte. Kui turvise turvisepunktid on langenud nulli, on see katki, ning seda tuleb oskusega Sepakunst I parandada. Kui pärast lahingsituatsiooni on turvisel kustunud vaid osa turvisepunkte, siis järgmiseks lahinguks on kõik turvisepunktid taastunud. 
+#### Turvis
 
-Laskerelvad e. nooled eiravad mittemaagilisi turvisepunkte. Need haavavad tegelast põhjustades elupunkti kaotuse, aga ei langeta turvisepunkte. 
+Kui tegelasel on turvisepunkte, kustuvad need enne elupunkte (erandiks on laskerelvad – need eiravad mittemaagilisi turvisepunkte ning vähendavad kohe elupunkte, jättes turvise puutumata). Turvisepunktide arvu saab mängija teada enne mängu algust GMi käest. Kui turvisepunktid on nullis, on turvis katki ning seda tuleb _sepakunsti_ oskusega parandada. Kui lahingu lõppedes on turvisel osa turvisepunkte alles, siis järgmise lahingu alguses on sellel olemas kõik turvisepunktid.
 
-* Väike kilp - kuni 50x50 cm
-* Suur kilp - üle 50x50 cm
+#### Käsitsivõitlus
 
-**Relvad ja relvaliigid**
-
-* Noad - kuni 60cm
-* Ühekäerelvad - kuni 120cm
-* Kahekäerelvad -  üle 120cm
-* Laskerelvad - vibud, ammud (max. tõmbejõud 12 kg)
-* Viskerelvad - alla 30cm (erandiks on viskeoda)
-
-**Erilised võitlusefektid**
-
-Manakotid - manakotiga tabamus toob esile vastava efekti vallandumise. Loevad ka visked vastu kilpe ja turviseid. Manakotiga tehtud kahjustus eirab turvist.
-
-**Maagia markeerimine** 
-
-Mängus osalevad loitsijad saavad oma kasutusse vastava arvu valguspalle. Valguspalle kasutame loitsimise ja pikema toimega loitsude markeerimiseks. See sümboliseerib loitsija ja/või sihtmärgi ümber tekkinud nähtavat maagilist energiat. Valguspalle võib leida ka maastikult koos värviliste lintidega, mispuhul need märgistavad mõnda lähedal olevat maagilist nähtust. Valguspallid ise on mänguväline vahend ja need ei ole luuditavad. Juhul kui mängija saab enda kasutusse valguspalli, näiteks maagilise turvise markeerimiseks, tuleb tal see välja lülitada siis, kui maagiline efekt lõppeb, ning tagastada see kas mängijale, kes valguspalli talle andis, või GMile). Markeerimist vajavad loitsud on märgistatud loetelus (P) tähisega) 
-
-Värve on kuus.
-
-Need kõik võivad tähistada mitut erinevat väe allikat. Nende eristamine on võimalik juhul kui keegi lausub loitsu maagia tuvastamiseks või teeb muu vastava toimingu. Ehk siis: Kui mängija näeb teist mängijat kandmas rohelist valguspalli, saab ta IG aru, et teine on mingisuguse loitsu mõju all. Maagiat oskavad klassid (maag, preester, sorts) võivad küsida, mis on loitsu allikas (apeironimaagia, jumalmaagia, theumiitide vägi). Rohkema informatsiooni saamiseks tuleb sooritada vastav loits. 
-
-* Valge - õhk, Atrepe, Lir-Neth, Eil-Gann
-* Kollane - valgus, Malakhim, Arim-Wol 
-* Punane - tuli, Terhent, Baruna, Zer-Nim 
-* Sinine - vesi, Parendi, Ban-Mawr, Nal-Mat, apeiron 
-* Roheline - maa, Sulenis, Darsilis, Rhen-Apa 
-* Lilla - vari, Keteos, Vael-Ser
-
-**ERAND:** Vajadusel markeerime ohtliku paiga pimedal ajal valgete ja punaste pallidega. IG ei tähenda see midagi, OG tähendab see seda, et nende vahetus läheduses tasub ettevaatlikult liikuda. Kui mängul selline markeerimine toimub, kirjeldame asjaolusid täpsemalt ka algbriifil. 
-
-**Loitsimine** 
-
-Mängus on kolm loitsida oskavat klassi: maag, preester ja sorts. 
-
-Nende kõigi puhul tuleb loitsimiseks kõigepealt teha IG rollimänguline toiming, misjärel tuleb teatada loitsu OG nimi ja toime. Olenevalt loitsust ja sihtmärgist, on tõenäoliselt vajalik ka loitsu lahti seletamine. Kui loitsu on vaja markeerida valguspalliga, tuleb sisselülitatud valguspall asetada nähtavale kohale enda külge või anda loitsu sihtmärgile. 
-
-Juhul kui loitsu sihtmärk on lähedal, on lihtne info edasi anda. Juhul, kui tahta loitsida kedagi kaugemal asuvat, on hea kõigepealt saada mängija tähelepanu, ning alles siis loitsida. Suuremat seltskonda mõjutava loitsu puhul on oluline teatada loitsu nimi võimalikult kõvasti, et ümbritsevad seda kuuleks.
-
-Kui kuuled lahingus hüütavat loitsu nime, on hea pöörata tähelepanu loitsija poole.
- 
-Kui loitsija on juba lausunud loitsu OG nime, läheb loits lahendamisele.
-
-(Suuremat seltskonda mõjutava loitsu puhul on oluline teatada loitsu nimi võimalikult kõvasti, et kõik ümbritsevad seda kuuleks.)
-
-**Kuidas loitsimine välja näeb?**
-
-* **Maag** - Maag keskendub valitud loitsule ja lausub selle vallandava võimusõna. Vajalik: konkreetse loitsu ketas ja piisavalt apeironit. Samuti peab maag olema võimeline kõnelema, kas või sosistades.
-* **Preester** - Preester kutsub nime või tiitliga oma jumalat ning esitab talle oma palve. Vajalik: kontakt püha sümboliga. Samuti peab preester olema võimeline kõnelema, kas või sosistades. 
-* **Sorts** - Sorts keskendub oma elemendile erinevate žestidega. 
-
-Valguspalle saab kasutada oma loitsimise markeerimiseks. Näiteks võib tulepalli tegev tulesorts punase tule sisse lülitada, kui oma elemendile keskendub. Loitsu lahendudes võib valguse jälle välja lülitada. Soovikorral võib mängija kasutada enda valgusallikat, täpsemalt saab selle kohta lugeda Varustuse lisas.
-
-**Loitsutüübid**
-
-On mitut eri tüüpi loitse. Allpool on seletatud, kuidas need loitsud lahenduvad. 
-
-* Alaloits - Loits mõjutab konkreetset ala ja tavaliselt ka kõiki seal viibivaid tegelasi. 
-* Eneseloits - Loits mõjutab loitsijat ennast.
-* Osutusloits - Loits mõjutab sihtmärki, kelle peale loitsija näitab. Sihtmärk peab olema kuuldekauguses. 
-* Puuteloits - Loits mõjutab teist tegelast, mõnda eset või kohta. Loitsija võib puuteloitse loitsida ka enda peal (ravivad loitsud, kilbid, jne)
-* Viskeloits - Loitsu mõjumiseks tuleb sihtmärki tabada visatud loitsukotiga. 
-
-**Loitsu omadused**
-
-* Kestvus -  Kaua loits kestab. Mõned loitsud mõjuvad alles pärast kestvuse lõppu. 
-* Kirjeldus - Loitsu efekti kirjeldus. 
-* Maksumus - Loitsu maksumus apeironis, palvetes või manas. 
-* Nimi - Loitsu OG nimi, mis tuleb deklareerida pärast loitsu IG lausumist.
-
-**Löökefektid**
-
-Löökefektid mõjuvad ka siis, kui need sooritatakse vastu turvist või kilpe. Löökefekt ei pea mõjumiseks maha võtma elupunkte.
-
-* **"Kaks"** - tabamus relvaga loeb 2 relvatabamusena.
-* **"Kolm"** - tabamus relvaga loeb 3 relvatabamusena.
-* **"Oimetu/Stun"** - tabamus relvaga põhjustab Oimetu/Stunned seisundi.
-* **"Purusta kilp"** - tabamus põhjustab kilbi purunemise. Kõik löögid purunenud kilpi mõjuvad nagu need oleksid sooritatud kandja pihta.
-* **"Purusta turvis"**- tabamus nullib kõik tegelase turvisepunktid.
-
-**Lõksud**
-
-Mängul on kasutusel mitmed maagilised ja mittemaagilised lõksud. Tavalisi lõkse tähistavad OG hiirelõksud. Kuuldes hiirelõksu plõksu, on tegelane lõksu aktiveerinud, ning see põhjustab kahe elupunkti kaotuse. Lõksud ignoreerivad turvise olemasolu. Lõkse võivad eemaldada vaid lõksumeistri oskusega tegelased.
-
-**Sidumine**
-
-Siduda saab tegelast, kes ei osuta vastupanu, Sidumise oskust omav tegelane. Seda markeerib köiejupp, mida seotud tegelane hoiab oma käte ümber. Sidumist OG ei toimu. Sidumine annab tegelasele seisundi kammitsetud. 
-
-**Pruuliste manustamine**
-
-Pruulist ei ole vaja OG juua, selle võib lihtsalt tühjaks kallata. Pruulist võib manustada kas vabatahtlikult või siis tegelasele, kes ei saa vastupanu osutada - suremas, kammitsetud, või muud sellist. 
-
-**Käsivõitlus**
-
-Käsitsivõitluse algatamiseks peab üks mängija oma soovist teisele mängijale teada andma, teine mängija võib seda eirata haarates relva järgi.
-
-Mõlemad võistlejad mängivad kivi-paber-käärid seni, kuni üks neist võidab. Seejärel mängitakse toimunud kaklus rollimänguliselt läbi. Kaotanud tegelane langeb seisundisse uimastatud. Kolmanda isiku sekkumisel võitlus katkeb.
+Käsitsivõitlus toimub kahe tegelase vahel. Kõigepealt mängitakse kivi-paber-käärid, et võitja kindlaks teha, ning seejärel mängitakse kaklus rollimänguliselt läbi. Kaotaja on seisundis _uimastatud_. Käsivõitlusesse kutsumist võib eirata relva haarates, samuti katkeb võitlus kolmanda tegelase sekkudes.
 
 <h3 id="seisundid">Seisundid</h3>
 
-*Põhiseisundeid on neli. Need on esitatud paremast halvemani: Terve, Väsinud, Kurnatud, Suremas.*
+#### Põhiseisundid
 
-**Terve/Healthy** - Tegelane on terve ja ta suudab kasutada kõiki oma oskusi, kui muud tingimused on täidetud. 
+Põhiseisundeid on neli: terve, väsinud, kurnatud, suremas.
 
-**Väsinud/Tired** - Tegelane ei suuda kasutada keskendumist vajavaid oskusi. (Reeglites märgitud sümboliga “€”). Kui tegelane kaotab elupunkti, on ta väsinud. *Väsinud seisund lõppeb pärast 30 minutit puhkust.*
+*Terve/Healthy*<br />
+Kõik on hästi. Tegelane on terve ja ta suudab kasutada kõiki oma oskusi. 
 
-**Kurnatud/Exhausted** - Tegelase füüsiline ja vaimne seisund on kehv. Ta ei suuda kasutada keskendumist vajavaid oskusi (€), võidelda, joosta ega tegeleda muu füüsiliselt koormava tegevusega. Kui tegelase elupunktid langevad nulli on ta kurnatud. Kui kurnatud tegelane saab relvatabamuse või langeb ta mõne elupunkte langetava efekti alla, muutub tema seisund suremas seisundiks. Elupunkti(de) taastamine ei lõpeta kurnatud seisundit. *Kurnatud seisundi lõpetab oskuse meditsiin kasutus, alkeemilised ja maagilised ravitsusvõtted, ning see ei lõpe iseenesest (va omadusega regeneratsioon).*
+*Väsinud/Tired* <br />
+*Mõju:* tegelane ei suuda kasutada keskendumist vajavaid oskusi. (Reeglites märgitud sümboliga *€*). <br />
+*Mis seda põhjustab:* tegelane kaotab elupunkti. Võib olla ka teisi põhjuseid (lahing, maagilised efektid). <br />
+*Kuidas sellest vabaneda:* 30 minutit puhkust, pärast mida on tegelane taas _terve_. Elupunkti taastamine _väsinud_ seisundit ei lõpeta.
 
-**Suremas/Dying** - Tegelase seisund on kriitiline. Ta ei või enam võidelda ega kasutada oma oskusi. Ta peab heitma pikali ja võib liikuda väga aeglaselt ja roomates. Lubatud ei ole ka aktiivne rääkimine, lausuda võib vaid aegaselt mõningaid sõnu. Tegelane, kes ei saa kohest arstiabi vähemalt veerand tunni jooksul lahkub elavate seast. *Suremas seisundi lõpetab oskuse meditsiin kasutus, alkeemilised ja maagilised ravitsusvõtted.*
+*Kurnatud/Exhausted* <br />
+*Mõju:* tegelane ei suuda kasutada keskendumist vajavaid oskusi (€), võidelda, joosta ega tegeleda muu füüsiliselt koormava tegevusega. Tema enesetunne on kehv. <br />
+*Mis seda põhjustab:* tegelase elupunktid langevad nulli. Võib olla ka muid põhjuseid.<br />
+*Kuidas sellest vabaneda:* seisundi lõpetab oskuse _meditsiin_ kasutus või alkeemilised ja maagilised ravitsusvõtted; see ei lõpe iseenesest (va omadusega _regeneratsioon_). Elupunkti(de) taastamine ei lõpeta _kurnatud_ seisundit. 
 
-**Uimastatud/Unconscious** - Tegelane on 2 minutit teadvuseta, ta sulgeb silmad ja ignoreerib kõike, mida kuuleb/näeb. Mängija loeb mõttes aeglaselt 120-ni, misjärel seisund lõppeb.
+*Suremas/Dying*<br />
+*Mõju:* tegelase seisund on kriitiline. Ta ei või  võidelda ega kasutada oma oskusi. Ta peab heitma pikali ning võib liikuda väga aeglaselt ja roomates. Ta saab rääkida ainult aeglaselt üksikute sõnadega.<br />
+*Mis seda põhjustab:* _kurnatud_ tegelane saab relvatabamuse või teda mõjutab mõni elupunkte langetav efekt.<br />
+*Kuidas sellest vabaneda:* seisundi lõpetab oskuse _meditsiin_ kasutus või alkeemilised ja maagilised ravitsusvõtted. NB! Kui tegelane ei saa arstiabi vähemalt veerand tunni jooksul, siis ta sureb. 
 
-**Oimetu/Stunned:** Tegelane ei või 3 sekundit ennast liigutada ega midagi lausuda.
+![Seisundid](https://karavanlarp.github.io/img/seisundid_small.png)
 
-**Kammitsetud/Pinned:** Tegelane on põhjalikult kinni seotud ja/või maagia mõju all. Ta ei saa oma seotud jäsemeid liigutada. Kestvus oleneb efekti allikast. Seisundit tähistab köie või lindi jupp, mida hoitakse käte ümber, OG kinnisidumist ei toimu. *Kammitsetud seisundi lõpetab kas oskuslik põgenemine või kui keegi tegelase vabastab/loitsu lõpetab.*
+#### Muud seisundid
 
-**Mürgitatud/Poisoned:** Tegelane on mürgitatud, mürgid on erinevate mõjudega (nendest saab lugeda mürkide lisas). *Mürgitatud seisundi lõpetab vastumürk või vastav raviloits.*
+*Uimastatud/Unconscious* - Tegelane on 2 minutit teadvuseta, ta sulgeb silmad ja ignoreerib kõike, mida kuuleb/näeb. Mängija loeb mõttes aeglaselt 120-ni, misjärel seisund lõppeb.<br />
+Ka elupunkti kaotus lõpetab seisundi.
 
-**Haige/Sick:** Tegelane on haige, haigused on erinevate mõjudega (nendest saab lugeda haiguste lisas). *Haige seisundi lõpetab haiguse ravimine.*
+*Oimetu/Stunned* - Tegelane ei või 3 sekundit ennast liigutada ega midagi lausuda.
+
+*Kammitsetud/Pinned* - Tegelane on põhjalikult kinni seotud ja/või maagia mõju all. Ta ei saa oma seotud jäsemeid liigutada. Kestvus oleneb efekti allikast. Seisundit tähistab köie või lindi jupp, mida hoitakse käte ümber, OG kinnisidumist ei toimu. Kammitsetud seisundi lõpetab kas oskuslik põgenemine, kui keegi tegelase vabastab või teda kammitsenud loitsu lõpetab.
+
+#### Varieeruva mõjuga seisundid
+
+*Mürgitatud/Poisoned* - Tegelane on mürgitatud. Mürgid on erinevate mõjudega (näiteks võib kaotada elupunkte, põhiseisund võib muutuda jne). Mürgitatud seisundi lõpetab vastumürk või vastav raviloits.
+
+*Haige/Sick* - Tegelane on haige. Haigused on erinevate mõjudega (põhiseisund võib muutuda, tegelane ei pruugi olla võimeline tegema mingeid tegevusi). Haige seisundi lõpetab haiguse ravimine.
+
+<h3 id="maagia">Maagia</h3>
+
+Maagiat oskavad kasutada ainult teatud klassi tegelased (maag, preester, sorts). Neist igaühel on vaja loitsimiseks teha teatud toimingud (liigutused või laused), pärast mida loitsija teatab loitsu nime ja efekti.
+
+Osasid loitse markeeritakse valguspallidega, mis tähistavad selle isiku või objekti ümber tekkinud silmnähtavat maagilist aurat. Valguspallid ei ole puistatavad esemed. Kui mängija saab kellegi teise käest valguspalli, peab ta selle tagastama pärast maagilise efekti lõppu. Üldiselt näevad seda aurat kõik tegelased; maagiat oskavad klassid võivad ka küsida, mis on loitsu allikas, kuid rohkema informatsiooni saamiseks tuleb juba sooritada õige loits vm toiming.
+
+Loitsimisel peab loitsija lähtuma OG tervest mõistusest: kellegi teise peale loitsu pannes tuleb hoolitseda selle eest, et see teine ka teaks, mida temaga tehakse (ehk loitsija peab rääkima piisavalt valjusti, kaugema sihtmärgi tähelepanu saama jne). Kui loitsija on juba lausunud loitsu OG nime, läheb loits lahendamisele.
+
+Kõik mängijad ei pea teadma kõiki loitse, nende nimesid ja efekte jne. Kõik peaksid lugema vähemalt Üldreeglite failis kirjeldatud infot maagia kohta, kuid reeglina on loitsija vastutus teada, mida ta teeb, ja kuidas see teisi mõjutab, ning see mõjutatu(te)le võimalikult kiiresti ja ühetimõistetavalt selgeks teha. 
+
+<h3 id="peablugema">Milliseid reegleid ma pean lugema?</h3>
+1. üldreeglid
+2. tegelasereeglid (vähemalt korra, oma tegelast luues, soovitatav oleks ka hiljem uuesti üle lugeda, et oma rassi lahedaid omadusi mäletada)
+3. oma klassi reeglid
+
+Ülejäänu on vabatahtlik.
+
+<h3 id="lingid">Lingid täielikele reeglitele</h3>
+
+[1. Üldreeglid](https://docs.google.com/document/d/1rjUaNEhrvGlL_T0P1ce6_P6PIylOmkjIEpphcms2ejE/edit?usp=sharing)<br />
+[2. Tegelasereeglid](https://docs.google.com/document/d/1qymBs2OQAjkCGLfAENLKPbJRpq3LWnjEU9Vngwy-I8U/edit?usp=sharing)
+
+#### Klassid
+
+[3. Alkeemik](https://docs.google.com/document/d/1qymBs2OQAjkCGLfAENLKPbJRpq3LWnjEU9Vngwy-I8U/edit?usp=sharing)<br />
+[4. Ekspert](https://docs.google.com/document/d/1pyLHLjTqtA7Cpa_6HwwR9FrsIrOg3MRxYxAde8MTJbU/edit?usp=sharing)<br />
+[5. Kelm](https://docs.google.com/document/d/1-QUWJP4g6m3YhJl7ofzbnil0WqnsXPi6R_Wj6dzEXrs/edit?usp=sharing)<br />
+[6. Maag](https://docs.google.com/document/d/10AAG3LPyEx-GXSI2s8b8TVSWDIScMUkislPuzyu5VEo/edit?usp=sharing)<br />
+[7. Preester](https://docs.google.com/document/d/1okPG49wt1YGiF2LD5aAwuJWLC0nJlvVWhTHVaXBFYfc/edit?usp=sharing)<br />
+[8. Sorts](https://docs.google.com/document/d/1WRLqAgqxI1q5x3JPKp97dIG4e1HWqHDgHYm8M4IysIo/edit?usp=sharing)<br />
+[9. Sõdalane](https://docs.google.com/document/d/1YhpIbNfZCN3yjiF5Pvl8iMs_LPZAM9VMnJkT61wZl7o/edit?usp=sharing)
