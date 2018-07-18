@@ -51,7 +51,8 @@ Kui mängul on väliskülalisi, tuleb kõik lahingefektid deklareerida inglise k
 
 #### Kleepsud
 
-![Küsimärk](https://karavanlarp.github.io/img/karavan-küsimärk.png) ![Hüüumärk](https://karavanlarp.github.io/img/karavan-hüüuimärk.png)
+<img src="https://karavanlarp.github.io/img/karavan-küsimärk.png" alt="Küsimärk" height="200" style="display: inline-block;"> 
+<img src="https://karavanlarp.github.io/img/karavan-hüüumärk.png" alt="Hüüumärk" height="200" style="display: inline-block;">
 
 Mõned kohad või esemed mängualal võivad olla märgitud kleepsuga. Kleepse on kahte tüüpi:
 * küsimärk: märgitud asja/kohaga tegutsemiseks on vaja GMi
@@ -71,7 +72,7 @@ Tegelast saab tappa, kui ta on seisundis _suremas_. Selleks tuleb tapmine läbi 
 
 Igasugune võitlemine peab käima ohutusnõuetele vastavalt.
 
-Kui tegelasel ei ole _relvakasutuse_ oskust, ei tohi tal mängu alguses olla mingeid relvi peale nugade. Samuti tohib ta lahingus kasutada ainult ühekäerelva ning ta on *alati* lahingu lõppedes seisundis väsinud (isegi siis, kui teda kordagi ei tabatud ning ka tema ei tabanud kedagi).
+Kui tegelasel ei ole _relvakasutuse_ oskust, ei tohi tal mängu alguses olla mingeid relvi peale nugade. Samuti tohib ta lahingus kasutada ainult ühekäerelva ning ta on **alati** lahingu lõppedes seisundis väsinud (isegi siis, kui teda kordagi ei tabatud ning ka tema ei tabanud kedagi).
 
 Võitluses võib kasutada lisaks löökidele ka torkeid. Relvatabamused ei loe, kui need juhtusid riivamisi. Arvesse minekuks peab juhtuma vähemalt üks kahest:
 * Relvatabamusele eelnes vähemalt meetrine hoovõtt
@@ -95,40 +96,40 @@ Käsitsivõitlus toimub kahe tegelase vahel. Kõigepealt mängitakse kivi-paber-
 
 Põhiseisundeid on neli: terve, väsinud, kurnatud, suremas.
 
-*Terve/Healthy*<br />
+**Terve/Healthy**<br />
 Kõik on hästi. Tegelane on terve ja ta suudab kasutada kõiki oma oskusi. 
 
-*Väsinud/Tired* <br />
-*Mõju:* tegelane ei suuda kasutada keskendumist vajavaid oskusi. (Reeglites märgitud sümboliga *€*). <br />
-*Mis seda põhjustab:* tegelane kaotab elupunkti. Võib olla ka teisi põhjuseid (lahing, maagilised efektid). <br />
-*Kuidas sellest vabaneda:* 30 minutit puhkust, pärast mida on tegelane taas _terve_. Elupunkti taastamine _väsinud_ seisundit ei lõpeta.
+**Väsinud/Tired** <br />
+**Mõju:** tegelane ei suuda kasutada keskendumist vajavaid oskusi. (Reeglites märgitud sümboliga **€**). <br />
+**Mis seda põhjustab:** tegelane kaotab elupunkti. Võib olla ka teisi põhjuseid (lahing, maagilised efektid). <br />
+**Kuidas sellest vabaneda:** 30 minutit puhkust, pärast mida on tegelane taas _terve_. Elupunkti taastamine _väsinud_ seisundit ei lõpeta.
 
-*Kurnatud/Exhausted* <br />
-*Mõju:* tegelane ei suuda kasutada keskendumist vajavaid oskusi (€), võidelda, joosta ega tegeleda muu füüsiliselt koormava tegevusega. Tema enesetunne on kehv. <br />
-*Mis seda põhjustab:* tegelase elupunktid langevad nulli. Võib olla ka muid põhjuseid.<br />
-*Kuidas sellest vabaneda:* seisundi lõpetab oskuse _meditsiin_ kasutus või alkeemilised ja maagilised ravitsusvõtted; see ei lõpe iseenesest (va omadusega _regeneratsioon_). Elupunkti(de) taastamine ei lõpeta _kurnatud_ seisundit. 
+**Kurnatud/Exhausted** <br />
+**Mõju:** tegelane ei suuda kasutada keskendumist vajavaid oskusi (€), võidelda, joosta ega tegeleda muu füüsiliselt koormava tegevusega. Tema enesetunne on kehv. <br />
+**Mis seda põhjustab:** tegelase elupunktid langevad nulli. Võib olla ka muid põhjuseid.<br />
+**Kuidas sellest vabaneda:** seisundi lõpetab oskuse _meditsiin_ kasutus või alkeemilised ja maagilised ravitsusvõtted; see ei lõpe iseenesest (va omadusega _regeneratsioon_). Elupunkti(de) taastamine ei lõpeta _kurnatud_ seisundit. 
 
-*Suremas/Dying*<br />
-*Mõju:* tegelase seisund on kriitiline. Ta ei või  võidelda ega kasutada oma oskusi. Ta peab heitma pikali ning võib liikuda väga aeglaselt ja roomates. Ta saab rääkida ainult aeglaselt üksikute sõnadega.<br />
-*Mis seda põhjustab:* _kurnatud_ tegelane saab relvatabamuse või teda mõjutab mõni elupunkte langetav efekt.<br />
-*Kuidas sellest vabaneda:* seisundi lõpetab oskuse _meditsiin_ kasutus või alkeemilised ja maagilised ravitsusvõtted. NB! Kui tegelane ei saa arstiabi vähemalt veerand tunni jooksul, siis ta sureb. 
+**Suremas/Dying**<br />
+**Mõju:** tegelase seisund on kriitiline. Ta ei või  võidelda ega kasutada oma oskusi. Ta peab heitma pikali ning võib liikuda väga aeglaselt ja roomates. Ta saab rääkida ainult aeglaselt üksikute sõnadega.<br />
+**Mis seda põhjustab:** _kurnatud_ tegelane saab relvatabamuse või teda mõjutab mõni elupunkte langetav efekt.<br />
+**Kuidas sellest vabaneda:** seisundi lõpetab oskuse _meditsiin_ kasutus või alkeemilised ja maagilised ravitsusvõtted. NB! Kui tegelane ei saa arstiabi vähemalt veerand tunni jooksul, siis ta sureb. 
 
-![Seisundid](https://karavanlarp.github.io/img/seisundid_small.png)
+<img src="https://karavanlarp.github.io/img/seisundid_small.png" alt="Seisundid" width="500px">
 
 #### Muud seisundid
 
-*Uimastatud/Unconscious* - Tegelane on 2 minutit teadvuseta, ta sulgeb silmad ja ignoreerib kõike, mida kuuleb/näeb. Mängija loeb mõttes aeglaselt 120-ni, misjärel seisund lõppeb.<br />
+**Uimastatud/Unconscious** - Tegelane on 2 minutit teadvuseta, ta sulgeb silmad ja ignoreerib kõike, mida kuuleb/näeb. Mängija loeb mõttes aeglaselt 120-ni, misjärel seisund lõppeb.<br />
 Ka elupunkti kaotus lõpetab seisundi.
 
-*Oimetu/Stunned* - Tegelane ei või 3 sekundit ennast liigutada ega midagi lausuda.
+**Oimetu/Stunned** - Tegelane ei või 3 sekundit ennast liigutada ega midagi lausuda.
 
-*Kammitsetud/Pinned* - Tegelane on põhjalikult kinni seotud ja/või maagia mõju all. Ta ei saa oma seotud jäsemeid liigutada. Kestvus oleneb efekti allikast. Seisundit tähistab köie või lindi jupp, mida hoitakse käte ümber, OG kinnisidumist ei toimu. Kammitsetud seisundi lõpetab kas oskuslik põgenemine, kui keegi tegelase vabastab või teda kammitsenud loitsu lõpetab.
+**Kammitsetud/Pinned** - Tegelane on põhjalikult kinni seotud ja/või maagia mõju all. Ta ei saa oma seotud jäsemeid liigutada. Kestvus oleneb efekti allikast. Seisundit tähistab köie või lindi jupp, mida hoitakse käte ümber, OG kinnisidumist ei toimu. Kammitsetud seisundi lõpetab kas oskuslik põgenemine, kui keegi tegelase vabastab või teda kammitsenud loitsu lõpetab.
 
 #### Varieeruva mõjuga seisundid
 
-*Mürgitatud/Poisoned* - Tegelane on mürgitatud. Mürgid on erinevate mõjudega (näiteks võib kaotada elupunkte, põhiseisund võib muutuda jne). Mürgitatud seisundi lõpetab vastumürk või vastav raviloits.
+**Mürgitatud/Poisoned** - Tegelane on mürgitatud. Mürgid on erinevate mõjudega (näiteks võib kaotada elupunkte, põhiseisund võib muutuda jne). Mürgitatud seisundi lõpetab vastumürk või vastav raviloits.
 
-*Haige/Sick* - Tegelane on haige. Haigused on erinevate mõjudega (põhiseisund võib muutuda, tegelane ei pruugi olla võimeline tegema mingeid tegevusi). Haige seisundi lõpetab haiguse ravimine.
+**Haige/Sick** - Tegelane on haige. Haigused on erinevate mõjudega (põhiseisund võib muutuda, tegelane ei pruugi olla võimeline tegema mingeid tegevusi). Haige seisundi lõpetab haiguse ravimine.
 
 <h3 id="maagia">Maagia</h3>
 
