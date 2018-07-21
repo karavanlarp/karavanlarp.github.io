@@ -155,7 +155,7 @@ Kõik mängijad ei pea teadma kõiki loitse, nende nimesid ja efekte jne. Kõik 
 
 #### Klassid
 
-[3. Alkeemik](https://docs.google.com/document/d/1qymBs2OQAjkCGLfAENLKPbJRpq3LWnjEU9Vngwy-I8U/edit?usp=sharing)<br />
+[3. Alkeemik](https://docs.google.com/document/d/1eFvOc7Ij6KZJ3Eoq_gqXCA7x9WvTkK2YjjKFVUXPDfs/edit?usp=sharing)<br />
 [4. Ekspert](https://docs.google.com/document/d/1pyLHLjTqtA7Cpa_6HwwR9FrsIrOg3MRxYxAde8MTJbU/edit?usp=sharing)<br />
 [5. Kelm](https://docs.google.com/document/d/1-QUWJP4g6m3YhJl7ofzbnil0WqnsXPi6R_Wj6dzEXrs/edit?usp=sharing)<br />
 [6. Maag](https://docs.google.com/document/d/10AAG3LPyEx-GXSI2s8b8TVSWDIScMUkislPuzyu5VEo/edit?usp=sharing)<br />
