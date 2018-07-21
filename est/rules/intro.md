@@ -162,3 +162,8 @@ Kõik mängijad ei pea teadma kõiki loitse, nende nimesid ja efekte jne. Kõik 
 [7. Preester](https://docs.google.com/document/d/1okPG49wt1YGiF2LD5aAwuJWLC0nJlvVWhTHVaXBFYfc/edit?usp=sharing)<br />
 [8. Sorts](https://docs.google.com/document/d/1WRLqAgqxI1q5x3JPKp97dIG4e1HWqHDgHYm8M4IysIo/edit?usp=sharing)<br />
 [9. Sõdalane](https://docs.google.com/document/d/1YhpIbNfZCN3yjiF5Pvl8iMs_LPZAM9VMnJkT61wZl7o/edit?usp=sharing)
+
+#### Muu kasulik
+
+[Reeglimuudatuste ajalugu](https://docs.google.com/document/d/1KgZl6lqfOSTbPjVZGPmX1UuQl2Zg3nj67ZGGqke8CVc/edit?usp=sharing)
+[Varustusest](https://docs.google.com/document/d/14UTPeGqWzC6h5z2moR-RQaPE-WQ0T-UGXDY05AERReQ/edit?usp=sharing)
