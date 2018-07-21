@@ -165,5 +165,5 @@ Kõik mängijad ei pea teadma kõiki loitse, nende nimesid ja efekte jne. Kõik 
 
 #### Muu kasulik
 
-[Reeglimuudatuste ajalugu](https://docs.google.com/document/d/1KgZl6lqfOSTbPjVZGPmX1UuQl2Zg3nj67ZGGqke8CVc/edit?usp=sharing)
+[Reeglimuudatuste ajalugu](https://docs.google.com/document/d/1KgZl6lqfOSTbPjVZGPmX1UuQl2Zg3nj67ZGGqke8CVc/edit?usp=sharing)<br />
 [Varustusest](https://docs.google.com/document/d/14UTPeGqWzC6h5z2moR-RQaPE-WQ0T-UGXDY05AERReQ/edit?usp=sharing)
