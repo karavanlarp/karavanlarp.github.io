@@ -15,9 +15,11 @@ _Tähelepanu! Tegemist on reeglikokkuvõttega. Reeglikokkuvõtte lugemine ei ase
 	<ul>
 		<li><a href="#ohutus">Ohutus</a></li>
 		<li><a href="#keeled">Keeled</a></li>
+		<li><a href="#margistus">Märgistus</a></li>
 		<li><a href="#tervis">Tegelase tervis</a></li>
 		<li><a href="#lahing">Lahing</a></li>
 		<li><a href="#seisundid">Seisundid</a></li>
+		<li><a href="#maagia">Maagia</a></li>
 		<li><a href="#peablugema">Milliseid reegleid ma pean lugema?</a></li>
 		<li><a href="#lingid">Lingid täielikele reeglitele</a></li>
 	</ul>
@@ -47,7 +49,7 @@ IG jookide manustamisel ei ole kohustuslik seda OG juua, vedeliku võib maha val
 
 Kui mängul on väliskülalisi, tuleb kõik lahingefektid deklareerida inglise keeles. Kui neid ei ole, kasutatakse eesti keelt. Kõik efektid on reeglites kirjas. 
 
-<h3>Märgistus</h3>
+<h3 id="margistus">Märgistus</h3>
 
 #### Kleepsud
 
