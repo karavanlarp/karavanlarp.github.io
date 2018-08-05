@@ -112,6 +112,8 @@ All is well. The character is unharmed and can use all their skills.
 **Caused by:** an _exhausted_ character getting hit with a weapon or affected by other life point loss.<br />
 **Removed by:** using the Medicine skill or magical healing. NB! If the character does not receive medical assistance within 15 minutes, they will die.
 
+<img src="https://karavanlarp.github.io/img/seisundid_small_eng.png" alt="Conditions" width="500px">
+
 #### Other Conditions
 
 **Unconscious** – The character is unconscious for 2 minutes. They close their eyes and ignore anything seen or heard. The player counts slowly to 120 and then the condition ends.<br />
@@ -147,4 +149,15 @@ Everything else is voluntary.
 
 <h3 id="links">Links to Full Rules</h3>
 
-The full rules are currently being translated. We will add links as soon as the translations are ready.
+[1. General Rules](https://docs.google.com/document/d/1HNmb3pLpm_E8DqTw8c22QrrcGD4Cby0BDC6SatHhmDU/edit?usp=sharing)<br />
+[2. Character Rules](https://docs.google.com/document/d/1CwbqjxXuLRsashVvNGdu46v5qa8Gcr3458xxjWFMlmk/edit?usp=sharing)
+
+#### Classes
+
+[3. Alchemist](https://docs.google.com/document/d/1-Yi6S6OmoLVS7j65oxG1n8HgTiBxGQcexWnCtuEYnWc/edit)<br />
+[4. Expert](https://docs.google.com/document/d/1l4d8fP_o7Yz6pxsP1ps1AqiJiV5DsVWXGOR82SK_8mg/edit?usp=sharing)<br />
+[5. Rogue](https://docs.google.com/document/d/1ZtYjRgY4cd3ZpkfLPM3-dRvA1E353nXItEHSKykEdNQ/edit?usp=sharing)<br />
+[6. Mage](https://docs.google.com/document/d/1xhMH3tgrFMM_TE9lt81A-1podysgQFreaYKRhZNHKMY/edit?usp=sharing)<br />
+[7. Priest](https://docs.google.com/document/d/1Yav-Voqkkje7t9rhzsBn2ZVkxL2LNwQDTRQtEAb3Rik/edit?usp=sharing)<br />
+[8. Sorcerer](https://docs.google.com/document/d/1AnsYmifMZR_5fSTiAusYL-s1ftIwmykEUMiarDw85wQ/edit?usp=sharing)<br />
+[9. Warrior](https://docs.google.com/document/d/1EuhfmhEtgWcXev5k9b3bR5Viok1XMRx58WpNfD7_WmQ/edit?usp=sharing)
