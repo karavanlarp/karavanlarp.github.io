@@ -24,7 +24,7 @@ _Warning: this is a rules summary. Reading the summary does not replace a health
 
 <h3 id="safety">Safety</h3>
 
-The game can be stopped in case of OG danger by using the Gamestop rule. Hearing the call “gamestop”, all players must immediately stop playing and remain where they are until the situation is resolved and the GM allows the game to continue.
+The game can be stopped in case of OG danger by using the Gamestop rule. Hearing the call “gamestop”, all players must immediately stop playing and remain, silently, where they are until the situation is resolved and the GM allows the game to continue.
 
 If an IG situation becomes uncomfortable, a player may stop it by saying “safe word” (“turvasõna” in Estonian). Others are then obliged to stop role playing. The person who used the safe word explains what they need to continue the game (concluding or changing the situation, leaving with no questions asked or something else). The use of the safe word does not need justification.
 
@@ -33,7 +33,7 @@ Fighting:
 
 2. Physical contact is not allowed (such as grabbing hold of an enemy, throwing or pushing them etc). Wrestling is allowed only away from combat and in case of mutual agreement. Pushing with shields is forbidden.
 
-3. All foam weapons must pass the security check before game start. The security check follows the regulations of Põhjala Pööripäev (check [http://www.ancalagon.ee/index.php/tarvilik-teave/maengu-reeglid](http://www.ancalagon.ee/index.php/tarvilik-teave/maengu-reeglid) Addendum 1). We are especially careful with bows and arrows. Using unchecked weapons for fighting is not allowed!
+3. All foam weapons must pass the security check before game start. The security check follows the regulations of Nordic Equinox (check [http://www.ancalagon.ee/index.php/en/essentials/game-rules](here) Addendum 1). We are especially careful with bows and arrows. Using unchecked weapons for fighting is not allowed!
 
 **Possible dangerous locations are marked with white and red balls after dark.** This has no IG meaning. The OG meaning is to compel caution in the vicinity of the lights. If this method is used, it will be explained in detail during the opening brief.
 
@@ -135,7 +135,7 @@ Only certain classes can use magic (mage, priest, sorcerer). All of them must pe
 
 Some spells are denoted with light orbs that represent a visible magical aura around an object or person. Light orbs cannot be stolen. If a player receives a light orb from someone, they must return it after the magical effect ends. All characters see the aura; magic wielders can ask the GM for the source of the spell, but additional information requires the correct spell or ability.
 
-Spellcasting requires Out-of-Game logical thinking: the spell's target must know what is happening to them (the caster has to speak loudly enough and make a far away target notice them etc). Once the caster has pronounced the spell's name, it enters into effect.
+Spellcasting requires Out-of-Game logical thinking: the spell's target must know what is happening to them (the caster has to speak loudly enough and make a far away target notice them etc). Once the caster has pronounced the spell's Out-of-Game name, it enters into effect.
 
 All players don't have to know all spells, their names and effects. Everyone should read at least the information in the General Rules document, but in general it is the caster's responsibility to know what they are doing, how it affects others and how to communicate it as quickly and unambiguously as possible.
 
