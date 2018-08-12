@@ -26,15 +26,15 @@ October 6th - 7th 2018. The game takes place from Saturday afternoon to late eve
 
 Regisration opens July 1st. You will be registered when you have paid for the event. There are 30 player spots.
 
-Registration for both PCs and NPCs is open until August 15th. 
+Registration for both PCs and NPCs is open until August 31st. 
 
 ### Ticket Prices
 
 * PC - 30 EUR
 * NPC - 15 EUR
-* Sponsor ticket - 45 EUR (for PCs). With this ticket you can offer a player with less means a spot at the event.
+* Sponsor ticket - 30+ EUR (for PCs) with this ticket you can sponsor the event.
 
-Payment deadline is **August 15th**. We will not be returning the payment after the passing of the deadlines.
+Payment deadline is **August 31st**. We will not be returning the payment after the passing of the deadlines.
 
 If you want to pay in installments or later, please contact the gamemasters about it.
 

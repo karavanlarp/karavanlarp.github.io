@@ -30,18 +30,17 @@ Karavani larpi-seeria teine mäng: Metsa Süda.
 
 Registreerumine avaneb 1. juulist. Registreerumise kinnitab mängumaksu tasumine. Mängijakohti on 30.
 
-Mängule registreerumine tavahinnaga kohtadele on avatud nii PCdele kui NPCdele 15. augustini; NB! sponsor- ja sponsoreeritud piletite soetamise tähtajaks on 21. juuli.
+Mängule registreerumine tavahinnaga kohtadele on avatud nii PCdele kui NPCdele 31. augustini; NB! 
 
 ### Mängumaksud
 
 * PC - 30 EUR
 * NPC - 15 EUR
-* Sponsor - 45 EUR (juhul kui maksad PC koha eest). Sponsorpileti ostuga toetad mängijaid, kes vajavad mängul osalemiseks väiksemat mängumaksu.
-* Sponsoreeritud PC pilet - 15 EUR
+* Sponsor - 30+ EUR - Selle piletiga võid sponsoreerida mängu. 
 
 Kui soovid maksta mitmes osas või hiljem, tuleb mängujuhtidega eraldi ühendust võtta.
 
-Tavapileti mängumaksu tasumise tähtajaks on **15. august**. Me ei tagasta mängumaksu pärast tähtaja möödumist.
+Mängumaksu tasumise tähtajaks on **31. august**. Me ei tagasta mängumaksu pärast tähtaja möödumist.
 
 Meil on ka perepileti võimalus! Kui soovid mängule tulla nooremate kui 14-aastaste lastega, kirjuta meile.
 
