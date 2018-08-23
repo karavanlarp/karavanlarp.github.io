@@ -30,7 +30,7 @@ Karavani larpi-seeria teine mäng: Metsa Süda.
 
 Registreerumine avaneb 1. juulist. Registreerumise kinnitab mängumaksu tasumine. Mängijakohti on 30.
 
-Mängule registreerumine tavahinnaga kohtadele on avatud nii PCdele kui NPCdele 22. augustini.  
+Mängule registreerumine on suletud.  
 
 ### Mängumaksud
 

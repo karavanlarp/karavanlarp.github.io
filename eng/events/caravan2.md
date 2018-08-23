@@ -26,7 +26,7 @@ October 6th - 7th 2018. The game takes place from Saturday afternoon to late eve
 
 Regisration opens July 1st. You will be registered when you have paid for the event. There are 30 player spots.
 
-Registration for both PCs and NPCs is open until August 22nd. 
+Registration is over. 
 
 ### Ticket Prices
 

@@ -4,7 +4,7 @@ title: Registreerumine
 ---
 ## Registreerumine
 
-[Siin](https://goo.gl/forms/NTWLSjrijz5RsV2Q2) saab registreeruda mängule. 
+[Registreerumine Karavan IIle on lõppenud. 
 
 [Siin](/est/events/caravan2.html) on täpsem informatsioon tuleva mängu kohta. 
 
