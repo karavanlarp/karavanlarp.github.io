@@ -407,7 +407,7 @@ The god of academics, historians and knowers. Atrepe’s priests preserve the ol
 **Parendi**
 
 Titles: Shower of the Ways, Guard of the Waters
-Symbols: hourglasses, waterdrops, boats, wheels, fans, feathers, lamps
+Symbols: hourglasses, waterdrops, fish, boats, wheels, fans, feathers, lamps
 Domain: travelers, rivers, birds, time, changes/cycles, geography
 Opposite: Arim-Wol
 Virtue: flexibility

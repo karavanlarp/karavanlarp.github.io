@@ -416,7 +416,7 @@ Akadeemikute, ajaloolaste ja teadjate jumal. Tema preestrid säilitavad vanimaid
 <img src="/img/logo/god_imperial/parendi.png" style="display: inline-block;">
 
 **Tiitlid:** Teenäitaja , Vetevalvur<br />
-**Sümbolid:** liivakellad, veetilgad, paadid, rattad, lehvikud, linnusuled, lambid <br />
+**Sümbolid:** liivakellad, veetilgad, kalad, paadid, rattad, lehvikud, linnusuled, lambid <br />
 **Valitsusala:** rändajad, jõed, linnud, aeg, muutused/tsüklid, geograafia<br />
 **Vastand:** Arim-Wol<br />
 **Voorus:** paindlikkus<br />
