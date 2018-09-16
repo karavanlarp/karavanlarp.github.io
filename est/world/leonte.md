@@ -66,7 +66,7 @@ Theumal alentide ja theumiitide vahel peetud sõja kohta on rohkem ülestähendu
 * 2614 - Üle kogu Impeeriumi mässavad kuudepikkused seletamatud tormid. Tuhanded kodanikud jäävad koduta, sajad hukkuvad. 
 * 2785 - Paljastatakse theumiitide vandenõu keisri vastu. Väljaspool allikaid elavad theumiidid kogevad ebameeldivat tähelepanu, kuni selgub, et ründaja tegutses üksi. 
 * 2839 - Pärast paariaastast vaikust ägenevad vabamaalaste rünnakud, neil õnnestub vallutada peaaegu pool Renekist. 
-* 2841 - Impeeriumi väed vabasyavad Reneki okupeeritud osa, operatsiooni juhtinud Valara Leegioni komandör Peleias Lardon edutatakse strategoseks. 
+* 2841 - Impeeriumi väed vabastavad Reneki okupeeritud osa, operatsiooni juhtinud Valara Leegioni komandör Peleias Lardon edutatakse strategoseks. 
 
 **Lähiminevik** 
 
