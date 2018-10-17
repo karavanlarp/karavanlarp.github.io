@@ -32,7 +32,9 @@ Mängija vastutab oma mängule toodud esemete ohutuse eest. Relvad, kilbid ja tu
 
 ### Mõnuained
 
-Üritus on täielikult alkoholivaba, ka enne ja pärast mängu kõigile osalejatele. Me ei tee selles osas kellelegi erandeid. Suitsetamine (ainult täiskasvanutele) on lubatud vastavalt ära märgitud kohas, mujal palume sellest hoiduda. Muude ainete tarvitamine ei ole samuti lubatud ja toob endaga päris kindlasti kaasa politsei külastuse. 
+Üritus on täielikult alkoholivaba, sealhulgas ka enne ja pärast mängu. Korraldajad jätavad endale õiguse vajadusel alkoholi tarvitanud mängija mängust eemaldada.
+
+Suitsetamine on lubatud vastavalt selleks märgistatud kohas, mujal palume sellest hoiduda.
 
 ### Konfliktid
 
