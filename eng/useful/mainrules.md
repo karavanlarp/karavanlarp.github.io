@@ -32,7 +32,9 @@ The player is responsible for the safety of the items they bring to the event. A
 
 ### Alcohol and other substances
 
-The event is completely alcohol free for all attendees for the duration of the whole event. We will not be accepting any exceptions to this rule. Smoking (only for adults) is allowed in a separately marked area, and we ask you not to smoke anywhere else. Drugs of any sort are not permitted, we will call the police if anyone is caught using. 
+The event is completely alcohol free for all attendees for the duration of the whole event, including the time before and after the game itself. The gamemasters reserve the right to remove any player who has consumed alcohol from the game if necessary. 
+
+Smoking is allowed in a separately marked area, and we ask you not to smoke anywhere else.
 
 ### Conflicts
 
