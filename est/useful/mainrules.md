@@ -16,9 +16,9 @@ Karavani mängujuhid on: Mona, Maarja, Siim, Martin ja Iti.
 
 Rollimäng algab ja lõppeb mängujuhi välja kuulutamisel. Mängu võib peatada ohtliku olukorra tekkimisel, selleks on kasutusel gamestop-reegel. Mänguvälised esemed/kohad on tähistatud punavalgelindiga ja neid tuleb ignoreerida. Mängijad võivad mängust väljas olla hoides rusikas kätt pea peal. Mängust väljumine mängusiseste tagajärgede vältimiseks on ebasoovitatav. 
 
-### Gamestop-reegel
+### *Gamestop*-reegel
 
-Reegel mängu peatamiseks ohtlikus olukorras. Seda kuuldes tuleb mängijatel mängimine lõpetada ja jääda kohapeale seisma kuni olukord laheneb ja lubatakse jätkata. Täpne fraas on “Gamestop”. 
+Reegel mängu peatamiseks ohtlikus olukorras. Seda kuuldes tuleb mängijatel mängimine lõpetada ja jääda kohapeale seisma kuni olukord laheneb ja lubatakse jätkata. Täpne fraas on *Gamestop*. 
 
 ### Pausi-reegel
 
