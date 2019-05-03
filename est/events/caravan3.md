@@ -1,7 +1,7 @@
 ---
 layout: default-est
-title: Karavan II
+title: Karavan III
 ---
-## Karavan III: Lõppude õhtu
+## Karavan III: LÃµppude Ãµhtu
 
-Karavani larpi-seeria kolmas mäng Lõppude õhtu leiab aset sel sügisel.
+Karavani larpi-seeria kolmas mÃ¤ng LÃµppude Ãµhtu leiab aset sel sÃ¼gisel.
