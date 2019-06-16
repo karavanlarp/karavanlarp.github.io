@@ -93,22 +93,22 @@ _Ööpimeduses juhiti uued liitujad Karavani juurde, ja majutati nende valitud v
 
 <div class="row"> 
   <div class="column">
-	<img src="/img/gallery/caravan1/001.jpg" style="width:100%">
-	<img src="/img/gallery/caravan1/005.jpg" style="width:100%">
+	<img src="/img/gallery/caravan1/001.JPG" style="width:100%">
+	<img src="/img/gallery/caravan1/005.JPG" style="width:100%">
   </div>
   <div class="column">
-	<img src="/img/gallery/caravan1/002.jpg" style="width:100%">
-	<img src="/img/gallery/caravan1/006.jpg" style="width:100%">
-	<img src="/img/gallery/caravan1/009.jpg" style="width:100%">
+	<img src="/img/gallery/caravan1/002.JPG" style="width:100%">
+	<img src="/img/gallery/caravan1/006.JPG" style="width:100%">
+	<img src="/img/gallery/caravan1/009.JPG" style="width:100%">
   </div>
   <div class="column">
-	<img src="/img/gallery/caravan1/003.jpg" style="width:100%">
-	<img src="/img/gallery/caravan1/007.jpg" style="width:100%">
-	<img src="/img/gallery/caravan1/010.jpg" style="width:100%">
+	<img src="/img/gallery/caravan1/003.JPG" style="width:100%">
+	<img src="/img/gallery/caravan1/007.JPG" style="width:100%">
+	<img src="/img/gallery/caravan1/010.JPG" style="width:100%">
   </div>
   <div class="column">
-	<img src="/img/gallery/caravan1/004.jpg" style="width:100%">
-	<img src="/img/gallery/caravan1/008.jpg" style="width:100%">
+	<img src="/img/gallery/caravan1/004.JPG" style="width:100%">
+	<img src="/img/gallery/caravan1/008.JPG" style="width:100%">
   </div>
  </div>
 
