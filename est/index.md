@@ -3,9 +3,9 @@ layout: default-fb-est
 title: Karavan LARP
 right_content: |
     [![Image](/img/gallery/IMG_1631.JPG)](/img/gallery/IMG_1631.JPG)
-	
+
     [![Image](/img/gallery/217.JPG)](/img/gallery/217.JPG)
-	
+
     [![Image](/img/gallery/165.JPG)](/img/gallery/165.JPG)
 
     [![Image](/img/gallery/IMG_9833.JPG)](/img/gallery/IMG_9833.JPG)
