@@ -91,4 +91,25 @@ _Õhtupimeduses kimbutasid lõpuks kokku kogunenud tegelasi varjuolendid, kelleg
 
 _Ööpimeduses juhiti uued liitujad Karavani juurde, ja majutati nende valitud vankritesse. Teekond põhja jätkus hommikul..._
 
+<div class="row"> 
+  <div class="column">
+	<img src="/img/gallery/caravan1/001.jpg" style="width:100%">
+	<img src="/img/gallery/caravan1/005.jpg" style="width:100%">
+  </div>
+  <div class="column">
+	<img src="/img/gallery/caravan1/002.jpg" style="width:100%">
+	<img src="/img/gallery/caravan1/006.jpg" style="width:100%">
+	<img src="/img/gallery/caravan1/009.jpg" style="width:100%">
+  </div>
+  <div class="column">
+	<img src="/img/gallery/caravan1/003.jpg" style="width:100%">
+	<img src="/img/gallery/caravan1/007.jpg" style="width:100%">
+	<img src="/img/gallery/caravan1/010.jpg" style="width:100%">
+  </div>
+  <div class="column">
+	<img src="/img/gallery/caravan1/004.jpg" style="width:100%">
+	<img src="/img/gallery/caravan1/008.jpg" style="width:100%">
+  </div>
+ </div>
+
 [Pildid](https://photos.google.com/share/AF1QipNobX8upqdh14tTf0mOjy8BD8Lss9AyBRiLB4qnYq7TOA540c0R-C1qpSOqEa0H-Q?key=ejF4VHpuRF9ZZ2g4M2tpNmg0T2tySVNFV0VJbFpB)
