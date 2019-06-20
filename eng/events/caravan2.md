@@ -1,6 +1,27 @@
 ---
 layout: default-eng
 title: Karavan II
+right_content: |
+    [![Image](/img/gallery/caravan2/001.JPG)](/img/gallery/caravan2/001.JPG)
+
+    [![Image](/img/gallery/caravan2/002.JPG)](/img/gallery/caravan2/002.JPG)
+
+    [![Image](/img/gallery/caravan2/003.JPG)](/img/gallery/caravan2/003.JPG)
+
+    [![Image](/img/gallery/caravan2/004.JPG)](/img/gallery/caravan2/004.JPG)
+
+    [![Image](/img/gallery/caravan2/005.JPG)](/img/gallery/caravan2/005.JPG)
+
+    [![Image](/img/gallery/caravan2/006.JPG)](/img/gallery/caravan2/006.JPG)
+
+    [![Image](/img/gallery/caravan2/007.JPG)](/img/gallery/caravan2/007.JPG)
+
+    [![Image](/img/gallery/caravan2/008.JPG)](/img/gallery/caravan2/008.JPG)
+
+    [![Image](/img/gallery/caravan2/009.JPG)](/img/gallery/caravan2/009.JPG)
+
+    [![Image](/img/gallery/caravan2/010.JPG)](/img/gallery/caravan2/010.JPG)
+
 ---
 ## Caravan II: Heart of the Forest
 

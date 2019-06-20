@@ -1,7 +1,29 @@
 ---
 layout: default-est
 title: Karavan I - Algus
+right_content: |
+    [![Image](/img/gallery/caravan1/001.JPG)](/img/gallery/caravan1/001.JPG)
+
+    [![Image](/img/gallery/caravan1/002.JPG)](/img/gallery/caravan1/002.JPG)
+
+    [![Image](/img/gallery/caravan1/003.JPG)](/img/gallery/caravan1/003.JPG)
+
+    [![Image](/img/gallery/caravan1/004.JPG)](/img/gallery/caravan1/004.JPG)
+
+    [![Image](/img/gallery/caravan1/005.JPG)](/img/gallery/caravan1/005.JPG)
+
+    [![Image](/img/gallery/caravan1/006.JPG)](/img/gallery/caravan1/006.JPG)
+
+    [![Image](/img/gallery/caravan1/007.JPG)](/img/gallery/caravan1/007.JPG)
+
+    [![Image](/img/gallery/caravan1/008.JPG)](/img/gallery/caravan1/008.JPG)
+
+    [![Image](/img/gallery/caravan1/009.JPG)](/img/gallery/caravan1/009.JPG)
+
+    [![Image](/img/gallery/caravan1/010.JPG)](/img/gallery/caravan1/010.JPG)
+
 ---
+
 ## Karavan I: Algus
 
 _Areni sadamalinn on rahvast täis igal hetkel. Siin on lihtne ära eksida ja veel lihtsam rahakotist ilma jääda._ 
@@ -90,26 +112,5 @@ _Lõpuks saabus Karavani asjaajaja ja hakati kärmelt pabereid tegema, selleks o
 _Õhtupimeduses kimbutasid lõpuks kokku kogunenud tegelasi varjuolendid, kellega mitte lihtne võidelda ei olnud. Vähemalt olid Karavani juht ja tema kaaslane lõpuks pääsenud metsast, küll pärast mitmeid sekeldusi. Õhtu viimaseks üllatuseks oli see, et ka kõrtsiemanda sees oli mingisugune kummaline vaim, mille seiklejad agaralt maha tapsid._
 
 _Ööpimeduses juhiti uued liitujad Karavani juurde, ja majutati nende valitud vankritesse. Teekond põhja jätkus hommikul..._
-
-<div class="row"> 
-  <div class="column">
-	<img src="/img/gallery/caravan1/001.JPG" style="width:100%">
-	<img src="/img/gallery/caravan1/005.JPG" style="width:100%">
-  </div>
-  <div class="column">
-	<img src="/img/gallery/caravan1/002.JPG" style="width:100%">
-	<img src="/img/gallery/caravan1/006.JPG" style="width:100%">
-	<img src="/img/gallery/caravan1/009.JPG" style="width:100%">
-  </div>
-  <div class="column">
-	<img src="/img/gallery/caravan1/003.JPG" style="width:100%">
-	<img src="/img/gallery/caravan1/007.JPG" style="width:100%">
-	<img src="/img/gallery/caravan1/010.JPG" style="width:100%">
-  </div>
-  <div class="column">
-	<img src="/img/gallery/caravan1/004.JPG" style="width:100%">
-	<img src="/img/gallery/caravan1/008.JPG" style="width:100%">
-  </div>
- </div>
 
 [Pildid](https://photos.google.com/share/AF1QipNobX8upqdh14tTf0mOjy8BD8Lss9AyBRiLB4qnYq7TOA540c0R-C1qpSOqEa0H-Q?key=ejF4VHpuRF9ZZ2g4M2tpNmg0T2tySVNFV0VJbFpB)
