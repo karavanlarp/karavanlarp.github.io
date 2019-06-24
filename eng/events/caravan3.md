@@ -20,7 +20,7 @@ The third game in the Caravan LARP series: Eve of Endings. The caravan has reach
 
 ### Where?
 
-[Pärna puhkeküla](https://goo.gl/maps/W3ykQL12H2w19aLM6), Taevere, Viljandi county
+[Pärna holiday village](https://goo.gl/maps/W3ykQL12H2w19aLM6), Taevere, Viljandi county
 
 The closest train stop is Olustvere, 7 kilometers away.
 
