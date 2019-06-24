@@ -30,7 +30,7 @@ Registration is open from 24. June. Registration is confirmed upon ticket paymen
 
 Registration is closed when all player spots are full, but no later than 25. August. NPC registration closes on 31. August.
 
-Registration is currently closed.
+Registration is currently open!
 
 ### Ticket Prices
 
@@ -50,7 +50,7 @@ The Caravan game masters offer two sponsored tickets by default. If you wish to 
 The ticket price guarantees:
 
 * Accommodation in a heated building on the floor, using personal equipment
-* Warm shower
+* Hot shower
 * One hot meal on game day and snacks and drinks throughout the game
 * Lovely NPCs
 * Props
