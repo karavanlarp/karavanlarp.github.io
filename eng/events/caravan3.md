@@ -75,4 +75,4 @@ We expect foreign players to participate, so the game uses both Estonian and Eng
 
 ### Participants
 
-All interested players are welcome, big or small. Participants younger than 14 are allowed only when accompanied by an adult. Underage participants who are older than 14 and come alone must provide written permission of a parent, either before the event or on location before game start. The form can be found HERE
+All interested players are welcome, big or small. Participants younger than 14 are allowed only when accompanied by an adult. Underage participants who are older than 14 and come alone must provide written permission of a parent, either before the event or on location before game start. The form will be provided if necessary.
