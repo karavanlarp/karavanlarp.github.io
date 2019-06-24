@@ -30,7 +30,7 @@ Registreerumine avaneb 24. juunist. Registreerumise kinnitab mängumaksu tasumin
 
 Registreerimine läheb lukku mängijakohtade täitumisel, aga mitte hiljem kui 25. augustil. NPC-de registreerumine lõpeb 31. augustil. 
 
-Mängule registreerumine on hetkel suletud.
+Mängule registreerumine on avatud! 
 
 ### Mängumaksud
 
@@ -60,13 +60,14 @@ Kohapeal on ka saunatamise võimalus, sellest soovist tuleb GMidele enne üritus
 Kuigi sari kõneleb karavanist, sisaldab larp ise täpselt nii vähe või palju kõndimist, kui soovid. Karavan liigub larpide vahelisel ajal.
 
 ### Majutus
+
 Ööbimine on köetud siseruumides, oma varustusega ja põrandal. Soovi korral saab 15 euro suuruse lisatasu eest ööbida autentses taluvoodis (padi, tekk ja linad hinna sees, midagi ei ole vaja kaasa võtta).
 
 ### Toitlustus
 
 Mängul on üks soe toidukord laupäeva õhtu hakul. Menüüs on toitu nii kõigesööjatele kui ka taimetoitlastele/veganitele. 
 
-Kogunemise ajal ja mängu vältel pakume suupisteid ning külmi ja soojasid jooke.
+Kogunemise ajal ja mängu vältel pakume suupisteid ning külmi ja sooje jooke.
 
 ### Keeled
 
@@ -74,4 +75,4 @@ Ootame mängule ka välismaiseid mängijaid, seetõttu on mängukeelteks eesti j
 
 ### Osalejad
 
-Oodatud on kõik suured ja väikesed huvilised. Alla 14-aastased osalejad on üritusele lubatud ainult täiskasvanud saatjaga. Vanemad kui 14-aastased alaealised, kes saabuvad mängule üksi, peavad esitama avalduse vanema kirjaliku nõusolekuga kas enne üritust või enne mängu algust kohapeal. Avalduse leiab SIIT
+Oodatud on kõik suured ja väikesed huvilised. Alla 14-aastased osalejad on üritusele lubatud ainult täiskasvanud saatjaga. Vanemad kui 14-aastased alaealised, kes saabuvad mängule üksi, peavad esitama avalduse vanema kirjaliku nõusolekuga kas enne üritust või enne mängu algust kohapeal. Avalduse saadame vajaduse korral. 
