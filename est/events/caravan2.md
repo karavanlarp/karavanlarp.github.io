@@ -10,8 +10,6 @@ right_content: |
 
     [![Image](/img/gallery/caravan2/004.JPG)](/img/gallery/caravan2/004.JPG)
 
-    [![Image](/img/gallery/caravan2/005.JPG)](/img/gallery/caravan2/005.JPG)
-
     [![Image](/img/gallery/caravan2/006.JPG)](/img/gallery/caravan2/006.JPG)
 
     [![Image](/img/gallery/caravan2/007.JPG)](/img/gallery/caravan2/007.JPG)
