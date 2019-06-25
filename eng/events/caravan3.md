@@ -20,7 +20,7 @@ The third game in the Caravan LARP series: Eve of Endings. The caravan has reach
 
 ### Where?
 
-[Pärna puhkeküla](https://goo.gl/maps/W3ykQL12H2w19aLM6), Taevere, Viljandi county
+[Pärna holiday village](https://goo.gl/maps/W3ykQL12H2w19aLM6), Taevere, Viljandi county
 
 The closest train stop is Olustvere, 7 kilometers away.
 
@@ -30,7 +30,7 @@ Registration is open from 24. June. Registration is confirmed upon ticket paymen
 
 Registration is closed when all player spots are full, but no later than 25. August. NPC registration closes on 31. August.
 
-Registration is currently closed.
+Registration is currently open!
 
 ### Ticket Prices
 
@@ -50,7 +50,7 @@ The Caravan game masters offer two sponsored tickets by default. If you wish to 
 The ticket price guarantees:
 
 * Accommodation in a heated building on the floor, using personal equipment
-* Warm shower
+* Hot shower
 * One hot meal on game day and snacks and drinks throughout the game
 * Lovely NPCs
 * Props
@@ -75,4 +75,4 @@ We expect foreign players to participate, so the game uses both Estonian and Eng
 
 ### Participants
 
-All interested players are welcome, big or small. Participants younger than 14 are allowed only when accompanied by an adult. Underage participants who are older than 14 and come alone must provide written permission of a parent, either before the event or on location before game start. The form can be found HERE
+All interested players are welcome, big or small. Participants younger than 14 are allowed only when accompanied by an adult. Underage participants who are older than 14 and come alone must provide written permission of a parent, either before the event or on location before game start. The form will be provided if necessary.
