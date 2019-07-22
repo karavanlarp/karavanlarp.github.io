@@ -10,6 +10,8 @@ _Warning: this is a rules summary. Reading the summary does not replace a health
 <div id="toc">
 	<h3>Table of Contents</h3>
 	<ul>
+		<li><a href="#shouldread">What rules should I read?</a></li>
+		<li><a href="#links">Links to Full Rules</a></li>
 		<li><a href="#safety">Safety</a></li>
 		<li><a href="#languages">Languages</a></li>
 		<li><a href="#markings">Markings</a></li>
@@ -17,10 +19,31 @@ _Warning: this is a rules summary. Reading the summary does not replace a health
 		<li><a href="#battle">Battle</a></li>
 		<li><a href="#conditions">Conditions</a></li>
 		<li><a href="#magic">Magic</a></li>
-		<li><a href="#shouldread">What rules should I read?</a></li>
-		<li><a href="#links">Links to Full Rules</a></li>
 	</ul>
 </div>
+
+<h3 id="shouldread">What rules should I read?</h3>
+
+1. general rules
+2. character rules (at least once upon character creation; it is recommended to reread it in order to remember your race's cool abilities)
+3. class rules for your own class
+
+Everything else is voluntary.
+
+<h3 id="links">Links to Full Rules</h3>
+
+[1. General Rules](https://docs.google.com/document/d/1HNmb3pLpm_E8DqTw8c22QrrcGD4Cby0BDC6SatHhmDU/edit?usp=sharing)<br />
+[2. Character Rules](https://docs.google.com/document/d/1CwbqjxXuLRsashVvNGdu46v5qa8Gcr3458xxjWFMlmk/edit?usp=sharing)
+
+#### Classes
+
+[3. Alchemist](https://docs.google.com/document/d/1-Yi6S6OmoLVS7j65oxG1n8HgTiBxGQcexWnCtuEYnWc/edit)<br />
+[4. Expert](https://docs.google.com/document/d/1l4d8fP_o7Yz6pxsP1ps1AqiJiV5DsVWXGOR82SK_8mg/edit?usp=sharing)<br />
+[5. Rogue](https://docs.google.com/document/d/1ZtYjRgY4cd3ZpkfLPM3-dRvA1E353nXItEHSKykEdNQ/edit?usp=sharing)<br />
+[6. Mage](https://docs.google.com/document/d/1xhMH3tgrFMM_TE9lt81A-1podysgQFreaYKRhZNHKMY/edit?usp=sharing)<br />
+[7. Priest](https://docs.google.com/document/d/1Yav-Voqkkje7t9rhzsBn2ZVkxL2LNwQDTRQtEAb3Rik/edit?usp=sharing)<br />
+[8. Sorcerer](https://docs.google.com/document/d/1AnsYmifMZR_5fSTiAusYL-s1ftIwmykEUMiarDw85wQ/edit?usp=sharing)<br />
+[9. Warrior](https://docs.google.com/document/d/1EuhfmhEtgWcXev5k9b3bR5Viok1XMRx58WpNfD7_WmQ/edit?usp=sharing)
 
 <h3 id="safety">Safety</h3>
 
@@ -138,26 +161,3 @@ Some spells are denoted with light orbs that represent a visible magical aura ar
 Spellcasting requires Out-of-Game logical thinking: the spell's target must know what is happening to them (the caster has to speak loudly enough and make a far away target notice them etc). Once the caster has pronounced the spell's Out-of-Game name, it enters into effect.
 
 All players don't have to know all spells, their names and effects. Everyone should read at least the information in the General Rules document, but in general it is the caster's responsibility to know what they are doing, how it affects others and how to communicate it as quickly and unambiguously as possible.
-
-<h3 id="shouldread">What rules should I read?</h3>
-
-1. general rules
-2. character rules (at least once upon character creation; it is recommended to reread it in order to remember your race's cool abilities)
-3. class rules for your own class
-
-Everything else is voluntary.
-
-<h3 id="links">Links to Full Rules</h3>
-
-[1. General Rules](https://docs.google.com/document/d/1HNmb3pLpm_E8DqTw8c22QrrcGD4Cby0BDC6SatHhmDU/edit?usp=sharing)<br />
-[2. Character Rules](https://docs.google.com/document/d/1CwbqjxXuLRsashVvNGdu46v5qa8Gcr3458xxjWFMlmk/edit?usp=sharing)
-
-#### Classes
-
-[3. Alchemist](https://docs.google.com/document/d/1-Yi6S6OmoLVS7j65oxG1n8HgTiBxGQcexWnCtuEYnWc/edit)<br />
-[4. Expert](https://docs.google.com/document/d/1l4d8fP_o7Yz6pxsP1ps1AqiJiV5DsVWXGOR82SK_8mg/edit?usp=sharing)<br />
-[5. Rogue](https://docs.google.com/document/d/1ZtYjRgY4cd3ZpkfLPM3-dRvA1E353nXItEHSKykEdNQ/edit?usp=sharing)<br />
-[6. Mage](https://docs.google.com/document/d/1xhMH3tgrFMM_TE9lt81A-1podysgQFreaYKRhZNHKMY/edit?usp=sharing)<br />
-[7. Priest](https://docs.google.com/document/d/1Yav-Voqkkje7t9rhzsBn2ZVkxL2LNwQDTRQtEAb3Rik/edit?usp=sharing)<br />
-[8. Sorcerer](https://docs.google.com/document/d/1AnsYmifMZR_5fSTiAusYL-s1ftIwmykEUMiarDw85wQ/edit?usp=sharing)<br />
-[9. Warrior](https://docs.google.com/document/d/1EuhfmhEtgWcXev5k9b3bR5Viok1XMRx58WpNfD7_WmQ/edit?usp=sharing)
