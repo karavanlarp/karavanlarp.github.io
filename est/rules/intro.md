@@ -4,7 +4,7 @@ title: Reeglid
 ---
 ## Reeglid
 
-Sellel lehel olev tekst on reeglikokkuvõte. Lehe allosas on lingid täielikele reeglitele, mis asuvad Google Drive'is.
+Sellel lehel olev tekst on reeglikokkuvõte. Lehe ülaosas on lingid täielikele reeglitele, mis asuvad Google Drive'is.
 
 Reeglid on täiustamisel. Kui te leiate neist vastukäivusi või jääb midagi segaseks, siis kirjutage meile. Kui midagi muutma peame (mida me seeria jooksul ehk veel peame), anname oma parima, et teha muutusi mängijate suhtes õiglaselt.
 
@@ -13,6 +13,8 @@ _Tähelepanu! Tegemist on reeglikokkuvõttega. Reeglikokkuvõtte lugemine ei ase
 <div id="toc">
 	<h3>Sisukord</h3>
 	<ul>
+		<li><a href="#peablugema">Milliseid reegleid ma pean lugema?</a></li>
+		<li><a href="#lingid">Lingid täielikele reeglitele</a></li>
 		<li><a href="#ohutus">Ohutus</a></li>
 		<li><a href="#keeled">Keeled</a></li>
 		<li><a href="#margistus">Märgistus</a></li>
@@ -20,10 +22,35 @@ _Tähelepanu! Tegemist on reeglikokkuvõttega. Reeglikokkuvõtte lugemine ei ase
 		<li><a href="#lahing">Lahing</a></li>
 		<li><a href="#seisundid">Seisundid</a></li>
 		<li><a href="#maagia">Maagia</a></li>
-		<li><a href="#peablugema">Milliseid reegleid ma pean lugema?</a></li>
-		<li><a href="#lingid">Lingid täielikele reeglitele</a></li>
 	</ul>
 </div>
+
+<h3 id="peablugema">Milliseid reegleid ma pean lugema?</h3>
+1. üldreeglid
+2. tegelasereeglid (vähemalt korra, oma tegelast luues, soovitatav oleks ka hiljem uuesti üle lugeda, et oma rassi lahedaid omadusi mäletada)
+3. oma klassi reeglid
+
+Ülejäänu on vabatahtlik.
+
+<h3 id="lingid">Lingid täielikele reeglitele</h3>
+
+[1. Üldreeglid](https://docs.google.com/document/d/1rjUaNEhrvGlL_T0P1ce6_P6PIylOmkjIEpphcms2ejE/edit?usp=sharing)<br />
+[2. Tegelasereeglid](https://docs.google.com/document/d/1qymBs2OQAjkCGLfAENLKPbJRpq3LWnjEU9Vngwy-I8U/edit?usp=sharing)
+
+#### Klassid
+
+[3. Alkeemik](https://docs.google.com/document/d/1eFvOc7Ij6KZJ3Eoq_gqXCA7x9WvTkK2YjjKFVUXPDfs/edit?usp=sharing)<br />
+[4. Ekspert](https://docs.google.com/document/d/1pyLHLjTqtA7Cpa_6HwwR9FrsIrOg3MRxYxAde8MTJbU/edit?usp=sharing)<br />
+[5. Kelm](https://docs.google.com/document/d/1-QUWJP4g6m3YhJl7ofzbnil0WqnsXPi6R_Wj6dzEXrs/edit?usp=sharing)<br />
+[6. Maag](https://docs.google.com/document/d/10AAG3LPyEx-GXSI2s8b8TVSWDIScMUkislPuzyu5VEo/edit?usp=sharing)<br />
+[7. Preester](https://docs.google.com/document/d/1okPG49wt1YGiF2LD5aAwuJWLC0nJlvVWhTHVaXBFYfc/edit?usp=sharing)<br />
+[8. Sorts](https://docs.google.com/document/d/1WRLqAgqxI1q5x3JPKp97dIG4e1HWqHDgHYm8M4IysIo/edit?usp=sharing)<br />
+[9. Sõdalane](https://docs.google.com/document/d/1YhpIbNfZCN3yjiF5Pvl8iMs_LPZAM9VMnJkT61wZl7o/edit?usp=sharing)
+
+#### Muu kasulik
+
+[Reeglimuudatuste ajalugu](https://docs.google.com/document/d/1KgZl6lqfOSTbPjVZGPmX1UuQl2Zg3nj67ZGGqke8CVc/edit?usp=sharing)<br />
+[Varustusest](https://docs.google.com/document/d/14UTPeGqWzC6h5z2moR-RQaPE-WQ0T-UGXDY05AERReQ/edit?usp=sharing)
 
 <h3 id="ohutus">Ohutus</h3>
 
@@ -142,30 +169,3 @@ Osasid loitse markeeritakse valguspallidega, mis tähistavad selle isiku või ob
 Loitsimisel peab loitsija lähtuma OG tervest mõistusest: kellegi teise peale loitsu pannes tuleb hoolitseda selle eest, et see teine ka teaks, mida temaga tehakse (ehk loitsija peab rääkima piisavalt valjusti, kaugema sihtmärgi tähelepanu saama jne). Kui loitsija on juba lausunud loitsu OG nime, läheb loits lahendamisele.
 
 Kõik mängijad ei pea teadma kõiki loitse, nende nimesid ja efekte jne. Kõik peaksid lugema vähemalt Üldreeglite failis kirjeldatud infot maagia kohta, kuid reeglina on loitsija vastutus teada, mida ta teeb, ja kuidas see teisi mõjutab, ning see mõjutatu(te)le võimalikult kiiresti ja ühetimõistetavalt selgeks teha. 
-
-<h3 id="peablugema">Milliseid reegleid ma pean lugema?</h3>
-1. üldreeglid
-2. tegelasereeglid (vähemalt korra, oma tegelast luues, soovitatav oleks ka hiljem uuesti üle lugeda, et oma rassi lahedaid omadusi mäletada)
-3. oma klassi reeglid
-
-Ülejäänu on vabatahtlik.
-
-<h3 id="lingid">Lingid täielikele reeglitele</h3>
-
-[1. Üldreeglid](https://docs.google.com/document/d/1rjUaNEhrvGlL_T0P1ce6_P6PIylOmkjIEpphcms2ejE/edit?usp=sharing)<br />
-[2. Tegelasereeglid](https://docs.google.com/document/d/1qymBs2OQAjkCGLfAENLKPbJRpq3LWnjEU9Vngwy-I8U/edit?usp=sharing)
-
-#### Klassid
-
-[3. Alkeemik](https://docs.google.com/document/d/1eFvOc7Ij6KZJ3Eoq_gqXCA7x9WvTkK2YjjKFVUXPDfs/edit?usp=sharing)<br />
-[4. Ekspert](https://docs.google.com/document/d/1pyLHLjTqtA7Cpa_6HwwR9FrsIrOg3MRxYxAde8MTJbU/edit?usp=sharing)<br />
-[5. Kelm](https://docs.google.com/document/d/1-QUWJP4g6m3YhJl7ofzbnil0WqnsXPi6R_Wj6dzEXrs/edit?usp=sharing)<br />
-[6. Maag](https://docs.google.com/document/d/10AAG3LPyEx-GXSI2s8b8TVSWDIScMUkislPuzyu5VEo/edit?usp=sharing)<br />
-[7. Preester](https://docs.google.com/document/d/1okPG49wt1YGiF2LD5aAwuJWLC0nJlvVWhTHVaXBFYfc/edit?usp=sharing)<br />
-[8. Sorts](https://docs.google.com/document/d/1WRLqAgqxI1q5x3JPKp97dIG4e1HWqHDgHYm8M4IysIo/edit?usp=sharing)<br />
-[9. Sõdalane](https://docs.google.com/document/d/1YhpIbNfZCN3yjiF5Pvl8iMs_LPZAM9VMnJkT61wZl7o/edit?usp=sharing)
-
-#### Muu kasulik
-
-[Reeglimuudatuste ajalugu](https://docs.google.com/document/d/1KgZl6lqfOSTbPjVZGPmX1UuQl2Zg3nj67ZGGqke8CVc/edit?usp=sharing)<br />
-[Varustusest](https://docs.google.com/document/d/14UTPeGqWzC6h5z2moR-RQaPE-WQ0T-UGXDY05AERReQ/edit?usp=sharing)
