@@ -173,6 +173,17 @@ li {
     display: none;
 }
 
+#hidebutton {
+	background-color: #d9ccbf;
+	border-radius: 5px;
+	display: block;
+	font-family: 'Kurale', serif;
+	padding: 5px 10px;
+	font-size: 16px;
+	border: none;
+	cursor: pointer;
+}
+
 /* Responsive layout for event gallery - makes a two column-layout instead of four columns */
 @media (max-width: 800px) {
   .column {
