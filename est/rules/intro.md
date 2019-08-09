@@ -66,8 +66,6 @@ Võitlus:
 
 3. Kõik mängul olevad bofferrelvad peavad läbima enne mängu toimuva turvakontrolli. Turvakontroll teostatakse vastavalt Põhjala Pööripäeva ohutusnõuetele (vaata: [http://www.ancalagon.ee/index.php/tarvilik-teave/maengu-reeglid](http://www.ancalagon.ee/index.php/tarvilik-teave/maengu-reeglid) Lisa 1). Erilist tähelepanu pöörame vibudele ja nooltele. Kontrollimata relvade kasutamine lahingus on keelatud!
 
-Vajadusel markeerime *ohtliku paiga pimedal ajal valgete ja punaste pallidega*. IG ei tähenda see midagi, OG tähendab see seda, et valgusketi vahetus läheduses tasub ettevaatlikult liikuda. Kui mängul selline markeerimine toimub, kirjeldame asjaolusid täpsemalt ka algbriifil.
-
 Kui üks tegelane teise kinni seob, markeeritakse seda nööriga, mida seotud tegelane hoiab oma käte ümber. *Sidumist OG ei toimu.*
 
 IG jookide manustamisel ei ole kohustuslik seda OG juua, vedeliku võib maha valada.
@@ -78,7 +76,7 @@ Kui mängul on väliskülalisi, tuleb kõik lahingefektid deklareerida inglise k
 
 <h3 id="margistus">Märgistus</h3>
 
-#### Kleepsud
+#### Metamärgistused
 
 <img src="https://karavanlarp.github.io/img/karavan-küsimärk.png" alt="Küsimärk" height="200" style="display: inline-block;"> 
 <img src="https://karavanlarp.github.io/img/karavan-hüüumärk.png" alt="Hüüumärk" height="200" style="display: inline-block;">
@@ -87,9 +85,15 @@ Mõned kohad või esemed mängualal võivad olla märgitud kleepsuga. Kleepse on
 * küsimärk: märgitud asja/kohaga tegutsemiseks on vaja GMi
 * hüüumärk: märgitud asja/koha juures on kirjalikud juhised. GMi kohalolek pole vajalik
 
-#### Valguspallid
+#### Karavani lipu heiskamine
 
-Valguspallid tähistavad mingit maagilist efekti (erandiks punaste ja valgete pallide kombinatsioon, nagu öeldud üleval). 
+Poolde masti tõmmatud Karavani sümboliga (leegitsev ratas) lipp mängualal markeerib peagi saabuvat mängu lõppu. Juhul, kui karavani lipp on heisatud, võivad tegelased mängust välja tulla selleks kokkulepitud mängu lõpetuse alasse (selleks on enamasti suur saal, kus saab ära anda kõik mängul korjatud kraami, teha debriifingu ja muljetada mängust). Mäng lõpeb orienteeruvalt 30 minuti jooksul pärast Karavani lipu heiskamist.
+
+#### Talismanid (T)
+
+Talismanid on kasutusel kõikides maagiatüüpides (apeiromantia/ruunikunst, jumalmaagia, sortsikunst) märgistusena. Talismaniks on vähemalt 25cm pikkune ja 2 cm laiune lint/pael, millele on mõnikord kirjutatud ka sümboleid. Tegelased, kes teavad midagi maagiast, võivad paela värvi ja sümboolika alusel arvata, millise loitsu/palve või muu maagilise efektiga on tegemist. Ka paljudel maagilistel esemetel on küljes talismanid. Maagiakauge tegelane saab ilmselt aru, et tegemist on millegi tugevalt maagilisega. Talismanidega markeeritakse näiteks manasõlmed, jumalate altarid ja ka apeiromantilised esemed.  
+
+Mõnikord võib nähtavuse huvides olla talismanide juures ka vastavat värvi valgustust. 
 
 <h3 id="tervis">Tegelase tervis</h3>
 
@@ -128,20 +132,16 @@ Põhiseisundeid on neli: terve, väsinud, kurnatud, suremas.
 **Terve/Healthy**<br />
 Kõik on hästi. Tegelane on terve ja ta suudab kasutada kõiki oma oskusi. 
 
-**Väsinud/Tired** <br />
-**Mõju:** tegelane ei suuda kasutada keskendumist vajavaid oskusi. (Reeglites märgitud sümboliga **€**). <br />
-**Mis seda põhjustab:** tegelane kaotab elupunkti. Võib olla ka teisi põhjuseid (lahing, maagilised efektid). <br />
-**Kuidas sellest vabaneda:** 30 minutit puhkust, pärast mida on tegelane taas _terve_. Elupunkti taastamine _väsinud_ seisundit ei lõpeta.
+**Väsinud/Tired**<br />
+Tegelane ei suuda kasutada keskendumist vajavaid oskusi. (Reeglites märgitud sümboliga “€”). Kui tegelane kaotab elupunkti, on ta väsinud. Väsinud seisund lõpeb kui kõikide elupunktidega tegelane puhkab 30 minutit, misjärel tegelane on taaskord terve. Elupunkti taastamine ei lõpeta automaatselt väsinud seisundit.
 
-**Kurnatud/Exhausted** <br />
-**Mõju:** tegelane ei suuda kasutada keskendumist vajavaid oskusi (€), võidelda, joosta ega tegeleda muu füüsiliselt koormava tegevusega. Tema enesetunne on kehv. <br />
-**Mis seda põhjustab:** tegelase elupunktid langevad nulli. Võib olla ka muid põhjuseid.<br />
-**Kuidas sellest vabaneda:** seisundi lõpetab oskuse _meditsiin_ kasutus või alkeemilised ja maagilised ravitsusvõtted; see ei lõpe iseenesest (va omadusega _regeneratsioon_). Elupunkti(de) taastamine ei lõpeta _kurnatud_ seisundit. 
+**Kurnatud/Exhausted**<br /> 
+Tegelase füüsiline ja vaimne seisund on kehv. Ta ei suuda kasutada keskendumist vajavaid oskusi (€), võidelda, joosta ega tegeleda muu füüsiliselt koormava tegevusega. Kui tegelase elupunktid langevad nulli on ta kurnatud. Kui kurnatud tegelane saab relvatabamuse või teda mõjutab mõni elupunkte langetav efekt, muutub tema seisund suremas seisundiks. Tegelasel, kellel on taastatud vähemalt pooled elupunktid lõppeb kurnatud seisund pärast 30 minutit puhkust. Misjärel on tegelane väsinud seisundis.  Kurnatud seisundi lõpetab oskuse meditsiin kasutus ning alkeemilised ja maagilised ravitsusvõtted; omadusega regeneratsioon).
 
 **Suremas/Dying**<br />
-**Mõju:** tegelase seisund on kriitiline. Ta ei või  võidelda ega kasutada oma oskusi. Ta peab heitma pikali ning võib liikuda väga aeglaselt ja roomates. Ta saab rääkida ainult aeglaselt üksikute sõnadega.<br />
-**Mis seda põhjustab:** _kurnatud_ tegelane saab relvatabamuse või teda mõjutab mõni elupunkte langetav efekt.<br />
-**Kuidas sellest vabaneda:** seisundi lõpetab oskuse _meditsiin_ kasutus või alkeemilised ja maagilised ravitsusvõtted. NB! Kui tegelane ei saa arstiabi vähemalt veerand tunni jooksul, siis ta sureb. 
+Tegelase seisund on kriitiline. Ta ei või enam võidelda ega kasutada oma oskusi. Ta peab heitma pikali ja võib liikuda väga aeglaselt ja roomates. Ladus rääkimine on keelatud, lausuda võib vaid aeglaselt mõningaid sõnu. Tegelane, kes ei saa kohest arstiabi vähemalt veerand tunni jooksul, lahkub elavate seast. Suremas seisundi lõpetab oskuse meditsiin kasutus ning alkeemilised ja maagilised ravitsusvõtted. Tegelane kellel on vähemalt 1 elupunkt, muutub suremas seisundist automaatselt kurnatud seisundisse.
+
+**Joonis on vana ja uuendatakse varsti.**
 
 <img src="https://karavanlarp.github.io/img/seisundid_small.png" alt="Seisundid" width="500px">
 
@@ -153,6 +153,8 @@ Ka elupunkti kaotus lõpetab seisundi.
 **Oimetu/Stunned** - Tegelane ei või 3 sekundit ennast liigutada ega midagi lausuda.
 
 **Kammitsetud/Pinned** - Tegelane on põhjalikult kinni seotud ja/või maagia mõju all. Ta ei saa oma seotud jäsemeid liigutada. Kestvus oleneb efekti allikast. Seisundit tähistab köie või lindi jupp, mida hoitakse käte ümber, OG kinnisidumist ei toimu. Kammitsetud seisundi lõpetab kas oskuslik põgenemine, kui keegi tegelase vabastab või teda kammitsenud loitsu lõpetab.
+
+**Hirmunud/Frightened** - Tegelane põgeneb esimesel võimalusel hirmu põhjustanud allika juurest. Kui põgenemine pole võimalik, siis üritab ennast muul viisil kaitsta ja varjata.
 
 #### Varieeruva mõjuga seisundid
 
