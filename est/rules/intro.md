@@ -141,9 +141,7 @@ Tegelase füüsiline ja vaimne seisund on kehv. Ta ei suuda kasutada keskendumis
 **Suremas/Dying**<br />
 Tegelase seisund on kriitiline. Ta ei või enam võidelda ega kasutada oma oskusi. Ta peab heitma pikali ja võib liikuda väga aeglaselt ja roomates. Ladus rääkimine on keelatud, lausuda võib vaid aeglaselt mõningaid sõnu. Tegelane, kes ei saa kohest arstiabi vähemalt veerand tunni jooksul, lahkub elavate seast. Suremas seisundi lõpetab oskuse meditsiin kasutus ning alkeemilised ja maagilised ravitsusvõtted. Tegelane kellel on vähemalt 1 elupunkt, muutub suremas seisundist automaatselt kurnatud seisundisse.
 
-**Joonis on vana ja uuendatakse varsti.**
-
-<img src="https://karavanlarp.github.io/img/seisundid_small.png" alt="Seisundid" width="500px">
+<img src="https://karavanlarp.github.io/img/seisundid_small_2.png" alt="Seisundid" width="500px">
 
 #### Muud seisundid
 
