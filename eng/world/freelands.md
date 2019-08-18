@@ -4,8 +4,7 @@ title: The Free Lands
 ---
 ## The Free Lands 
 
-<a href="https://karavanlarp.github.io/img/vabad-maad-logo-väike.png"><img src="https://karavanlarp.github.io/img/vabad-maad-logo-väike.png" style="max-width: 300px" /></a>
-![Vabade Maade logo]()
+<a href="https://karavanlarp.github.io/img/vabad-maad-logo-väike.png"><img src="https://karavanlarp.github.io/img/vabad-maad-logo-väike.png" style="max-width: 300px" alt="Free Lands logo" /></a>
 
 <div id="toc">
 	<h3>Table of Contents</h3>

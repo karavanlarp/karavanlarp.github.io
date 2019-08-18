@@ -3,7 +3,8 @@ layout: default-est
 title: Leonte Impeerium
 ---
 ## Leonte Impeerium
-![Leonte logo](https://karavanlarp.github.io/img/impeeriumi logo suur.png)
+
+<a href="https://karavanlarp.github.io/img/impeeriumi logo suur.png"><img src="https://karavanlarp.github.io/img/impeeriumi logo suur.png" style="max-width: 300px" alt="Leonte logo" /></a>
 
 <div id="toc">
 	<h3>Sisukord</h3>

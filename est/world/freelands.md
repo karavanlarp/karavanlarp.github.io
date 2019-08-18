@@ -3,7 +3,8 @@ layout: default-est
 title: Vabad Maad
 ---
 ## Vabad Maad 
-![Vabade Maade logo](https://karavanlarp.github.io/img/vabad-maad-logo-väike.png)
+
+<a href="https://karavanlarp.github.io/img/vabad-maad-logo-väike.png"><img src="https://karavanlarp.github.io/img/vabad-maad-logo-väike.png" style="max-width: 300px" alt="Vabade Maade logo" /></a>
 
 <div id="toc">
 	<h3>Sisukord</h3>
