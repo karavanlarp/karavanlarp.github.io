@@ -371,91 +371,107 @@ The priests are the representatives of the will of the gods, as are their emissa
 
 The gods of the Empire are: 
 
-**Malakhim**
+#### Malakhim
 
-Titles: Keeper of Balance, Shield of Law
-Symbols: scales, quills, seals, rods, rays of light 
-Domain: order, law, balance, contracts, politics, the Chosen, justice
-Opposite: Ban-Mawr
-Virtue: respect
-Colors: yellow, purple, crimson
+<img src="/img/logo/god_imperial/malakhim.png" style="display: inline-block;">
+
+**Titles:** Keeper of Balance, Shield of Law<br />
+**Symbols:** scales, quills, seals, rods, rays of light<br /> 
+**Domain:** order, law, balance, contracts, politics, the Chosen, justice<br />
+**Opposite:** Ban-Mawr<br />
+**Virtue:** respect<br />
+**Colors:** yellow, purple, crimson
 
 The leader of the Imperial pantheon. God of officials, judges and leaders. Malakhim’s priests guard the harmony of the laws. Malakhim’s blessings are the binding of contracts and the Imperial seals of office. 
 
-**Keteos**
+#### Keteos
 
-Titles: Warden of Endings, The First Dead 
-Symbols: stars, knives, doors, bones, candles
-Domain: death, night/shadows, endings, moroia, lagars
-Opposite: Lir-Neth
-Virtue: letting go
-Colors: black, yellow, white 
+<img src="/img/logo/god_imperial/keteos.png" style="display: inline-block;">
+
+**Titles:** Warden of Endings, The First Dead <br />
+**Symbols:** stars, knives, doors, bones, candles<br />
+**Domain:** death, night/shadows, endings, moroia, lagars<br />
+**Opposite:** Lir-Neth<br />
+**Virtue:** letting go<br />
+**Colors:** black, yellow, white 
 
 The god of the dead. Keteos’ priests guard the dying and the dead, and study the night skies. Keteos’ blessing is the travel of souls to the Mountain of the Gods after death. 
 
-**Atrepe**
+#### Atrepe
 
-Titles: Guardian of the Knowing, Watcher of Memories
-Symbols: books, scrolls, measuring tools, eyes (more than one), harmonious shapes
-Domain: knowledge, information, wisdom, measurements, saints
-Opposite: Vael-Ser
-Virtue: remembrance
-Colors: grey, olive, light blue
+<img src="/img/logo/god_imperial/atrepe.png" style="display: inline-block;">
+
+**Titles:** Guardian of the Knowing, Watcher of Memories<br />
+**Symbols:** books, scrolls, measuring tools, eyes (more than one), harmonious shapes<br />
+**Domain:** knowledge, information, wisdom, measurements, saints<br />
+**Opposite:** Vael-Ser<br />
+**Virtue:** remembrance<br />
+**Colors:** grey, olive, light blue
 
 The god of academics, historians and knowers. Atrepe’s priests preserve the oldest of texts and scrolls. Atrepe’s blessing is the finding of knowledge. 
 
-**Parendi**
+#### Parendi
 
-Titles: Shower of the Ways, Guard of the Waters
-Symbols: hourglasses, waterdrops, fish, boats, wheels, fans, feathers, lamps
-Domain: travelers, rivers, birds, time, changes/cycles, geography
-Opposite: Arim-Wol
-Virtue: flexibility
-Colors: blue, light green, seablue 
+<img src="/img/logo/god_imperial/parendi.png" style="display: inline-block;">
+
+**Titles:** Shower of the Ways, Guard of the Waters<br />
+**Symbols:** hourglasses, waterdrops, fish, boats, wheels, fans, feathers, lamps<br />
+**Domain:** travelers, rivers, birds, time, changes/cycles, geography<br />
+**Opposite:** Arim-Wol<br />
+**Virtue:** flexibility<br />
+**Colors:** blue, light green, seablue 
 
 God of travelers, merchants, couriers and mail carriers. Parendi’s priests study the weather. Parendi’s blessings are the moving of things and sometimes the changing of weather. 
 
-**Terhent**
+#### Terhent
 
-Titles: Sunrider, Eldest of the Mountains
-Symbols: all sorts of weapons, disks, rays, mountains, banners
-Domain: war, burning flames, strength, weapons, mountains
-Opposite: Nal-Mat
-Virtue: bravery
-Colors: crimson, yellow, grey 
+<img src="/img/logo/god_imperial/terhent.png" style="display: inline-block;">
+
+**Titles:** Sunrider, Eldest of the Mountains<br />
+**Symbols:** all sorts of weapons, disks, rays, mountains, banners<br />
+**Domain:** war, burning flames, strength, weapons, mountains<br />
+**Opposite:** Nal-Mat<br />
+**Virtue:** bravery<br />
+**Colors:** crimson, yellow, grey 
 
 Protector god of soldiers. Terhent’s priests bless soldiers and inspire them on the battlefield. They also preserve ancient martial arts and other such knowledge. Terhent’s blessing is bravery in battle and strength to fight. 
 
-**Sulenis**
+#### Sulenis
 
-Titles: First Creator, Finder of Treasure
-Symbols: all sorts of tools, stones and jewels
-Domain: industry, creation, minerals, colors
-Opposite: Rhen-Apa
-Virtue: hard work
-Colors: brown, dark grey, peach 
+<img src="/img/logo/god_imperial/sulenis.png" style="display: inline-block;">
+
+**Titles:** First Creator, Finder of Treasure<br />
+**Symbols:** all sorts of tools, stones and jewels<br />
+**Domain:** industry, creation, minerals, colors<br />
+**Opposite:** Rhen-Apa<br />
+**Virtue:** hard work<br />
+**Colors:** brown, dark grey, peach 
 
 Protector god of all artisans. Sulenis’ priests guard ancient arts and artifacts. Sulenis’ blessing is the richness of Imperial resources. 
 
-**Baruna**
+#### Baruna
 
-Titles: Soul of the Cities, Warmthkeeper
-Symbols: roofs, pillars, coins, different instruments, chain/knot patterns
-Domain: cities, culture, relationships, warmth, alcohol, money, music
-Opposite: Rhen-Apa
-Virtue: bonds
-Colors: peach, purple, light grey 
+<img src="/img/logo/god_imperial/baruna.png" style="display: inline-block;">
+
+**Titles:** Soul of the Cities, Warmthkeeper<br />
+**Symbols:** roofs, pillars, coins, different instruments, chain/knot patterns<br />
+**Domain:** cities, culture, relationships, warmth, alcohol, money, music<br />
+**Opposite:** Rhen-Apa<br />
+**Virtue:** bonds<br />
+**Colors:** peach, purple, light grey 
 
 Protector god of all entertainers and handlers of money. Baruna’s priests keep the secrets of music, poetry and other culture. They also bless marriages (despite that the marriage has to be registered at the Imperial Family Registry Office to be official). Baruna’s blessing is the monetary system of the Empire. 
 
-**Darsilis**
+#### Darsilis
 
-Titles: Protector of the Living, Lord of Beginnings
-Symbols: seeds, trees, fruit, grain, frogs, cattle, goblets
-Domain: all living, soil, weather, healing, beginnings
-Opposite: Eil-Gann
-Virtue: helping 
-Colors: green, brown, dark grey 
+<img src="/img/logo/god_imperial/darsilis.png" style="display: inline-block;">
+
+**Titles:** Protector of the Living, Lord of Beginnings<br />
+**Symbols:** seeds, trees, fruit, grain, frogs, cattle, goblets<br />
+**Domain:** all living, soil, weather, healing, beginnings<br />
+**Opposite:** Eil-Gann<br />
+**Virtue:** helping <br />
+**Colors:** green, brown, dark grey 
 
 Protector god of all the living, especially children and farmers. Darsilis’ priests heal the very sick and wounded, and bless the earth. Darsilis’ blessing is the richness of the earth. 
 

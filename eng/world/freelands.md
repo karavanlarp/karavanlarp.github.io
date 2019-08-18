@@ -3,7 +3,9 @@ layout: default-eng
 title: The Free Lands
 ---
 ## The Free Lands 
-![Vabade Maade logo](https://karavanlarp.github.io/img/vabad-maad-logo-väike.png)
+
+<a href="https://karavanlarp.github.io/img/vabad-maad-logo-väike.png"><img src="https://karavanlarp.github.io/img/vabad-maad-logo-väike.png" style="max-width: 300px" /></a>
+![Vabade Maade logo]()
 
 <div id="toc">
 	<h3>Table of Contents</h3>
@@ -364,98 +366,114 @@ Gods are depicted with animal heads as every god has their own sacred animal. Le
 The priests are the representatives of the will of the gods, as are their emissaries in rare cases. 
  
 **Ban-Mawr**
+
+<img src="/img/logo/god_freelands/ban-mawr.png" style="display: inline-block;">
  
-Titles: Guardian of Oaths, Chief of the Free 
-Symbols: axes, fangs
-Domain: chaos, promises, blood, freedom, chiefs, contracts and oaths
-Opposite: Malakhim
-Virtue: daring
-Sacred animal: bear
-Colors: green, crimson, yellow 
+**Titles:** Guardian of Oaths, Chief of the Free <br />
+**Symbols:** axes, fangs<br />
+**Domain:** chaos, promises, blood, freedom, chiefs, contracts and oaths<br />
+**Opposite:** Malakhim<br />
+**Virtue:** daring<br />
+**Sacred animal:** bear<br />
+**Colors:** green, crimson, yellow 
  
 Ban-Mawr is the leader of the Freelander gods. When one gives an oath, it is given in Babn-Mawr's name and the god's anger will turn on those who break their oaths. Ban-Mawr's priests are often present for judgements and give their advice. Before the Codex was created, it was the primary task of the priests to remember the laws. Ban-Mawr's blessing is the binding power of blood oaths. 
  
 **Lir-Neth** 
+
+<img src="/img/logo/god_freelands/lir-neth.png" style="display: inline-block;">
  
-Titles: Wind of Loss, Edge of Seeing
-Symbols: skulls, winds, eye (usually one)
-Domain: death, visions, fate, memories
-Opposite: Keteos
-Virtue: foresight 
-Sacred animal: owl
-Colors: dark blue, dark grey, white 
+**Titles:** Wind of Loss, Edge of Seeing<br />
+**Symbols:** skulls, winds, eye (usually one)<br />
+**Domain:** death, visions, fate, memories<br />
+**Opposite:** Keteos<br />
+**Virtue:** foresight <br />
+**Sacred animal:** owl<br />
+**Colors:** dark blue, dark grey, white 
  
 Lir-Neths priests guard the dying, the dead and the ancestors. They have also been given limited power to see into the future and to interpret it for others. They are those who call ancestors back on the request of the tribe. Lir-Neth's blessing is the passage of the dead to the Deep of the World. 
  
 **Vael-Ser**
+
+<img src="/img/logo/god_freelands/vael-ser.png" style="display: inline-block;">
  
-Titles: Hidden Knowledge, The Trickster
-Symbols: snakes, spirals, dice
-Domain: night, shadows, tricks, caves, luck
-Opposite: Atrepe
-Virtue: ingenuity
-Sacred animal: raven
-Colors: teal, purple, black
+**Titles:** Hidden Knowledge, The Trickster<br />
+**Symbols:** snakes, spirals, dice<br />
+**Domain:** night, shadows, tricks, caves, luck<br />
+**Opposite:** Atrepe<br />
+**Virtue:** ingenuity<br />
+**Sacred animal:** raven<br />
+**Colors:** teal, purple, black
  
 Vael-Ser is a different god. All those who are alone and think of their luck pray to Vael-Ser. This god's priests keep all sorts of secrets and riddles. Vael-Ser's blessing is the endlessness of possibilities. 
  
 **Arim-Wol** 
+
+<img src="/img/logo/god_freelands/arim-wol.png" style="display: inline-block;">
  
-Titles: Bringer of Plenty, First of Songs
-Symbols: bowls, honeycombs, berries, baskets, rhythmic instruments
-Domain: stability, hope, fertility, songs/poetry
-Opposite: Parendi
-Virtue: voice
-Sacred animal: ram
-Colors: yellow, brown, light green
+**Titles:** Bringer of Plenty, First of Songs<br />
+**Symbols:** bowls, honeycombs, berries, baskets, rhythmic instruments<br />
+**Domain:** stability, hope, fertility, songs/poetry<br />
+**Opposite:** Parendi<br />
+**Virtue:** voice<br />
+**Sacred animal:** ram<br />
+**Colors:** yellow, brown, light green
  
 Arim-Wol is the god of preservation. Arim-Wol's priests bring hope and perseverance despite tribes or societies or feuds and heal the world with their song. Arim-Wol's blessing is the fertility of the earth. 
  
 **Nal-Mat**
+
+<img src="/img/logo/god_freelands/nal-mat.png" style="display: inline-block;">
  
-Titles: Ruler of Storms, Lord of the Hunt 
-Symbols: lightning, bows, arrows
-Domain: hunt, fighting, wulvers, rage, storms
-Opposite: Terhent
-Virtue: rage
-Sacred animal: boar
-Colors: brown, light red, light blue 
+**Titles:** Ruler of Storms, Lord of the Hunt <br />
+**Symbols:** lightning, bows, arrows<br />
+**Domain:** hunt, fighting, wulvers, rage, storms<br />
+**Opposite:** Terhent<br />
+**Virtue:** rage<br />
+**Sacred animal:** boar<br />
+**Colors:** brown, light red, light blue 
  
 Nal-Mat is the god of the hunt and conflicts. Nal-Mat's priests bless those who are going to war. Nal-Mat's blessing is rage for the willing. 
  
 **Rhen-Apa** 
+
+<img src="/img/logo/god_freelands/rhen-apa.png" style="display: inline-block;">
  
-Titles: Horned Wood Dweller, Last Guardian
-Symbols: wild animals, trees, earth
-Domain: forests, home, ancestors
-Opposite: Sulenis
-Virtue: submission
-Sacred animal: elk
-Colors: green, light red, black
+**Titles:** Horned Wood Dweller, Last Guardian<br />
+**Symbols:** wild animals, trees, earth<br />
+**Domain:** forests, home, ancestors<br />
+**Opposite:** Sulenis<br />
+**Virtue:** submission<br />
+**Sacred animal:** elk<br />
+**Colors:** green, light red, black
  
 Rhen-Apa is the god of forests and other ancient places. The priests of this god take care of the earth's secrets and often guard the resting places of the ancestors. Rhen-Apa's blessing is the bounty of forests. 
  
 **Zer-Nim** 
+
+<img src="/img/logo/god_freelands/zer-nim.png" style="display: inline-block;">
  
-Titles: Doombringer, Flame of Endings
-Symbols: flames, insects 
-Domain: decay, time, destruction, illnesses
-Opposite: Baruna
-Virtue: ending
-Sacred animal: rat
-Colors: black, peach, crimson
+**Titles:** Doombringer, Flame of Endings<br />
+**Symbols:** flames, insects <br />
+**Domain:** decay, time, destruction, illnesses<br />
+**Opposite:** Baruna<br />
+**Virtue:** ending<br />
+**Sacred animal:** rat<br />
+**Colors:** black, peach, crimson
  
 Zer-Nim is a feared god. Zer-Nim's priests study diseases and other related phenomena. Zer-Nim's blessing is ending things so that new things may begin.  
  
 **Eil-Gann** 
+
+<img src="/img/logo/god_freelands/eil-gann.png" style="display: inline-block;">
  
-Titles: Daysinger, Sender of News
-Symbols: winds, sunrises, blowing horns
-Domain: day, passion, movement, winds
-Opposite: Darsilis
-Virtue: action
-Sacred animal: rabbit
-Colors: light green, grey, brown
+**Titles:** Daysinger, Sender of News<br />
+**Symbols:** winds, sunrises, blowing horns<br />
+**Domain:** day, passion, movement, winds<br />
+**Opposite:** Darsilis<br />
+**Virtue:** action<br />
+**Sacred animal:** rabbit<br />
+**Colors:** light green, grey, brown
  
 God of travelers, messengers and others who move around. Eil-Gann's priests often travel the lands and bring news and stories. Eil-Gann's blessing is winds from the right directions. 
  
