@@ -4,8 +4,8 @@ title: Registreerumine
 ---
 ## Registreerumine
 
-<p id="countdown"></p>
-<button onclick="toggleShow()" id="hidebutton">Peida loendus</button>
+<!--- <p id="countdown"></p>
+<button onclick="toggleShow()" id="hidebutton">Peida loendus</button> --->
 
 [Siin](https://forms.gle/uo5EXPsQmUHT7dWi9) saab registreeruda mängule. 
 
