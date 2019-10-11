@@ -146,6 +146,8 @@ Losing life points also ends this condition.
 
 **Pinned** – The character is thoroughly tied up or bound by magic. They cannot move their limbs. Duration depends on the source of the effect. The condition is marked by a piece of string held on the wrists, There is no Out-of-Game binding. _The Pinned condition is removed by a skilful escape, release by someone else or ending the binding spell._
 
+**Frightened** - The character flees the frightening effect at first chance. If running is not possible, they will try to defend themselvers or hide. 
+
 #### Variable Effect Conditions
 
 **Poisoned** – The character is poisoned. Poisons have different effects (losing life points, changing the base condition etc). _The poisoned condition is ended by an antidote or a healing spell._
