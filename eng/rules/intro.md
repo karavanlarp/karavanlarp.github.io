@@ -135,7 +135,7 @@ All is well. The character is unharmed and can use all their skills.
 **Caused by:** an _exhausted_ character getting hit with a weapon or affected by other life point loss.<br />
 **Removed by:** using the Medicine skill or magical healing. NB! If the character does not receive medical assistance within 15 minutes, they will die.
 
-<img src="https://karavanlarp.github.io/img/seisundid_small_eng.png" alt="Conditions" width="500px">
+<img src="https://karavanlarp.github.io/img/seisundid_small_eng_2.png" alt="Conditions" width="500px">
 
 #### Other Conditions
 
