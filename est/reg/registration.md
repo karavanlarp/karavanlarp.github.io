@@ -7,9 +7,9 @@ title: Registreerumine
 <!--- <p id="countdown"></p>
 <button onclick="toggleShow()" id="hidebutton">Peida loendus</button> --->
 
-[Siin](https://forms.gle/uo5EXPsQmUHT7dWi9) saab registreeruda mängule. 
+[Siin](https://docs.google.com/forms/d/e/1FAIpQLSfQwyCWr1mTTXb8gi5MSDbv9k-DDUp3f0jw8Utgsia45XNpWQ/viewform) saab registreeruda mängule. 
 
-[Siin](/est/events/caravan3.html) on täpsem informatsioon tuleva mängu kohta. 
+[Siin](/est/events/caravan4.html) on täpsem informatsioon tuleva mängu kohta. 
 
 Sellele saadame vastuseks maksuinfo ja kui mängumaks on tasutud, oletegi registreerunud. Pidage meeles, et pärast mängumaksu tähtaja möödumist ei saa me enam mängumaksu tagastada. 
 
