@@ -30,7 +30,7 @@ Registreerumine avaneb 24. juunist. Registreerumise kinnitab mängumaksu tasumin
 
 Registreerimine läheb lukku mängijakohtade täitumisel, aga mitte hiljem kui 25. augustil. NPC-de registreerumine lõpeb 31. augustil. 
 
-Mängule registreerumine on avatud! 
+Mängule registreerumine on suletud.
 
 ### Mängumaksud
 
