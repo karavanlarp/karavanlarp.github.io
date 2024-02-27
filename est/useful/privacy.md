@@ -12,6 +12,8 @@ Oma töös kasutame Google Drive’i ja muid Google teenuseid; Google’ privaat
 
 Mängijatega suhtleme ka Facebook Karavan LARP lehe kaudu; Facebooki privaatsuspoliitikast võib lugeda siit: [https://www.facebook.com/policy.php](https://www.facebook.com/policy.php).
 
+Kasutame lisaks ka Discordi platvormi, Discordi privaatsuspoliitika leiab siit: [https://discord.com/privacy](https://discord.com/privacy)
+
 Ankeetide või e-posti kaudu kogutud osaleja isiklikule infole pääseb ligi ainult Karavani korraldusmeeskond. Infot ei kasutata ärilistel eesmärkidel ega jagata kolmandatele isikutele. 
 
 ### Meililist
