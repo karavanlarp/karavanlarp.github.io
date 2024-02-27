@@ -14,7 +14,7 @@ Mona on olnud kolme suure fantaasialarbisarja peakorraldajaks (Thanaria, Fyerell
 
 _Mõistuse Hääl_
 
-Stuart on korraldanud ja mänginud rohkem kui paljud muud, muu hulgas ka Ilmaplatsi larpiseeriaid. Karavani tiimis on ta peamine NPCde kantseldaja ning Mõistuse Hääl, kui seda peaks vaja minema. Larbivälisel ajal kantseldab ta hoopiski väikeseid lapsi. Stuarti hobideks on ajalooline taaskehastamine ning muinas- ja keskaegne käsitöö.
+Stuart on korraldanud ja mänginud rohkem kui paljud muud, muu hulgas ka Uue Ilma ja Ilmaplatsi larpiseeriaid. Karavani tiimis on ta peamine NPCde kantseldaja ning Mõistuse Hääl, kui seda peaks vaja minema. Larbivälisel ajal kantseldab ta hoopiski tööl väikeseid lapsi. Stuarti hobideks on ajalooline taaskehastamine ning muinas- ja keskaegne käsitöö.
 
 **Iti**
 
