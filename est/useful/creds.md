@@ -6,6 +6,8 @@ title: Karavani tiim - Tänud
 
 **Mängujuhid**
 
+Mängujuhid suunavad üritust ja on vajaduse korral reeglikohtunikud. 
+
 **Mona**
 
 _Theuma looja_
