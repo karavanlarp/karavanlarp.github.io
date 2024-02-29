@@ -10,6 +10,8 @@ The Caravan team is dedicated to protecting the privacy of all personal informat
 
 We use Google Drive and other Google services; read about Google’s privacy policy here:  [https://policies.google.com/privacy?hl=en-US](https://policies.google.com/privacy?hl=en-US).
 
+We also use Discord, you can find Discord's privacy policy here: [https://discord.com/privacy](https://discord.com/privacy)
+
 We also communicate with players through the Karavan LARP page in Facebook; read Facebook’s privacy policy here: [https://www.facebook.com/policy.php](https://www.facebook.com/policy.php).
 
 Participants’ personal information gathered through forms or e-mail can be accessed only by the Caravan team. The information is not used for business purposes or distributed to third parties. 
