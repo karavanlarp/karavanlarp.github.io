@@ -28,6 +28,8 @@ Iti on aidanud mängude ja larbiürituste juures vabatahtlikuna, ent Karavani se
 
 **Abilised**
 
+Abilised aitavad Karavani tiimis erinevate oluliste ülesannetega.
+
 **Maarja**
 
 _Kodulehe haldjas_
@@ -36,9 +38,9 @@ Maarja on korraldanud kaks larpisarja (Tiair ja Varjutuul) ja muid pisemaid eksp
 
 **Martin**
 
-_Ilukirjanduse võlur_
+_Sulesepp_
 
-Martin on korraldanud igasuguseid erinevaid eksperimentaalseid larpe. Olles küll osalenud varem Karavani tiimis ka mängujuhiga, on tal nüüd väiksem roll. Karavani tiimis tegeleb tema erinevate kirjutamiste ja NPC rollidega. 
+Martin on korraldanud igasuguseid erinevaid eksperimentaalseid larpe ja on aktiivne juturollimängude sõnameister. Olles küll osalenud varem Karavani tiimis ka mängujuhiga, on tal nüüd edaspidi väiksem (aga siiski asendamatu) roll. Karavani tiimis tegeleb tema erinevate kirjutamiste ja NPC rollidega. Päriselus tõlgib Martin raamatuid ja mänge. Tema hobideks on lugemine, lauamängud ja kirjutamine.
 
 ### Tänud
 
