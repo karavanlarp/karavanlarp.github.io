@@ -11,7 +11,6 @@ _Impeeriumist on saabunud kuuldusi katku kohta, kuid siiamaani pole see veel kar
 _Karavani järgmiseks peatuspaigaks on aga väike metsasalu, kust võib kuulduste järgi leida vahva tsirkusetrupi - nii töötajad kui reisijad võiksid nautida meelelahutust ja saaksid mõtted toimuvalt kõrvale viia. Olgu see siis juhus või saatus, aga Karavani giidi Anja jutu järgi elab läheduses ka üks theumiiditark, kellel võiks olla vastuseid seltskonna kätte sattunud artefaktide ning ikka veel kadunud theumiit Zalmana saatuse kohta._ 
 
 _Keegi ei aima veel, et karavaniga samal ajal on siiakanti sattunud ka Valitute paar oma kaaskonnaga. Mida nemad küll piirialalt otsida võiks?_
-
 ### Mis?
 
 Karavani larpi-seeria neljas mäng: Valitute pulmajaht. Karavani järgmises peatumiskohas on võimalik kohtuda erinevate värvikate tegelastega, saada osa Valitute elust ja lõbutseda koos tsirkusetrupiga. Kindlasti on metsas avastada nii põnevat, huvitavat, kui ka ohtlikku. 
