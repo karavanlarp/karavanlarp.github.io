@@ -1,6 +1,6 @@
 ---
 layout: default-eng
-title: Caravan IV: The Wedding Hunt of the Chosen
+title: Caravan IV - The Wedding Hunt of the Chosen
 ---
 ## Caravan IV: The Wedding Hunt of the Chosen
 
