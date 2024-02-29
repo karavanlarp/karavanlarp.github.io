@@ -31,6 +31,8 @@ Registreerimine läheb lukku mängijakohtade täitumisel, aga mitte hiljem kui 3
 
 Mängule registreerumine on avatud!
 
+Registreeruda saad siin: [Karavan IV registreerimine](https://docs.google.com/forms/d/e/1FAIpQLSfQwyCWr1mTTXb8gi5MSDbv9k-DDUp3f0jw8Utgsia45XNpWQ/viewform) saab registreeruda mängule. 
+
 ### Mängumaksud
 
 * PC - 40 €
