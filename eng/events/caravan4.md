@@ -36,10 +36,10 @@ Register here: [Caravan IV registration](https://docs.google.com/forms/d/1GPLm7L
 
 ### Mängumaksud
 
-    PC - 40 €
-    One role NPC - 25 €
-    Episodic NPC (multiple roles and monstering) - 15 €
-    Sponsor - 60+ € - This ticket offers a cheaper price for another participant (if registered before June 1st) or supports the organisation (cooler props).
+PC - 40 €
+One role NPC - 25 €
+Episodic NPC (multiple roles and monstering) - 15 €
+Sponsor - 60+ € - This ticket offers a cheaper price for another participant (if registered before June 1st) or supports the organisation (cooler props).
 
 We ask you to pay the ticket price as soon as you receive payment information, as only a successful payment guarantees a spot at the game. If you cannot transfer all of the ticket price at once, it is possible to pay in several installments. Please contact the game masters for further information.
 
