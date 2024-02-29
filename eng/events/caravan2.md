@@ -1,6 +1,6 @@
 ---
 layout: default-eng
-title: Karavan II
+title: Karavan II - Heart of the Forest
 right_content: |
     [![Image](/img/gallery/caravan2/001.JPG)](/img/gallery/caravan2/001.JPG)
 
