@@ -1,6 +1,6 @@
 ---
 layout: default-eng
-title: Karavan III
+title: Karavan III - Eve of Endings
 ---
 ## Caravan III: Eve of Endings
 
