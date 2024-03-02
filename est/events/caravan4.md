@@ -52,7 +52,7 @@ Mängumaksu eest saab:
 
 * Ööbimiskoht majas põrandal oma varustusega
 * Sauna
-* Ühe külma/sooja toidukorra olenevalt ilmast mängupäeval ning näksimist ja jooke mängu jooksul
+* Ühe toidukorra mängupäeval ning näksimist ja jooke mängu jooksul
 * Toredaid NPCsid
 * Rekvisiite
 
@@ -66,7 +66,7 @@ Kuigi sari kõneleb karavanist, sisaldab larp ise täpselt nii vähe või palju 
 
 ### Toitlustus
 
-Pakume ürituse vältel snäkilauda ning kuumi ja külmasid jooke. 
+Pakume ürituse vältel snäkilauda ning kuumi ja külmasid jooke. Toidukorraks pakume kas külma või sooja suppi lisanditega. 
 
 ### Keeled
 
