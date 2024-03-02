@@ -12,6 +12,7 @@ _Warning: this is a rules summary. Reading the summary does not replace a health
 	<ul>
 		<li><a href="#shouldread">What rules should I read?</a></li>
 		<li><a href="#links">Links to Full Rules</a></li>
+		<li><a href="#igog">IG and OG</a></li>
 		<li><a href="#safety">Safety</a></li>
 		<li><a href="#languages">Languages</a></li>
 		<li><a href="#markings">Markings</a></li>
@@ -44,6 +45,12 @@ Everything else is voluntary.
 [7. Priest](https://docs.google.com/document/d/1Yav-Voqkkje7t9rhzsBn2ZVkxL2LNwQDTRQtEAb3Rik/edit?usp=sharing)<br />
 [8. Sorcerer](https://docs.google.com/document/d/1AnsYmifMZR_5fSTiAusYL-s1ftIwmykEUMiarDw85wQ/edit?usp=sharing)<br />
 [9. Warrior](https://docs.google.com/document/d/1EuhfmhEtgWcXev5k9b3bR5Viok1XMRx58WpNfD7_WmQ/edit?usp=sharing)
+
+<h3 id="igog">IG and OG</h3>
+
+The game begins and ends with a Game Master´s proclamation. The game may be stopped in case of a dangerous situation (see the Gamestop rule). Out-of-Game objects and locations are marked with a red and white ribbon and must be ignored. The players may go Out-of-Game by holding their fist on top of the head. Going Out-of-Game to avoid In-Game consequences is strongly discouraged.
+
+Players who keep going Out-of-Game and bothering other players will receive a warning from the GM. After a third warning the player will be removed from the game and must leave the event. 
 
 <h3 id="safety">Safety</h3>
 
