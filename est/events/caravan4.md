@@ -31,7 +31,7 @@ Registreerimine läheb lukku mängijakohtade täitumisel, aga mitte hiljem kui 3
 
 Mängule registreerumine on avatud!
 
-Registreeruda saad siin: [Karavan IV registreerimine](https://docs.google.com/forms/d/e/1FAIpQLSfQwyCWr1mTTXb8gi5MSDbv9k-DDUp3f0jw8Utgsia45XNpWQ/viewform) saab registreeruda mängule. 
+Registreeruda saad siin: [Karavan IV registreerimine](https://docs.google.com/forms/d/e/1FAIpQLSfQwyCWr1mTTXb8gi5MSDbv9k-DDUp3f0jw8Utgsia45XNpWQ/viewform). 
 
 ### Mängumaksud
 
@@ -52,7 +52,7 @@ Mängumaksu eest saab:
 
 * Ööbimiskoht majas põrandal oma varustusega
 * Sauna
-* Ühe külma toidukorra mängupäeval ning näksimist ja jooke mängu jooksul
+* Ühe külma/sooja toidukorra olenevalt ilmast mängupäeval ning näksimist ja jooke mängu jooksul
 * Toredaid NPCsid
 * Rekvisiite
 
