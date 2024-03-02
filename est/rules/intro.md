@@ -15,6 +15,7 @@ _Tähelepanu! Tegemist on reeglikokkuvõttega. Reeglikokkuvõtte lugemine ei ase
 	<ul>
 		<li><a href="#peablugema">Milliseid reegleid ma pean lugema?</a></li>
 		<li><a href="#lingid">Lingid täielikele reeglitele</a></li>
+		<li><a href="#igog">IG ja OG</a></li>
 		<li><a href="#ohutus">Ohutus</a></li>
 		<li><a href="#keeled">Keeled</a></li>
 		<li><a href="#margistus">Märgistus</a></li>
@@ -51,6 +52,14 @@ _Tähelepanu! Tegemist on reeglikokkuvõttega. Reeglikokkuvõtte lugemine ei ase
 
 [Reeglimuudatuste ajalugu](https://docs.google.com/document/d/1KgZl6lqfOSTbPjVZGPmX1UuQl2Zg3nj67ZGGqke8CVc/edit?usp=sharing)<br />
 [Varustusest](https://docs.google.com/document/d/14UTPeGqWzC6h5z2moR-RQaPE-WQ0T-UGXDY05AERReQ/edit?usp=sharing)
+
+<h3 id="igog">IG ja OG</h3>
+
+IG ja OG
+Rollimängu alguse ja lõpu kuulutab välja mängujuht. Ohtliku olukorra tekkimisel võib mängu peatada kasutades selleks gamestop-reeglit. Mänguvälised esemed ja kohad on tähistatud puna-valgetriibulise lindiga (edaspidi: OG-lindiga) ning selliselt märgistatud esemeid ja kohti tuleb ignoreerida. Mängust väljas olekut tuleb teistele signaliseerida hoides rusikas kätt pea peal. Mängust väljumine mängusiseste tagajärgede vältimiseks on ebasoovitatav.
+
+Pidevalt OGsse kalduvad ja teiste mängu segavad mängijad saavad GMilt hoiatuse, peale kolmandat hoiatust eemaldatakse mängija mängust ja ta peab mängualalt lahkuma.
+
 
 <h3 id="ohutus">Ohutus</h3>
 
