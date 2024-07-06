@@ -113,4 +113,4 @@ _Õhtupimeduses kimbutasid lõpuks kokku kogunenud tegelasi varjuolendid, kelleg
 
 _Ööpimeduses juhiti uued liitujad Karavani juurde, ja majutati nende valitud vankritesse. Teekond põhja jätkus hommikul..._
 
-[Pildid](https://photos.google.com/share/AF1QipNobX8upqdh14tTf0mOjy8BD8Lss9AyBRiLB4qnYq7TOA540c0R-C1qpSOqEa0H-Q?key=ejF4VHpuRF9ZZ2g4M2tpNmg0T2tySVNFV0VJbFpB)
+[Pildid](https://photos.google.com/u/2/share/AF1QipMbI6MiYSdPDFhYDKOJKhkzWxAD_WZ88pKG_8qRBnjUaGqM4yBwshrEszRQzCTajQ?key=VG1CaHh0V2I2LU5LVjBpNUdRTk4tcTQxYkVLOVVn)
