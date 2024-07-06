@@ -27,7 +27,7 @@ Karavani larpi-seeria neljas mäng: Valitute pulmajaht. Karavani järgmises peat
 
 Registreerumise kinnitab mängumaksu tasumine. Mängijakohti on maksimaalselt 40, mäng toimub minimaalselt 20 osalejaga.
 
-Registreerimine läheb lukku mängijakohtade täitumisel, aga mitte hiljem kui 30. juunil. NPC-de registreerumine lõpeb 15. juulil.
+Registreerimine lõppeb 10. juuli. 
 
 Mängule registreerumine on avatud!
 
@@ -45,6 +45,8 @@ Palume mängu eest tasuda kohe, kui oled saanud makseinfo, sest alles makse laek
 Meil on ka perepileti võimalus! Kui soovid mängule tulla nooremate kui 14-aastaste lastega, kirjuta meile karavanlarp@gmail.com
 
 Kui soovid osaleda odavama mängumaksuga, tuleb sul registreeruda hiljemalt 1. juuniks. Siis loositakse soovijate vahel välja vahel sponsorpiletid.
+
+Mängumaksu tähtaeg on 10. juuli. 
 
 ### Mida selle eest saab?
 
