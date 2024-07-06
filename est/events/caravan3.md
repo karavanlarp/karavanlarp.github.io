@@ -89,5 +89,5 @@ _Ent tänu Ozurile, end vabatahtlikult ohvriks pakkunud Zer-Nimi preestrile Skü
 Karavan aga liikus edasi põhja poole. Rändurid olid leidnud oma lõpud, toonud Penveni jookide abil päevavalgele nii mõnegi üllatava tõe ja Zer-Nimi altarile üht-teist maha jätnud, kuid saanud teele kaasa uusi kogemusi, mälestusi ja mõtteainet - ning iidse jumala iidoli..._
 
 
-[Pildid 1](https://photos.app.goo.gl/2Y9X6VvjQD32zFcu9) 
-[Pildid 2](https://photos.app.goo.gl/eXinCMemcDjPRJb48)
+[Pildid 1](https://photos.google.com/u/2/share/AF1QipNyn1M-vfiVnaFwCGx73idqRDRvgWMJGDcsXDAbaUjigmiy1jUnrfWKNF04YE1Aug) 
+[Pildid 2](https://photos.google.com/u/2/share/AF1QipPHQQqP8zSAWBb0eD1TcNW7fXtFLHDbYMaX67CrbT-lERpiuT1A2xgAgWilzUL-Eg)
