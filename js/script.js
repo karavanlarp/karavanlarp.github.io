@@ -10,12 +10,6 @@ function dropPractical() {
 	toggleVisibility(dropdown);
 }
 
-function dropReg() {
-	hideDropdownContents("regDropdown");
-	dropdown = document.getElementById("regDropdown");
-	toggleVisibility(dropdown);
-}
-
 function dropRule() {
 	hideDropdownContents("ruleDropdown");
 	dropdown = document.getElementById("ruleDropdown");

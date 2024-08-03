@@ -1,9 +1,32 @@
+/*
+I sampled the rice paper with a color picker and picked the median.
+1. #f4eed7
+2. #f5eed7
+3. #f6efd8
+4. #f6f0d9
+5. #f6f0d9
+6. #f7f1da
+7. #f7f1da
+8. #f8f2da
+9. #f8f2da
+10. #f8f2da
+11. #f8f2db
+12. #f8f2db
+13. #f9f3db
+14. #f9f3dc
+15. #f9f3dc
+16. #f9f3dc
+17. #f9f4dc
+18. #f9f4dc
+19. #f9f4dc
+*/
+
 body {
-	margin:0;
-	padding:0;
-	font-family: 'Oxygen', sans-serif;
-	line-height: 1.5em;
-	background-image: url("ricepaper_v5.png");
+	margin: 0;
+	padding: 0;
+	font-family: 'Oxygen', system-ui, sans-serif;
+	line-height: 1.5;
+	background: url("ricepaper_v5.png") #f8f2da;
 	/*Bacground picture from here: https://www.toptal.com/designers/subtlepatterns/rice-paper-3/
 	Author: Atle Mo, used under CC BY-SA 3.0 - Subtle Patterns © Toptal Designers.*/
 }
@@ -11,9 +34,13 @@ body {
 #header {
 	position: fixed;
 	width: 100%;
-    top: 0;
+	top: 0;
 	background: #BDA790;
 	height: 55px;
+	display: flex;
+	padding-inline: 15px;
+	box-sizing: border-box;
+	align-items: center;
 }
 
 #header h1 {
@@ -27,7 +54,9 @@ body {
 	font-weight: normal;
 }
 
-h2, h3, h4 {
+h2,
+h3,
+h4 {
 	font-family: 'Kurale', serif;
 	color: #663300;
 }
@@ -44,80 +73,88 @@ h3 {
 }
 
 .innertube {
-	margin: 15px; /* Padding for content */
-	margin-top: 0;
 	display: flex;
 	align-items: center;
+	flex: 1;
 }
 
 .dropbtn {
-    font-family: 'Kurale', serif;
+	display: inline-block;
+	font-family: 'Kurale', serif;
 	font-size: 1.2em;
 	background: #BDA790;
 	color: #663300;
-    padding: 12px;
-    border: none;
-    cursor: pointer;
+	padding: 12px;
+	border: none;
+	cursor: pointer;
 }
 
-.dropbtn:hover, .dropbtn:focus {
+.dropbtn:hover,
+.dropbtn:focus {
 	background: #663300;
 	color: #BDA790;
 }
 
 .dropdown {
-    position: relative;
+	position: relative;
 }
 
 .dropdown-content {
-    display: none;
-    position: absolute;
+	display: none;
+	position: absolute;
 	font-family: 'Kurale', serif;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    overflow: auto;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    right: 0;
-    z-index: 1;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	overflow: auto;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	right: 0;
+	z-index: 1;
 }
 
 .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
 	font-weight: normal;
-    display: block;
+	display: block;
 }
 
-.dropdown a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {
+	background-color: #f1f1f1
+}
 
 .languageChoice {
 	border-left: thin solid gray;
 	/* copied from .dropbtn */
-	padding: 6px 12px;
+	padding-left: 12px;
 	font-size: 1.2em;
 }
 
-.show {display:block;}
-	
+.show {
+	display: block;
+}
+
 table {
-    border-collapse: collapse;
+	border-collapse: collapse;
 }
 
-table, th, td {
-    border: 1px solid black;
+table,
+th,
+td {
+	border: 1px solid black;
 }
 
-th, td {
+th,
+td {
 	padding: 6px;
 }
-	
+
 p {
 	color: #331a00;
 }
-	
+
 a {
-	color:#663300;
+	color: #663300;
 	text-decoration: none;
 	font-weight: bold;
 }
@@ -142,7 +179,7 @@ li {
 
 .right-content {
 	float: right;
-	text-align:center;
+	text-align: center;
 }
 
 .right-content p {
@@ -151,32 +188,32 @@ li {
 }
 
 .footer {
-	text-align:center;
+	text-align: center;
 	clear: both;
 }
 
 /*event gallery*/
 .row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0;
 }
 
 /* Create four equal columns that sits next to each other */
 .column {
-  flex: 23%;
-  max-width: 23%;
-  padding: 0 4px;
+	flex: 23%;
+	max-width: 23%;
+	padding: 0 4px;
 }
 
 /*event gallery*/
 .column img {
-  margin-top: 8px;
-  vertical-align: middle;
+	margin-top: 8px;
+	vertical-align: middle;
 }
 
 #menutxt {
-    display: none;
+	display: none;
 }
 
 #hidebutton {
@@ -192,54 +229,76 @@ li {
 
 /* Responsive layout for event gallery - makes a two column-layout instead of four columns */
 @media (max-width: 800px) {
-  .column {
-    flex: 48%;
-    max-width: 48%;
-  }
+	.column {
+		flex: 48%;
+		max-width: 48%;
+	}
 }
 
-@media (max-width: 600px) {/*responsiveness*/ 
+@media (max-width: 600px) {
+
+	/*responsiveness*/
 	#content {
 		width: 90%;
 	}
-	
+
 	#header {
 		height: auto;
+		display: grid;
+		grid-template-areas:
+			"hamburger language"
+			"dropdown dropdown";
+		grid-template-columns: 1fr auto;
 	}
-	
+
+	#menutxt {
+		grid-area: hamburger;
+	}
+
+	.languageChoice {
+		grid-area: language;
+	}
+
+
 	#header h1 {
 		display: none;
 	}
-	
+
 	#menutxt {
 		display: block;
 	}
-	
+
 	.innertube {
 		margin: 0;
 		display: none;
+		grid-area: dropdown;
 	}
-	
+
 	#header .innertube .dropdown {
-		float: none;
 		display: block;
 	}
-	
+
+	.navigationMenu {
+		text-align: center;
+		display: inline-block;
+	}
+
 	.dropbtn {
 		width: 100%;
+		box-sizing: border-box;
 	}
-	
+
 	.dropdown-content {
 		width: 100%;
 		position: relative;
 	}
-	
+
 	.dropdown-content a {
 		display: inline-block;
 		width: 100%;
 		padding: 6px 0px;
 	}
-	
+
 	.column {
 		flex: 100%;
 		max-width: 100%;

@@ -1,38 +1,32 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="viewport" content="width=device-width">
-		<title>{{ page.title }}</title>
-		<link rel="icon" type="image/png" href="../../img/favicon.png" />
-		<link rel="stylesheet" type="text/css" href="../../css/main.css">
-		<link href="https://fonts.googleapis.com/css?family=Kurale" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Oxygen" rel="stylesheet">
-		
-		<script src="../../js/script.js"></script>
-	</head>
-	
-	<body>		
 
-		<header id="header">
-			<div id="menutxt" class="dropbtn" onclick="showMenu()">
-				<a href="javascript:void(0);" >&#9776;</a>
-			</div>
-			<div class="innertube">
-				{% include nav-est.html %}
-			</div>
-		</header>
-		
-		<div id="content">
-			<div class="right-content">
-				{% if page.right_content != nil %}
-				{{ page.right_content | markdownify }}
-				{% endif %}
-			</div>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>{{ page.title }}</title>
+	<link rel="icon" type="image/png" href="../../img/favicon.png" />
+	<link rel="stylesheet" type="text/css" href="../../css/main.css">
+	<link href="https://fonts.googleapis.com/css?family=Kurale" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Oxygen" rel="stylesheet">
 
-			{{ content }}
+	<script src="../../js/script.js"></script>
+</head>
 
-			{% include footer.html %}
+<body>
+	{% include nav-est.html %}
+
+	<div id="content">
+		<div class="right-content">
+			{% if page.right_content != nil %}
+			{{ page.right_content | markdownify }}
+			{% endif %}
 		</div>
-	</body>
+
+		{{ content }}
+
+		{% include footer.html %}
+	</div>
+</body>
+
 </html>
