@@ -14,7 +14,7 @@ Karavani larpi-seeria viies mäng: Pidu katku ajal. Karavani järgmises peatumis
 
 ### Millal?
 
-3. mai 2025. Mäng ise toimub laupäeva varasest pärastlõunast laupäeva hilisõhtuni. Täpsemad kellaajad teatame aprillikuu jooksul.
+Mäng toimub 3. mai 2025. Mäng ise toimub laupäeva varasest pärastlõunast laupäeva hilisõhtuni. Täpsemad kellaajad teatame aprillikuu jooksul.
 
 ### Kus?
 
