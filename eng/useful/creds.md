@@ -12,7 +12,7 @@ The gamemasters run the events on location and act as rules judges.
 
 _Theuma’s creator_
 
-Mona has organised several fantasy larp series and has helped to gamemaster many others. Along with hundreds of larp setting pages, Mona’s fingers are also pretty good with costumes. She is the creative leader of Caravan and the main doer of things. In real life she works in a geek hobby store and dreses various creatures: humans and others. Her hobbies are various handicrafts and hanging out on the interwebs. 
+Mona has organised several fantasy larp series and has helped to gamemaster many others. Along with hundreds of larp setting pages, Mona’s fingers are also pretty good with costumes. They are the creative leader of Caravan and the main doer of things. In real life they work in a geek hobby store and dreses various creatures: humans and others. Their hobbies are various handicrafts and hanging out on the interwebs. 
 
 **Stuart**
 
